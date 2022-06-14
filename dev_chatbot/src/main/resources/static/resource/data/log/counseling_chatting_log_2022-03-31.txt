@@ -1,0 +1,1704 @@
+*************************************
+접속일 :  2022-03-31 17:27:52
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : dd || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "dd"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "흑~ㅠㅠ 아직 공부가 더 필요한가 봐요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:27:53
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 1 || 질문내용 : dd || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "dd"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "분명 아는 건데 설명하기가 어려워요.ㅠㅠ 더 공부하고 올게요. ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:29:02
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"1", "ai_msg": "<p>감사합니다. 오늘도 좋은하루 되세요!!</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:29:31
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "<p>감사합니다. 오늘도 좋은하루 되세요!!</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:29:32
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 1 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "<p>감사합니다. 오늘도 좋은하루 되세요!!</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:34:54
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:34:55
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 1 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:36:08
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "<!DOCTYPE html><br /><html lang=ko><br />    <head><meta http-equiv=Content-Type content=text/html; charset=UTF-8><br />        <meta http-equiv=x-ua-compatible content=ie=edge><br />        <meta name=viewport content=width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0><br />        <meta name=mobile-web-app-capable content=yes><br />        <meta name=apple-touch-fullscreen content=yes><br />        <meta name=apple-mobile-web-app-title content=Chatbot><br />        <meta name=apple-mobile-web-app-capable content=yes><br />        <meta name=apple-mobile-web-app-status-bar-style content=black><br />        <meta name=msapplication-TileColor content=#da532c><br />        <meta name=theme-color content=#ffffff><br />        <title>챗봇</title><br /><br />        <!--< TOP SCRIPTS --><br />		<script type=text/javascript src=./static/js/jquery.min.js> </script><br />        <script type=text/javascript src=./static/js/jquery.ui.min.js></script><br /><br />		<script><br /><br />		function send() {<br />			var params = jQuery(#myform).serialize(); <br />			$.ajax({<br />				url: '/message', <br />				type : 'post',<br />				data : params,<br />				crossOrigin: true,<br />				contentType: 'application/x-www-form-urlencoded; charset=UTF-8', <br />				async:false,<br />				datatype : 'json',<br />				timeout : 30000,<br />				error:function(request,status,error){<br />					alert(code:+request.status+\n+message:+request.responseText+\n+error:+error);<br />				},<br />				success : function(getData){<br />					log(getData);<br />				}<br />			});<br />		}<br /><br />		</script><br /><br />    </head><br />    <body><br /><br />	<form name=myform id=myform><br />      <p><label>챗봇<input type=text name=msg_m></label></p><br />      <p><input type=button onclick=javascript:send(); value=전송></p><br /><br /><br />	</form><br /><br />    </body><br /></html>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:36:48
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : dddd || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "dddd"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "<!DOCTYPE html><br /><html lang=ko><br />    <head><meta http-equiv=Content-Type content=text/html; charset=UTF-8><br />        <meta http-equiv=x-ua-compatible content=ie=edge><br />        <meta name=viewport content=width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0><br />        <meta name=mobile-web-app-capable content=yes><br />        <meta name=apple-touch-fullscreen content=yes><br />        <meta name=apple-mobile-web-app-title content=Chatbot><br />        <meta name=apple-mobile-web-app-capable content=yes><br />        <meta name=apple-mobile-web-app-status-bar-style content=black><br />        <meta name=msapplication-TileColor content=#da532c><br />        <meta name=theme-color content=#ffffff><br />        <title>챗봇</title><br /><br />        <!--< TOP SCRIPTS --><br />		<script type=text/javascript src=./static/js/jquery.min.js> </script><br />        <script type=text/javascript src=./static/js/jquery.ui.min.js></script><br /><br />		<script><br /><br />		function send() {<br />			var params = jQuery(#myform).serialize(); <br />			$.ajax({<br />				url: '/message', <br />				type : 'post',<br />				data : params,<br />				crossOrigin: true,<br />				contentType: 'application/x-www-form-urlencoded; charset=UTF-8', <br />				async:false,<br />				datatype : 'json',<br />				timeout : 30000,<br />				error:function(request,status,error){<br />					alert(code:+request.status+\n+message:+request.responseText+\n+error:+error);<br />				},<br />				success : function(getData){<br />					log(getData);<br />				}<br />			});<br />		}<br /><br />		</script><br /><br />    </head><br />    <body><br /><br />	<form name=myform id=myform><br />      <p><label>챗봇<input type=text name=msg_m></label></p><br />      <p><input type=button onclick=javascript:send(); value=전송></p><br /><br /><br />	</form><br /><br />    </body><br /></html>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:39:48
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "1", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:40:34
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "1", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:41:17
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "1", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:42:11
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "안녕", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:43:09
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "안녕", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:43:28
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "안녕", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:43:29
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 1 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "안녕", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:44:08
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "1", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:45:37
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "1", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:46:50
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:50:16
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:51:07
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:52:06
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:53:37
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:53:37
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 1 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:54:28
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:54:47
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:56:08
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:56:10
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 1 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 17:56:33
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "{answer:그 얘기를 듣고 고민이 많았겠어요. 병원까지 갔으면 이제 좋아질 일밖에 없죠!,distance:0.6586575508117676,gubun:1,question:근데 선생님이 정신과 상담 권유하셔서… 그래서 와 봤어요.}", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:00:36
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "그 얘기를 듣고 고민이 많았겠어요. 병원까지 갔으면 이제 좋아질 일밖에 없죠!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:00:37
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 1 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "그 얘기를 듣고 고민이 많았겠어요. 병원까지 갔으면 이제 좋아질 일밖에 없죠!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:00:48
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 잠을 잘 못자요 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "잠을 잘 못자요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "힘든 일이 있으신가 봐요. 저는 항상 여기에서 당신을 기다려요. 편할 때 말씀해주세요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:00:50
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 1 || 질문내용 : 잠을 잘 못자요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "잠을 잘 못자요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "힘든 일이 있으신가 봐요. 저는 항상 여기에서 당신을 기다려요. 편할 때 말씀해주세요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:01:00
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 죽고싶어요 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "죽고싶어요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "전문가와 상담을 받아보신 적이 있나요? 힘이 들 땐 도움을 받는 게 좋아요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:01:02
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 1 || 질문내용 : 죽고싶어요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "죽고싶어요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "전문가와 상담을 받아보신 적이 있나요? 힘이 들 땐 도움을 받는 게 좋아요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:01:21
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 커피를 먹으면 잠이 잘와요 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "커피를 먹으면 잠이 잘와요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "그래도 끼니는 거르시면 안 돼요. 작은 거라도 조금씩 드세요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:01:22
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 1 || 질문내용 : 커피를 먹으면 잠이 잘와요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "커피를 먹으면 잠이 잘와요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "그래도 끼니는 거르시면 안 돼요. 작은 거라도 조금씩 드세요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:02:21
+유저아이디 :  b89006d8-5706-4128-b9db-607b7085e152
+메시지 구분: 0 || 질문내용 : 정신 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "집중이 잘 안 될 때가 있죠. 그럴 때는 아예 잠깐 다른 일을 하는 것도 좋아요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:02:23
+유저아이디 :  b89006d8-5706-4128-b9db-607b7085e152
+메시지 구분: 1 || 질문내용 : 정신 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "집중이 잘 안 될 때가 있죠. 그럴 때는 아예 잠깐 다른 일을 하는 것도 좋아요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:02:49
+유저아이디 :  b89006d8-5706-4128-b9db-607b7085e152
+메시지 구분: 0 || 질문내용 : 아퍼요 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "아퍼요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "정말 힘드셨겠어요. 지금은 안 아프신가요?", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:02:51
+유저아이디 :  b89006d8-5706-4128-b9db-607b7085e152
+메시지 구분: 1 || 질문내용 : 아퍼요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "아퍼요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "정말 힘드셨겠어요. 지금은 안 아프신가요?", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:04:25
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 남편이랑 한달에 몇번은 보는 것 같아요. || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "남편이랑 한달에 몇번은 보는 것 같아요."   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "남편 분과 사이가 좋은 것 같아 저도 행복해요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:04:27
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 1 || 질문내용 : 남편이랑 한달에 몇번은 보는 것 같아요. || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "남편이랑 한달에 몇번은 보는 것 같아요."   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "남편 분과 사이가 좋은 것 같아 저도 행복해요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:04:36
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 0 || 질문내용 : 사람 만나기가 싫어… || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "사람 만나기가 싫어…"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "그 기분 알 것 같아요. 하지만 항상 좋을 때가 있으면 나쁠 때도 있는 거랍니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:04:38
+유저아이디 :  0cfa9b9a-079a-4fa7-8bdf-2455823a92ff
+메시지 구분: 1 || 질문내용 : 사람 만나기가 싫어… || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "사람 만나기가 싫어…"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "그 기분 알 것 같아요. 하지만 항상 좋을 때가 있으면 나쁠 때도 있는 거랍니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:05:02
+유저아이디 :  b89006d8-5706-4128-b9db-607b7085e152
+메시지 구분: 0 || 질문내용 : 이상하게 가슴이 두군거려요 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "이상하게 가슴이 두군거려요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "긴장되는 일이 있으신가요?", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:05:03
+유저아이디 :  b89006d8-5706-4128-b9db-607b7085e152
+메시지 구분: 1 || 질문내용 : 이상하게 가슴이 두군거려요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "이상하게 가슴이 두군거려요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "긴장되는 일이 있으신가요?", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:14:25
+유저아이디 :  b89006d8-5706-4128-b9db-607b7085e152
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "그 얘기를 듣고 고민이 많았겠어요. 병원까지 갔으면 이제 좋아질 일밖에 없죠!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:14:26
+유저아이디 :  b89006d8-5706-4128-b9db-607b7085e152
+메시지 구분: 1 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "그 얘기를 듣고 고민이 많았겠어요. 병원까지 갔으면 이제 좋아질 일밖에 없죠!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:14:37
+유저아이디 :  b89006d8-5706-4128-b9db-607b7085e152
+메시지 구분: 0 || 질문내용 : 잠이 안와요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "잠이 안와요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "사실 지금 하는 걱정의 반은 일어나지도 않을 일이라고 해요. 너무 불안해 마세요!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:14:39
+유저아이디 :  b89006d8-5706-4128-b9db-607b7085e152
+메시지 구분: 1 || 질문내용 : 잠이 안와요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "잠이 안와요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "사실 지금 하는 걱정의 반은 일어나지도 않을 일이라고 해요. 너무 불안해 마세요!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:14:52
+유저아이디 :  b89006d8-5706-4128-b9db-607b7085e152
+메시지 구분: 0 || 질문내용 : 아하 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "아하"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "기분이 풀릴 때까지 실컷 욕해도 좋아요. 제가 들어드릴게요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:14:53
+유저아이디 :  b89006d8-5706-4128-b9db-607b7085e152
+메시지 구분: 1 || 질문내용 : 아하 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "아하"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "기분이 풀릴 때까지 실컷 욕해도 좋아요. 제가 들어드릴게요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:19:34
+유저아이디 :  9399ddd8-f9a4-40f5-ae31-c400859496d6
+메시지 구분: 0 || 질문내용 : 외계인이 있냐? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "외계인이 있냐?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "저라도 그런 감정을 느꼈을 거예요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:19:36
+유저아이디 :  9399ddd8-f9a4-40f5-ae31-c400859496d6
+메시지 구분: 1 || 질문내용 : 외계인이 있냐? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "외계인이 있냐?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "저라도 그런 감정을 느꼈을 거예요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:20:39
+유저아이디 :  9399ddd8-f9a4-40f5-ae31-c400859496d6
+메시지 구분: 0 || 질문내용 : 저는 왜 이렇게 못난 인간일까요 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "저는 왜 이렇게 못난 인간일까요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "도움을 청할 곳이 있을까요? 제가 주변에 도움을 청할 수 있도록 용기를 드릴게요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:20:40
+유저아이디 :  9399ddd8-f9a4-40f5-ae31-c400859496d6
+메시지 구분: 1 || 질문내용 : 저는 왜 이렇게 못난 인간일까요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "저는 왜 이렇게 못난 인간일까요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "도움을 청할 곳이 있을까요? 제가 주변에 도움을 청할 수 있도록 용기를 드릴게요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:25:57
+유저아이디 :  9399ddd8-f9a4-40f5-ae31-c400859496d6
+메시지 구분: 0 || 질문내용 : SentenceBERT || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "SentenceBERT"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "많이 힘들었겠어요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:25:58
+유저아이디 :  9399ddd8-f9a4-40f5-ae31-c400859496d6
+메시지 구분: 1 || 질문내용 : SentenceBERT || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "SentenceBERT"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "많이 힘들었겠어요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:26:09
+유저아이디 :  9399ddd8-f9a4-40f5-ae31-c400859496d6
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "그 얘기를 듣고 고민이 많았겠어요. 병원까지 갔으면 이제 좋아질 일밖에 없죠!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:26:10
+유저아이디 :  9399ddd8-f9a4-40f5-ae31-c400859496d6
+메시지 구분: 1 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "그 얘기를 듣고 고민이 많았겠어요. 병원까지 갔으면 이제 좋아질 일밖에 없죠!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:26:30
+유저아이디 :  9399ddd8-f9a4-40f5-ae31-c400859496d6
+메시지 구분: 0 || 질문내용 : 남편이랑 한달에 몇번은 보는 것 같아요. || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "남편이랑 한달에 몇번은 보는 것 같아요."   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "남편 분과 사이가 좋은 것 같아 저도 행복해요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:26:32
+유저아이디 :  9399ddd8-f9a4-40f5-ae31-c400859496d6
+메시지 구분: 1 || 질문내용 : 남편이랑 한달에 몇번은 보는 것 같아요. || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "남편이랑 한달에 몇번은 보는 것 같아요."   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "남편 분과 사이가 좋은 것 같아 저도 행복해요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:59:12
+유저아이디 :  7079da82-d884-408c-aeb3-7feedeb82de7
+메시지 구분: 0 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "그 얘기를 듣고 고민이 많았겠어요. 병원까지 갔으면 이제 좋아질 일밖에 없죠!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:59:14
+유저아이디 :  7079da82-d884-408c-aeb3-7feedeb82de7
+메시지 구분: 1 || 질문내용 : 정신건강상담 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "정신건강상담"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "그 얘기를 듣고 고민이 많았겠어요. 병원까지 갔으면 이제 좋아질 일밖에 없죠!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:59:32
+유저아이디 :  7079da82-d884-408c-aeb3-7feedeb82de7
+메시지 구분: 0 || 질문내용 : 맞아요 어떻게해요 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "맞아요 어떻게해요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "그런 일이 있으셨군요. 잘못을 당신의 탓으로 돌리지만 않았으면 해요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:59:33
+유저아이디 :  7079da82-d884-408c-aeb3-7feedeb82de7
+메시지 구분: 1 || 질문내용 : 맞아요 어떻게해요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "맞아요 어떻게해요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "그런 일이 있으셨군요. 잘못을 당신의 탓으로 돌리지만 않았으면 해요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:59:47
+유저아이디 :  7079da82-d884-408c-aeb3-7feedeb82de7
+메시지 구분: 0 || 질문내용 : 실행 하고싶어요 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "실행 하고싶어요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "늘 불안한 마음이 드시는 건가요? 병원에서 상담을 한번 받아보는 건 어떨까요?", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 18:59:49
+유저아이디 :  7079da82-d884-408c-aeb3-7feedeb82de7
+메시지 구분: 1 || 질문내용 : 실행 하고싶어요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "실행 하고싶어요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "늘 불안한 마음이 드시는 건가요? 병원에서 상담을 한번 받아보는 건 어떨까요?", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 19:00:00
+유저아이디 :  7079da82-d884-408c-aeb3-7feedeb82de7
+메시지 구분: 0 || 질문내용 : 싫어여 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "싫어여"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "조금 돌아가는 것뿐이라고 생각해요. 기운내세요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-31 19:00:01
+유저아이디 :  7079da82-d884-408c-aeb3-7feedeb82de7
+메시지 구분: 1 || 질문내용 : 싫어여 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/counseling/result/result.out "싫어여"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "조금 돌아가는 것뿐이라고 생각해요. 기운내세요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}

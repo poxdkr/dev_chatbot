@@ -1,0 +1,602 @@
+*************************************
+접속일 :  2020-11-20 14:04:40
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 0 || 질문내용 : 기능문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "기능문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : 77A403AA_846A_1D43_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : 77A403AA_846A_1D43
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 4065//2500
+{"answercode":"1", "ai_msg": "업무문의 | 추가 기능 개발 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"},{"s1":"77A403AA","s2": "846A","s3":"1D43","s4":"137"}]}
+*************************************
+접속일 :  2020-11-20 14:04:43
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 2 || 질문내용 : 업무문의 || 질문아이디1 : #W1 || 질문아이디2 : #W2 || 질문아이디3 : #W3 || 질문아이디4 : 137
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "업무문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : #o8_#o8_#o8_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : #o8_#o8_#o8
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>업무 문의 관련 질문 카테고리 입니다.<br></p><p>원하는 내용을 선택하거나 직접 입력해주세요.&nbsp;</p><p>$$$▶설치관련</p><p>$$$▶작업관련</p><p>$$$▶라이선스 관련</p><p>$$$▶서류/파일 요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-20 14:04:58
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #W1 || 질문아이디2 : #W2 || 질문아이디3 : #W3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #w2_#w2_#w2_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w2_#w2_#w2
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>어떤 점이 궁금하신가요?</p><p>$$$정기점검</p><p>$$$SMS Agent 재설치</p><p>$$$SMS, MNS, DPM, WPM</p><p>추가설치</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#w2","s2": "#w2","s3":"#w2","s4":""}]}
+*************************************
+접속일 :  2020-11-20 14:05:01
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #w2 || 질문아이디2 : #w2 || 질문아이디3 : #w2 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #w21_#w21_#w21_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w21_#w21_#w21
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>POLESTAR 정기점검은<br></p><p>유지보수 계약에 따라 진행 됩니다.</p><p>||정기점검 관련 문의는 담당 엔지니어에게 부탁드리며,<br></p><p>담당 엔지니어의 연락처를 모르실 경우<br></p><p>챗봇으로 바로 접수 가능합니다.</p><p>$$$챗봇으로 접수하기</p><p>$$$이전으로</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#w21","s2": "#w21","s3":"#w21","s4":""}]}
+*************************************
+접속일 :  2020-11-20 14:05:06
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #w21 || 질문아이디2 : #w21 || 질문아이디3 : #w21 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #w211_#w211_#w211_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w211_#w211_#w211
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>회사명/담당자명/010-2126-8475으로 연락드릴께요!<br></p><p>||방문이 필요한 날짜를 입력해주세요.<br></p><p>예시) 0000년/00월/00일</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#w211","s2": "#w211","s3":"#w211","s4":""}]}
+*************************************
+접속일 :  2020-11-20 14:05:58
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 0 || 질문내용 : 기능문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "기능문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : 77A403AA_846A_1D43_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : 77A403AA_846A_1D43
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 4065//2500
+{"answercode":"1", "ai_msg": "업무문의 | 추가 기능 개발 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"},{"s1":"77A403AA","s2": "846A","s3":"1D43","s4":"137"}]}
+*************************************
+접속일 :  2020-11-20 14:06:01
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 2 || 질문내용 : 업무문의 || 질문아이디1 : #W1 || 질문아이디2 : #W2 || 질문아이디3 : #W3 || 질문아이디4 : 137
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "업무문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : #o8_#o8_#o8_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : #o8_#o8_#o8
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>업무 문의 관련 질문 카테고리 입니다.<br></p><p>원하는 내용을 선택하거나 직접 입력해주세요.&nbsp;</p><p>$$$▶설치관련</p><p>$$$▶작업관련</p><p>$$$▶라이선스 관련</p><p>$$$▶서류/파일 요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-20 14:06:04
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #W1 || 질문아이디2 : #W2 || 질문아이디3 : #W3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #w2_#w2_#w2_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w2_#w2_#w2
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>어떤 점이 궁금하신가요?</p><p>$$$정기점검</p><p>$$$SMS Agent 재설치</p><p>$$$SMS, MNS, DPM, WPM</p><p>추가설치</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#w2","s2": "#w2","s3":"#w2","s4":""}]}
+*************************************
+접속일 :  2020-11-20 14:06:07
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #w2 || 질문아이디2 : #w2 || 질문아이디3 : #w2 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #w21_#w21_#w21_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w21_#w21_#w21
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>POLESTAR 정기점검은<br></p><p>유지보수 계약에 따라 진행 됩니다.</p><p>||정기점검 관련 문의는 담당 엔지니어에게 부탁드리며,<br></p><p>담당 엔지니어의 연락처를 모르실 경우<br></p><p>챗봇으로 바로 접수 가능합니다.</p><p>$$$챗봇으로 접수하기</p><p>$$$이전으로</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#w21","s2": "#w21","s3":"#w21","s4":""}]}
+*************************************
+접속일 :  2020-11-20 14:06:11
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #w21 || 질문아이디2 : #w21 || 질문아이디3 : #w21 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #w211_#w211_#w211_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w211_#w211_#w211
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>회사명/담당자명/010-2126-8475으로 연락드릴께요!<br></p><p>||방문이 필요한 날짜를 입력해주세요.<br></p><p>예시) 0000년/00월/00일</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#w211","s2": "#w211","s3":"#w211","s4":""}]}
+*************************************
+접속일 :  2020-11-20 14:06:35
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 3 || 질문내용 : 2020-11-19 || 질문아이디1 : #w211 || 질문아이디2 : #w211 || 질문아이디3 : #w211 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #w2111_#w2111_#w2111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w2111_#w2111_#w2111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>접수가 완료되었습니다.<br>감사합니다.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-20 14:20:14
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 0 || 질문내용 : 업무문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "업무문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : #o8_#o8_#o8_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : #o8_#o8_#o8
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>업무 문의 관련 질문 카테고리 입니다.<br></p><p>원하는 내용을 선택하거나 직접 입력해주세요.&nbsp;</p><p>$$$▶설치관련</p><p>$$$▶작업관련</p><p>$$$▶라이선스 관련</p><p>$$$▶서류/파일 요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-20 14:24:10
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 0 || 질문내용 : 업무문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "업무문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : #o8_#o8_#o8_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : #o8_#o8_#o8
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>업무 문의 관련 질문 카테고리 입니다.<br></p><p>원하는 내용을 선택하거나 직접 입력해주세요.&nbsp;</p><p>$$$▶설치관련</p><p>$$$▶작업관련</p><p>$$$▶라이선스 관련</p><p>$$$▶서류/파일 요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-20 14:26:18
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 0 || 질문내용 : 업무문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "업무문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : #o8_#o8_#o8_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : #o8_#o8_#o8
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>업무 문의 관련 질문 카테고리 입니다.<br></p><p>원하는 내용을 선택하거나 직접 입력해주세요.&nbsp;</p><p>$$$▶설치관련</p><p>$$$▶작업관련</p><p>$$$▶라이선스 관련</p><p>$$$▶서류/파일 요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-20 14:26:54
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 0 || 질문내용 : 업무문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "업무문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : #o8_#o8_#o8_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : #o8_#o8_#o8
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>업무 문의 관련 질문 카테고리 입니다.<br></p><p>원하는 내용을 선택하거나 직접 입력해주세요.&nbsp;</p><p>$$$▶설치관련</p><p>$$$▶작업관련</p><p>$$$▶라이선스 관련</p><p>$$$▶서류/파일 요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-20 14:49:04
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 0 || 질문내용 : 업무문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "업무문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : #o8_#o8_#o8_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : #o8_#o8_#o8
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>업무 문의 관련 질문 카테고리 입니다.<br></p><p>원하는 내용을 선택하거나 직접 입력해주세요.&nbsp;</p><p>$$$▶설치관련</p><p>$$$▶작업관련</p><p>$$$▶라이선스 관련</p><p>$$$▶서류/파일 요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-20 14:51:52
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 0 || 질문내용 : 업무문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "업무문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : #o8_#o8_#o8_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : #o8_#o8_#o8
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>업무 문의 관련 질문 카테고리 입니다.<br></p><p>원하는 내용을 선택하거나 직접 입력해주세요.&nbsp;</p><p>$$$▶설치관련</p><p>$$$▶작업관련</p><p>$$$▶라이선스 관련</p><p>$$$▶서류/파일 요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-20 14:52:36
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 0 || 질문내용 : 업무문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "업무문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : #o8_#o8_#o8_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : #o8_#o8_#o8
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>업무 문의 관련 질문 카테고리 입니다.<br></p><p>원하는 내용을 선택하거나 직접 입력해주세요.&nbsp;</p><p>$$$▶설치관련</p><p>$$$▶작업관련</p><p>$$$▶라이선스 관련</p><p>$$$▶서류/파일 요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-20 14:53:14
+유저아이디 :  97810e11-54f9-4a1d-9dd3-bd999492e01a
+메시지 구분: 0 || 질문내용 : 업무문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "업무문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : #o8_#o8_#o8_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : #o8_#o8_#o8
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>업무 문의 관련 질문 카테고리 입니다.<br></p><p>원하는 내용을 선택하거나 직접 입력해주세요.&nbsp;</p><p>$$$▶설치관련</p><p>$$$▶작업관련</p><p>$$$▶라이선스 관련</p><p>$$$▶서류/파일 요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-20 14:53:19
+유저아이디 :  97810e11-54f9-4a1d-9dd3-bd999492e01a
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #W1 || 질문아이디2 : #W2 || 질문아이디3 : #W3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #w3_#w3_#w3_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w3_#w3_#w3
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>어떤 점이 궁금하신가요?</p><p>$$$Flash EOS</p><p>$$$장비IP 변경작업 지원</p><p>$$$PM 작업 지원</p><p>$$$시스템 오픈 모니터링 지원</p><p>$$$서버 및 DB 이관 작업 지원</p><p>$$$&gt; 다음 목록</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#w3","s2": "#w3","s3":"#w3","s4":""}]}
+*************************************
+접속일 :  2020-11-20 14:54:54
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 0 || 질문내용 : 업무문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "업무문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : #o8_#o8_#o8_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : #o8_#o8_#o8
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>업무 문의 관련 질문 카테고리 입니다.<br></p><p>원하는 내용을 선택하거나 직접 입력해주세요.&nbsp;</p><p>$$$▶설치관련</p><p>$$$▶작업관련</p><p>$$$▶라이선스 관련</p><p>$$$▶서류/파일 요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-20 14:54:57
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #W1 || 질문아이디2 : #W2 || 질문아이디3 : #W3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #w3_#w3_#w3_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w3_#w3_#w3
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>어떤 점이 궁금하신가요?</p><p>$$$Flash EOS</p><p>$$$장비IP 변경작업 지원</p><p>$$$PM 작업 지원</p><p>$$$시스템 오픈 모니터링 지원</p><p>$$$서버 및 DB 이관 작업 지원</p><p>$$$&gt; 다음 목록</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#w3","s2": "#w3","s3":"#w3","s4":""}]}
+*************************************
+접속일 :  2020-11-20 14:58:50
+유저아이디 :  97810e11-54f9-4a1d-9dd3-bd999492e01a
+메시지 구분: 0 || 질문내용 : 업무문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "업무문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : #o8_#o8_#o8_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : #o8_#o8_#o8
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>업무 문의 관련 질문 카테고리 입니다.<br></p><p>원하는 내용을 선택하거나 직접 입력해주세요.&nbsp;</p><p>$$$▶설치관련</p><p>$$$▶작업관련</p><p>$$$▶라이선스 관련</p><p>$$$▶서류/파일 요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-20 14:58:53
+유저아이디 :  97810e11-54f9-4a1d-9dd3-bd999492e01a
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #W1 || 질문아이디2 : #W2 || 질문아이디3 : #W3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #w3_#w3_#w3_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w3_#w3_#w3
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>어떤 점이 궁금하신가요?</p><p>$$$Flash EOS</p><p>$$$장비IP 변경작업 지원</p><p>$$$PM 작업 지원</p><p>$$$시스템 오픈 모니터링 지원</p><p>$$$서버 및 DB 이관 작업 지원</p><p>$$$&gt; 다음 목록</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#w3","s2": "#w3","s3":"#w3","s4":""}]}
+*************************************
+접속일 :  2020-11-20 15:02:21
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 0 || 질문내용 : 업무문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "업무문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : #o8_#o8_#o8_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : #o8_#o8_#o8
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>업무 문의 관련 질문 카테고리 입니다.<br></p><p>원하는 내용을 선택하거나 직접 입력해주세요.&nbsp;</p><p>$$$▶설치관련</p><p>$$$▶작업관련</p><p>$$$▶라이선스 관련</p><p>$$$▶서류/파일 요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-20 15:02:33
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #W1 || 질문아이디2 : #W2 || 질문아이디3 : #W3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #w4_#w4_#w4_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w4_#w4_#w4
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>어떤 점이 궁금하신가요?</p><p>$$$릴리스 노트</p><p>$$$임시 라이센스</p><p>$$$라이선스 추가</p><p>$$$정식 라이선스 증서 발급</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#w4","s2": "#w4","s3":"#w4","s4":""}]}

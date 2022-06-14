@@ -1,0 +1,48 @@
+*************************************
+접속일 :  2020-12-15 19:34:51
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 그림 보여줘 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "그림 보여줘"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  D197C1A8_6B66_67F3_134
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : D197C1A8_6B66_67F3
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p>최근에 그린 거에요.</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"D197C1A8","s2": "6B66","s3":"67F3","s4":"134"}]}
+*************************************
+접속일 :  2020-12-15 19:37:48
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 누가 제일 좋아요? || 질문아이디1 : D197C1A8 || 질문아이디2 : 6B66 || 질문아이디3 : 67F3 || 질문아이디4 : 134
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "누가 제일 좋아요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  96F75910_D5C1_5054_134
+ que_id1 : E530F969_1A28_28A1_60
+ que_id2 : 3FB0B54F_C9B0_3BD3_134
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 96F75910_D5C1_5054
+ scn_que_id1 : E530F969_1A28_28A1
+ scn_que_id2 : 3FB0B54F_C9B0_3BD3
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 8958//2500
+{"answercode":"", "ai_msg": "<p>바로 너?&nbsp;(づ｡◕‿‿◕｡)づ&nbsp;</p><p><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16076664964200.jpg", "qustType": "","questionID": [{"s1":"96F75910","s2": "D5C1","s3":"5054","s4":"134"}]}

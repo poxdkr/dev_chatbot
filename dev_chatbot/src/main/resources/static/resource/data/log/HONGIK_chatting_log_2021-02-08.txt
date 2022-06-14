@@ -1,0 +1,786 @@
+*************************************
+접속일 :  2021-02-08 11:25:52
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 가족끼리만 여행을 가고싶은데 예약 가능할까요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "가족끼리만 여행을 가고싶은데 예약 가능할까요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  12EE921C_C84F_58DC_187
+ que_id1 : BD02_BD02_BD02_193
+ que_id2 : RO03_RO03_RO03_194
+ que_id3 : BA22D1E4_9E0B_A833_188
+ que_id4 : 4F3EA5F5_46FF_89AA_187
+ que_id5 : SNS03_SNS03_SNS03_191
+ que_id6 : TO02_TO02_TO02_195
+ que_id7 : RO04_RO04_RO04_194
+ que_id8 : PAY01_PAY01_PAY01_189
+ que_id9 : B1B9228A_D65B_7740_188
+ scn_que_id : 12EE921C_C84F_58DC
+ scn_que_id1 : BD02_BD02_BD02
+ scn_que_id2 : RO03_RO03_RO03
+ scn_que_id3 : BA22D1E4_9E0B_A833
+ scn_que_id4 : 4F3EA5F5_46FF_89AA
+ 확률 : 선택질문 확률 : 4908//2500
+{"answercode":"1", "ai_msg": "단독관광(개별관광) 예약 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"12EE921C","s2": "C84F","s3":"58DC","s4":"187"}]}
+*************************************
+접속일 :  2021-02-08 11:25:58
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 2 || 질문내용 : 단독관광(개별관광) 예약 || 질문아이디1 : 12EE921C || 질문아이디2 : C84F || 질문아이디3 : 58DC || 질문아이디4 : 187
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "단독관광(개별관광) 예약"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  12EE921C_C84F_58DC_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 705FB289_220B_7901_60
+ que_id3 : PR02_PR02_PR02_197
+ que_id4 : 4F3EA5F5_46FF_89AA_60
+ que_id5 : BA22D1E4_9E0B_A833_60
+ que_id6 : B1B9228A_D65B_7740_60
+ que_id7 : INS01_INS01_INS01_192
+ que_id8 : TO11_TO11_TO11_195
+ que_id9 : TO13_TO13_TO13_195
+ scn_que_id : 12EE921C_C84F_58DC
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 705FB289_220B_7901
+ scn_que_id3 : PR02_PR02_PR02
+ scn_que_id4 : 4F3EA5F5_46FF_89AA
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-size: 13.3333px; font-family: Dotum, 돋움, sans-serif;>개별 단독여행을 원하신다면 홈페이지의 [단체견적요청]에 원하시는 여행지, 일정, 숙박 등 내용 기입 부탁드립니다.&nbsp;</span></p><p><span style=font-size: 13.3333px; font-family: Dotum, 돋움, sans-serif;>||담당자 확인 후 견적가 산정하여 안내해드릴 예정입니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"12EE921C","s2": "C84F","s3":"58DC","s4":"187"}]}
+*************************************
+접속일 :  2021-02-08 11:31:20
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 지방에서 출발하는 상품 있나요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "지방에서 출발하는 상품 있나요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  TO10_TO10_TO10_195
+ que_id1 : PR01_PR01_PR01_197
+ que_id2 : BA22D1E4_9E0B_A833_188
+ que_id3 : TO05_TO05_TO05_195
+ que_id4 : TO11_TO11_TO11_195
+ que_id5 : TO01_TO01_TO01_195
+ que_id6 : BD04_BD04_BD04_193
+ que_id7 : B1B9228A_D65B_7740_188
+ que_id8 : DIS04_DIS04_DIS04_190
+ que_id9 : 12EE921C_C84F_58DC_187
+ scn_que_id : TO10_TO10_TO10
+ scn_que_id1 : PR01_PR01_PR01
+ scn_que_id2 : BA22D1E4_9E0B_A833
+ scn_que_id3 : TO05_TO05_TO05
+ scn_que_id4 : TO11_TO11_TO11
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<span style=font-family: Verdana, sans-serif;>대부분의 여행상품이 서울지역에서 출발하고 있습니다. </span><br><span style=font-family: Verdana, sans-serif;>지방에서 이용하시려면 중간 경유지 탑승, 열차 하차역 개별 집결 등의 방법으로 이용 하셔야 합니다.</span>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"TO10","s2": "TO10","s3":"TO10","s4":"195"}]}
+*************************************
+접속일 :  2021-02-08 11:32:37
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 결제하려면 회원 가입 해야되요? || 질문아이디1 : TO10 || 질문아이디2 : TO10 || 질문아이디3 : TO10 || 질문아이디4 : 195
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "결제하려면 회원 가입 해야되요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  PAY01_PAY01_PAY01_189
+ que_id1 : PAY09_PAY09_PAY09_189
+ que_id2 : PAY04_PAY04_PAY04_189
+ que_id3 : PAY03_PAY03_PAY03_189
+ que_id4 : RO04_RO04_RO04_194
+ que_id5 : PAY05_PAY05_PAY05_189
+ que_id6 : PAY06_PAY06_PAY06_189
+ que_id7 : TO08_TO08_TO08_195
+ que_id8 : BD02_BD02_BD02_193
+ que_id9 : RO03_RO03_RO03_194
+ scn_que_id : PAY01_PAY01_PAY01
+ scn_que_id1 : PAY09_PAY09_PAY09
+ scn_que_id2 : PAY04_PAY04_PAY04
+ scn_que_id3 : PAY03_PAY03_PAY03
+ scn_que_id4 : RO04_RO04_RO04
+ 확률 : 선택질문 확률 : 6040//2500
+{"answercode":"1", "ai_msg": "비회원 결제 | 결제 방법 | 입금 기한 | 결제 계좌번호 | 객실 사용 인원 안내 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"PAY01","s2": "PAY01","s3":"PAY01","s4":"189"},{"s1":"PAY09","s2": "PAY09","s3":"PAY09","s4":"189"},{"s1":"PAY04","s2": "PAY04","s3":"PAY04","s4":"189"},{"s1":"PAY03","s2": "PAY03","s3":"PAY03","s4":"189"},{"s1":"RO04","s2": "RO04","s3":"RO04","s4":"194"}]}
+*************************************
+접속일 :  2021-02-08 11:32:42
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 2 || 질문내용 : 비회원 결제 || 질문아이디1 : PAY01 || 질문아이디2 : PAY01 || 질문아이디3 : PAY01 || 질문아이디4 : 189
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "비회원 결제"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  PAY01_PAY01_PAY01_189
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : PAY01_PAY01_PAY01
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9450//2500
+{"answercode":"", "ai_msg": "<span style=font-family: Verdana, sans-serif;>비회원이셔도 결제 가능하십니다. </span><br><span style=font-family: Verdana, sans-serif;>||홈페이지 우측 상단에 예약확인/결제란에서 비회원에 고객님 휴대폰번호와 성함으로 예약건 확인하여 결제하시면 됩니다.</span><p><br></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"PAY01","s2": "PAY01","s3":"PAY01","s4":"189"}]}
+*************************************
+접속일 :  2021-02-08 11:33:40
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 카드로 계산하면 더 비싸요? || 질문아이디1 : PAY01 || 질문아이디2 : PAY01 || 질문아이디3 : PAY01 || 질문아이디4 : 189
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "카드로 계산하면 더 비싸요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  BA22D1E4_9E0B_A833_60
+ que_id1 : TO10_TO10_TO10_195
+ que_id2 : BA22D1E4_9E0B_A833_188
+ que_id3 : PAY12_PAY12_PAY12_189
+ que_id4 : PAY10_PAY10_PAY10_189
+ que_id5 : TO03_TO03_TO03_195
+ que_id6 : PAY08_PAY08_PAY08_189
+ que_id7 : DIS03_DIS03_DIS03_190
+ que_id8 : PAY07_PAY07_PAY07_189
+ que_id9 : DIS02_DIS02_DIS02_190
+ scn_que_id : BA22D1E4_9E0B_A833
+ scn_que_id1 : TO10_TO10_TO10
+ scn_que_id2 : BA22D1E4_9E0B_A833
+ scn_que_id3 : PAY12_PAY12_PAY12
+ scn_que_id4 : PAY10_PAY10_PAY10
+ 확률 : 선택질문 확률 : 2838//2500
+{"answercode":"1", "ai_msg": "여행이 취소되는 경우 | 지방에서 출발하는 경우 |  | 타인 명의 카드로 결제 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"BA22D1E4","s2": "9E0B","s3":"A833","s4":"60"},{"s1":"TO10","s2": "TO10","s3":"TO10","s4":"195"},{"s1":"BA22D1E4","s2": "9E0B","s3":"A833","s4":"188"},{"s1":"PAY12","s2": "PAY12","s3":"PAY12","s4":"189"}]}
+*************************************
+접속일 :  2021-02-08 11:34:06
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 2 || 질문내용 : 전화로 결제할 수 있어요? || 질문아이디1 : BA22D1E4,TO10,BA22D1E4,PAY12 || 질문아이디2 : 9E0B,TO10,9E0B,PAY12 || 질문아이디3 : A833,TO10,A833,PAY12 || 질문아이디4 : 60,195,188,189
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2021-02-08 11:34:07
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 1 || 질문내용 : 전화로 결제할 수 있어요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "전화로 결제할 수 있어요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  PAY04_PAY04_PAY04_189
+ que_id1 : PAY01_PAY01_PAY01_189
+ que_id2 : PAY03_PAY03_PAY03_189
+ que_id3 : PAY09_PAY09_PAY09_189
+ que_id4 : PAY06_PAY06_PAY06_189
+ que_id5 : DIS07_DIS07_DIS07_190
+ que_id6 : PAY12_PAY12_PAY12_189
+ que_id7 : PAY05_PAY05_PAY05_189
+ que_id8 : PAY07_PAY07_PAY07_189
+ que_id9 : TO03_TO03_TO03_195
+ scn_que_id : PAY04_PAY04_PAY04
+ scn_que_id1 : PAY01_PAY01_PAY01
+ scn_que_id2 : PAY03_PAY03_PAY03
+ scn_que_id3 : PAY09_PAY09_PAY09
+ scn_que_id4 : PAY06_PAY06_PAY06
+ 확률 : 선택질문 확률 : 6021//2500
+{"answercode":"1", "ai_msg": "입금 기한 | 비회원 결제 | 결제 계좌번호 | 결제 방법 | 출발 확정 후 결제 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"PAY04","s2": "PAY04","s3":"PAY04","s4":"189"},{"s1":"PAY01","s2": "PAY01","s3":"PAY01","s4":"189"},{"s1":"PAY03","s2": "PAY03","s3":"PAY03","s4":"189"},{"s1":"PAY09","s2": "PAY09","s3":"PAY09","s4":"189"},{"s1":"PAY06","s2": "PAY06","s3":"PAY06","s4":"189"}]}
+*************************************
+접속일 :  2021-02-08 11:34:29
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 2 || 질문내용 : 결제창이 안떠요 || 질문아이디1 : PAY04,PAY01,PAY03,PAY09,PAY06 || 질문아이디2 : PAY04,PAY01,PAY03,PAY09,PAY06 || 질문아이디3 : PAY04,PAY01,PAY03,PAY09,PAY06 || 질문아이디4 : 189,189,189,189,189
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2021-02-08 11:34:30
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 1 || 질문내용 : 결제창이 안떠요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "결제창이 안떠요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  PAY08_PAY08_PAY08_189
+ que_id1 : PAY10_PAY10_PAY10_189
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : PAY08_PAY08_PAY08
+ scn_que_id1 : PAY10_PAY10_PAY10
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 후 24시간 이내 결제문자 발송되며 문자메시지 수신 후 결제를 진행해주시면 됩니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"PAY08","s2": "PAY08","s3":"PAY08","s4":"189"}]}
+*************************************
+접속일 :  2021-02-08 11:34:41
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 결제 어떻게 해요? || 질문아이디1 : PAY08 || 질문아이디2 : PAY08 || 질문아이디3 : PAY08 || 질문아이디4 : 189
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "결제 어떻게 해요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  PAY09_PAY09_PAY09_189
+ que_id1 : INS01_INS01_INS01_192
+ que_id2 : TO03_TO03_TO03_195
+ que_id3 : PAY02_PAY02_PAY02_189
+ que_id4 : PAY01_PAY01_PAY01_189
+ que_id5 : PAY03_PAY03_PAY03_189
+ que_id6 : TO07_TO07_TO07_195
+ que_id7 : TO06_TO06_TO06_195
+ que_id8 : SNS01_SNS01_SNS01_191
+ que_id9 : PAY06_PAY06_PAY06_189
+ scn_que_id : PAY09_PAY09_PAY09
+ scn_que_id1 : INS01_INS01_INS01
+ scn_que_id2 : TO03_TO03_TO03
+ scn_que_id3 : PAY02_PAY02_PAY02
+ scn_que_id4 : PAY01_PAY01_PAY01
+ 확률 : 선택질문 확률 : 8391//2500
+{"answercode":"", "ai_msg": "<p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>결제 방법은 입금결제와 카드결제가 있습니다.</span></font></p><p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>모든 결제는 문자메시지 수신 후 해당 결제방법으로 처리해주세요.</span></font></p><p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>||입금 결제의 경우</span></font></p><p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>[기업은행 636-021450-04-050 홍익여행㈜]로 입금해주시고 유선 연락 주시면 됩니다.</span></font></p><p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>||카드 결제의 경우</span></font></p><p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>홍익여행사 홈페이지 최상단 예약확인/결제 란에서</span></font></p><p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>고객님 성함과 연락처를 기재하시고 카드 결제 후 전화 주시면 됩니다.</span></font></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"PAY09","s2": "PAY09","s3":"PAY09","s4":"189"}]}
+*************************************
+접속일 :  2021-02-08 11:35:36
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 결제 방법 || 질문아이디1 : PAY09 || 질문아이디2 : PAY09 || 질문아이디3 : PAY09 || 질문아이디4 : 189
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "결제 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  PAY09_PAY09_PAY09_189
+ que_id1 : PAY02_PAY02_PAY02_189
+ que_id2 : PAY03_PAY03_PAY03_189
+ que_id3 : TO06_TO06_TO06_195
+ que_id4 : PAY06_PAY06_PAY06_189
+ que_id5 : SNS04_SNS04_SNS04_191
+ que_id6 : TO04_TO04_TO04_195
+ que_id7 : PAY12_PAY12_PAY12_189
+ que_id8 : INS01_INS01_INS01_192
+ que_id9 : TO03_TO03_TO03_195
+ scn_que_id : PAY09_PAY09_PAY09
+ scn_que_id1 : PAY02_PAY02_PAY02
+ scn_que_id2 : PAY03_PAY03_PAY03
+ scn_que_id3 : TO06_TO06_TO06
+ scn_que_id4 : PAY06_PAY06_PAY06
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>결제 방법은 입금결제와 카드결제가 있습니다.</span></font></p><p><span style=font-family: Verdana, sans-serif; font-size: 10pt;>||</span><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>모든 결제는 문자메시지 수신 후 해당 결제방법으로 처리해주세요.</span></font></p><p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>||【입금 결제의 경우】</span></font></p><p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>[기업은행 636-021450-04-050 홍익여행㈜]로 입금해주시고 유선 연락 주시면 됩니다.</span></font></p><p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>||【카드 결제의 경우】</span></font></p><p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>홍익여행사 홈페이지 최상단 예약확인/결제 란에서&nbsp;</span></font><span style=font-family: Verdana, sans-serif;>고객님 성함과 연락처를 기재하시고 카드 결제 후 전화 주시면 됩니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"PAY09","s2": "PAY09","s3":"PAY09","s4":"189"}]}
+*************************************
+접속일 :  2021-02-08 11:35:49
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 입금 언제까지 해야돼요? || 질문아이디1 : PAY09 || 질문아이디2 : PAY09 || 질문아이디3 : PAY09 || 질문아이디4 : 189
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "입금 언제까지 해야돼요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  PAY04_PAY04_PAY04_189
+ que_id1 : PAY09_PAY09_PAY09_189
+ que_id2 : 4F3EA5F5_46FF_89AA_187
+ que_id3 : PAY03_PAY03_PAY03_189
+ que_id4 : PAY11_PAY11_PAY11_189
+ que_id5 : RO04_RO04_RO04_194
+ que_id6 : PAY01_PAY01_PAY01_189
+ que_id7 : PAY05_PAY05_PAY05_189
+ que_id8 : TO08_TO08_TO08_195
+ que_id9 : BD02_BD02_BD02_193
+ scn_que_id : PAY04_PAY04_PAY04
+ scn_que_id1 : PAY09_PAY09_PAY09
+ scn_que_id2 : 4F3EA5F5_46FF_89AA
+ scn_que_id3 : PAY03_PAY03_PAY03
+ scn_que_id4 : PAY11_PAY11_PAY11
+ 확률 : 선택질문 확률 : 7993//2500
+{"answercode":"", "ai_msg": "<p><span style=font-size: 13.3333px; font-family: Verdana, sans-serif;>일반적으로 이틀 전까지 결제를 마무리하고 있으나 예약상황에 따라 조기마감될 수 있습니다.</span></p><p><span style=font-size: 13.3333px; font-family: Verdana, sans-serif;>||모든 예약건은 입금 선착순으로 처리되오니 무통장입금시 홍익여행사로 입금확인전화 바랍니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"PAY04","s2": "PAY04","s3":"PAY04","s4":"189"}]}
+*************************************
+접속일 :  2021-02-08 11:36:05
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 출발 확정되고나서 결제해도 돼요? || 질문아이디1 : PAY04 || 질문아이디2 : PAY04 || 질문아이디3 : PAY04 || 질문아이디4 : 189
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "출발 확정되고나서 결제해도 돼요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  PAY06_PAY06_PAY06_189
+ que_id1 : B1B9228A_D65B_7740_188
+ que_id2 : PAY09_PAY09_PAY09_189
+ que_id3 : PAY04_PAY04_PAY04_189
+ que_id4 : PAY01_PAY01_PAY01_189
+ que_id5 : PAY03_PAY03_PAY03_189
+ que_id6 : B1B9228A_D65B_7740_60
+ que_id7 : PAY12_PAY12_PAY12_189
+ que_id8 : PAY02_PAY02_PAY02_189
+ que_id9 : PAY08_PAY08_PAY08_189
+ scn_que_id : PAY06_PAY06_PAY06
+ scn_que_id1 : B1B9228A_D65B_7740
+ scn_que_id2 : PAY09_PAY09_PAY09
+ scn_que_id3 : PAY04_PAY04_PAY04
+ scn_que_id4 : PAY01_PAY01_PAY01
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<span style=font-family: Verdana, sans-serif;>출발 확정된 상품의 경우, 예약 후 결제 안내 문자메시지를 수신하여 결제 처리해주시면 됩니다.</span><br><span style=font-family: Verdana, sans-serif;>또는 예약금 일부 결제 후 출발일 4일 전까지 완납하실 수 있습니다.</span><br><span style=font-family: Verdana, sans-serif;>결제수단 중 카드로 예약금 결제 시 유선 연락 부탁드립니다.</span>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"PAY06","s2": "PAY06","s3":"PAY06","s4":"189"}]}
+*************************************
+접속일 :  2021-02-08 11:36:41
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 결제 계좌번호 알려주세요 || 질문아이디1 : PAY06 || 질문아이디2 : PAY06 || 질문아이디3 : PAY06 || 질문아이디4 : 189
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "결제 계좌번호 알려주세요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  PAY03_PAY03_PAY03_189
+ que_id1 : PAY09_PAY09_PAY09_189
+ que_id2 : PAY06_PAY06_PAY06_189
+ que_id3 : PAY12_PAY12_PAY12_189
+ que_id4 : PAY02_PAY02_PAY02_189
+ que_id5 : PAY04_PAY04_PAY04_189
+ que_id6 : PR02_PR02_PR02_197
+ que_id7 : PAY01_PAY01_PAY01_189
+ que_id8 : B1B9228A_D65B_7740_188
+ que_id9 : PAY08_PAY08_PAY08_189
+ scn_que_id : PAY03_PAY03_PAY03
+ scn_que_id1 : PAY09_PAY09_PAY09
+ scn_que_id2 : PAY06_PAY06_PAY06
+ scn_que_id3 : PAY12_PAY12_PAY12
+ scn_que_id4 : PAY02_PAY02_PAY02
+ 확률 : 선택질문 확률 : 8490//2500
+{"answercode":"", "ai_msg": "<span style=font-family: Verdana, sans-serif;>입금 계좌번호는 예약 후 24시간 이내 문자로 발송될 예정이며, 모든 예약건은 입금 선착순으로 처리되오니 무통장입금 후 홍익여행사로 입금확인전화 바랍니다.</span><br><span style=font-family: Verdana, sans-serif;>※기업은행 636-021450-04-050 /예금주: 홍익여행㈜ </span><br><span style=font-family: Verdana, sans-serif;>※각 상품별로 취소/변경규정에 따라 수수료 발생하는 기간이 상이하오니 입금 전 확인바랍니다.</span>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"PAY03","s2": "PAY03","s3":"PAY03","s4":"189"}]}
+*************************************
+접속일 :  2021-02-08 11:37:21
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 열차 티켓만 살 수 있을까요? || 질문아이디1 : PAY03 || 질문아이디2 : PAY03 || 질문아이디3 : PAY03 || 질문아이디4 : 189
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "열차 티켓만 살 수 있을까요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  PR02_PR02_PR02_197
+ que_id1 : TO04_TO04_TO04_195
+ que_id2 : BD04_BD04_BD04_193
+ que_id3 : TO07_TO07_TO07_195
+ que_id4 : BD02_BD02_BD02_193
+ que_id5 : TO03_TO03_TO03_195
+ que_id6 : BD05_BD05_BD05_193
+ que_id7 : DIS01_DIS01_DIS01_190
+ que_id8 : B1B9228A_D65B_7740_188
+ que_id9 : DIS04_DIS04_DIS04_190
+ scn_que_id : PR02_PR02_PR02
+ scn_que_id1 : TO04_TO04_TO04
+ scn_que_id2 : BD04_BD04_BD04
+ scn_que_id3 : TO07_TO07_TO07
+ scn_que_id4 : BD02_BD02_BD02
+ 확률 : 선택질문 확률 : 8479//2500
+{"answercode":"", "ai_msg": "<span style=font-family: Verdana, sans-serif;>죄송합니다.</span><br><span style=font-family: Verdana, sans-serif;>저희는 승차권만 따로 판매하는 상품은 취급하지 않고 있습니다.</span>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"PR02","s2": "PR02","s3":"PR02","s4":"197"}]}
+*************************************
+접속일 :  2021-02-08 11:37:32
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 팜플렛 같은거 줘요? || 질문아이디1 : PR02 || 질문아이디2 : PR02 || 질문아이디3 : PR02 || 질문아이디4 : 197
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "팜플렛 같은거 줘요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  TO11_TO11_TO11_195
+ que_id1 : TO04_TO04_TO04_195
+ que_id2 : BD01_BD01_BD01_193
+ que_id3 : B1B9228A_D65B_7740_188
+ que_id4 : DIS01_DIS01_DIS01_190
+ que_id5 : SNS04_SNS04_SNS04_191
+ que_id6 : SNS01_SNS01_SNS01_191
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : TO11_TO11_TO11
+ scn_que_id1 : TO04_TO04_TO04
+ scn_que_id2 : BD01_BD01_BD01
+ scn_que_id3 : B1B9228A_D65B_7740
+ scn_que_id4 : DIS01_DIS01_DIS01
+ 확률 : 선택질문 확률 : 5878//2500
+{"answercode":"1", "ai_msg": "여행 책자 제공 | 티켓수령 방법 | 집합 장소 및 시간 안내 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"TO11","s2": "TO11","s3":"TO11","s4":"195"},{"s1":"TO04","s2": "TO04","s3":"TO04","s4":"195"},{"s1":"BD01","s2": "BD01","s3":"BD01","s4":"193"}]}
+*************************************
+접속일 :  2021-02-08 11:37:38
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 2 || 질문내용 : 여행 책자 제공 || 질문아이디1 : TO11 || 질문아이디2 : TO11 || 질문아이디3 : TO11 || 질문아이디4 : 195
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행 책자 제공"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  TO11_TO11_TO11_195
+ que_id1 : TO12_TO12_TO12_195
+ que_id2 : 705FB289_220B_7901_60
+ que_id3 : PR02_PR02_PR02_197
+ que_id4 : BA22D1E4_9E0B_A833_60
+ que_id5 : B1B9228A_D65B_7740_60
+ que_id6 : RO02_RO02_RO02_194
+ que_id7 : TO13_TO13_TO13_195
+ que_id8 : PR01_PR01_PR01_197
+ que_id9 : BA22D1E4_9E0B_A833_188
+ scn_que_id : TO11_TO11_TO11
+ scn_que_id1 : TO12_TO12_TO12
+ scn_que_id2 : 705FB289_220B_7901
+ scn_que_id3 : PR02_PR02_PR02
+ scn_que_id4 : BA22D1E4_9E0B_A833
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<span style=font-family: Verdana, sans-serif;>저희는 따로 여행 책자를 제공해 드리고 있지 않습니다.</span><br><span style=font-family: Verdana, sans-serif;>||각 여행상품에 대한 정보는 홈페이지를 확인해주시면 감사하겠습니다.</span><p><br></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"TO11","s2": "TO11","s3":"TO11","s4":"195"}]}
+*************************************
+접속일 :  2021-02-08 15:43:52
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 예약하고 결제는 어떻게 해요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "예약하고 결제는 어떻게 해요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  INS01_INS01_INS01_192
+ que_id1 : PAY09_PAY09_PAY09_189
+ que_id2 : 1D14BC63_BCE3_F249_187
+ que_id3 : 1D14BC63_BCE3_F249_60
+ que_id4 : 4F3EA5F5_46FF_89AA_187
+ que_id5 : TO03_TO03_TO03_195
+ que_id6 : PAY02_PAY02_PAY02_189
+ que_id7 : PAY01_PAY01_PAY01_189
+ que_id8 : PAY03_PAY03_PAY03_189
+ que_id9 : TO07_TO07_TO07_195
+ scn_que_id : INS01_INS01_INS01
+ scn_que_id1 : PAY09_PAY09_PAY09
+ scn_que_id2 : 1D14BC63_BCE3_F249
+ scn_que_id3 : 1D14BC63_BCE3_F249
+ scn_que_id4 : 4F3EA5F5_46FF_89AA
+ 확률 : 선택질문 확률 : 7054//2500
+{"answercode":"1", "ai_msg": "예약 취소/변경 | 결제 방법 |  | 여행상품 예약 방법 | 예약 마감 기간 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"INS01","s2": "INS01","s3":"INS01","s4":"192"},{"s1":"PAY09","s2": "PAY09","s3":"PAY09","s4":"189"},{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"},{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"60"},{"s1":"4F3EA5F5","s2": "46FF","s3":"89AA","s4":"187"}]}
+*************************************
+접속일 :  2021-02-08 15:44:00
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 2 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 1D14BC63 || 질문아이디2 : BCE3 || 질문아이디3 : F249 || 질문아이디4 : 60
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_60
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : 1D14BC63_BCE3_F249_187
+ que_id5 : PAY03_PAY03_PAY03_189
+ que_id6 : TO06_TO06_TO06_195
+ que_id7 : PAY09_PAY09_PAY09_189
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : 1D14BC63_BCE3_F249
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p>여행상품 예약 방법은 크게</p><br><p><b>예약상품 선택▶예약확인▶결제하기</b>의 순서로 진행됩니다.</p><br><p>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"60"}]}
+*************************************
+접속일 :  2021-02-08 15:45:34
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 예약한 담에 결제 어떻게 해요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "예약한 담에 결제 어떻게 해요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : INS01_INS01_INS01_192
+ que_id2 : PAY09_PAY09_PAY09_189
+ que_id3 : 4F3EA5F5_46FF_89AA_187
+ que_id4 : TO03_TO03_TO03_195
+ que_id5 : PAY02_PAY02_PAY02_189
+ que_id6 : PAY01_PAY01_PAY01_189
+ que_id7 : PAY03_PAY03_PAY03_189
+ que_id8 : TO07_TO07_TO07_195
+ que_id9 : TO06_TO06_TO06_195
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : INS01_INS01_INS01
+ scn_que_id2 : PAY09_PAY09_PAY09
+ scn_que_id3 : 4F3EA5F5_46FF_89AA
+ scn_que_id4 : TO03_TO03_TO03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-08 16:27:05
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 신용카드 결제 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "신용카드 결제 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  6CF1403C_6F66_9AE6_189
+ que_id1 : PAY09_PAY09_PAY09_189
+ que_id2 : 1D14BC63_BCE3_F249_187
+ que_id3 : 6CF1403C_6F66_9AE6_60
+ que_id4 : PAY12_PAY12_PAY12_189
+ que_id5 : PAY02_PAY02_PAY02_189
+ que_id6 : PAY03_PAY03_PAY03_189
+ que_id7 : TO06_TO06_TO06_195
+ que_id8 : PAY06_PAY06_PAY06_189
+ que_id9 : SNS04_SNS04_SNS04_191
+ scn_que_id : 6CF1403C_6F66_9AE6
+ scn_que_id1 : PAY09_PAY09_PAY09
+ scn_que_id2 : 1D14BC63_BCE3_F249
+ scn_que_id3 : 6CF1403C_6F66_9AE6
+ scn_que_id4 : PAY12_PAY12_PAY12
+ 확률 : 선택질문 확률 : 9067//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"6CF1403C","s2": "6F66","s3":"9AE6","s4":"189"}]}
+*************************************
+접속일 :  2021-02-08 16:27:21
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 신용카드 결제 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "신용카드 결제"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  6CF1403C_6F66_9AE6_60
+ que_id1 : PAY12_PAY12_PAY12_189
+ que_id2 : 6CF1403C_6F66_9AE6_189
+ que_id3 : PAY02_PAY02_PAY02_189
+ que_id4 : 1D14BC63_BCE3_F249_187
+ que_id5 : PAY09_PAY09_PAY09_189
+ que_id6 : PAY03_PAY03_PAY03_189
+ que_id7 : PAY06_PAY06_PAY06_189
+ que_id8 : PAY01_PAY01_PAY01_189
+ que_id9 : PAY05_PAY05_PAY05_189
+ scn_que_id : 6CF1403C_6F66_9AE6
+ scn_que_id1 : PAY12_PAY12_PAY12
+ scn_que_id2 : 6CF1403C_6F66_9AE6
+ scn_que_id3 : PAY02_PAY02_PAY02
+ scn_que_id4 : 1D14BC63_BCE3_F249
+ 확률 : 선택질문 확률 : 7993//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>신용카드 결제 방법에 대해 안내해드릴게요!</span></p><br><p><span style=font-family: Verdana, sans-serif;>||아래 버튼을 클릭하시면 자세한 내용을 확인하실 수 있어요!</span><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>(｡•̀ᴗ-)✧</span></font></p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"6CF1403C","s2": "6F66","s3":"9AE6","s4":"60"}]}
+*************************************
+접속일 :  2021-02-08 16:28:20
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 신용카드 결제방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "신용카드 결제방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  6CF1403C_6F66_9AE6_189
+ que_id1 : PAY09_PAY09_PAY09_189
+ que_id2 : 1D14BC63_BCE3_F249_187
+ que_id3 : PAY12_PAY12_PAY12_189
+ que_id4 : PAY02_PAY02_PAY02_189
+ que_id5 : PAY03_PAY03_PAY03_189
+ que_id6 : TO06_TO06_TO06_195
+ que_id7 : PAY06_PAY06_PAY06_189
+ que_id8 : SNS04_SNS04_SNS04_191
+ que_id9 : TO04_TO04_TO04_195
+ scn_que_id : 6CF1403C_6F66_9AE6
+ scn_que_id1 : PAY09_PAY09_PAY09
+ scn_que_id2 : 1D14BC63_BCE3_F249
+ scn_que_id3 : PAY12_PAY12_PAY12
+ scn_que_id4 : PAY02_PAY02_PAY02
+ 확률 : 선택질문 확률 : 9067//2500
+{"answercode":"", "ai_msg": "<p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>신용카드 결제 방법에 대해 안내해드릴게요!</span></font></p><p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>||아래 버튼을 클릭하시면 자세한 내용을 확인하실 수 있어요!(｡•̀ᴗ-)✧</span></font></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"6CF1403C","s2": "6F66","s3":"9AE6","s4":"189"}]}
+*************************************
+접속일 :  2021-02-08 16:28:46
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 취소 수수료 얼마에요? || 질문아이디1 : 6CF1403C || 질문아이디2 : 6F66 || 질문아이디3 : 9AE6 || 질문아이디4 : 189
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "취소 수수료 얼마에요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  270EEA5B_D940_DA21_192
+ que_id1 : PAY07_PAY07_PAY07_189
+ que_id2 : BA22D1E4_9E0B_A833_188
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : DIS07_DIS07_DIS07_190
+ que_id5 : TO09_TO09_TO09_195
+ que_id6 : DIS06_DIS06_DIS06_190
+ que_id7 : PAY02_PAY02_PAY02_189
+ que_id8 : TO01_TO01_TO01_195
+ que_id9 : DIS04_DIS04_DIS04_190
+ scn_que_id : 270EEA5B_D940_DA21
+ scn_que_id1 : PAY07_PAY07_PAY07
+ scn_que_id2 : BA22D1E4_9E0B_A833
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : DIS07_DIS07_DIS07
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"270EEA5B","s2": "D940","s3":"DA21","s4":"192"}]}
+*************************************
+접속일 :  2021-02-08 17:19:35
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 청량리 출발인데 어디서 모여요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "청량리 출발인데 어디서 모여요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST02_#ST02_#ST02_193
+ que_id1 : TO04_TO04_TO04_195
+ que_id2 : TO10_TO10_TO10_195
+ que_id3 : BA22D1E4_9E0B_A833_188
+ que_id4 : BD01_BD01_BD01_193
+ que_id5 : B1B9228A_D65B_7740_188
+ que_id6 : TO01_TO01_TO01_195
+ que_id7 : 1D14BC63_BCE3_F249_187
+ que_id8 : TO02_TO02_TO02_195
+ que_id9 : #ST01_#ST01_#ST01_193
+ scn_que_id : #ST02_#ST02_#ST02
+ scn_que_id1 : TO04_TO04_TO04
+ scn_que_id2 : TO10_TO10_TO10
+ scn_que_id3 : BA22D1E4_9E0B_A833
+ scn_que_id4 : BD01_BD01_BD01
+ 확률 : 선택질문 확률 : 6574//2500
+{"answercode":"1", "ai_msg": "기차여행 미팅 장소 | 티켓수령 방법 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#ST02","s2": "#ST02","s3":"#ST02","s4":"193"},{"s1":"TO04","s2": "TO04","s3":"TO04","s4":"195"}]}
+*************************************
+접속일 :  2021-02-08 17:19:41
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 2 || 질문내용 : 기차여행 미팅 장소 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "기차여행 미팅 장소"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST02_#ST02_#ST02_193
+ que_id1 : BD01_BD01_BD01_193
+ que_id2 : BD04_BD04_BD04_193
+ que_id3 : DIS04_DIS04_DIS04_190
+ que_id4 : TO04_TO04_TO04_195
+ que_id5 : TO07_TO07_TO07_195
+ que_id6 : 705FB289_220B_7901_188
+ que_id7 : PR02_PR02_PR02_197
+ que_id8 : 1D14BC63_BCE3_F249_187
+ que_id9 : BA22D1E4_9E0B_A833_188
+ scn_que_id : #ST02_#ST02_#ST02
+ scn_que_id1 : BD01_BD01_BD01
+ scn_que_id2 : BD04_BD04_BD04
+ scn_que_id3 : DIS04_DIS04_DIS04
+ scn_que_id4 : TO04_TO04_TO04
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>여행 전 모이는 장소를 안내해드립니다!<BR></p><p>출발하시는 역을 선택해주세요!</p><p><br></p><p>$$$▶서울역</p><p>$$$▶용산역</p><p>$$$▶청량리역</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST02","s2": "#ST02","s3":"#ST02","s4":"193"}]}
+*************************************
+접속일 :  2021-02-08 17:19:47
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST023_#ST023_#ST023_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST023_#ST023_#ST023
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>미팅장소: 청량리역 3층 대합실 여행센터 앞 홍익여행사 피켓 앞 집결</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-08 17:21:21
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 구리 출발 울릉도 셔틀버스 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "구리 출발 울릉도 셔틀버스"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST01_#ST01_#ST01_193
+ que_id1 : TO10_TO10_TO10_195
+ que_id2 : BA22D1E4_9E0B_A833_188
+ que_id3 : BD01_BD01_BD01_193
+ que_id4 : B1B9228A_D65B_7740_188
+ que_id5 : TO01_TO01_TO01_195
+ que_id6 : #ST02_#ST02_#ST02_193
+ que_id7 : 6CF1403C_6F66_9AE6_189
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST01_#ST01_#ST01
+ scn_que_id1 : TO10_TO10_TO10
+ scn_que_id2 : BA22D1E4_9E0B_A833
+ scn_que_id3 : BD01_BD01_BD01
+ scn_que_id4 : B1B9228A_D65B_7740
+ 확률 : 선택질문 확률 : 5256//2500
+{"answercode":"1", "ai_msg": "울릉도 셔틀버스 탑승장소 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#ST01","s2": "#ST01","s3":"#ST01","s4":"193"}]}
+*************************************
+접속일 :  2021-02-08 17:21:26
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 2 || 질문내용 : 울릉도 셔틀버스 탑승장소 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "울릉도 셔틀버스 탑승장소"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST01_#ST01_#ST01_193
+ que_id1 : TO08_TO08_TO08_195
+ que_id2 : TO06_TO06_TO06_195
+ que_id3 : #ST02_#ST02_#ST02_193
+ que_id4 : TO09_TO09_TO09_195
+ que_id5 : BD01_BD01_BD01_193
+ que_id6 : BD06_BD06_BD06_193
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST01_#ST01_#ST01
+ scn_que_id1 : TO08_TO08_TO08
+ scn_que_id2 : TO06_TO06_TO06
+ scn_que_id3 : #ST02_#ST02_#ST02
+ scn_que_id4 : TO09_TO09_TO09
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>출발하시는 지역에 따라 탑승장소가 다릅니다.<BR></p><p>여행 전, 가까운 탑승장소를 확인해주세요!</p><p>||출발지를 선택하시면 탑승장소를 안내해드리겠습니다.&nbsp;(๑•͈ᴗ•͈)</p><p>$$$▶일산</p><p>$$$▶영등포</p><p>$$$▶시청</p><p>$$$▶잠실</p><p>$$$▶부평</p><p>$$$▶송내</p><p>$$$▶안양</p><p>$$$▶수원</p><p>$$$▶노원</p><p>$$$▶구리</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST01","s2": "#ST01","s3":"#ST01","s4":"193"}]}
+*************************************
+접속일 :  2021-02-08 17:21:33
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 10 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST010_#ST010_#ST010_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST010_#ST010_#ST010
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>구리에서 출발하시는 분들은 <b>구리 롯데백화점 맞은편 전자랜드 앞</b>에서 탑승하실 수 있습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-08 17:21:55
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 서울역에서 출발하는데 어디서 모여요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "서울역에서 출발하는데 어디서 모여요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST02_#ST02_#ST02_193
+ que_id1 : #ST01_#ST01_#ST01_193
+ que_id2 : TO10_TO10_TO10_195
+ que_id3 : BA22D1E4_9E0B_A833_188
+ que_id4 : BD01_BD01_BD01_193
+ que_id5 : B1B9228A_D65B_7740_188
+ que_id6 : TO01_TO01_TO01_195
+ que_id7 : 1D14BC63_BCE3_F249_187
+ que_id8 : TO04_TO04_TO04_195
+ que_id9 : TO02_TO02_TO02_195
+ scn_que_id : #ST02_#ST02_#ST02
+ scn_que_id1 : #ST01_#ST01_#ST01
+ scn_que_id2 : TO10_TO10_TO10
+ scn_que_id3 : BA22D1E4_9E0B_A833
+ scn_que_id4 : BD01_BD01_BD01
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>여행 전 모이는 장소를 안내해드립니다!<BR></p><p>출발하시는 역을 선택해주세요!</p><p><br></p><p>$$$▶서울역</p><p>$$$▶용산역</p><p>$$$▶청량리역</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST02","s2": "#ST02","s3":"#ST02","s4":"193"}]}
+*************************************
+접속일 :  2021-02-08 17:22:01
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST021_#ST021_#ST021_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST021_#ST021_#ST021
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>미팅장소: 서울역 3층 대합실 매표소 앞 홍익여행사 피켓 앞 집결</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}

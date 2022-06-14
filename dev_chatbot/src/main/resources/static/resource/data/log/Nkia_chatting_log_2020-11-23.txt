@@ -1,0 +1,1396 @@
+*************************************
+접속일 :  2020-11-23 09:55:07
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 업무문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "업무문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : #o8_#o8_#o8_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : #o8_#o8_#o8
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>업무 문의 관련 질문 카테고리 입니다.<br></p><p>원하는 내용을 선택하거나 직접 입력해주세요.&nbsp;</p><p>$$$▶설치관련</p><p>$$$▶작업관련</p><p>$$$▶라이선스 관련</p><p>$$$▶서류/파일 요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 09:55:12
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #W1 || 질문아이디2 : #W2 || 질문아이디3 : #W3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #w3_#w3_#w3_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w3_#w3_#w3
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>어떤 점이 궁금하신가요?</p><p>$$$Flash EOS</p><p>$$$장비IP 변경작업 지원</p><p>$$$PM 작업 지원</p><p>$$$시스템 오픈 모니터링 지원</p><p>$$$서버 및 DB 이관 작업 지원</p><p>$$$&gt; 다음 목록</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#w3","s2": "#w3","s3":"#w3","s4":""}]}
+*************************************
+접속일 :  2020-11-23 09:55:16
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 3 || 질문내용 : 6 || 질문아이디1 : #w3 || 질문아이디2 : #w3 || 질문아이디3 : #w3 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #w355_#w355_#w355_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w355_#w355_#w355
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>다음 목록으로 넘어갑니다.</p><p>$$$보안 취약성 점검결과 조치</p><p>$$$추가 기능 개발</p><p>$$$타시스템 및 내부시스템</p><p>데이터 연동</p><p>$$$업무 협의</p><p>$$$데이터 마이그레이션</p><p>$$$&lt; 이전 목록</p><p>$$$&gt; 다음 목록</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#w355","s2": "#w355","s3":"#w355","s4":""}]}
+*************************************
+접속일 :  2020-11-23 09:55:19
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #w355 || 질문아이디2 : #w355 || 질문아이디3 : #w355 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #w3552_#w3552_#w3552_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w3552_#w3552_#w3552
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>첨부된 서식을 다운로드 하여<br>추가적으로 필요한 기능을 작성해주세요.</p><p>||작성한 파일을 저에게 보내주시면<br>내용 확인 후 연락드리겠습니다.</p><p>||파일을 보내실 때에는 <b><u>요구사항 정의서 발송</u></b>을 입력해주세요.<br></p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-23 09:55:30
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 추가기능 개발 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "추가기능 개발"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  77A403AA_846A_1D43_137
+ que_id1 : #o13_#o13_#o13_137
+ que_id2 : 0CD3EB61_81AE_981C_137
+ que_id3 : #l1_#l1_#l1_137
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 77A403AA_846A_1D43
+ scn_que_id1 : #o13_#o13_#o13
+ scn_que_id2 : 0CD3EB61_81AE_981C
+ scn_que_id3 : #l1_#l1_#l1
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p style=box-sizing: border-box; margin-bottom: 10px; color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>첨부된 서식을 다운로드 하여<br style=box-sizing: border-box;>추가적으로 필요한 기능을 작성해주세요.</p><p style=box-sizing: border-box; margin-bottom: 10px; color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>||작성한 파일을 저에게 보내주시면</p><p style=box-sizing: border-box; margin-bottom: 10px; color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>내용 확인 후 연락드리겠습니다.</p><p style=box-sizing: border-box; margin-bottom: 10px; color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>||파일을 보내실 때에는&nbsp;<b style=box-sizing: border-box;><u style=box-sizing: border-box;>요구사항 정의서 발송</u></b>을 입력해주세요.</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"77A403AA","s2": "846A","s3":"1D43","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 09:57:59
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 업무문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "업무문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : #o8_#o8_#o8_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : #o8_#o8_#o8
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>업무 문의 관련 질문 카테고리 입니다.<br></p><p>원하는 내용을 선택하거나 직접 입력해주세요.&nbsp;</p><p>$$$▶설치관련</p><p>$$$▶작업관련</p><p>$$$▶라이선스 관련</p><p>$$$▶서류/파일 요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 09:58:02
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #W1 || 질문아이디2 : #W2 || 질문아이디3 : #W3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #w3_#w3_#w3_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w3_#w3_#w3
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>어떤 점이 궁금하신가요?</p><p>$$$Flash EOS</p><p>$$$장비IP 변경작업 지원</p><p>$$$PM 작업 지원</p><p>$$$시스템 오픈 모니터링 지원</p><p>$$$서버 및 DB 이관 작업 지원</p><p>$$$&gt; 다음 목록</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#w3","s2": "#w3","s3":"#w3","s4":""}]}
+*************************************
+접속일 :  2020-11-23 09:58:05
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 3 || 질문내용 : 6 || 질문아이디1 : #w3 || 질문아이디2 : #w3 || 질문아이디3 : #w3 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #w355_#w355_#w355_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w355_#w355_#w355
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>다음 목록으로 넘어갑니다.</p><p>$$$보안 취약성 점검결과 조치</p><p>$$$추가 기능 개발</p><p>$$$타시스템 및 내부시스템</p><p>데이터 연동</p><p>$$$업무 협의</p><p>$$$데이터 마이그레이션</p><p>$$$&lt; 이전 목록</p><p>$$$&gt; 다음 목록</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#w355","s2": "#w355","s3":"#w355","s4":""}]}
+*************************************
+접속일 :  2020-11-23 09:58:08
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #w355 || 질문아이디2 : #w355 || 질문아이디3 : #w355 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #w3552_#w3552_#w3552_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w3552_#w3552_#w3552
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>첨부된 서식을 다운로드 하여<br>추가적으로 필요한 기능을 작성해주세요.</p><p>||작성한 파일을 저에게 보내주시면<br>내용 확인 후 연락드리겠습니다.</p><p>||파일을 보내실 때에는 <b><u>요구사항 정의서 발송</u></b>을 입력해주세요.<br></p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-23 10:02:58
+유저아이디 :  d164588f-9716-4eba-b92a-e119fb382082
+메시지 구분: 0 || 질문내용 : 업무문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "업무문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : #o8_#o8_#o8_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : #o8_#o8_#o8
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>업무 문의 관련 질문 카테고리 입니다.<br></p><p>원하는 내용을 선택하거나 직접 입력해주세요.&nbsp;</p><p>$$$▶설치관련</p><p>$$$▶작업관련</p><p>$$$▶라이선스 관련</p><p>$$$▶서류/파일 요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 10:03:02
+유저아이디 :  d164588f-9716-4eba-b92a-e119fb382082
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #W1 || 질문아이디2 : #W2 || 질문아이디3 : #W3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #w3_#w3_#w3_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w3_#w3_#w3
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>어떤 점이 궁금하신가요?</p><p>$$$Flash EOS</p><p>$$$장비IP 변경작업 지원</p><p>$$$PM 작업 지원</p><p>$$$시스템 오픈 모니터링 지원</p><p>$$$서버 및 DB 이관 작업 지원</p><p>$$$&gt; 다음 목록</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#w3","s2": "#w3","s3":"#w3","s4":""}]}
+*************************************
+접속일 :  2020-11-23 10:03:06
+유저아이디 :  d164588f-9716-4eba-b92a-e119fb382082
+메시지 구분: 3 || 질문내용 : 6 || 질문아이디1 : #w3 || 질문아이디2 : #w3 || 질문아이디3 : #w3 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #w355_#w355_#w355_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w355_#w355_#w355
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>다음 목록으로 넘어갑니다.</p><p>$$$보안 취약성 점검결과 조치</p><p>$$$추가 기능 개발</p><p>$$$타시스템 및 내부시스템</p><p>데이터 연동</p><p>$$$업무 협의</p><p>$$$데이터 마이그레이션</p><p>$$$&lt; 이전 목록</p><p>$$$&gt; 다음 목록</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#w355","s2": "#w355","s3":"#w355","s4":""}]}
+*************************************
+접속일 :  2020-11-23 10:03:09
+유저아이디 :  d164588f-9716-4eba-b92a-e119fb382082
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #w355 || 질문아이디2 : #w355 || 질문아이디3 : #w355 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #w3552_#w3552_#w3552_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w3552_#w3552_#w3552
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>첨부된 서식을 다운로드 하여<br>추가적으로 필요한 기능을 작성해주세요.</p><p>||작성한 파일을 저에게 보내주시면<br>내용 확인 후 연락드리겠습니다.</p><p>||파일을 보내실 때에는 <b><u>요구사항 정의서 발송</u></b>을 입력해주세요.<br></p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-23 10:29:02
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 추가 설치 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "추가 설치"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #t4_#t4_#t4_137
+ que_id1 : #o10_#o10_#o10_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #t4_#t4_#t4
+ scn_que_id1 : #o10_#o10_#o10
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 6941//2500
+{"answercode":"1", "ai_msg": "SMS, NMS, DPM, WPM 추가 설치 | 디스크 증설 작업 지원 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#t4","s2": "#t4","s3":"#t4","s4":"137"},{"s1":"#o10","s2": "#o10","s3":"#o10","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 10:29:25
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 2 || 질문내용 : 재설치 || 질문아이디1 : #t4,#o10 || 질문아이디2 : #t4,#o10 || 질문아이디3 : #t4,#o10 || 질문아이디4 : 137,137
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2020-11-23 10:29:26
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 1 || 질문내용 : 재설치 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "재설치"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  F24A854F_44F5_0DF6_137
+ que_id1 : #t3_#t3_#t3_137
+ que_id2 : #o14_#o14_#o14_137
+ que_id3 : 20F96331_0803_7405_137
+ que_id4 : 4C3CA691_E983_301C_137
+ que_id5 : ER7_ER71_ER711_139
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : F24A854F_44F5_0DF6
+ scn_que_id1 : #t3_#t3_#t3
+ scn_que_id2 : #o14_#o14_#o14
+ scn_que_id3 : 20F96331_0803_7405
+ scn_que_id4 : 4C3CA691_E983_301C
+ 확률 : 선택질문 확률 : 4799//2500
+{"answercode":"1", "ai_msg": "설치 계획서 | SMS Agent 재설치 | 임시 라이센스 | 설치 파일 요청 | 제품 소개 및 Demo | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"F24A854F","s2": "44F5","s3":"0DF6","s4":"137"},{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"},{"s1":"#o14","s2": "#o14","s3":"#o14","s4":"137"},{"s1":"20F96331","s2": "0803","s3":"7405","s4":"137"},{"s1":"4C3CA691","s2": "E983","s3":"301C","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 10:29:29
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 2 || 질문내용 : SMS Agent 재설치 || 질문아이디1 : #t3 || 질문아이디2 : #t3 || 질문아이디3 : #t3 || 질문아이디4 : 137
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "SMS Agent 재설치"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #t3_#t3_#t3_137
+ que_id1 : F24A854F_44F5_0DF6_137
+ que_id2 : ER8_ER81_ER811_139
+ que_id3 : #o14_#o14_#o14_137
+ que_id4 : 20F96331_0803_7405_137
+ que_id5 : 4C3CA691_E983_301C_137
+ que_id6 : ER4_ER41_ER411_139
+ que_id7 : ER6_ER61_ER611_139
+ que_id8 : ER7_ER71_ER711_139
+ que_id9 : ___
+ scn_que_id : #t3_#t3_#t3
+ scn_que_id1 : F24A854F_44F5_0DF6
+ scn_que_id2 : ER8_ER81_ER811
+ scn_que_id3 : #o14_#o14_#o14
+ scn_que_id4 : 20F96331_0803_7405
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>SMS Agent 재설치 방법은 두가지가 있어요.<br>아래에서 원하시는 방법을 선택해주세요.</p><p>$$$챗봇으로 접수하기</p><p>$$$셀프 재설치</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 10:29:33
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #t3 || 질문아이디2 : #t3 || 질문아이디3 : #t3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #t32_#t32_#t32_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #t32_#t32_#t32
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래 방법으로 자체 설치 가능합니다.<br>매뉴얼을 참고해주세요.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-23 10:53:55
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 재설치 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "재설치"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  F24A854F_44F5_0DF6_137
+ que_id1 : #t3_#t3_#t3_137
+ que_id2 : #o14_#o14_#o14_137
+ que_id3 : 20F96331_0803_7405_137
+ que_id4 : 4C3CA691_E983_301C_137
+ que_id5 : ER7_ER71_ER711_139
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : F24A854F_44F5_0DF6
+ scn_que_id1 : #t3_#t3_#t3
+ scn_que_id2 : #o14_#o14_#o14
+ scn_que_id3 : 20F96331_0803_7405
+ scn_que_id4 : 4C3CA691_E983_301C
+ 확률 : 선택질문 확률 : 4799//2500
+{"answercode":"1", "ai_msg": "설치 계획서 | SMS Agent 재설치 | 임시 라이센스 | 설치 파일 요청 | 제품 소개 및 Demo | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"F24A854F","s2": "44F5","s3":"0DF6","s4":"137"},{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"},{"s1":"#o14","s2": "#o14","s3":"#o14","s4":"137"},{"s1":"20F96331","s2": "0803","s3":"7405","s4":"137"},{"s1":"4C3CA691","s2": "E983","s3":"301C","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 10:53:59
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 2 || 질문내용 : SMS Agent 재설치 || 질문아이디1 : #t3 || 질문아이디2 : #t3 || 질문아이디3 : #t3 || 질문아이디4 : 137
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "SMS Agent 재설치"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #t3_#t3_#t3_137
+ que_id1 : F24A854F_44F5_0DF6_137
+ que_id2 : ER8_ER81_ER811_139
+ que_id3 : #o14_#o14_#o14_137
+ que_id4 : 20F96331_0803_7405_137
+ que_id5 : 4C3CA691_E983_301C_137
+ que_id6 : ER4_ER41_ER411_139
+ que_id7 : ER6_ER61_ER611_139
+ que_id8 : ER7_ER71_ER711_139
+ que_id9 : ___
+ scn_que_id : #t3_#t3_#t3
+ scn_que_id1 : F24A854F_44F5_0DF6
+ scn_que_id2 : ER8_ER81_ER811
+ scn_que_id3 : #o14_#o14_#o14
+ scn_que_id4 : 20F96331_0803_7405
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>SMS Agent 재설치 방법은 두가지가 있어요.<br>아래에서 원하시는 방법을 선택해주세요.</p><p>$$$챗봇으로 접수하기</p><p>$$$셀프 재설치</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 10:54:02
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #t3 || 질문아이디2 : #t3 || 질문아이디3 : #t3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #t32_#t32_#t32_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #t32_#t32_#t32
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래 방법으로 자체 설치 가능합니다.<br>매뉴얼을 참고해주세요.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-23 10:57:02
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 재설치 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "재설치"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  F24A854F_44F5_0DF6_137
+ que_id1 : #t3_#t3_#t3_137
+ que_id2 : #o14_#o14_#o14_137
+ que_id3 : 20F96331_0803_7405_137
+ que_id4 : 4C3CA691_E983_301C_137
+ que_id5 : ER7_ER71_ER711_139
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : F24A854F_44F5_0DF6
+ scn_que_id1 : #t3_#t3_#t3
+ scn_que_id2 : #o14_#o14_#o14
+ scn_que_id3 : 20F96331_0803_7405
+ scn_que_id4 : 4C3CA691_E983_301C
+ 확률 : 선택질문 확률 : 4799//2500
+{"answercode":"1", "ai_msg": "설치 계획서 | SMS Agent 재설치 | 임시 라이센스 | 설치 파일 요청 | 제품 소개 및 Demo | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"F24A854F","s2": "44F5","s3":"0DF6","s4":"137"},{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"},{"s1":"#o14","s2": "#o14","s3":"#o14","s4":"137"},{"s1":"20F96331","s2": "0803","s3":"7405","s4":"137"},{"s1":"4C3CA691","s2": "E983","s3":"301C","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 10:57:22
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 2 || 질문내용 : SMS Agent 재설치 || 질문아이디1 : #t3 || 질문아이디2 : #t3 || 질문아이디3 : #t3 || 질문아이디4 : 137
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "SMS Agent 재설치"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #t3_#t3_#t3_137
+ que_id1 : F24A854F_44F5_0DF6_137
+ que_id2 : ER8_ER81_ER811_139
+ que_id3 : #o14_#o14_#o14_137
+ que_id4 : 20F96331_0803_7405_137
+ que_id5 : 4C3CA691_E983_301C_137
+ que_id6 : ER4_ER41_ER411_139
+ que_id7 : ER6_ER61_ER611_139
+ que_id8 : ER7_ER71_ER711_139
+ que_id9 : ___
+ scn_que_id : #t3_#t3_#t3
+ scn_que_id1 : F24A854F_44F5_0DF6
+ scn_que_id2 : ER8_ER81_ER811
+ scn_que_id3 : #o14_#o14_#o14
+ scn_que_id4 : 20F96331_0803_7405
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>SMS Agent 재설치 방법은 두가지가 있어요.<br>아래에서 원하시는 방법을 선택해주세요.</p><p>$$$챗봇으로 접수하기</p><p>$$$셀프 재설치</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 10:57:34
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #t3 || 질문아이디2 : #t3 || 질문아이디3 : #t3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #t32_#t32_#t32_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #t32_#t32_#t32
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래 방법으로 자체 설치 가능합니다.<br>매뉴얼을 참고해주세요.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-23 12:34:49
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 공통 모니터 템플릿 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "공통 모니터 템플릿"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  B1C3D83A_8C3A_9B3D_137
+ que_id1 : FC24_FC241_FC2411_138
+ que_id2 : FC18_FC181_FC1811_138
+ que_id3 : FC21_FC211_FC2111_138
+ que_id4 : FC22_FC221_FC2211_138
+ que_id5 : FC25_FC251_FC2511_138
+ que_id6 : FC19_FC191_FC1911_138
+ que_id7 : #FC14_#FC141_#FC1411_138
+ que_id8 : FC26_FC261_FC2611_138
+ que_id9 : FC23_FC231_FC2311_138
+ scn_que_id : B1C3D83A_8C3A_9B3D
+ scn_que_id1 : FC24_FC241_FC2411
+ scn_que_id2 : FC18_FC181_FC1811
+ scn_que_id3 : FC21_FC211_FC2111
+ scn_que_id4 : FC22_FC221_FC2211
+ 확률 : 선택질문 확률 : 9326//2500
+{"answercode":"", "ai_msg": "<p>모듈별 기본 모니터 템플릿을 제공해드립니다.</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"B1C3D83A","s2": "8C3A","s3":"9B3D","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 13:21:37
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 0 || 질문내용 : 재설치 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "재설치"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  F24A854F_44F5_0DF6_137
+ que_id1 : #t3_#t3_#t3_137
+ que_id2 : #o14_#o14_#o14_137
+ que_id3 : 20F96331_0803_7405_137
+ que_id4 : 4C3CA691_E983_301C_137
+ que_id5 : ER7_ER71_ER711_139
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : F24A854F_44F5_0DF6
+ scn_que_id1 : #t3_#t3_#t3
+ scn_que_id2 : #o14_#o14_#o14
+ scn_que_id3 : 20F96331_0803_7405
+ scn_que_id4 : 4C3CA691_E983_301C
+ 확률 : 선택질문 확률 : 4799//2500
+{"answercode":"1", "ai_msg": "설치 계획서 | SMS Agent 재설치 | 임시 라이센스 | 설치 파일 요청 | 제품 소개 및 Demo | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"F24A854F","s2": "44F5","s3":"0DF6","s4":"137"},{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"},{"s1":"#o14","s2": "#o14","s3":"#o14","s4":"137"},{"s1":"20F96331","s2": "0803","s3":"7405","s4":"137"},{"s1":"4C3CA691","s2": "E983","s3":"301C","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 13:21:43
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 2 || 질문내용 : SMS Agent 재설치 || 질문아이디1 : #t3 || 질문아이디2 : #t3 || 질문아이디3 : #t3 || 질문아이디4 : 137
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "SMS Agent 재설치"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #t3_#t3_#t3_137
+ que_id1 : F24A854F_44F5_0DF6_137
+ que_id2 : ER8_ER81_ER811_139
+ que_id3 : #o14_#o14_#o14_137
+ que_id4 : 20F96331_0803_7405_137
+ que_id5 : 4C3CA691_E983_301C_137
+ que_id6 : ER4_ER41_ER411_139
+ que_id7 : ER6_ER61_ER611_139
+ que_id8 : ER7_ER71_ER711_139
+ que_id9 : ___
+ scn_que_id : #t3_#t3_#t3
+ scn_que_id1 : F24A854F_44F5_0DF6
+ scn_que_id2 : ER8_ER81_ER811
+ scn_que_id3 : #o14_#o14_#o14
+ scn_que_id4 : 20F96331_0803_7405
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>SMS Agent 재설치 방법은 두가지가 있어요.<br>아래에서 원하시는 방법을 선택해주세요.</p><p>$$$챗봇으로 접수하기</p><p>$$$셀프 재설치</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 13:21:46
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #t3 || 질문아이디2 : #t3 || 질문아이디3 : #t3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #t32_#t32_#t32_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #t32_#t32_#t32
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래 방법으로 자체 설치 가능합니다.<br>매뉴얼을 참고해주세요.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-23 13:22:43
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 0 || 질문내용 : 재설치 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "재설치"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  F24A854F_44F5_0DF6_137
+ que_id1 : #t3_#t3_#t3_137
+ que_id2 : #o14_#o14_#o14_137
+ que_id3 : 20F96331_0803_7405_137
+ que_id4 : 4C3CA691_E983_301C_137
+ que_id5 : ER7_ER71_ER711_139
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : F24A854F_44F5_0DF6
+ scn_que_id1 : #t3_#t3_#t3
+ scn_que_id2 : #o14_#o14_#o14
+ scn_que_id3 : 20F96331_0803_7405
+ scn_que_id4 : 4C3CA691_E983_301C
+ 확률 : 선택질문 확률 : 4799//2500
+{"answercode":"1", "ai_msg": "설치 계획서 | SMS Agent 재설치 | 임시 라이센스 | 설치 파일 요청 | 제품 소개 및 Demo | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"F24A854F","s2": "44F5","s3":"0DF6","s4":"137"},{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"},{"s1":"#o14","s2": "#o14","s3":"#o14","s4":"137"},{"s1":"20F96331","s2": "0803","s3":"7405","s4":"137"},{"s1":"4C3CA691","s2": "E983","s3":"301C","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 13:22:46
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 2 || 질문내용 : SMS Agent 재설치 || 질문아이디1 : #t3 || 질문아이디2 : #t3 || 질문아이디3 : #t3 || 질문아이디4 : 137
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "SMS Agent 재설치"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #t3_#t3_#t3_137
+ que_id1 : F24A854F_44F5_0DF6_137
+ que_id2 : ER8_ER81_ER811_139
+ que_id3 : #o14_#o14_#o14_137
+ que_id4 : 20F96331_0803_7405_137
+ que_id5 : 4C3CA691_E983_301C_137
+ que_id6 : ER4_ER41_ER411_139
+ que_id7 : ER6_ER61_ER611_139
+ que_id8 : ER7_ER71_ER711_139
+ que_id9 : ___
+ scn_que_id : #t3_#t3_#t3
+ scn_que_id1 : F24A854F_44F5_0DF6
+ scn_que_id2 : ER8_ER81_ER811
+ scn_que_id3 : #o14_#o14_#o14
+ scn_que_id4 : 20F96331_0803_7405
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>SMS Agent 재설치 방법은 두가지가 있어요.<br>아래에서 원하시는 방법을 선택해주세요.</p><p>$$$챗봇으로 접수하기</p><p>$$$셀프 재설치</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 13:22:50
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #t3 || 질문아이디2 : #t3 || 질문아이디3 : #t3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #t32_#t32_#t32_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #t32_#t32_#t32
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래 방법으로 자체 설치 가능합니다.<br>매뉴얼을 참고해주세요.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-23 13:26:31
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 0 || 질문내용 : 업무문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "업무문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : #o8_#o8_#o8_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : #o8_#o8_#o8
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>업무 문의 관련 질문 카테고리 입니다.<br></p><p>원하는 내용을 선택하거나 직접 입력해주세요.&nbsp;</p><p>$$$▶설치관련</p><p>$$$▶작업관련</p><p>$$$▶라이선스 관련</p><p>$$$▶서류/파일 요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 13:26:35
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #W1 || 질문아이디2 : #W2 || 질문아이디3 : #W3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #w3_#w3_#w3_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w3_#w3_#w3
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>어떤 점이 궁금하신가요?</p><p>$$$Flash EOS</p><p>$$$장비IP 변경작업 지원</p><p>$$$PM 작업 지원</p><p>$$$시스템 오픈 모니터링 지원</p><p>$$$서버 및 DB 이관 작업 지원</p><p>$$$&gt; 다음 목록</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#w3","s2": "#w3","s3":"#w3","s4":""}]}
+*************************************
+접속일 :  2020-11-23 13:30:46
+유저아이디 :  bb686696-143e-45a0-9b9f-5a1af0b9830a
+메시지 구분: 0 || 질문내용 : 재설치 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "재설치"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  F24A854F_44F5_0DF6_137
+ que_id1 : #t3_#t3_#t3_137
+ que_id2 : #o14_#o14_#o14_137
+ que_id3 : 20F96331_0803_7405_137
+ que_id4 : 4C3CA691_E983_301C_137
+ que_id5 : ER7_ER71_ER711_139
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : F24A854F_44F5_0DF6
+ scn_que_id1 : #t3_#t3_#t3
+ scn_que_id2 : #o14_#o14_#o14
+ scn_que_id3 : 20F96331_0803_7405
+ scn_que_id4 : 4C3CA691_E983_301C
+ 확률 : 선택질문 확률 : 4799//2500
+{"answercode":"1", "ai_msg": "설치 계획서 | SMS Agent 재설치 | 임시 라이센스 | 설치 파일 요청 | 제품 소개 및 Demo | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"F24A854F","s2": "44F5","s3":"0DF6","s4":"137"},{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"},{"s1":"#o14","s2": "#o14","s3":"#o14","s4":"137"},{"s1":"20F96331","s2": "0803","s3":"7405","s4":"137"},{"s1":"4C3CA691","s2": "E983","s3":"301C","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 16:45:30
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : agent 재설치 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "agent 재설치"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #t3_#t3_#t3_137
+ que_id1 : F24A854F_44F5_0DF6_137
+ que_id2 : ER8_ER81_ER811_139
+ que_id3 : #o14_#o14_#o14_137
+ que_id4 : 20F96331_0803_7405_137
+ que_id5 : 4C3CA691_E983_301C_137
+ que_id6 : ER4_ER41_ER411_139
+ que_id7 : ER6_ER61_ER611_139
+ que_id8 : ER7_ER71_ER711_139
+ que_id9 : ___
+ scn_que_id : #t3_#t3_#t3
+ scn_que_id1 : F24A854F_44F5_0DF6
+ scn_que_id2 : ER8_ER81_ER811
+ scn_que_id3 : #o14_#o14_#o14
+ scn_que_id4 : 20F96331_0803_7405
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>SMS Agent 재설치 방법은 두가지가 있어요.<br>아래에서 원하시는 방법을 선택해주세요.</p><p>$$$챗봇으로 접수하기</p><p>$$$셀프 재설치</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 16:45:35
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #t3 || 질문아이디2 : #t3 || 질문아이디3 : #t3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #t32_#t32_#t32_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #t32_#t32_#t32
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래 방법으로 자체 설치 가능합니다.<br>매뉴얼을 참고해주세요.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-23 16:48:39
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : agent 재설치 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "agent 재설치"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #t3_#t3_#t3_137
+ que_id1 : F24A854F_44F5_0DF6_137
+ que_id2 : ER8_ER81_ER811_139
+ que_id3 : #o14_#o14_#o14_137
+ que_id4 : 20F96331_0803_7405_137
+ que_id5 : 4C3CA691_E983_301C_137
+ que_id6 : ER4_ER41_ER411_139
+ que_id7 : ER6_ER61_ER611_139
+ que_id8 : ER7_ER71_ER711_139
+ que_id9 : ___
+ scn_que_id : #t3_#t3_#t3
+ scn_que_id1 : F24A854F_44F5_0DF6
+ scn_que_id2 : ER8_ER81_ER811
+ scn_que_id3 : #o14_#o14_#o14
+ scn_que_id4 : 20F96331_0803_7405
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>SMS Agent 재설치 방법은 두가지가 있어요.<br>아래에서 원하시는 방법을 선택해주세요.</p><p>$$$챗봇으로 접수하기</p><p>$$$셀프 재설치</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 16:48:42
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #t3 || 질문아이디2 : #t3 || 질문아이디3 : #t3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #t32_#t32_#t32_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #t32_#t32_#t32
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래 방법으로 자체 설치 가능합니다.<br>매뉴얼을 참고해주세요.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-23 16:49:12
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : agent 재설치 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "agent 재설치"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #t3_#t3_#t3_137
+ que_id1 : F24A854F_44F5_0DF6_137
+ que_id2 : ER8_ER81_ER811_139
+ que_id3 : #o14_#o14_#o14_137
+ que_id4 : 20F96331_0803_7405_137
+ que_id5 : 4C3CA691_E983_301C_137
+ que_id6 : ER4_ER41_ER411_139
+ que_id7 : ER6_ER61_ER611_139
+ que_id8 : ER7_ER71_ER711_139
+ que_id9 : ___
+ scn_que_id : #t3_#t3_#t3
+ scn_que_id1 : F24A854F_44F5_0DF6
+ scn_que_id2 : ER8_ER81_ER811
+ scn_que_id3 : #o14_#o14_#o14
+ scn_que_id4 : 20F96331_0803_7405
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>SMS Agent 재설치 방법은 두가지가 있어요.<br>아래에서 원하시는 방법을 선택해주세요.</p><p>$$$챗봇으로 접수하기</p><p>$$$셀프 재설치</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 16:49:15
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #t3 || 질문아이디2 : #t3 || 질문아이디3 : #t3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #t32_#t32_#t32_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #t32_#t32_#t32
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래 방법으로 자체 설치 가능합니다.<br>매뉴얼을 참고해주세요.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-23 16:51:55
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 재설치 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "재설치"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  F24A854F_44F5_0DF6_137
+ que_id1 : #t3_#t3_#t3_137
+ que_id2 : #o14_#o14_#o14_137
+ que_id3 : 20F96331_0803_7405_137
+ que_id4 : 4C3CA691_E983_301C_137
+ que_id5 : ER7_ER71_ER711_139
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : F24A854F_44F5_0DF6
+ scn_que_id1 : #t3_#t3_#t3
+ scn_que_id2 : #o14_#o14_#o14
+ scn_que_id3 : 20F96331_0803_7405
+ scn_que_id4 : 4C3CA691_E983_301C
+ 확률 : 선택질문 확률 : 4799//2500
+{"answercode":"1", "ai_msg": "설치 계획서 | SMS Agent 재설치 | 임시 라이센스 | 설치 파일 요청 | 제품 소개 및 Demo | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"F24A854F","s2": "44F5","s3":"0DF6","s4":"137"},{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"},{"s1":"#o14","s2": "#o14","s3":"#o14","s4":"137"},{"s1":"20F96331","s2": "0803","s3":"7405","s4":"137"},{"s1":"4C3CA691","s2": "E983","s3":"301C","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 16:51:59
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 2 || 질문내용 : SMS Agent 재설치 || 질문아이디1 : #t3 || 질문아이디2 : #t3 || 질문아이디3 : #t3 || 질문아이디4 : 137
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "SMS Agent 재설치"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #t3_#t3_#t3_137
+ que_id1 : F24A854F_44F5_0DF6_137
+ que_id2 : ER8_ER81_ER811_139
+ que_id3 : #o14_#o14_#o14_137
+ que_id4 : 20F96331_0803_7405_137
+ que_id5 : 4C3CA691_E983_301C_137
+ que_id6 : ER4_ER41_ER411_139
+ que_id7 : ER6_ER61_ER611_139
+ que_id8 : ER7_ER71_ER711_139
+ que_id9 : ___
+ scn_que_id : #t3_#t3_#t3
+ scn_que_id1 : F24A854F_44F5_0DF6
+ scn_que_id2 : ER8_ER81_ER811
+ scn_que_id3 : #o14_#o14_#o14
+ scn_que_id4 : 20F96331_0803_7405
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>SMS Agent 재설치 방법은 두가지가 있어요.<br>아래에서 원하시는 방법을 선택해주세요.</p><p>$$$챗봇으로 접수하기</p><p>$$$셀프 재설치</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 16:52:04
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #t3 || 질문아이디2 : #t3 || 질문아이디3 : #t3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #t32_#t32_#t32_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #t32_#t32_#t32
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래 방법으로 자체 설치 가능합니다.<br>매뉴얼을 참고해주세요.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-23 16:53:01
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 모니터 템플릿 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "모니터 템플릿"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  B1C3D83A_8C3A_9B3D_137
+ que_id1 : FC24_FC241_FC2411_138
+ que_id2 : FC18_FC181_FC1811_138
+ que_id3 : FC21_FC211_FC2111_138
+ que_id4 : FC22_FC221_FC2211_138
+ que_id5 : FC25_FC251_FC2511_138
+ que_id6 : FC19_FC191_FC1911_138
+ que_id7 : #FC14_#FC141_#FC1411_138
+ que_id8 : FC26_FC261_FC2611_138
+ que_id9 : FC23_FC231_FC2311_138
+ scn_que_id : B1C3D83A_8C3A_9B3D
+ scn_que_id1 : FC24_FC241_FC2411
+ scn_que_id2 : FC18_FC181_FC1811
+ scn_que_id3 : FC21_FC211_FC2111
+ scn_que_id4 : FC22_FC221_FC2211
+ 확률 : 선택질문 확률 : 6462//2500
+{"answercode":"1", "ai_msg": "공통 모니터 템플릿 요청 | Ping 모니터 | 모니터 그룹 | 파일 모니터 | 로그 모니터 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"B1C3D83A","s2": "8C3A","s3":"9B3D","s4":"137"},{"s1":"FC24","s2": "FC241","s3":"FC2411","s4":"138"},{"s1":"FC18","s2": "FC181","s3":"FC1811","s4":"138"},{"s1":"FC21","s2": "FC211","s3":"FC2111","s4":"138"},{"s1":"FC22","s2": "FC221","s3":"FC2211","s4":"138"}]}
+*************************************
+접속일 :  2020-11-23 16:53:06
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 2 || 질문내용 : 공통 모니터 템플릿 요청 || 질문아이디1 : B1C3D83A || 질문아이디2 : 8C3A || 질문아이디3 : 9B3D || 질문아이디4 : 137
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "공통 모니터 템플릿 요청"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  B1C3D83A_8C3A_9B3D_137
+ que_id1 : FC24_FC241_FC2411_138
+ que_id2 : FC18_FC181_FC1811_138
+ que_id3 : FC21_FC211_FC2111_138
+ que_id4 : FC22_FC221_FC2211_138
+ que_id5 : FC25_FC251_FC2511_138
+ que_id6 : 4C3CA691_E983_301C_137
+ que_id7 : FC19_FC191_FC1911_138
+ que_id8 : #FC14_#FC141_#FC1411_138
+ que_id9 : FC26_FC261_FC2611_138
+ scn_que_id : B1C3D83A_8C3A_9B3D
+ scn_que_id1 : FC24_FC241_FC2411
+ scn_que_id2 : FC18_FC181_FC1811
+ scn_que_id3 : FC21_FC211_FC2111
+ scn_que_id4 : FC22_FC221_FC2211
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p>모듈별 기본 모니터 템플릿을 제공해드립니다.</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"B1C3D83A","s2": "8C3A","s3":"9B3D","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 16:53:20
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 공통 모니터 템플릿 필요해요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "공통 모니터 템플릿 필요해요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  B1C3D83A_8C3A_9B3D_137
+ que_id1 : FC24_FC241_FC2411_138
+ que_id2 : FC18_FC181_FC1811_138
+ que_id3 : FC21_FC211_FC2111_138
+ que_id4 : FC22_FC221_FC2211_138
+ que_id5 : FC25_FC251_FC2511_138
+ que_id6 : 4C3CA691_E983_301C_137
+ que_id7 : FC19_FC191_FC1911_138
+ que_id8 : #FC14_#FC141_#FC1411_138
+ que_id9 : FC26_FC261_FC2611_138
+ scn_que_id : B1C3D83A_8C3A_9B3D
+ scn_que_id1 : FC24_FC241_FC2411
+ scn_que_id2 : FC18_FC181_FC1811
+ scn_que_id3 : FC21_FC211_FC2111
+ scn_que_id4 : FC22_FC221_FC2211
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p>모듈별 기본 모니터 템플릿을 제공해드립니다.</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"B1C3D83A","s2": "8C3A","s3":"9B3D","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 16:53:37
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 매뉴얼이 필요해요 || 질문아이디1 : B1C3D83A || 질문아이디2 : 8C3A || 질문아이디3 : 9B3D || 질문아이디4 : 137
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "매뉴얼이 필요해요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  4C3CA691_E983_301C_137
+ que_id1 : 20F96331_0803_7405_137
+ que_id2 : #f2_#f2_#f2_137
+ que_id3 : #f1_#f1_#f1_137
+ que_id4 : #l1_#l1_#l1_137
+ que_id5 : 6AA361B5_A6E6_E62F_137
+ que_id6 : B1C3D83A_8C3A_9B3D_137
+ que_id7 : 98675BA8_C957_5DB5_137
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 4C3CA691_E983_301C
+ scn_que_id1 : 20F96331_0803_7405
+ scn_que_id2 : #f2_#f2_#f2
+ scn_que_id3 : #f1_#f1_#f1
+ scn_que_id4 : #l1_#l1_#l1
+ 확률 : 선택질문 확률 : 4877//2500
+{"answercode":"1", "ai_msg": "제품 소개 및 Demo | 설치 파일 요청 | 제품 가걱 및 견적 요청 | 계약서 및 각종 서류 요청 | 라이선스 추가 | ", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"4C3CA691","s2": "E983","s3":"301C","s4":"137"},{"s1":"20F96331","s2": "0803","s3":"7405","s4":"137"},{"s1":"#f2","s2": "#f2","s3":"#f2","s4":"137"},{"s1":"#f1","s2": "#f1","s3":"#f1","s4":"137"},{"s1":"#l1","s2": "#l1","s3":"#l1","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 16:53:50
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 2 || 질문내용 : 설치 매뉴얼이요 || 질문아이디1 : 4C3CA691,20F96331,#f2,#f1,#l1 || 질문아이디2 : E983,0803,#f2,#f1,#l1 || 질문아이디3 : 301C,7405,#f2,#f1,#l1 || 질문아이디4 : 137,137,137,137,137
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2020-11-23 16:53:50
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 1 || 질문내용 : 설치 매뉴얼이요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "설치 매뉴얼이요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  F24A854F_44F5_0DF6_137
+ que_id1 : #t3_#t3_#t3_137
+ que_id2 : #o14_#o14_#o14_137
+ que_id3 : 20F96331_0803_7405_137
+ que_id4 : 4C3CA691_E983_301C_137
+ que_id5 : ER7_ER71_ER711_139
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : F24A854F_44F5_0DF6
+ scn_que_id1 : #t3_#t3_#t3
+ scn_que_id2 : #o14_#o14_#o14
+ scn_que_id3 : 20F96331_0803_7405
+ scn_que_id4 : 4C3CA691_E983_301C
+ 확률 : 선택질문 확률 : 4799//2500
+{"answercode":"1", "ai_msg": "설치 계획서 | SMS Agent 재설치 | 임시 라이센스 | 설치 파일 요청 | 제품 소개 및 Demo | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"F24A854F","s2": "44F5","s3":"0DF6","s4":"137"},{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"},{"s1":"#o14","s2": "#o14","s3":"#o14","s4":"137"},{"s1":"20F96331","s2": "0803","s3":"7405","s4":"137"},{"s1":"4C3CA691","s2": "E983","s3":"301C","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 17:00:32
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 정기점검 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "정기점검"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #w21-복사본_#w21-복사본_#w21-복사본_137
+ que_id1 : D8D433B1_DB9A_CEC5_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w21-복사본_#w21-복사본_#w21-복사본
+ scn_que_id1 : D8D433B1_DB9A_CEC5
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>POLESTAR 정기점검은<br></p><p>유지보수 계약에 따라 진행 됩니다.</p><p>||정기점검 관련 문의는 담당 엔지니어에게 부탁드리며,<br></p><p>담당 엔지니어의 연락처를 모르실 경우<br></p><p>챗봇으로 바로 접수 가능합니다.</p><p>$$$챗봇으로 접수하기</p><p>$$$고객센터</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#w21-복사본","s2": "#w21-복사본","s3":"#w21-복사본","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 17:03:15
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #w21-복사본 || 질문아이디2 : #w21-복사본 || 질문아이디3 : #w21-복사본 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #w211-복사본_#w211-복사본_#w211-복사본_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #w211-복사본_#w211-복사본_#w211-복사본
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>Wow/박지윤/010-4363-2806으로 연락드릴께요!<br></p><p>방문이 필요한 날짜를 입력해주세요.<br></p><p>예시) 0000년/00월/00일</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#w211-복사본","s2": "#w211-복사본","s3":"#w211-복사본","s4":""}]}
+*************************************
+접속일 :  2020-11-23 17:06:15
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 매뉴얼이 필요해요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "매뉴얼이 필요해요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  4C3CA691_E983_301C_137
+ que_id1 : 20F96331_0803_7405_137
+ que_id2 : #f2_#f2_#f2_137
+ que_id3 : #f1_#f1_#f1_137
+ que_id4 : #l1_#l1_#l1_137
+ que_id5 : 6AA361B5_A6E6_E62F_137
+ que_id6 : B1C3D83A_8C3A_9B3D_137
+ que_id7 : 98675BA8_C957_5DB5_137
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 4C3CA691_E983_301C
+ scn_que_id1 : 20F96331_0803_7405
+ scn_que_id2 : #f2_#f2_#f2
+ scn_que_id3 : #f1_#f1_#f1
+ scn_que_id4 : #l1_#l1_#l1
+ 확률 : 선택질문 확률 : 4877//2500
+{"answercode":"1", "ai_msg": "제품 소개 및 Demo | 설치 파일 요청 | 제품 가걱 및 견적 요청 | 계약서 및 각종 서류 요청 | 라이선스 추가 | ", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"4C3CA691","s2": "E983","s3":"301C","s4":"137"},{"s1":"20F96331","s2": "0803","s3":"7405","s4":"137"},{"s1":"#f2","s2": "#f2","s3":"#f2","s4":"137"},{"s1":"#f1","s2": "#f1","s3":"#f1","s4":"137"},{"s1":"#l1","s2": "#l1","s3":"#l1","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 17:06:23
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 2 || 질문내용 : 설치 매뉴얼이요 || 질문아이디1 : 4C3CA691,20F96331,#f2,#f1,#l1 || 질문아이디2 : E983,0803,#f2,#f1,#l1 || 질문아이디3 : 301C,7405,#f2,#f1,#l1 || 질문아이디4 : 137,137,137,137,137
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2020-11-23 17:06:24
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 1 || 질문내용 : 설치 매뉴얼이요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "설치 매뉴얼이요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  F24A854F_44F5_0DF6_137
+ que_id1 : #t3_#t3_#t3_137
+ que_id2 : #o14_#o14_#o14_137
+ que_id3 : 20F96331_0803_7405_137
+ que_id4 : 4C3CA691_E983_301C_137
+ que_id5 : ER7_ER71_ER711_139
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : F24A854F_44F5_0DF6
+ scn_que_id1 : #t3_#t3_#t3
+ scn_que_id2 : #o14_#o14_#o14
+ scn_que_id3 : 20F96331_0803_7405
+ scn_que_id4 : 4C3CA691_E983_301C
+ 확률 : 선택질문 확률 : 4799//2500
+{"answercode":"1", "ai_msg": "설치 계획서 | SMS Agent 재설치 | 임시 라이센스 | 설치 파일 요청 | 제품 소개 및 Demo | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"F24A854F","s2": "44F5","s3":"0DF6","s4":"137"},{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"},{"s1":"#o14","s2": "#o14","s3":"#o14","s4":"137"},{"s1":"20F96331","s2": "0803","s3":"7405","s4":"137"},{"s1":"4C3CA691","s2": "E983","s3":"301C","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 17:06:41
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 2 || 질문내용 : SMS Agent 재설치 || 질문아이디1 : #t3 || 질문아이디2 : #t3 || 질문아이디3 : #t3 || 질문아이디4 : 137
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "SMS Agent 재설치"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #t3_#t3_#t3_137
+ que_id1 : F24A854F_44F5_0DF6_137
+ que_id2 : ER8_ER81_ER811_139
+ que_id3 : #o14_#o14_#o14_137
+ que_id4 : 20F96331_0803_7405_137
+ que_id5 : 4C3CA691_E983_301C_137
+ que_id6 : ER4_ER41_ER411_139
+ que_id7 : ER6_ER61_ER611_139
+ que_id8 : ER7_ER71_ER711_139
+ que_id9 : ___
+ scn_que_id : #t3_#t3_#t3
+ scn_que_id1 : F24A854F_44F5_0DF6
+ scn_que_id2 : ER8_ER81_ER811
+ scn_que_id3 : #o14_#o14_#o14
+ scn_que_id4 : 20F96331_0803_7405
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>SMS Agent 재설치 방법은 두가지가 있어요.<br>아래에서 원하시는 방법을 선택해주세요.</p><p>$$$챗봇으로 접수하기</p><p>$$$셀프 재설치</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 17:06:44
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #t3 || 질문아이디2 : #t3 || 질문아이디3 : #t3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #t32_#t32_#t32_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #t32_#t32_#t32
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래 방법으로 자체 설치 가능합니다.<br>매뉴얼을 참고해주세요.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-23 17:07:00
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 셀프 재설치 방법 알려주세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "셀프 재설치 방법 알려주세요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #t3_#t3_#t3_137
+ que_id1 : #o2_#o2_#o2_137
+ que_id2 : F24A854F_44F5_0DF6_137
+ que_id3 : #t4_#t4_#t4_137
+ que_id4 : #FC7_#FC71_#FC711_138
+ que_id5 : #o14_#o14_#o14_137
+ que_id6 : 20F96331_0803_7405_137
+ que_id7 : 4C3CA691_E983_301C_137
+ que_id8 : FC15_FC151_FC1511_138
+ que_id9 : AFBE0522_3FCF_A493_137
+ scn_que_id : #t3_#t3_#t3
+ scn_que_id1 : #o2_#o2_#o2
+ scn_que_id2 : F24A854F_44F5_0DF6
+ scn_que_id3 : #t4_#t4_#t4
+ scn_que_id4 : #FC7_#FC71_#FC711
+ 확률 : 선택질문 확률 : 6125//2500
+{"answercode":"1", "ai_msg": "SMS Agent 재설치 | 장비 IP 변경 작업 지원 | 설치 계획서 | SMS, NMS, DPM, WPM 추가 설치 | WAS 등록 | ", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"},{"s1":"#o2","s2": "#o2","s3":"#o2","s4":"137"},{"s1":"F24A854F","s2": "44F5","s3":"0DF6","s4":"137"},{"s1":"#t4","s2": "#t4","s3":"#t4","s4":"137"},{"s1":"#FC7","s2": "#FC71","s3":"#FC711","s4":"138"}]}
+*************************************
+접속일 :  2020-11-23 17:07:12
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 2 || 질문내용 : SMS Agent 재설치 || 질문아이디1 : #t3 || 질문아이디2 : #t3 || 질문아이디3 : #t3 || 질문아이디4 : 137
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "SMS Agent 재설치"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #t3_#t3_#t3_137
+ que_id1 : F24A854F_44F5_0DF6_137
+ que_id2 : ER8_ER81_ER811_139
+ que_id3 : #o14_#o14_#o14_137
+ que_id4 : 20F96331_0803_7405_137
+ que_id5 : 4C3CA691_E983_301C_137
+ que_id6 : ER4_ER41_ER411_139
+ que_id7 : ER6_ER61_ER611_139
+ que_id8 : ER7_ER71_ER711_139
+ que_id9 : ___
+ scn_que_id : #t3_#t3_#t3
+ scn_que_id1 : F24A854F_44F5_0DF6
+ scn_que_id2 : ER8_ER81_ER811
+ scn_que_id3 : #o14_#o14_#o14
+ scn_que_id4 : 20F96331_0803_7405
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>SMS Agent 재설치 방법은 두가지가 있어요.<br>아래에서 원하시는 방법을 선택해주세요.</p><p>$$$챗봇으로 접수하기</p><p>$$$셀프 재설치</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#t3","s2": "#t3","s3":"#t3","s4":"137"}]}
+*************************************
+접속일 :  2020-11-23 17:07:16
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #t3 || 질문아이디2 : #t3 || 질문아이디3 : #t3 || 질문아이디4 : 137
+ 시나리오 결과 값 : 
+ que_id :  #t32_#t32_#t32_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #t32_#t32_#t32
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래 방법으로 자체 설치 가능합니다.<br>매뉴얼을 참고해주세요.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-23 17:34:46
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 공통 모니터 템플릿 주세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "공통 모니터 템플릿 주세요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  B1C3D83A_8C3A_9B3D_137
+ que_id1 : FC24_FC241_FC2411_138
+ que_id2 : FC18_FC181_FC1811_138
+ que_id3 : FC21_FC211_FC2111_138
+ que_id4 : FC22_FC221_FC2211_138
+ que_id5 : FC25_FC251_FC2511_138
+ que_id6 : FC19_FC191_FC1911_138
+ que_id7 : #FC14_#FC141_#FC1411_138
+ que_id8 : FC26_FC261_FC2611_138
+ que_id9 : FC23_FC231_FC2311_138
+ scn_que_id : B1C3D83A_8C3A_9B3D
+ scn_que_id1 : FC24_FC241_FC2411
+ scn_que_id2 : FC18_FC181_FC1811
+ scn_que_id3 : FC21_FC211_FC2111
+ scn_que_id4 : FC22_FC221_FC2211
+ 확률 : 선택질문 확률 : 9326//2500
+{"answercode":"", "ai_msg": "<p>모듈별 기본 모니터 템플릿을 제공해드립니다.</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"B1C3D83A","s2": "8C3A","s3":"9B3D","s4":"137"}]}

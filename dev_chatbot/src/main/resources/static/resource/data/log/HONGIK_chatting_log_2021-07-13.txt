@@ -1,0 +1,96 @@
+*************************************
+접속일 :  2021-07-13 11:18:39
+유저아이디 :  af44feca-daee-4c6c-822d-46184e39d63c
+메시지 구분: 0 || 질문내용 : 여행상품 추천 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 추천"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #RE01_#RE01_#RE01_196
+ que_id1 : 2961937E_F9F8_E91D_60
+ que_id2 : 705FB289_220B_7901_188
+ que_id3 : PR02_PR02_PR02_197
+ que_id4 : #TR02_#TR02_#TR02_195
+ que_id5 : 1D14BC63_BCE3_F249_187
+ que_id6 : B1B9228A_D65B_7740_188
+ que_id7 : TO11_TO11_TO11_195
+ que_id8 : TO13_TO13_TO13_195
+ que_id9 : PR01_PR01_PR01_197
+ scn_que_id : #RE01_#RE01_#RE01
+ scn_que_id1 : 2961937E_F9F8_E91D
+ scn_que_id2 : 705FB289_220B_7901
+ scn_que_id3 : PR02_PR02_PR02
+ scn_que_id4 : #TR02_#TR02_#TR02
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>홍익여행에서만 만나실 수 있는 특별한 여행 상품입니다.</p><p>홍익여행과 함께 행복한 추억을 만들어봐요&nbsp;✧*.◟(ˊᗨˋ)◞.*✧</p><p>$$$▶비대면 기차여행</p><p>$$$▶낭만적인 해변열차</p><p>$$$▶서해 금빛열차</p><p>$$$▶저렴한 특가여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"}]}
+*************************************
+접속일 :  2021-07-13 11:20:00
+유저아이디 :  af44feca-daee-4c6c-822d-46184e39d63c
+메시지 구분: 0 || 질문내용 : 울릉도는 단체여행 말고 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "울릉도는 단체여행 말고"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST01_#ST01_#ST01_193
+ que_id1 : 12EE921C_C84F_58DC_187
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST01_#ST01_#ST01
+ scn_que_id1 : 12EE921C_C84F_58DC
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 2350//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-07-13 11:20:01
+유저아이디 :  af44feca-daee-4c6c-822d-46184e39d63c
+메시지 구분: 1 || 질문내용 : 울릉도는 단체여행 말고 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "울릉도는 단체여행 말고"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST01_#ST01_#ST01_193
+ que_id1 : 12EE921C_C84F_58DC_187
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST01_#ST01_#ST01
+ scn_que_id1 : 12EE921C_C84F_58DC
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 2350//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-07-13 11:20:25
+유저아이디 :  af44feca-daee-4c6c-822d-46184e39d63c
+메시지 구분: 0 || 질문내용 : 개별여행 상품은 없나요? || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "개별여행 상품은 없나요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  PR01_PR01_PR01_197
+ que_id1 : TO05_TO05_TO05_195
+ que_id2 : TO10_TO10_TO10_195
+ que_id3 : TO11_TO11_TO11_195
+ que_id4 : BD04_BD04_BD04_193
+ que_id5 : DIS04_DIS04_DIS04_190
+ que_id6 : 12EE921C_C84F_58DC_187
+ que_id7 : TO07_TO07_TO07_195
+ que_id8 : PAY08_PAY08_PAY08_189
+ que_id9 : #RE01_#RE01_#RE01_196
+ scn_que_id : PR01_PR01_PR01
+ scn_que_id1 : TO05_TO05_TO05
+ scn_que_id2 : TO10_TO10_TO10
+ scn_que_id3 : TO11_TO11_TO11
+ scn_que_id4 : BD04_BD04_BD04
+ 확률 : 선택질문 확률 : 7748//2500
+{"answercode":"", "ai_msg": "<span style=font-family: Verdana, sans-serif;>버스 상품은 유선(02-717-1002)상으로 문의부탁드립니다.</span>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"PR01","s2": "PR01","s3":"PR01","s4":"197"}]}

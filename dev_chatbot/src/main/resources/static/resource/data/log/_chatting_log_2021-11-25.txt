@@ -1,0 +1,552 @@
+*************************************
+접속일 :  2021-11-25 09:52:41
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:52:51
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:52:54
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:53:02
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:53:04
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:53:04
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:54:12
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:54:14
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:54:14
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:54:15
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:54:15
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:54:31
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:54:31
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:54:32
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:54:32
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:54:34
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:54:35
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:54:35
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:54:35
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:54:36
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:54:36
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:54:49
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-11-25 09:54:52
+유저아이디 :  
+메시지 구분:  || 질문내용 :  || 질문아이디1 :  || 질문아이디2 :  || 질문아이디3 :  || 질문아이디4 : 
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}

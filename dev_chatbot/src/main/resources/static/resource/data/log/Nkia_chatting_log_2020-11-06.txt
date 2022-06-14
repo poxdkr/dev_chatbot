@@ -1,0 +1,168 @@
+*************************************
+접속일 :  2020-11-06 17:14:18
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 기능문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "기능문의" 
+
+ 시나리오 결과 값 : 
+ que_id :  FC5_FC51_FC511_138
+ que_id1 : #W1_#W2_#W3_137
+ que_id2 : FC1_FC11_FC111_138
+ que_id3 : 77A403AA_846A_1D43_137
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : FC5_FC51_FC511
+ scn_que_id1 : #W1_#W2_#W3
+ scn_que_id2 : FC1_FC11_FC111
+ scn_que_id3 : 77A403AA_846A_1D43
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9770//2500
+{"answercode":"", "ai_msg": "패스워드 분실은 원격 또는 방문이 필요합니다.<br>사이트명 / 성명 / 연락처로 접수 가능합니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"FC5","s2": "FC51","s3":"FC511","s4":"138"}]}
+*************************************
+접속일 :  2020-11-06 17:14:35
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 가젯 대시보드 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "가젯 대시보드" 
+
+ 시나리오 결과 값 : 
+ que_id :  ER10_ER101_ER1011_139
+ que_id1 : FC2_FC21_FC211_138
+ que_id2 : FC3_FC31_FC311_138
+ que_id3 : FC1_FC11_FC111_138
+ que_id4 : FC4_FC41_FC411_138
+ que_id5 : ER12_ER121_ER1211_139
+ que_id6 : # o6_#o6_#o6_137
+ que_id7 : #t3_#t3_#t3_137
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : ER10_ER101_ER1011
+ scn_que_id1 : FC2_FC21_FC211
+ scn_que_id2 : FC3_FC31_FC311
+ scn_que_id3 : FC1_FC11_FC111
+ scn_que_id4 : FC4_FC41_FC411
+ 확률 : 선택질문 확률 : 9777//2500
+{"answercode":"", "ai_msg": "담당엔지니어에게 문의 부탁 드립니다.<br>담당엔지니어 연락처를 모르실 경우 여기서 접수도 가능합니다.<br>사이트명 / 성명 / 연락처 와 방문이 필요하신 일정을 입력하여 주시기 바랍니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"ER10","s2": "ER101","s3":"ER1011","s4":"139"}]}
+*************************************
+접속일 :  2020-11-06 17:15:09
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 가젯 대시보드 기능문의 || 질문아이디1 : ER10 || 질문아이디2 : ER101 || 질문아이디3 : ER1011 || 질문아이디4 : 139
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "가젯 대시보드 기능문의" 
+
+ 시나리오 결과 값 : 
+ que_id :  FC1_FC11_FC111_138
+ que_id1 : ER10_ER101_ER1011_139
+ que_id2 : FC2_FC21_FC211_138
+ que_id3 : FC3_FC31_FC311_138
+ que_id4 : FC5_FC51_FC511_138
+ que_id5 : #W1_#W2_#W3_137
+ que_id6 : FC4_FC41_FC411_138
+ que_id7 : 77A403AA_846A_1D43_137
+ que_id8 : ER12_ER121_ER1211_139
+ que_id9 : #o10_#o10_#o10_137
+ scn_que_id : FC1_FC11_FC111
+ scn_que_id1 : ER10_ER101_ER1011
+ scn_que_id2 : FC2_FC21_FC211
+ scn_que_id3 : FC3_FC31_FC311
+ scn_que_id4 : FC5_FC51_FC511
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "설명<br>사용자가 보고 싶어하는 내용을 보기 쉽게 표시하는 화면<br><br>EMS 7 대시보드의 특징<br>가젯 기반으로 구성할 수 있음<br>사용자 입맛대로 원하는 가젯을 추가/배치할 수 있음<br>사용자 개인화된 대시보드<br>대시보드는 해당 대시보드의 생성자만 수정/삭제할 수 있음 (관리자도 건들지 못함)<br>대시보드 생성자가 원하는 대시보드만 다른 사용자들도 볼 수 있게 할 수 있음<br><br>주요 기능<br>대시보드 화면<br>가젯 추가/삭제 (본인이 만든 대시보드만 가능)<br>가젯 설정<br>대시보드 즐겨찾기<br>새 창에서 대시보드 보기<br>대시보드 관리 화면으로 이동<br>대시보드 관리 화면<br>대시보드 추가/삭제<br>대시보드 공유 설정 : 타인도 이 대시보드를 볼 수 있게 할지 설정<br>대시보드 우선순위 : 우선순위를 별 1개 이상 설정한 대시보드는 대시보드 즐겨찾기에 등록됨", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"FC1","s2": "FC11","s3":"FC111","s4":"138"}]}
+*************************************
+접속일 :  2020-11-06 17:16:07
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 가젯 대시보드 기능 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "가젯 대시보드 기능" 
+
+ 시나리오 결과 값 : 
+ que_id :  ER10_ER101_ER1011_139
+ que_id1 : FC2_FC21_FC211_138
+ que_id2 : FC3_FC31_FC311_138
+ que_id3 : FC1_FC11_FC111_138
+ que_id4 : FC4_FC41_FC411_138
+ que_id5 : 77A403AA_846A_1D43_137
+ que_id6 : ER12_ER121_ER1211_139
+ que_id7 : #o10_#o10_#o10_137
+ que_id8 : 0CD3EB61_81AE_981C_137
+ que_id9 : # o6_#o6_#o6_137
+ scn_que_id : ER10_ER101_ER1011
+ scn_que_id1 : FC2_FC21_FC211
+ scn_que_id2 : FC3_FC31_FC311
+ scn_que_id3 : FC1_FC11_FC111
+ scn_que_id4 : FC4_FC41_FC411
+ 확률 : 선택질문 확률 : 9574//2500
+{"answercode":"", "ai_msg": "담당엔지니어에게 문의 부탁 드립니다.<br>담당엔지니어 연락처를 모르실 경우 여기서 접수도 가능합니다.<br>사이트명 / 성명 / 연락처 와 방문이 필요하신 일정을 입력하여 주시기 바랍니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"ER10","s2": "ER101","s3":"ER1011","s4":"139"}]}
+*************************************
+접속일 :  2020-11-06 17:16:17
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 가젯 대시보드 기능 문의 || 질문아이디1 : ER10 || 질문아이디2 : ER101 || 질문아이디3 : ER1011 || 질문아이디4 : 139
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "가젯 대시보드 기능 문의" 
+
+ 시나리오 결과 값 : 
+ que_id :  FC1_FC11_FC111_138
+ que_id1 : ER10_ER101_ER1011_139
+ que_id2 : FC2_FC21_FC211_138
+ que_id3 : FC3_FC31_FC311_138
+ que_id4 : FC5_FC51_FC511_138
+ que_id5 : #W1_#W2_#W3_137
+ que_id6 : FC4_FC41_FC411_138
+ que_id7 : 77A403AA_846A_1D43_137
+ que_id8 : ER12_ER121_ER1211_139
+ que_id9 : #o10_#o10_#o10_137
+ scn_que_id : FC1_FC11_FC111
+ scn_que_id1 : ER10_ER101_ER1011
+ scn_que_id2 : FC2_FC21_FC211
+ scn_que_id3 : FC3_FC31_FC311
+ scn_que_id4 : FC5_FC51_FC511
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "<p>아래의 설명을 참고해주세요!</p><p><br></p><p><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16046505578300.png", "qustType": "","questionID": [{"s1":"FC1","s2": "FC11","s3":"FC111","s4":"138"}]}
+*************************************
+접속일 :  2020-11-06 17:17:10
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 가젯 대시보드 기능 || 질문아이디1 : FC1 || 질문아이디2 : FC11 || 질문아이디3 : FC111 || 질문아이디4 : 138
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "가젯 대시보드 기능" 
+
+ 시나리오 결과 값 : 
+ que_id :  ER10_ER101_ER1011_139
+ que_id1 : FC2_FC21_FC211_138
+ que_id2 : FC3_FC31_FC311_138
+ que_id3 : FC1_FC11_FC111_138
+ que_id4 : FC4_FC41_FC411_138
+ que_id5 : 77A403AA_846A_1D43_137
+ que_id6 : ER12_ER121_ER1211_139
+ que_id7 : #o10_#o10_#o10_137
+ que_id8 : 0CD3EB61_81AE_981C_137
+ que_id9 : # o6_#o6_#o6_137
+ scn_que_id : ER10_ER101_ER1011
+ scn_que_id1 : FC2_FC21_FC211
+ scn_que_id2 : FC3_FC31_FC311
+ scn_que_id3 : FC1_FC11_FC111
+ scn_que_id4 : FC4_FC41_FC411
+ 확률 : 선택질문 확률 : 9574//2500
+{"answercode":"", "ai_msg": "담당엔지니어에게 문의 부탁 드립니다.<br>담당엔지니어 연락처를 모르실 경우 여기서 접수도 가능합니다.<br>사이트명 / 성명 / 연락처 와 방문이 필요하신 일정을 입력하여 주시기 바랍니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"ER10","s2": "ER101","s3":"ER1011","s4":"139"}]}
+*************************************
+접속일 :  2020-11-06 17:22:25
+유저아이디 :  576d29a6-b197-4257-879b-ce5c25632e92
+메시지 구분: 0 || 질문내용 : 가젯 대시보드 기능이요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "가젯 대시보드 기능이요" 
+
+ 시나리오 결과 값 : 
+ que_id :  FC2_FC21_FC211_138
+ que_id1 : FC3_FC31_FC311_138
+ que_id2 : FC1_FC11_FC111_138
+ que_id3 : FC4_FC41_FC411_138
+ que_id4 : 77A403AA_846A_1D43_137
+ que_id5 : ER12_ER121_ER1211_139
+ que_id6 : ER10_ER101_ER1011_139
+ que_id7 : #o10_#o10_#o10_137
+ que_id8 : 0CD3EB61_81AE_981C_137
+ que_id9 : # o6_#o6_#o6_137
+ scn_que_id : FC2_FC21_FC211
+ scn_que_id1 : FC3_FC31_FC311
+ scn_que_id2 : FC1_FC11_FC111
+ scn_que_id3 : FC4_FC41_FC411
+ scn_que_id4 : 77A403AA_846A_1D43
+ 확률 : 선택질문 확률 : 9567//2500
+{"answercode":"", "ai_msg": "설명<br>v7.5에 새로 등장하는 커스터마이징 가젯<br>SQL문을 이용하여 EMS 7 DB 데이터를 직접 가져와서 사용자가 원하는 형태로 표시하는 가젯<br><br>기능<br>SQL 문 입력<br>표시 방법 설정 : 차트, 테이블, 차트와 테이블<br>차트 종류 , 차트의 Y축 이름, 값 단위, 범례 표시 여부, 차트 크기, 차트 색상, 차트에 표시할 데이터 범위 설정<br><br>주의사항<br>SQL 조회 가젯은 다른 DB 툴에서 쿼리를 쓸 때보다 판정이 까다로우므로 더 잘 써야 함<br>DB 툴에서 정상 동작하는 쿼리라도 SQL 조회 가젯에서는 동작하지 않을 수 있음<br>다른 기호(줄바꿈, 쉼표 등)로 항목을 구분하더라도 공백을 꼭 넣어주어야 함", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"FC2","s2": "FC21","s3":"FC211","s4":"138"}]}

@@ -1,0 +1,24 @@
+*************************************
+접속일 :  2021-05-14 17:31:55
+유저아이디 :  2c783995-bb19-4d04-a941-18fab68f2977
+메시지 구분: 0 || 질문내용 : 부산당일 2코스 보고 있는데요~~돌아오는 기차편에서 주말이면 출발시간이 저녁8시인가요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "부산당일 2코스 보고 있는데요~~돌아오는 기차편에서 주말이면 출발시간이 저녁8시인가요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  TO01_TO01_TO01_195
+ que_id1 : #ST02_#ST02_#ST02_193
+ que_id2 : TO07_TO07_TO07_195
+ que_id3 : TO10_TO10_TO10_195
+ que_id4 : B1B9228A_D65B_7740_188
+ que_id5 : BD04_BD04_BD04_193
+ que_id6 : DIS04_DIS04_DIS04_190
+ que_id7 : TO03_TO03_TO03_195
+ que_id8 : TO04_TO04_TO04_195
+ que_id9 : #RE01_#RE01_#RE01_196
+ scn_que_id : TO01_TO01_TO01
+ scn_que_id1 : #ST02_#ST02_#ST02
+ scn_que_id2 : TO07_TO07_TO07
+ scn_que_id3 : TO10_TO10_TO10
+ scn_que_id4 : B1B9228A_D65B_7740
+ 확률 : 선택질문 확률 : 4891//2500
+{"answercode":"1", "ai_msg": "우천시 여행 일정 | 기차여행 미팅 장소 | 열차 시간 선택 | 지방에서 출발하는 경우 | 상품 확정 안내 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"TO01","s2": "TO01","s3":"TO01","s4":"195"},{"s1":"#ST02","s2": "#ST02","s3":"#ST02","s4":"193"},{"s1":"TO07","s2": "TO07","s3":"TO07","s4":"195"},{"s1":"TO10","s2": "TO10","s3":"TO10","s4":"195"},{"s1":"B1B9228A","s2": "D65B","s3":"7740","s4":"188"}]}

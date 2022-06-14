@@ -1,0 +1,48 @@
+*************************************
+접속일 :  2021-05-03 15:27:43
+유저아이디 :  d0feb1e5-5e64-4184-b8c9-e3b777be6e64
+메시지 구분: 0 || 질문내용 : 카드결제란이 어디있나요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "카드결제란이 어디있나요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : PAY12_PAY12_PAY12_189
+ que_id2 : PAY02_PAY02_PAY02_189
+ que_id3 : 6CF1403C_6F66_9AE6_189
+ que_id4 : B1B9228A_D65B_7740_188
+ que_id5 : PAY08_PAY08_PAY08_189
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #ST02_#ST02_#ST02_193
+ que_id8 : PAY03_PAY03_PAY03_189
+ que_id9 : PAY06_PAY06_PAY06_189
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : PAY12_PAY12_PAY12
+ scn_que_id2 : PAY02_PAY02_PAY02
+ scn_que_id3 : 6CF1403C_6F66_9AE6
+ scn_que_id4 : B1B9228A_D65B_7740
+ 확률 : 선택질문 확률 : 7077//2500
+{"answercode":"1", "ai_msg": "여행상품 예약 방법 | 타인 명의 카드로 결제 | 결제 방법에 따른 금액 차이 | 신용카드 결제안내 | 상품 확정 안내 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"},{"s1":"PAY12","s2": "PAY12","s3":"PAY12","s4":"189"},{"s1":"PAY02","s2": "PAY02","s3":"PAY02","s4":"189"},{"s1":"6CF1403C","s2": "6F66","s3":"9AE6","s4":"189"},{"s1":"B1B9228A","s2": "D65B","s3":"7740","s4":"188"}]}
+*************************************
+접속일 :  2021-05-03 15:27:56
+유저아이디 :  d0feb1e5-5e64-4184-b8c9-e3b777be6e64
+메시지 구분: 2 || 질문내용 : 신용카드 결제안내 || 질문아이디1 : 6CF1403C || 질문아이디2 : 6F66 || 질문아이디3 : 9AE6 || 질문아이디4 : 189
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "신용카드 결제안내"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  6CF1403C_6F66_9AE6_189
+ que_id1 : PAY12_PAY12_PAY12_189
+ que_id2 : PAY02_PAY02_PAY02_189
+ que_id3 : 1D14BC63_BCE3_F249_187
+ que_id4 : PAY09_PAY09_PAY09_189
+ que_id5 : PAY03_PAY03_PAY03_189
+ que_id6 : PAY06_PAY06_PAY06_189
+ que_id7 : B1B9228A_D65B_7740_188
+ que_id8 : PAY01_PAY01_PAY01_189
+ que_id9 : PAY11_PAY11_PAY11_189
+ scn_que_id : 6CF1403C_6F66_9AE6
+ scn_que_id1 : PAY12_PAY12_PAY12
+ scn_que_id2 : PAY02_PAY02_PAY02
+ scn_que_id3 : 1D14BC63_BCE3_F249
+ scn_que_id4 : PAY09_PAY09_PAY09
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>신용카드 결제 방법에 대해 안내해드릴게요!</span></font></p><p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>||아래 버튼을 클릭하시면 자세한 내용을 확인하실 수 있어요!(｡•̀ᴗ-)✧</span></font></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"6CF1403C","s2": "6F66","s3":"9AE6","s4":"189"}]}

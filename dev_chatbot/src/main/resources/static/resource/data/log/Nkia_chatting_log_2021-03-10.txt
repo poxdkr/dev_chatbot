@@ -1,0 +1,24 @@
+*************************************
+접속일 :  2021-03-10 08:33:14
+유저아이디 :  d164588f-9716-4eba-b92a-e119fb382082
+메시지 구분: 0 || 질문내용 : 업무문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/Nkia/result/result.out "업무문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : #o8_#o8_#o8_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : #o8_#o8_#o8
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>업무 문의 관련 질문 카테고리 입니다.<br></p><p>원하는 내용을 선택하거나 직접 입력해주세요.&nbsp;</p><p>$$$▶설치관련</p><p>$$$▶작업관련</p><p>$$$▶라이선스 관련</p><p>$$$▶서류/파일 요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"}]}

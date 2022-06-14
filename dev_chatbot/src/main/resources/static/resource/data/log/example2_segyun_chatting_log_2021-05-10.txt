@@ -1,0 +1,210 @@
+*************************************
+접속일 :  2021-05-10 09:30:26
+유저아이디 :  15c5f681-5bce-43e9-974d-c7ac301e6834
+메시지 구분: 0 || 질문내용 : 정세균이 궁금해 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "정세균이 궁금해"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #sg011_#sg011_#sg011_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg011_#sg011_#sg011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>총학생회장에서 국무총리까지,<br></p><p>&#039;정치인 정세균&#039;에 대해 알고싶은 내용을 선택해주세요.&nbsp;</p><p>$$$▶생애/정치활동</p><p>$$$▶다양한 별명</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#sg011","s2": "#sg011","s3":"#sg011","s4":"198"}]}
+*************************************
+접속일 :  2021-05-10 09:30:30
+유저아이디 :  15c5f681-5bce-43e9-974d-c7ac301e6834
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #sg011 || 질문아이디2 : #sg011 || 질문아이디3 : #sg011 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg0211_#sg0211_#sg0211_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg0211_#sg0211_#sg0211
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>'정세균'은 <b>1950년 전북 진안 출생</b>으로<br></p><p><b>전주진흥고등학교</b>를 졸업하여 1970년 <b>고려대학교 법대</b>에 진학했습니다.</p><p>||1996년 <b>제15대 국회의원</b>에 당선된 후<br></p><p>전북과 서울에서 <b>6선을 연임</b>하였고 <b>산업자원부장관</b>을 거치며 국민 여러분을 만나왔습니다.</p><p>||그리고 대한민국 <b>제20대 국회 전반기 국회의장</b>이자 <b>제46대 국무총리</b>를 역임하였습니다.</p><p>||앞으로도 국민 여러분과 함께 하겠습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-10 09:30:41
+유저아이디 :  15c5f681-5bce-43e9-974d-c7ac301e6834
+메시지 구분: 1 || 질문내용 : 기분좋은 웃음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "기분좋은 웃음"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "관심을 가져주셔서 고맙습니다.<br>앞으로 더욱 노력하겠습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-10 09:30:41
+유저아이디 :  15c5f681-5bce-43e9-974d-c7ac301e6834
+메시지 구분: 1 || 질문내용 : 기분좋은 웃음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "기분좋은 웃음"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "관심을 가져주셔서 고맙습니다.<br>앞으로 더욱 노력하겠습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-10 09:30:50
+유저아이디 :  15c5f681-5bce-43e9-974d-c7ac301e6834
+메시지 구분: 0 || 질문내용 : 문자수신 신청 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "문자수신 신청"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #SG03_#SG03_#SG03_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG03_#SG03_#SG03
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>더 밝은 대한민국으로 가는 길에<BR>여러분과 함께 하겠습니다.<br></p><p>||문자 수신을 위해 입력하신 연락처는<br></p><p>저의 활동 소식을 전달드리는데 이용됩니다.<br></p><p>보유기간은 문자 수신 서비스 취소시까지이며,<br></p><p>문자 수신 취소는 언제든지 가능합니다.</p><p>||내용에 동의하시면<br></p><p>전화번호 입력 버튼을 선택해주세요.</p><p>$$$▶전화번호 입력하기</p><p>$$$▶다음에 신청하기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#SG03","s2": "#SG03","s3":"#SG03","s4":"198"}]}
+*************************************
+접속일 :  2021-05-10 09:31:02
+유저아이디 :  15c5f681-5bce-43e9-974d-c7ac301e6834
+메시지 구분: 0 || 질문내용 : 국민의 소리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "국민의 소리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #SG02_#SG02_#SG02_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG02_#SG02_#SG02
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>국민 여러분과 함께<BR></p><p>대한민국의 미래를 만들어가겠습니다.</p><p>||작은 의견이라도 편하게 남겨주십시오!</p><p>$$$▶의견 보내기</p><p>$$$▶응원하기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#SG02","s2": "#SG02","s3":"#SG02","s4":"198"}]}
+*************************************
+접속일 :  2021-05-10 09:38:16
+유저아이디 :  15c5f681-5bce-43e9-974d-c7ac301e6834
+메시지 구분: 0 || 질문내용 : 문자수신 신청 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "문자수신 신청"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #SG03_#SG03_#SG03_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG03_#SG03_#SG03
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>더 밝은 대한민국으로 가는 길에<BR>여러분과 함께 하겠습니다.<br></p><p>||문자 수신을 위해 입력하신 연락처는<br></p><p>저의 활동 소식을 전달드리는데 이용됩니다.<br></p><p>보유기간은 문자 수신 서비스 취소시까지이며,<br></p><p>문자 수신 취소는 언제든지 가능합니다.</p><p>||내용에 동의하시면<br></p><p>전화번호 입력 버튼을 선택해주세요.</p><p>$$$▶전화번호 입력하기</p><p>$$$▶다음에 신청하기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#SG03","s2": "#SG03","s3":"#SG03","s4":"198"}]}
+*************************************
+접속일 :  2021-05-10 09:38:22
+유저아이디 :  15c5f681-5bce-43e9-974d-c7ac301e6834
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #SG03 || 질문아이디2 : #SG03 || 질문아이디3 : #SG03 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #SG031_#SG031_#SG031_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG031_#SG031_#SG031
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>&#039;-&#039;를 제외한 전화번호를 입력해주세요.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#SG031","s2": "#SG031","s3":"#SG031","s4":""}]}
+*************************************
+접속일 :  2021-05-10 09:38:30
+유저아이디 :  15c5f681-5bce-43e9-974d-c7ac301e6834
+메시지 구분: 3 || 질문내용 : 01098219876 || 질문아이디1 : #SG031 || 질문아이디2 : #SG031 || 질문아이디3 : #SG031 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #SG0311_#SG0311_#SG0311_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG0311_#SG0311_#SG0311
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>관심을 가져주셔서 감사합니다.</p><p>||언제나 국민 여러분과 함께 하겠습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}

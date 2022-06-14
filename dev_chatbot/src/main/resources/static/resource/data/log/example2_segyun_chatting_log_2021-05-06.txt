@@ -1,0 +1,1924 @@
+*************************************
+접속일 :  2021-05-06 16:22:26
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 0 || 질문내용 : 정세균이 궁금해 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "정세균이 궁금해"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #sg01_#sg01_#sg01_198
+ que_id1 : #sg011_#sg011_#sg011_198
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg01_#sg01_#sg01
+ scn_que_id1 : #sg011_#sg011_#sg011
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>총학생회장에서 국무총리까지,<br></p><p>'정치인 정세균'에 대해 알고싶은 내용을 선택해주세요.&nbsp;</p><p>$$$▶생애/정치활동</p><p>$$$▶다양한 별명</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#sg01","s2": "#sg01","s3":"#sg01","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 16:22:34
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #sg01 || 질문아이디2 : #sg01 || 질문아이디3 : #sg01 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg021_#sg021_#sg021_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg021_#sg021_#sg021
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>||'정세균'은 <b>1950년 전북 진안 출생</b>으로<br></p><p><b>전주진흥고등학교</b>를 졸업하여 1970년 <b>고려대학교 법대</b>에 진학했습니다.</p><p>||1996년 <b>제15대 국회의원</b>에 당선된 후<br></p><p>전북과 서울에서 <b>6선을 연임</b>하였고 <b>산업자원부장관</b>을 거치며 국민 여러분을 만나왔습니다.</p><p>||그리고 대한민국 <b>제20대 국회 전반기 국회의장</b>이자 <b>제46대 국무총리</b>를 역임하였습니다.</p><p>||앞으로도 국민 여러분과 함께 하겠습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 16:22:48
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #sg01 || 질문아이디2 : #sg01 || 질문아이디3 : #sg01 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg022_#sg022_#sg022_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg022_#sg022_#sg022
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>【세균맨】<br></p><p>이름때문만이 아니라&nbsp;</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 16:23:52
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 0 || 질문내용 : 정세균이 궁금해 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "정세균이 궁금해"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #sg011_#sg011_#sg011_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg011_#sg011_#sg011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>총학생회장에서 국무총리까지,<br></p><p>&#039;정치인 정세균&#039;에 대해 알고싶은 내용을 선택해주세요.&nbsp;</p><p>$$$▶생애/정치활동</p><p>$$$▶다양한 별명</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#sg011","s2": "#sg011","s3":"#sg011","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 16:23:55
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #sg011 || 질문아이디2 : #sg011 || 질문아이디3 : #sg011 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg0222_#sg0222_#sg0222_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg0222_#sg0222_#sg0222
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>【세균맨】<br></p><p>이름때문만이 아니라 국회의장 시절, 임기가 끝날때까지 책상에 세균맨 캐릭터 인형이 놓여져 있어서 붙여진 별명이다.</p><p>||【루피】<br></p><p>아동 애니메이션 뽀로로의 캐릭터 중 하나인 루피.<br></p><p>세균맨과 마찬가지로 국회의장 시절 책상에 올려 둔 루피 캐릭터 인형때문에 붙여진 별명이다.</p><p>||【미스터 스마일】<br></p><p>특유의 온화함과 외유내강형 성품으로 얻은 별칭이다.<br></p><p>특히 국회 출입 기자들의 투표로 매년 선출하는 '백봉신사상'을 올해까지 15차례 받기도 했다. <br></p><p>'백봉신사상'은 현역 의원 중 가장 신사적인 언행과 리더십, 모범적 의정 활동을 펼친 이들을 대상으로 수여된다.<br></p><p>20대 국회 전반기 국회의장 재임 땐 국회의장-교섭단체 원내대표 회동을 정례화 시키면서 '중재자'로서의 면모를 드러내기도 했다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 16:25:10
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 0 || 질문내용 : 정세균이 궁금해 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "정세균이 궁금해"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #sg011_#sg011_#sg011_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg011_#sg011_#sg011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>총학생회장에서 국무총리까지,<br></p><p>&#039;정치인 정세균&#039;에 대해 알고싶은 내용을 선택해주세요.&nbsp;</p><p>$$$▶생애/정치활동</p><p>$$$▶다양한 별명</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#sg011","s2": "#sg011","s3":"#sg011","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 16:25:16
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #sg011 || 질문아이디2 : #sg011 || 질문아이디3 : #sg011 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg0222_#sg0222_#sg0222_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg0222_#sg0222_#sg0222
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>【세균맨】<br></p><p>이름때문만이 아니라 국회의장 시절, 임기가 끝날때까지 책상에 세균맨 캐릭터 인형이 놓여져 있어서 붙여진 별명이다.</p><p>||【루피】<br></p><p>아동 애니메이션 뽀로로의 캐릭터 중 하나인 루피.<br></p><p>세균맨과 마찬가지로 국회의장 시절 책상에 올려 둔 루피 캐릭터 인형때문에 붙여진 별명이다.</p><p>||【미스터 스마일】<br></p><p>특유의 온화함과 외유내강형 성품으로 얻은 별칭이다.<br></p><p>특히 국회 출입 기자들의 투표로 매년 선출하는 '백봉신사상'을 올해까지 15차례 받기도 했다. <br></p><p>'백봉신사상'은 현역 의원 중 가장 신사적인 언행과 리더십, 모범적 의정 활동을 펼친 이들을 대상으로 수여된다.<br></p><p>20대 국회 전반기 국회의장 재임 땐 국회의장-교섭단체 원내대표 회동을 정례화 시키면서 '중재자'로서의 면모를 드러내기도 했다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 16:27:56
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 0 || 질문내용 : 정세균이 궁금해 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "정세균이 궁금해"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #sg011_#sg011_#sg011_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg011_#sg011_#sg011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>총학생회장에서 국무총리까지,<br></p><p>&#039;정치인 정세균&#039;에 대해 알고싶은 내용을 선택해주세요.&nbsp;</p><p>$$$▶생애/정치활동</p><p>$$$▶다양한 별명</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#sg011","s2": "#sg011","s3":"#sg011","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 16:28:00
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #sg011 || 질문아이디2 : #sg011 || 질문아이디3 : #sg011 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg0211_#sg0211_#sg0211_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg0211_#sg0211_#sg0211
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>||'정세균'은 <b>1950년 전북 진안 출생</b>으로<br></p><p><b>전주진흥고등학교</b>를 졸업하여 1970년 <b>고려대학교 법대</b>에 진학했습니다.</p><p>||1996년 <b>제15대 국회의원</b>에 당선된 후<br></p><p>전북과 서울에서 <b>6선을 연임</b>하였고 <b>산업자원부장관</b>을 거치며 국민 여러분을 만나왔습니다.</p><p>||그리고 대한민국 <b>제20대 국회 전반기 국회의장</b>이자 <b>제46대 국무총리</b>를 역임하였습니다.</p><p>||앞으로도 국민 여러분과 함께 하겠습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 16:28:20
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #sg011 || 질문아이디2 : #sg011 || 질문아이디3 : #sg011 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg0222_#sg0222_#sg0222_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg0222_#sg0222_#sg0222
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>【세균맨】<br></p><p>이름때문만이 아니라 국회의장 시절, 임기가 끝날때까지 책상에 세균맨 캐릭터 인형이 놓여져 있어서 붙여진 별명입니다.</p><p>||【루피】<br></p><p>루피는 아동 애니메이션 뽀로로에 등장하는 캐릭터입니다.<br></p><p>세균맨과 마찬가지로 국회의장 시절 책상에 올려 둔 루피 캐릭터 인형때문에 붙여진 별명입니다.</p><p>||【미스터 스마일】<br></p><p>특유의 온화함과 외유내강형 성품으로 얻은 별칭입니다.<br></p><p>특히 국회 출입 기자들의 투표로 매년 선출하는 '백봉신사상'을 올해까지 15차례 받기도 했습니다. <br></p><p>'백봉신사상'은 현역 의원 중 가장 신사적인 언행과 리더십, 모범적 의정 활동을 펼친 이들을 대상으로 수여됩니다.<br></p><p>20대 국회 전반기 국회의장 재임 땐 국회의장-교섭단체 원내대표 회동을 정례화 시키면서 '중재자'로서의 면모를 드러내기도 했습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 16:29:03
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 0 || 질문내용 : 정세균이 궁금해 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "정세균이 궁금해"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #sg011_#sg011_#sg011_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg011_#sg011_#sg011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>총학생회장에서 국무총리까지,<br></p><p>&#039;정치인 정세균&#039;에 대해 알고싶은 내용을 선택해주세요.&nbsp;</p><p>$$$▶생애/정치활동</p><p>$$$▶다양한 별명</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#sg011","s2": "#sg011","s3":"#sg011","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 16:29:32
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 0 || 질문내용 : 정세균이 궁금해 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "정세균이 궁금해"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #sg011_#sg011_#sg011_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg011_#sg011_#sg011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>총학생회장에서 국무총리까지,<br></p><p>&#039;정치인 정세균&#039;에 대해 알고싶은 내용을 선택해주세요.&nbsp;</p><p>$$$▶생애/정치활동</p><p>$$$▶다양한 별명</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#sg011","s2": "#sg011","s3":"#sg011","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 16:29:36
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #sg011 || 질문아이디2 : #sg011 || 질문아이디3 : #sg011 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg0211_#sg0211_#sg0211_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg0211_#sg0211_#sg0211
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>'정세균'은 <b>1950년 전북 진안 출생</b>으로<br></p><p><b>전주진흥고등학교</b>를 졸업하여 1970년 <b>고려대학교 법대</b>에 진학했습니다.</p><p>||1996년 <b>제15대 국회의원</b>에 당선된 후<br></p><p>전북과 서울에서 <b>6선을 연임</b>하였고 <b>산업자원부장관</b>을 거치며 국민 여러분을 만나왔습니다.</p><p>||그리고 대한민국 <b>제20대 국회 전반기 국회의장</b>이자 <b>제46대 국무총리</b>를 역임하였습니다.</p><p>||앞으로도 국민 여러분과 함께 하겠습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 16:29:45
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 1 || 질문내용 : 이미지 보기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "이미지 보기"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "앞으로 더욱 노력하겠습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 16:29:46
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 1 || 질문내용 : 이미지 보기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "이미지 보기"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "앞으로 더욱 노력하겠습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 16:29:54
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #sg011 || 질문아이디2 : #sg011 || 질문아이디3 : #sg011 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg0211_#sg0211_#sg0211_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg0211_#sg0211_#sg0211
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>'정세균'은 <b>1950년 전북 진안 출생</b>으로<br></p><p><b>전주진흥고등학교</b>를 졸업하여 1970년 <b>고려대학교 법대</b>에 진학했습니다.</p><p>||1996년 <b>제15대 국회의원</b>에 당선된 후<br></p><p>전북과 서울에서 <b>6선을 연임</b>하였고 <b>산업자원부장관</b>을 거치며 국민 여러분을 만나왔습니다.</p><p>||그리고 대한민국 <b>제20대 국회 전반기 국회의장</b>이자 <b>제46대 국무총리</b>를 역임하였습니다.</p><p>||앞으로도 국민 여러분과 함께 하겠습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 16:30:04
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 0 || 질문내용 : 정세균이 궁금해 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "정세균이 궁금해"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #sg011_#sg011_#sg011_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg011_#sg011_#sg011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>총학생회장에서 국무총리까지,<br></p><p>&#039;정치인 정세균&#039;에 대해 알고싶은 내용을 선택해주세요.&nbsp;</p><p>$$$▶생애/정치활동</p><p>$$$▶다양한 별명</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#sg011","s2": "#sg011","s3":"#sg011","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 16:30:10
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #sg011 || 질문아이디2 : #sg011 || 질문아이디3 : #sg011 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg0222_#sg0222_#sg0222_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg0222_#sg0222_#sg0222
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>【세균맨】<br></p><p>이름때문만이 아니라 국회의장 시절, 임기가 끝날때까지 책상에 세균맨 캐릭터 인형이 놓여져 있어서 붙여진 별명입니다.</p><p>||【루피】<br></p><p>루피는 아동 애니메이션 뽀로로에 등장하는 캐릭터입니다.<br></p><p>세균맨과 마찬가지로 국회의장 시절 책상에 올려 둔 루피 캐릭터 인형때문에 붙여진 별명입니다.</p><p>||【미스터 스마일】<br></p><p>특유의 온화함과 외유내강형 성품으로 얻은 별칭입니다.<br></p><p>특히 국회 출입 기자들의 투표로 매년 선출하는 &#039;백봉신사상&#039;을 올해까지 15차례 받기도 했습니다. <br></p><p>&#039;백봉신사상&#039;은 현역 의원 중 가장 신사적인 언행과 리더십, 모범적 의정 활동을 펼친 이들을 대상으로 수여됩니다.<br></p><p>20대 국회 전반기 국회의장 재임 땐 국회의장-교섭단체 원내대표 회동을 정례화 시키면서 &#039;중재자&#039;로서의 면모를 드러내기도 했습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 16:30:27
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 1 || 질문내용 : 이미지 보기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "이미지 보기"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "앞으로 더욱 노력하겠습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 16:30:28
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 1 || 질문내용 : 이미지 보기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "이미지 보기"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "앞으로 더욱 노력하겠습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 16:31:43
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 0 || 질문내용 : 정세균이 궁금해 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "정세균이 궁금해"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #sg011_#sg011_#sg011_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg011_#sg011_#sg011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>총학생회장에서 국무총리까지,<br></p><p>&#039;정치인 정세균&#039;에 대해 알고싶은 내용을 선택해주세요.&nbsp;</p><p>$$$▶생애/정치활동</p><p>$$$▶다양한 별명</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#sg011","s2": "#sg011","s3":"#sg011","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 16:31:48
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #sg011 || 질문아이디2 : #sg011 || 질문아이디3 : #sg011 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg0211_#sg0211_#sg0211_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg0211_#sg0211_#sg0211
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>'정세균'은 <b>1950년 전북 진안 출생</b>으로<br></p><p><b>전주진흥고등학교</b>를 졸업하여 1970년 <b>고려대학교 법대</b>에 진학했습니다.</p><p>||1996년 <b>제15대 국회의원</b>에 당선된 후<br></p><p>전북과 서울에서 <b>6선을 연임</b>하였고 <b>산업자원부장관</b>을 거치며 국민 여러분을 만나왔습니다.</p><p>||그리고 대한민국 <b>제20대 국회 전반기 국회의장</b>이자 <b>제46대 국무총리</b>를 역임하였습니다.</p><p>||앞으로도 국민 여러분과 함께 하겠습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 16:31:59
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #sg011 || 질문아이디2 : #sg011 || 질문아이디3 : #sg011 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg0222_#sg0222_#sg0222_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg0222_#sg0222_#sg0222
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>【세균맨】<br></p><p>이름때문만이 아니라 국회의장 시절, 임기가 끝날때까지 책상에 세균맨 캐릭터 인형이 놓여져 있어서 붙여진 별명입니다.</p><p>||【루피】<br></p><p>루피는 아동 애니메이션 뽀로로에 등장하는 캐릭터입니다.<br></p><p>세균맨과 마찬가지로 국회의장 시절 책상에 올려 둔 루피 캐릭터 인형때문에 붙여진 별명입니다.</p><p>||【미스터 스마일】<br></p><p>특유의 온화함과 외유내강형 성품으로 얻은 별칭입니다.<br></p><p>특히 국회 출입 기자들의 투표로 매년 선출하는 '백봉신사상'을 올해까지 15차례 받기도 했습니다. <br></p><p>'백봉신사상'은 현역 의원 중 가장 신사적인 언행과 리더십, 모범적 의정 활동을 펼친 이들을 대상으로 수여됩니다.<br></p><p>20대 국회 전반기 국회의장 재임 땐 국회의장-교섭단체 원내대표 회동을 정례화 시키면서 '중재자'로서의 면모를 드러내기도 했습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 16:35:23
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 0 || 질문내용 : 정세균이 궁금해 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "정세균이 궁금해"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #sg011_#sg011_#sg011_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg011_#sg011_#sg011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>총학생회장에서 국무총리까지,<br></p><p>&#039;정치인 정세균&#039;에 대해 알고싶은 내용을 선택해주세요.&nbsp;</p><p>$$$▶생애/정치활동</p><p>$$$▶다양한 별명</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#sg011","s2": "#sg011","s3":"#sg011","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 16:35:28
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #sg011 || 질문아이디2 : #sg011 || 질문아이디3 : #sg011 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg0211_#sg0211_#sg0211_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg0211_#sg0211_#sg0211
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>'정세균'은 <b>1950년 전북 진안 출생</b>으로<br></p><p><b>전주진흥고등학교</b>를 졸업하여 1970년 <b>고려대학교 법대</b>에 진학했습니다.</p><p>||1996년 <b>제15대 국회의원</b>에 당선된 후<br></p><p>전북과 서울에서 <b>6선을 연임</b>하였고 <b>산업자원부장관</b>을 거치며 국민 여러분을 만나왔습니다.</p><p>||그리고 대한민국 <b>제20대 국회 전반기 국회의장</b>이자 <b>제46대 국무총리</b>를 역임하였습니다.</p><p>||앞으로도 국민 여러분과 함께 하겠습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 16:36:42
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 0 || 질문내용 : 국민의 소리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "국민의 소리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "관심을 가져주셔서 고맙습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 16:36:44
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 1 || 질문내용 : 국민의 소리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "국민의 소리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "관심을 가져주셔서 고맙습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 16:36:57
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 0 || 질문내용 : 국민의 소리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "국민의 소리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "앞으로 더욱 노력하겠습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 16:36:58
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 1 || 질문내용 : 국민의 소리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "국민의 소리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "관심을 가져주셔서 고맙습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 16:37:06
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 0 || 질문내용 : 국민의 소리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "국민의 소리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "앞으로 더욱 노력하겠습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 16:37:06
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 1 || 질문내용 : 국민의 소리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "국민의 소리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "관심을 가져주셔서 고맙습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 16:37:31
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 0 || 질문내용 : 국민의 소리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "국민의 소리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "관심을 가져주셔서 고맙습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 16:37:32
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 1 || 질문내용 : 국민의 소리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "국민의 소리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "관심을 가져주셔서 고맙습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 16:38:29
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 0 || 질문내용 : 정세균이 궁금해 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "정세균이 궁금해"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #sg011_#sg011_#sg011_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg011_#sg011_#sg011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>총학생회장에서 국무총리까지,<br></p><p>&#039;정치인 정세균&#039;에 대해 알고싶은 내용을 선택해주세요.&nbsp;</p><p>$$$▶생애/정치활동</p><p>$$$▶다양한 별명</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#sg011","s2": "#sg011","s3":"#sg011","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 16:38:35
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 0 || 질문내용 : 국민의 소리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "국민의 소리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "관심을 가져주셔서 고맙습니다.<br>앞으로 더욱 노력하겠습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 16:38:36
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 1 || 질문내용 : 국민의 소리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "국민의 소리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "관심을 가져주셔서 고맙습니다.<br>앞으로 더욱 노력하겠습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 16:45:22
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 0 || 질문내용 : 국민의 소리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "국민의 소리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #SG02_#SG02_#SG02_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG02_#SG02_#SG02
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>국민 여러분과 함께<BR></p><p>대한민국의 미래를 만들어가겠습니다.</p><p>||작은 의견이라도 편하게 남겨주십시오!</p><p>$$$▶의견 보내기</p><p>$$$▶응원하기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#SG02","s2": "#SG02","s3":"#SG02","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 16:45:36
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #SG02 || 질문아이디2 : #SG02 || 질문아이디3 : #SG02 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #SG022_#SG022_#SG022_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG022_#SG022_#SG022
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>감사합니다.</p><p>||더욱 힘내겠습니다!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 16:45:41
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #SG02 || 질문아이디2 : #SG02 || 질문아이디3 : #SG02 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #SG021_#SG021_#SG021_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG021_#SG021_#SG021
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>말하고 싶은 내용을 자유롭게 적어주세요.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#SG021","s2": "#SG021","s3":"#SG021","s4":""}]}
+*************************************
+접속일 :  2021-05-06 16:59:11
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 0 || 질문내용 : 문자수신 신청 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "문자수신 신청"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #SG03_#SG03_#SG03_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG03_#SG03_#SG03
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>더 밝은 대한민국으로 가는 길에<BR><br></p><p>여러분과 함께 하겠습니다.</p><p>||문자 수신을 위해 입력하신 연락처는<BR></p><p>저의 활동 소식을 전달드리는데 이용됩니다.<BR></p><p>보유기간은 문자 수신 서비스 취소시까지 이며,<BR></p><p>서비스 취소는 언제든지 가능합니다.</p><p>||내용에 동의하시면<BR></p><p>전화번호 입력 버튼을 선택해주세요.</p><p>$$$▶전화번호 입력하기</p><p>$$$▶다음에 신청하기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#SG03","s2": "#SG03","s3":"#SG03","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 16:59:37
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #SG03 || 질문아이디2 : #SG03 || 질문아이디3 : #SG03 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #SG032_#SG032_#SG032_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG032_#SG032_#SG032
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>문자 수신 신청은 언제든지 열려있습니다.</p><p>||많은 관심 부탁드립니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 17:00:54
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 0 || 질문내용 : 문자수신 신청 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "문자수신 신청"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #SG03_#SG03_#SG03_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG03_#SG03_#SG03
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>더 밝은 대한민국으로 가는 길에<BR>여러분과 함께 하겠습니다.<br></p><p>||문자 수신을 위해 입력하신 연락처는<br></p><p>저의 활동 소식을 전달드리는데 이용됩니다.<br></p><p>보유기간은 문자 수신 서비스 취소시까지이며,<br></p><p>문자 수신 취소는 언제든지 가능합니다.</p><p>||내용에 동의하시면<br></p><p>전화번호 입력 버튼을 선택해주세요.</p><p>$$$▶전화번호 입력하기</p><p>$$$▶다음에 신청하기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#SG03","s2": "#SG03","s3":"#SG03","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 17:02:34
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #SG03 || 질문아이디2 : #SG03 || 질문아이디3 : #SG03 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #SG031_#SG031_#SG031_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG031_#SG031_#SG031
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>&#039;-&#039;를 제외한 전화번호를 입력해주세요.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#SG031","s2": "#SG031","s3":"#SG031","s4":""}]}
+*************************************
+접속일 :  2021-05-06 17:03:28
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 0 || 질문내용 : 문자수신 신청 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "문자수신 신청"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #SG03_#SG03_#SG03_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG03_#SG03_#SG03
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>더 밝은 대한민국으로 가는 길에<BR>여러분과 함께 하겠습니다.<br></p><p>||문자 수신을 위해 입력하신 연락처는<br></p><p>저의 활동 소식을 전달드리는데 이용됩니다.<br></p><p>보유기간은 문자 수신 서비스 취소시까지이며,<br></p><p>문자 수신 취소는 언제든지 가능합니다.</p><p>||내용에 동의하시면<br></p><p>전화번호 입력 버튼을 선택해주세요.</p><p>$$$▶전화번호 입력하기</p><p>$$$▶다음에 신청하기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#SG03","s2": "#SG03","s3":"#SG03","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 17:03:34
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #SG03 || 질문아이디2 : #SG03 || 질문아이디3 : #SG03 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #SG031_#SG031_#SG031_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG031_#SG031_#SG031
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>&#039;-&#039;를 제외한 전화번호를 입력해주세요.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#SG031","s2": "#SG031","s3":"#SG031","s4":""}]}
+*************************************
+접속일 :  2021-05-06 17:03:46
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 3 || 질문내용 : 01043632806 || 질문아이디1 : #SG031 || 질문아이디2 : #SG031 || 질문아이디3 : #SG031 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #SG0311_#SG0311_#SG0311_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG0311_#SG0311_#SG0311
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>관심을 가져주셔서 감사합니다.</p><p>||언제나 국민 여러분과 함께 하겠습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 17:04:04
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 0 || 질문내용 : 국민의 소리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "국민의 소리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #SG02_#SG02_#SG02_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG02_#SG02_#SG02
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>국민 여러분과 함께<BR></p><p>대한민국의 미래를 만들어가겠습니다.</p><p>||작은 의견이라도 편하게 남겨주십시오!</p><p>$$$▶의견 보내기</p><p>$$$▶응원하기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#SG02","s2": "#SG02","s3":"#SG02","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 17:04:09
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #SG02 || 질문아이디2 : #SG02 || 질문아이디3 : #SG02 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #SG021_#SG021_#SG021_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG021_#SG021_#SG021
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>말하고 싶은 내용을 자유롭게 적어주십시오.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#SG021","s2": "#SG021","s3":"#SG021","s4":""}]}
+*************************************
+접속일 :  2021-05-06 17:04:18
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 3 || 질문내용 : 주4일제 하고싶다 || 질문아이디1 : #SG021 || 질문아이디2 : #SG021 || 질문아이디3 : #SG021 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #WG0212_#WG0212_#WG0212_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #WG0212_#WG0212_#WG0212
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>소중한 의견 감사합니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 17:04:27
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 0 || 질문내용 : 국민의 소리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "국민의 소리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #SG02_#SG02_#SG02_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG02_#SG02_#SG02
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>국민 여러분과 함께<BR></p><p>대한민국의 미래를 만들어가겠습니다.</p><p>||작은 의견이라도 편하게 남겨주십시오!</p><p>$$$▶의견 보내기</p><p>$$$▶응원하기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#SG02","s2": "#SG02","s3":"#SG02","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 17:04:31
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #SG02 || 질문아이디2 : #SG02 || 질문아이디3 : #SG02 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #SG022_#SG022_#SG022_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG022_#SG022_#SG022
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>감사합니다.</p><p>||더욱 힘내겠습니다!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 17:04:41
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 0 || 질문내용 : 정세균이 궁금해 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "정세균이 궁금해"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #sg011_#sg011_#sg011_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg011_#sg011_#sg011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>총학생회장에서 국무총리까지,<br></p><p>&#039;정치인 정세균&#039;에 대해 알고싶은 내용을 선택해주세요.&nbsp;</p><p>$$$▶생애/정치활동</p><p>$$$▶다양한 별명</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#sg011","s2": "#sg011","s3":"#sg011","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 17:04:45
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #sg011 || 질문아이디2 : #sg011 || 질문아이디3 : #sg011 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg0211_#sg0211_#sg0211_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg0211_#sg0211_#sg0211
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>'정세균'은 <b>1950년 전북 진안 출생</b>으로<br></p><p><b>전주진흥고등학교</b>를 졸업하여 1970년 <b>고려대학교 법대</b>에 진학했습니다.</p><p>||1996년 <b>제15대 국회의원</b>에 당선된 후<br></p><p>전북과 서울에서 <b>6선을 연임</b>하였고 <b>산업자원부장관</b>을 거치며 국민 여러분을 만나왔습니다.</p><p>||그리고 대한민국 <b>제20대 국회 전반기 국회의장</b>이자 <b>제46대 국무총리</b>를 역임하였습니다.</p><p>||앞으로도 국민 여러분과 함께 하겠습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 17:04:58
+유저아이디 :  f7a696fb-f3a5-43a3-b043-1a92defe0386
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #sg011 || 질문아이디2 : #sg011 || 질문아이디3 : #sg011 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg0222_#sg0222_#sg0222_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg0222_#sg0222_#sg0222
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>【세균맨】<br></p><p>이름때문만이 아니라 국회의장 시절, 임기가 끝날때까지 책상에 세균맨 캐릭터 인형이 놓여져 있어서 붙여진 별명입니다.</p><p>||【루피】<br></p><p>루피는 아동 애니메이션 뽀로로에 등장하는 캐릭터입니다.<br></p><p>세균맨과 마찬가지로 국회의장 시절 책상에 올려 둔 루피 캐릭터 인형때문에 붙여진 별명입니다.</p><p>||【미스터 스마일】<br></p><p>특유의 온화함과 외유내강형 성품으로 얻은 별칭입니다.<br></p><p>특히 국회 출입 기자들의 투표로 매년 선출하는 '백봉신사상'을 올해까지 15차례 받기도 했습니다. '백봉신사상'은 현역 의원 중 가장 신사적인 언행과 리더십, 모범적 의정 활동을 펼친 이들을 대상으로 수여하는 상이기때문에 그 의미가 남다릅니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 17:58:18
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 0 || 질문내용 : 정세균이 궁금해 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "정세균이 궁금해"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #sg011_#sg011_#sg011_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg011_#sg011_#sg011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>총학생회장에서 국무총리까지,<br></p><p>&#039;정치인 정세균&#039;에 대해 알고싶은 내용을 선택해주세요.&nbsp;</p><p>$$$▶생애/정치활동</p><p>$$$▶다양한 별명</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#sg011","s2": "#sg011","s3":"#sg011","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 17:59:34
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #sg011 || 질문아이디2 : #sg011 || 질문아이디3 : #sg011 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg0211_#sg0211_#sg0211_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg0211_#sg0211_#sg0211
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>'정세균'은 <b>1950년 전북 진안 출생</b>으로<br></p><p><b>전주진흥고등학교</b>를 졸업하여 1970년 <b>고려대학교 법대</b>에 진학했습니다.</p><p>||1996년 <b>제15대 국회의원</b>에 당선된 후<br></p><p>전북과 서울에서 <b>6선을 연임</b>하였고 <b>산업자원부장관</b>을 거치며 국민 여러분을 만나왔습니다.</p><p>||그리고 대한민국 <b>제20대 국회 전반기 국회의장</b>이자 <b>제46대 국무총리</b>를 역임하였습니다.</p><p>||앞으로도 국민 여러분과 함께 하겠습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 18:10:22
+유저아이디 :  f78590ae-1cfc-4995-a908-364d495b0a60
+메시지 구분: 0 || 질문내용 : 정세균이 궁금해 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "정세균이 궁금해"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #sg011_#sg011_#sg011_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg011_#sg011_#sg011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>총학생회장에서 국무총리까지,<br></p><p>&#039;정치인 정세균&#039;에 대해 알고싶은 내용을 선택해주세요.&nbsp;</p><p>$$$▶생애/정치활동</p><p>$$$▶다양한 별명</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#sg011","s2": "#sg011","s3":"#sg011","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 18:10:27
+유저아이디 :  f78590ae-1cfc-4995-a908-364d495b0a60
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #sg011 || 질문아이디2 : #sg011 || 질문아이디3 : #sg011 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg0211_#sg0211_#sg0211_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg0211_#sg0211_#sg0211
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>'정세균'은 <b>1950년 전북 진안 출생</b>으로<br></p><p><b>전주진흥고등학교</b>를 졸업하여 1970년 <b>고려대학교 법대</b>에 진학했습니다.</p><p>||1996년 <b>제15대 국회의원</b>에 당선된 후<br></p><p>전북과 서울에서 <b>6선을 연임</b>하였고 <b>산업자원부장관</b>을 거치며 국민 여러분을 만나왔습니다.</p><p>||그리고 대한민국 <b>제20대 국회 전반기 국회의장</b>이자 <b>제46대 국무총리</b>를 역임하였습니다.</p><p>||앞으로도 국민 여러분과 함께 하겠습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 18:10:35
+유저아이디 :  f78590ae-1cfc-4995-a908-364d495b0a60
+메시지 구분: 1 || 질문내용 : 기분좋은 웃음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "기분좋은 웃음"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "관심을 가져주셔서 고맙습니다.<br>앞으로 더욱 노력하겠습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 18:10:36
+유저아이디 :  f78590ae-1cfc-4995-a908-364d495b0a60
+메시지 구분: 1 || 질문내용 : 기분좋은 웃음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "기분좋은 웃음"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "관심을 가져주셔서 고맙습니다.<br>앞으로 더욱 노력하겠습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 18:11:30
+유저아이디 :  f78590ae-1cfc-4995-a908-364d495b0a60
+메시지 구분: 0 || 질문내용 : 국민의 소리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "국민의 소리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #SG02_#SG02_#SG02_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG02_#SG02_#SG02
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>국민 여러분과 함께<BR></p><p>대한민국의 미래를 만들어가겠습니다.</p><p>||작은 의견이라도 편하게 남겨주십시오!</p><p>$$$▶의견 보내기</p><p>$$$▶응원하기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#SG02","s2": "#SG02","s3":"#SG02","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 18:11:35
+유저아이디 :  f78590ae-1cfc-4995-a908-364d495b0a60
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #SG02 || 질문아이디2 : #SG02 || 질문아이디3 : #SG02 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #SG022_#SG022_#SG022_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG022_#SG022_#SG022
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>감사합니다.</p><p>||더욱 힘내겠습니다!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 18:11:42
+유저아이디 :  f78590ae-1cfc-4995-a908-364d495b0a60
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #SG02 || 질문아이디2 : #SG02 || 질문아이디3 : #SG02 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #SG021_#SG021_#SG021_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG021_#SG021_#SG021
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>말하고 싶은 내용을 자유롭게 적어주십시오.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#SG021","s2": "#SG021","s3":"#SG021","s4":""}]}
+*************************************
+접속일 :  2021-05-06 18:11:50
+유저아이디 :  f78590ae-1cfc-4995-a908-364d495b0a60
+메시지 구분: 3 || 질문내용 : 네네 || 질문아이디1 : #SG021 || 질문아이디2 : #SG021 || 질문아이디3 : #SG021 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #WG0212_#WG0212_#WG0212_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #WG0212_#WG0212_#WG0212
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>소중한 의견 감사합니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 18:12:02
+유저아이디 :  f78590ae-1cfc-4995-a908-364d495b0a60
+메시지 구분: 0 || 질문내용 : 문자수신 신청 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "문자수신 신청"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #SG03_#SG03_#SG03_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG03_#SG03_#SG03
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>더 밝은 대한민국으로 가는 길에<BR>여러분과 함께 하겠습니다.<br></p><p>||문자 수신을 위해 입력하신 연락처는<br></p><p>저의 활동 소식을 전달드리는데 이용됩니다.<br></p><p>보유기간은 문자 수신 서비스 취소시까지이며,<br></p><p>문자 수신 취소는 언제든지 가능합니다.</p><p>||내용에 동의하시면<br></p><p>전화번호 입력 버튼을 선택해주세요.</p><p>$$$▶전화번호 입력하기</p><p>$$$▶다음에 신청하기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#SG03","s2": "#SG03","s3":"#SG03","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 18:12:10
+유저아이디 :  f78590ae-1cfc-4995-a908-364d495b0a60
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #SG03 || 질문아이디2 : #SG03 || 질문아이디3 : #SG03 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #SG031_#SG031_#SG031_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG031_#SG031_#SG031
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>&#039;-&#039;를 제외한 전화번호를 입력해주세요.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#SG031","s2": "#SG031","s3":"#SG031","s4":""}]}
+*************************************
+접속일 :  2021-05-06 18:12:49
+유저아이디 :  b8ab813d-4c33-4b68-b19f-630522141824
+메시지 구분: 0 || 질문내용 : 정세균이 궁금해 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "정세균이 궁금해"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #sg011_#sg011_#sg011_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg011_#sg011_#sg011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>총학생회장에서 국무총리까지,<br></p><p>&#039;정치인 정세균&#039;에 대해 알고싶은 내용을 선택해주세요.&nbsp;</p><p>$$$▶생애/정치활동</p><p>$$$▶다양한 별명</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#sg011","s2": "#sg011","s3":"#sg011","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 18:12:54
+유저아이디 :  b8ab813d-4c33-4b68-b19f-630522141824
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #sg011 || 질문아이디2 : #sg011 || 질문아이디3 : #sg011 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg0222_#sg0222_#sg0222_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg0222_#sg0222_#sg0222
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>【세균맨】<br></p><p>이름때문만이 아니라 국회의장 시절, 임기가 끝날때까지 책상에 세균맨 캐릭터 인형이 놓여져 있어서 붙여진 별명입니다.</p><p>||【루피】<br></p><p>루피는 아동 애니메이션 뽀로로에 등장하는 캐릭터입니다.<br></p><p>세균맨과 마찬가지로 국회의장 시절 책상에 올려 둔 루피 캐릭터 인형때문에 붙여진 별명입니다.</p><p>||【미스터 스마일】<br></p><p>특유의 온화함과 외유내강형 성품으로 얻은 별칭입니다.<br></p><p>특히 국회 출입 기자들의 투표로 매년 선출하는 '백봉신사상'을 올해까지 15차례 받기도 했습니다. '백봉신사상'은 현역 의원 중 가장 신사적인 언행과 리더십, 모범적 의정 활동을 펼친 이들을 대상으로 수여하는 상이기때문에 그 의미가 남다릅니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 18:13:25
+유저아이디 :  b8ab813d-4c33-4b68-b19f-630522141824
+메시지 구분: 0 || 질문내용 : 국민의 소리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "국민의 소리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #SG02_#SG02_#SG02_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG02_#SG02_#SG02
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>국민 여러분과 함께<BR></p><p>대한민국의 미래를 만들어가겠습니다.</p><p>||작은 의견이라도 편하게 남겨주십시오!</p><p>$$$▶의견 보내기</p><p>$$$▶응원하기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#SG02","s2": "#SG02","s3":"#SG02","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 18:14:10
+유저아이디 :  b8ab813d-4c33-4b68-b19f-630522141824
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #SG02 || 질문아이디2 : #SG02 || 질문아이디3 : #SG02 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #SG021_#SG021_#SG021_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG021_#SG021_#SG021
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>말하고 싶은 내용을 자유롭게 적어주십시오.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#SG021","s2": "#SG021","s3":"#SG021","s4":""}]}
+*************************************
+접속일 :  2021-05-06 18:14:29
+유저아이디 :  b8ab813d-4c33-4b68-b19f-630522141824
+메시지 구분: 0 || 질문내용 : 정세균이 궁금해 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0*************************************
+접속일 :  2021-05-06 18:14:29
+유저아이디 :  7dae2b85-87d1-4777-a9b3-c88bc809c79b
+메시지 구분: 0 || 질문내용 : 정세균이 궁금해 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "정세균이 궁금해"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #sg011_#sg011_#sg011_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg011_#sg011_#sg011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "정세균이 궁금해"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #sg011_#sg011_#sg011_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg011_#sg011_#sg011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>총학생회장에서 국무총리까지,<br></p><p>&#039;정치인 정세균&#039;에 대해 알고싶은 내용을 선택해주세요.&nbsp;</p><p>$$$▶생애/정치활동</p><p>$$$▶다양한 별명</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#sg011","s2": "#sg011","s3":"#sg011","s4":"198"}]}
+{"answercode":"4", "ai_msg": "<p>총학생회장에서 국무총리까지,<br></p><p>&#039;정치인 정세균&#039;에 대해 알고싶은 내용을 선택해주세요.&nbsp;</p><p>$$$▶생애/정치활동</p><p>$$$▶다양한 별명</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#sg011","s2": "#sg011","s3":"#sg011","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 18:14:33
+유저아이디 :  7dae2b85-87d1-4777-a9b3-c88bc809c79b
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #sg011 || 질문아이디2 : #sg011 || 질문아이디3 : #sg011 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg0222_#sg0222_#sg0222_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg0222_#sg0222_#sg0222
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>【세균맨】<br></p><p>이름때문만이 아니라 국회의장 시절, 임기가 끝날때까지 책상에 세균맨 캐릭터 인형이 놓여져 있어서 붙여진 별명입니다.</p><p>||【루피】<br></p><p>루피는 아동 애니메이션 뽀로로에 등장하는 캐릭터입니다.<br></p><p>세균맨과 마찬가지로 국회의장 시절 책상에 올려 둔 루피 캐릭터 인형때문에 붙여진 별명입니다.</p><p>||【미스터 스마일】<br></p><p>특유의 온화함과 외유내강형 성품으로 얻은 별칭입니다.<br></p><p>특히 국회 출입 기자들의 투표로 매년 선출하는 '백봉신사상'을 올해까지 15차례 받기도 했습니다. '백봉신사상'은 현역 의원 중 가장 신사적인 언행과 리더십, 모범적 의정 활동을 펼친 이들을 대상으로 수여하는 상이기때문에 그 의미가 남다릅니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 18:14:33
+유저아이디 :  b8ab813d-4c33-4b68-b19f-630522141824
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #sg011 || 질문아이디2 : #sg011 || 질문아이디3 : #sg011 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #sg0211_#sg0211_#sg0211_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #sg0211_#sg0211_#sg0211
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>'정세균'은 <b>1950년 전북 진안 출생</b>으로<br></p><p><b>전주진흥고등학교</b>를 졸업하여 1970년 <b>고려대학교 법대</b>에 진학했습니다.</p><p>||1996년 <b>제15대 국회의원</b>에 당선된 후<br></p><p>전북과 서울에서 <b>6선을 연임</b>하였고 <b>산업자원부장관</b>을 거치며 국민 여러분을 만나왔습니다.</p><p>||그리고 대한민국 <b>제20대 국회 전반기 국회의장</b>이자 <b>제46대 국무총리</b>를 역임하였습니다.</p><p>||앞으로도 국민 여러분과 함께 하겠습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-05-06 18:14:41
+유저아이디 :  7dae2b85-87d1-4777-a9b3-c88bc809c79b
+메시지 구분: 1 || 질문내용 : 인형과 함께 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "인형과 함께"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "관심을 가져주셔서 고맙습니다.<br>앞으로 더욱 노력하겠습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 18:14:41
+유저아이디 :  7dae2b85-87d1-4777-a9b3-c88bc809c79b
+메시지 구분: 1 || 질문내용 : 인형과 함께 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "인형과 함께"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "관심을 가져주셔서 고맙습니다.<br>앞으로 더욱 노력하겠습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 18:14:42
+유저아이디 :  b8ab813d-4c33-4b68-b19f-630522141824
+메시지 구분: 1 || 질문내용 : 기분좋은 웃음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "기분좋은 웃음"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "관심을 가져주셔서 고맙습니다.<br>앞으로 더욱 노력하겠습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 18:14:43
+유저아이디 :  b8ab813d-4c33-4b68-b19f-630522141824
+메시지 구분: 1 || 질문내용 : 기분좋은 웃음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "기분좋은 웃음"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "관심을 가져주셔서 고맙습니다.<br>앞으로 더욱 노력하겠습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 18:14:46
+유저아이디 :  7dae2b85-87d1-4777-a9b3-c88bc809c79b
+메시지 구분: 0 || 질문내용 : 국민의 소리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "국민의 소리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #SG02_#SG02_#SG02_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG02_#SG02_#SG02
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>국민 여러분과 함께<BR></p><p>대한민국의 미래를 만들어가겠습니다.</p><p>||작은 의견이라도 편하게 남겨주십시오!</p><p>$$$▶의견 보내기</p><p>$$$▶응원하기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#SG02","s2": "#SG02","s3":"#SG02","s4":"198"}]}
+*************************************
+접속일 :  2021-05-06 18:14:51
+유저아이디 :  7dae2b85-87d1-4777-a9b3-c88bc809c79b
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #SG02 || 질문아이디2 : #SG02 || 질문아이디3 : #SG02 || 질문아이디4 : 198
+ 시나리오 결과 값 : 
+ que_id :  #SG021_#SG021_#SG021_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG021_#SG021_#SG021
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>말하고 싶은 내용을 자유롭게 적어주십시오.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#SG021","s2": "#SG021","s3":"#SG021","s4":""}]}
+*************************************
+접속일 :  2021-05-06 18:16:05
+유저아이디 :  b8ab813d-4c33-4b68-b19f-630522141824
+메시지 구분: 0 || 질문내용 : 평등한 사회를 만들어 주세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "평등한 사회를 만들어 주세요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "관심을 가져주셔서 고맙습니다.<br>앞으로 더욱 노력하겠습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 18:16:06
+유저아이디 :  b8ab813d-4c33-4b68-b19f-630522141824
+메시지 구분: 1 || 질문내용 : 평등한 사회를 만들어 주세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "평등한 사회를 만들어 주세요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "관심을 가져주셔서 고맙습니다.<br>앞으로 더욱 노력하겠습니다.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-05-06 18:39:23
+유저아이디 :  f78590ae-1cfc-4995-a908-364d495b0a60
+메시지 구분: 0 || 질문내용 : 문자수신 신청 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "문자수신 신청"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #SG03_#SG03_#SG03_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG03_#SG03_#SG03
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>더 밝은 대한민국으로 가는 길에<BR>여러분과 함께 하겠습니다.<br></p><p>||문자 수신을 위해 입력하신 연락처는<br></p><p>저의 활동 소식을 전달드리는데 이용됩니다.<br></p><p>보유기간은 문자 수신 서비스 취소시까지이며,<br></p><p>문자 수신 취소는 언제든지 가능합니다.</p><p>||내용에 동의하시면<br></p><p>전화번호 입력 버튼을 선택해주세요.</p><p>$$$▶전화번호 입력하기</p><p>$$$▶다음에 신청하기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#SG03","s2": "#SG03","s3":"#SG03","s4":"198"}]}

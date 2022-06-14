@@ -1,0 +1,505 @@
+*************************************
+접속일 :  2022-03-22 09:56:07
+유저아이디 :  ddcf084a-98de-497b-8e9e-0728134fdb24
+메시지 구분: 0 || 질문내용 : 안녕하세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "안녕하세요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  39C6175E_8515_7260_60
+ que_id1 : 747D6781_54AB_FBEA_200
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 39C6175E_8515_7260
+ scn_que_id1 : 747D6781_54AB_FBEA
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9403//2500
+{"answercode":"", "ai_msg": "<p>네 안녕하세요!~</p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"39C6175E","s2": "8515","s3":"7260","s4":"60"}]}
+*************************************
+접속일 :  2022-03-22 09:58:40
+유저아이디 :  ddcf084a-98de-497b-8e9e-0728134fdb24
+메시지 구분: 0 || 질문내용 : 이력이? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "이력이?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어제 분명히 공부했던 내용인데... 이래서 복습이 중요한가봐요", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-22 09:58:40
+유저아이디 :  ddcf084a-98de-497b-8e9e-0728134fdb24
+메시지 구분: 1 || 질문내용 : 이력이? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "이력이?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 아직 공부가 더 필요해요. ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-22 09:59:08
+유저아이디 :  ddcf084a-98de-497b-8e9e-0728134fdb24
+메시지 구분: 0 || 질문내용 : 이력이? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "이력이?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어제 분명히 공부했던 내용인데... 이래서 복습이 중요한가봐요", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-22 09:59:09
+유저아이디 :  ddcf084a-98de-497b-8e9e-0728134fdb24
+메시지 구분: 1 || 질문내용 : 이력이? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "이력이?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어제 분명히 공부했던 내용인데... 이래서 복습이 중요한가봐요", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+접속일 :  --> March 22, 2022, 1:44 pm // 테스트 실행 -- > /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/test_result.out "해당 의원의 관련 이슈관련 질문"   /home/devchatbot/chatadm/www/engine_proc/_entity/test.entity.txt.utf8
+*************************************
+접속일 :  2022-03-22 13:45:14
+유저아이디 :  75a81f08-a030-4005-ab4e-fff2b6c687e6
+메시지 구분: 0 || 질문내용 : 어떤 회사인가요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "어떤 회사인가요?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어제 분명히 공부했던 내용인데... 이래서 복습이 중요한가봐요", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-22 13:45:14
+유저아이디 :  75a81f08-a030-4005-ab4e-fff2b6c687e6
+메시지 구분: 1 || 질문내용 : 어떤 회사인가요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "어떤 회사인가요?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어제 분명히 공부했던 내용인데... 이래서 복습이 중요한가봐요", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-22 18:02:53
+유저아이디 :  ddcf084a-98de-497b-8e9e-0728134fdb24
+메시지 구분: 0 || 질문내용 : 주소는? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "주소는?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 아직 공부가 더 필요해요. ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-22 18:02:53
+유저아이디 :  ddcf084a-98de-497b-8e9e-0728134fdb24
+메시지 구분: 1 || 질문내용 : 주소는? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "주소는?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어제 분명히 공부했던 내용인데... 이래서 복습이 중요한가봐요", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-22 18:04:12
+유저아이디 :  ddcf084a-98de-497b-8e9e-0728134fdb24
+메시지 구분: 0 || 질문내용 : 주소가 어떻게되? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "주소가 어떻게되?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  6152259C_9690_2AE2_209
+ que_id1 : 프린터_기기_기타_62
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 6152259C_9690_2AE2
+ scn_que_id1 : 프린터_기기_기타
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 6983//2500
+{"answercode":"1", "ai_msg": "주소는? | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"6152259C","s2": "9690","s3":"2AE2","s4":"209"}]}
+*************************************
+접속일 :  2022-03-22 18:06:57
+유저아이디 :  ddcf084a-98de-497b-8e9e-0728134fdb24
+메시지 구분: 2 || 질문내용 : 영업시간은? || 질문아이디1 : 6152259C || 질문아이디2 : 9690 || 질문아이디3 : 2AE2 || 질문아이디4 : 209
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "영업시간은?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  FF1680B9_1682_1CC2_209
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : FF1680B9_1682_1CC2
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9273//2500
+{"answercode":"", "ai_msg": "2", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"FF1680B9","s2": "1682","s3":"1CC2","s4":"209"}]}
+*************************************
+접속일 :  2022-03-22 18:07:07
+유저아이디 :  ddcf084a-98de-497b-8e9e-0728134fdb24
+메시지 구분: 0 || 질문내용 : 영업시간 어케되? || 질문아이디1 : FF1680B9 || 질문아이디2 : 1682 || 질문아이디3 : 1CC2 || 질문아이디4 : 209
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "영업시간 어케되?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  FF1680B9_1682_1CC2_209
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : FF1680B9_1682_1CC2
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9273//2500
+{"answercode":"", "ai_msg": "2", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"FF1680B9","s2": "1682","s3":"1CC2","s4":"209"}]}
+*************************************
+접속일 :  2022-03-22 18:07:15
+유저아이디 :  ddcf084a-98de-497b-8e9e-0728134fdb24
+메시지 구분: 0 || 질문내용 : 주소가? || 질문아이디1 : FF1680B9 || 질문아이디2 : 1682 || 질문아이디3 : 1CC2 || 질문아이디4 : 209
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "주소가?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  6152259C_9690_2AE2_209
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 6152259C_9690_2AE2
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "9", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"6152259C","s2": "9690","s3":"2AE2","s4":"209"}]}
+*************************************
+접속일 :  2022-03-22 18:07:26
+유저아이디 :  ddcf084a-98de-497b-8e9e-0728134fdb24
+메시지 구분: 0 || 질문내용 : 주소가 어떻게되? || 질문아이디1 : 6152259C || 질문아이디2 : 9690 || 질문아이디3 : 2AE2 || 질문아이디4 : 209
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "주소가 어떻게되?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  6152259C_9690_2AE2_209
+ que_id1 : 프린터_기기_기타_62
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 6152259C_9690_2AE2
+ scn_que_id1 : 프린터_기기_기타
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 6983//2500
+{"answercode":"1", "ai_msg": "주소는? | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"6152259C","s2": "9690","s3":"2AE2","s4":"209"}]}
+*************************************
+접속일 :  2022-03-22 18:08:22
+유저아이디 :  ddcf084a-98de-497b-8e9e-0728134fdb24
+메시지 구분: 2 || 질문내용 : 주소가? || 질문아이디1 : 6152259C || 질문아이디2 : 9690 || 질문아이디3 : 2AE2 || 질문아이디4 : 209
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out ""   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2022-03-22 18:08:22
+유저아이디 :  ddcf084a-98de-497b-8e9e-0728134fdb24
+메시지 구분: 1 || 질문내용 : 주소가? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "주소가?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  6152259C_9690_2AE2_209
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 6152259C_9690_2AE2
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "9", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"6152259C","s2": "9690","s3":"2AE2","s4":"209"}]}
+*************************************
+접속일 :  2022-03-22 18:08:34
+유저아이디 :  ddcf084a-98de-497b-8e9e-0728134fdb24
+메시지 구분: 0 || 질문내용 : 주소가 어디야? || 질문아이디1 : 6152259C || 질문아이디2 : 9690 || 질문아이디3 : 2AE2 || 질문아이디4 : 209
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "주소가 어디야?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  6152259C_9690_2AE2_209
+ que_id1 : E4756DE1_62C2_29F4_209
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 6152259C_9690_2AE2
+ scn_que_id1 : E4756DE1_62C2_29F4
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 6983//2500
+{"answercode":"1", "ai_msg": "주소는? | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"6152259C","s2": "9690","s3":"2AE2","s4":"209"}]}
+*************************************
+접속일 :  2022-03-22 18:14:46
+유저아이디 :  ddcf084a-98de-497b-8e9e-0728134fdb24
+메시지 구분: 0 || 질문내용 : 주소는? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "주소는?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  6152259C_9690_2AE2_209
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 6152259C_9690_2AE2
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"6152259C","s2": "9690","s3":"2AE2","s4":"209"}]}
+*************************************
+접속일 :  2022-03-22 18:15:17
+유저아이디 :  ddcf084a-98de-497b-8e9e-0728134fdb24
+메시지 구분: 0 || 질문내용 : 주소는? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "주소는?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  6152259C_9690_2AE2_209
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 6152259C_9690_2AE2
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"6152259C","s2": "9690","s3":"2AE2","s4":"209"}]}
+*************************************
+접속일 :  2022-03-22 18:16:51
+유저아이디 :  ddcf084a-98de-497b-8e9e-0728134fdb24
+메시지 구분: 0 || 질문내용 : 주소는? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "주소는?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  DCFF6E90_2AFD_4189_209
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : DCFF6E90_2AFD_4189
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "9", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"DCFF6E90","s2": "2AFD","s3":"4189","s4":"209"}]}
+*************************************
+접속일 :  2022-03-22 18:17:03
+유저아이디 :  ddcf084a-98de-497b-8e9e-0728134fdb24
+메시지 구분: 0 || 질문내용 : 주소가 머야? || 질문아이디1 : DCFF6E90 || 질문아이디2 : 2AFD || 질문아이디3 : 4189 || 질문아이디4 : 209
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/matro/result/result.out "주소가 머야?"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  DCFF6E90_2AFD_4189_209
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : DCFF6E90_2AFD_4189
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "9", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"DCFF6E90","s2": "2AFD","s3":"4189","s4":"209"}]}

@@ -1,0 +1,126 @@
+.medium-editor-anchor-preview {
+	left: 0px; top: 0px; text-align: center; line-height: 1.4; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; visibility: hidden; position: absolute; z-index: 2000; -ms-word-break: break-all; -ms-word-wrap: break-word; max-width: 280px;
+}
+.medium-editor-anchor-preview a {
+	margin: 5px 5px 10px; color: rgb(255, 255, 255); display: inline-block;
+}
+.medium-editor-anchor-preview-active {
+	visibility: visible;
+}
+.medium-editor-dragover {
+	background: rgb(221, 221, 221);
+}
+.medium-editor-image-loading {
+	border-radius: 100%; animation:medium-editor-image-loading 1s ease-in-out infinite; width: 40px; height: 40px; display: inline-block; background-color: rgb(51, 51, 51); -webkit-animation: medium-editor-image-loading 1s infinite ease-in-out;
+}
+.medium-editor-placeholder {
+	position: relative;
+}
+.medium-editor-placeholder::after {
+	margin: inherit; padding: inherit; left: 0px; top: 0px; font-style: italic; white-space: pre; position: absolute; content: attr(data-placeholder) !important;
+}
+.medium-editor-placeholder-relative {
+	position: relative;
+}
+.medium-editor-placeholder-relative::after {
+	margin: inherit; padding: inherit; font-style: italic; white-space: pre; position: relative; content: attr(data-placeholder) !important;
+}
+.medium-toolbar-arrow-under::after {
+	border-style: solid; left: 50%; width: 0px; height: 0px; margin-left: -8px; display: block; position: absolute; content: "";
+}
+.medium-toolbar-arrow-over::before {
+	border-style: solid; left: 50%; width: 0px; height: 0px; margin-left: -8px; display: block; position: absolute; content: "";
+}
+.medium-toolbar-arrow-under::after {
+	border-width: 8px 8px 0px;
+}
+.medium-toolbar-arrow-over::before {
+	border-width: 0px 8px 8px; top: -8px;
+}
+.medium-editor-toolbar {
+	left: 0px; top: 0px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 16px; visibility: hidden; position: absolute; z-index: 2000;
+}
+.medium-editor-toolbar ul {
+	margin: 0px; padding: 0px;
+}
+.medium-editor-toolbar li {
+	list-style: none; margin: 0px; padding: 0px; float: left;
+}
+.medium-editor-toolbar li button {
+	margin: 0px; padding: 15px; line-height: 1.33; font-size: 14px; text-decoration: none; display: block; cursor: pointer; box-sizing: border-box;
+}
+.medium-editor-toolbar li button:focus {
+	
+}
+.medium-editor-toolbar li .medium-editor-action-underline {
+	text-decoration: underline;
+}
+.medium-editor-toolbar li .medium-editor-action-pre {
+	padding: 15px 0px; font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace; font-size: 12px; font-weight: 100;
+}
+.medium-editor-toolbar-active {
+	visibility: visible;
+}
+.medium-editor-sticky-toolbar {
+	top: 1px; position: fixed;
+}
+.medium-editor-relative-toolbar {
+	position: relative;
+}
+.medium-editor-toolbar-active.medium-editor-stalker-toolbar {
+	animation:medium-editor-pop-upwards 160ms linear forwards; -webkit-animation: medium-editor-pop-upwards 160ms forwards linear;
+}
+.medium-editor-action-bold {
+	font-weight: bolder;
+}
+.medium-editor-action-italic {
+	font-style: italic;
+}
+.medium-editor-toolbar-form {
+	display: none;
+}
+.medium-editor-toolbar-form input {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.medium-editor-toolbar-form a {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.medium-editor-toolbar-form .medium-editor-toolbar-form-row {
+	line-height: 14px; padding-bottom: 5px; margin-left: 5px;
+}
+.medium-editor-toolbar-form .medium-editor-toolbar-input {
+	margin: 0px; padding: 6px; border: currentColor; border-image: none; width: 316px; font-size: 14px; display: inline-block; box-sizing: border-box;
+}
+.medium-editor-toolbar-form label {
+	margin: 0px; padding: 6px; border: currentColor; border-image: none; width: 316px; font-size: 14px; display: inline-block; box-sizing: border-box;
+}
+.medium-editor-toolbar-form .medium-editor-toolbar-input:focus {
+	outline: 0px; border: currentColor; border-image: none; box-shadow: none; -webkit-appearance: none; -moz-appearance: none; appearance: none;
+}
+.medium-editor-toolbar-form label:focus {
+	outline: 0px; border: currentColor; border-image: none; box-shadow: none; -webkit-appearance: none; -moz-appearance: none; appearance: none;
+}
+.medium-editor-toolbar-form a {
+	margin: 0px 10px; font-size: 24px; font-weight: bolder; text-decoration: none; display: inline-block;
+}
+.medium-editor-toolbar-form-active {
+	display: block;
+}
+.medium-editor-toolbar-actions::after {
+	clear: both; display: table; content: "";
+}
+.medium-editor-element {
+	-ms-word-wrap: break-word; min-height: 30px;
+}
+.medium-editor-element img {
+	max-width: 100%;
+}
+.medium-editor-element sub {
+	vertical-align: sub;
+}
+.medium-editor-element sup {
+	vertical-align: super;
+}
+.medium-editor-hidden {
+	display: none;
+}

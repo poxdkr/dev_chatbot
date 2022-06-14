@@ -1,0 +1,72 @@
+*************************************
+접속일 :  2021-10-30 21:21:57
+유저아이디 :  8d61db30-5efd-4fc0-93b1-9e4851dd122d
+메시지 구분: 0 || 질문내용 : 여행 해약하고 싶은데요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행 해약하고 싶은데요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #RE01_#RE01_#RE01_196
+ que_id1 : 12EE921C_C84F_58DC_187
+ que_id2 : 705FB289_220B_7901_188
+ que_id3 : PR02_PR02_PR02_197
+ que_id4 : #TR02_#TR02_#TR02_195
+ que_id5 : PAY12_PAY12_PAY12_189
+ que_id6 : 2961937E_F9F8_E91D_60
+ que_id7 : PAY01_PAY01_PAY01_189
+ que_id8 : 1D14BC63_BCE3_F249_187
+ que_id9 : BA22D1E4_9E0B_A833_188
+ scn_que_id : #RE01_#RE01_#RE01
+ scn_que_id1 : 12EE921C_C84F_58DC
+ scn_que_id2 : 705FB289_220B_7901
+ scn_que_id3 : PR02_PR02_PR02
+ scn_que_id4 : #TR02_#TR02_#TR02
+ 확률 : 선택질문 확률 : 7748//2500
+{"answercode":"4", "ai_msg": "<p>홍익여행에서만 만나실 수 있는 특별한 여행 상품입니다.</p><p>홍익여행과 함께 행복한 추억을 만들어봐요&nbsp;✧*.◟(ˊᗨˋ)◞.*✧</p><p>$$$▶비대면 기차여행</p><p>$$$▶낭만적인 해변열차</p><p>$$$▶서해 금빛열차</p><p>$$$▶저렴한 특가여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"}]}
+*************************************
+접속일 :  2021-10-30 21:24:46
+유저아이디 :  8d61db30-5efd-4fc0-93b1-9e4851dd122d
+메시지 구분: 0 || 질문내용 : 예약 해약해주세요. 김혜진 01099993626 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "예약 해약해주세요. 김혜진 01099993626"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  4F3EA5F5_46FF_89AA_187
+ que_id1 : 1D14BC63_BCE3_F249_187
+ que_id2 : INS01_INS01_INS01_192
+ que_id3 : B1B9228A_D65B_7740_188
+ que_id4 : BA22D1E4_9E0B_A833_188
+ que_id5 : 12EE921C_C84F_58DC_187
+ que_id6 : PAY11_PAY11_PAY11_189
+ que_id7 : PAY07_PAY07_PAY07_189
+ que_id8 : PAY09_PAY09_PAY09_189
+ que_id9 : TO12_TO12_TO12_195
+ scn_que_id : 4F3EA5F5_46FF_89AA
+ scn_que_id1 : 1D14BC63_BCE3_F249
+ scn_que_id2 : INS01_INS01_INS01
+ scn_que_id3 : B1B9228A_D65B_7740
+ scn_que_id4 : BA22D1E4_9E0B_A833
+ 확률 : 선택질문 확률 : 2838//2500
+{"answercode":"1", "ai_msg": "예약 마감 기간 | 여행상품 예약 방법 | 예약 취소/변경 | 상품 확정 안내 | 여행이 취소되는 경우 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"4F3EA5F5","s2": "46FF","s3":"89AA","s4":"187"},{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"},{"s1":"INS01","s2": "INS01","s3":"INS01","s4":"192"},{"s1":"B1B9228A","s2": "D65B","s3":"7740","s4":"188"},{"s1":"BA22D1E4","s2": "9E0B","s3":"A833","s4":"188"}]}
+*************************************
+접속일 :  2021-10-30 21:24:51
+유저아이디 :  8d61db30-5efd-4fc0-93b1-9e4851dd122d
+메시지 구분: 2 || 질문내용 : 예약 마감 기간 || 질문아이디1 : 4F3EA5F5 || 질문아이디2 : 46FF || 질문아이디3 : 89AA || 질문아이디4 : 187
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "예약 마감 기간"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  4F3EA5F5_46FF_89AA_187
+ que_id1 : PAY04_PAY04_PAY04_189
+ que_id2 : 1D14BC63_BCE3_F249_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : B1B9228A_D65B_7740_188
+ que_id5 : BA22D1E4_9E0B_A833_188
+ que_id6 : 12EE921C_C84F_58DC_187
+ que_id7 : PAY07_PAY07_PAY07_189
+ que_id8 : PAY09_PAY09_PAY09_189
+ que_id9 : PAY08_PAY08_PAY08_189
+ scn_que_id : 4F3EA5F5_46FF_89AA
+ scn_que_id1 : PAY04_PAY04_PAY04
+ scn_que_id2 : 1D14BC63_BCE3_F249
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : B1B9228A_D65B_7740
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-size: 13.3333px; font-family: Verdana, sans-serif;>패키지 상품의 경우 열차티켓 매진 전 또는 현지이동차량 마감까지 예약이 가능하나, 선착순 예약 마감이므로 정확한 예약 마감일을 안내하기 어렵습니다.&nbsp;</span></p><p><span style=font-size: 13.3333px; font-family: Verdana, sans-serif;>||여행이 결정 되시면 가급적 빠른 예약을 해주시는 것이 좋습니다.</span></p><p><span style=font-size: 13.3333px; font-family: Verdana, sans-serif;>||출발 원하는 상품에 따라 내용이 상이 할 수 있으며, 정확한 내용은 상품 담당자에게 확인하여 주시기 바랍니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"4F3EA5F5","s2": "46FF","s3":"89AA","s4":"187"}]}

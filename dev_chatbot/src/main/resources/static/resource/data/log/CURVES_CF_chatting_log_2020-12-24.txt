@@ -1,0 +1,24 @@
+*************************************
+접속일 :  2020-12-24 22:46:28
+유저아이디 :  82f96204-aaae-4064-b7f8-0fd2d1f13247
+메시지 구분: 0 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "아이디/비밀번호 찾기"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  4ECD5B06_D713_89ED_166
+ que_id1 : CA2_CA22_CA222_163
+ que_id2 : CA5_CA55_CA555_163
+ que_id3 : #c1_#c1_#c1_164
+ que_id4 : CE1_CE11_CE111_165
+ que_id5 : CC22_CC2222_CC222222_159
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 4ECD5B06_D713_89ED
+ scn_que_id1 : CA2_CA22_CA222
+ scn_que_id2 : CA5_CA55_CA555
+ scn_que_id3 : #c1_#c1_#c1
+ scn_que_id4 : CE1_CE11_CE111
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif; font-size: 10pt;>아이디, 비밀번호가 기억나지 않으세요?</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||커브스 회원 가입시 입력하신 이메일 주소</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>또는 등록하신 휴대폰 번호를 통해 찾아보세요!</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"4ECD5B06","s2": "D713","s3":"89ED","s4":"166"}]}

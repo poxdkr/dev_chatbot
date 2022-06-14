@@ -1,0 +1,673 @@
+*************************************
+접속일 :  2020-12-17 17:51:11
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 0 || 질문내용 : 출역 현황? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "출역 현황?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "죄송해요. 아직 공부가 더 필요해요. ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-17 17:51:12
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 1 || 질문내용 : 출역 현황? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "출역 현황?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "죄송해요. 아직 공부가 더 필요해요. ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-17 17:51:20
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 0 || 질문내용 : 이번달 출역 현황 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "이번달 출역 현황"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "죄송해요. 아직 공부가 더 필요해요. ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-17 17:51:20
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 1 || 질문내용 : 이번달 출역 현황 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "이번달 출역 현황"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "어제 분명히 공부했던 내용인데... 이래서 복습이 중요한가봐요", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-17 17:51:29
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 0 || 질문내용 : 이번달 출역 현황 보여줘 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "이번달 출역 현황 보여줘"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "죄송해요. 아직 공부가 더 필요해요. ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-17 17:51:30
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 1 || 질문내용 : 이번달 출역 현황 보여줘 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "이번달 출역 현황 보여줘"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : //2500
+{"answercode":"", "ai_msg": "어제 분명히 공부했던 내용인데... 이래서 복습이 중요한가봐요", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+접속일 :  --> December 17, 2020, 5:52 pm // 테스트 실행 -- > /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/test_result.out "출역현황"   /home/curves/chatadm/www/engine_proc/_entity/test.entity.txt.utf8
+*************************************
+접속일 :  2020-12-17 17:53:11
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 0 || 질문내용 : 이번달 출역 현황 보여줘 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "이번달 출역 현황 보여줘"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 아직 공부가 더 필요해요. ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-17 17:53:12
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 1 || 질문내용 : 이번달 출역 현황 보여줘 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "이번달 출역 현황 보여줘"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어제 분명히 공부했던 내용인데... 이래서 복습이 중요한가봐요", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-17 17:56:35
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 0 || 질문내용 : 출역 현황 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "출역 현황"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  7061EE89_BA84_F626_182
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7061EE89_BA84_F626
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p>2020년 12월 18일 현재 10일 출역하셨습니다.</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7061EE89","s2": "BA84","s3":"F626","s4":"182"}]}
+*************************************
+접속일 :  2020-12-17 17:56:42
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 0 || 질문내용 : 출역 || 질문아이디1 : 7061EE89 || 질문아이디2 : BA84 || 질문아이디3 : F626 || 질문아이디4 : 182
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "출역"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  7061EE89_BA84_F626_182
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7061EE89_BA84_F626
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "<p>2020년 12월 18일 현재 10일 출역하셨습니다.</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7061EE89","s2": "BA84","s3":"F626","s4":"182"}]}
+*************************************
+접속일 :  2020-12-17 17:58:00
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 0 || 질문내용 : 출역관리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "출역관리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  7061EE89_BA84_F626_182
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7061EE89_BA84_F626
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "<p>2020년 12월 18일 현재 10일 출역하셨습니다.</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7061EE89","s2": "BA84","s3":"F626","s4":"182"}]}
+*************************************
+접속일 :  2020-12-17 18:00:45
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 0 || 질문내용 : 출역관리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "출역관리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  7061EE89_BA84_F626_182
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7061EE89_BA84_F626
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "<p>2020년 12월 18일 현재 10일 출역하셨습니다.</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7061EE89","s2": "BA84","s3":"F626","s4":"182"}]}
+*************************************
+접속일 :  2020-12-17 18:05:58
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 0 || 질문내용 : 체크 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "체크"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  B0F963FF_C988_7A38_182
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : B0F963FF_C988_7A38
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 5244//2500
+{"answercode":"1", "ai_msg": "출역 체크 해드릴까요? | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"B0F963FF","s2": "C988","s3":"7A38","s4":"182"}]}
+*************************************
+접속일 :  2020-12-17 18:06:03
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 2 || 질문내용 : 출역 체크 해드릴까요? || 질문아이디1 : B0F963FF || 질문아이디2 : C988 || 질문아이디3 : 7A38 || 질문아이디4 : 182
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "출역 체크 진행해줘"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  B0F963FF_C988_7A38_182
+ que_id1 : 7061EE89_BA84_F626_182
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : B0F963FF_C988_7A38
+ scn_que_id1 : 7061EE89_BA84_F626
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p>카메라로 코드를 입력해주세요!</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"B0F963FF","s2": "C988","s3":"7A38","s4":"182"}]}
+*************************************
+접속일 :  2020-12-17 18:06:40
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 0 || 질문내용 : 출역체크 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "출역체크"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  B0F963FF_C988_7A38_182
+ que_id1 : 7061EE89_BA84_F626_182
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : B0F963FF_C988_7A38
+ scn_que_id1 : 7061EE89_BA84_F626
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p>카메라로 코드를 입력해주세요!</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"B0F963FF","s2": "C988","s3":"7A38","s4":"182"}]}
+*************************************
+접속일 :  2020-12-17 18:06:51
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 0 || 질문내용 : 추력체크 || 질문아이디1 : B0F963FF || 질문아이디2 : C988 || 질문아이디3 : 7A38 || 질문아이디4 : 182
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "추력체크"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  B0F963FF_C988_7A38_182
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : B0F963FF_C988_7A38
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 5244//2500
+{"answercode":"1", "ai_msg": "출역 체크 해드릴까요? | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"B0F963FF","s2": "C988","s3":"7A38","s4":"182"}]}
+*************************************
+접속일 :  2020-12-17 18:07:01
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 2 || 질문내용 : 출력체크 || 질문아이디1 : B0F963FF || 질문아이디2 : C988 || 질문아이디3 : 7A38 || 질문아이디4 : 182
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2020-12-17 18:07:01
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 1 || 질문내용 : 출력체크 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "출력체크"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  B0F963FF_C988_7A38_182
+ que_id1 : 7061EE89_BA84_F626_182
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : B0F963FF_C988_7A38
+ scn_que_id1 : 7061EE89_BA84_F626
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9224//2500
+{"answercode":"", "ai_msg": "<p>카메라로 코드를 입력해주세요!</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"B0F963FF","s2": "C988","s3":"7A38","s4":"182"}]}
+*************************************
+접속일 :  2020-12-17 18:07:12
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 0 || 질문내용 : 추력체크 || 질문아이디1 : B0F963FF || 질문아이디2 : C988 || 질문아이디3 : 7A38 || 질문아이디4 : 182
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "추력체크"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  B0F963FF_C988_7A38_182
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : B0F963FF_C988_7A38
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 5244//2500
+{"answercode":"1", "ai_msg": "출역 체크 해드릴까요? | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"B0F963FF","s2": "C988","s3":"7A38","s4":"182"}]}
+*************************************
+접속일 :  2020-12-17 18:07:23
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 2 || 질문내용 : 출녁체크 || 질문아이디1 : B0F963FF || 질문아이디2 : C988 || 질문아이디3 : 7A38 || 질문아이디4 : 182
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2020-12-17 18:07:23
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 1 || 질문내용 : 출녁체크 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "출녁체크"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  B0F963FF_C988_7A38_182
+ que_id1 : 7061EE89_BA84_F626_182
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : B0F963FF_C988_7A38
+ scn_que_id1 : 7061EE89_BA84_F626
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9224//2500
+{"answercode":"", "ai_msg": "<p>카메라로 코드를 입력해주세요!</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"B0F963FF","s2": "C988","s3":"7A38","s4":"182"}]}
+*************************************
+접속일 :  2020-12-17 18:07:30
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 0 || 질문내용 : 체쿠 || 질문아이디1 : B0F963FF || 질문아이디2 : C988 || 질문아이디3 : 7A38 || 질문아이디4 : 182
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "체쿠"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  B0F963FF_C988_7A38_182
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : B0F963FF_C988_7A38
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 3870//2500
+{"answercode":"1", "ai_msg": "출역 체크 해드릴까요? | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"B0F963FF","s2": "C988","s3":"7A38","s4":"182"}]}
+*************************************
+접속일 :  2020-12-17 18:08:12
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 2 || 질문내용 : 춯혁체크 || 질문아이디1 : B0F963FF || 질문아이디2 : C988 || 질문아이디3 : 7A38 || 질문아이디4 : 182
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2020-12-17 18:08:13
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 1 || 질문내용 : 춯혁체크 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "춯혁체크"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  B0F963FF_C988_7A38_182
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : B0F963FF_C988_7A38
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 5244//2500
+{"answercode":"1", "ai_msg": "출역 체크 해드릴까요? | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"B0F963FF","s2": "C988","s3":"7A38","s4":"182"}]}
+*************************************
+접속일 :  2020-12-17 18:08:19
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 2 || 질문내용 : 출역 체크 해드릴까요? || 질문아이디1 : B0F963FF || 질문아이디2 : C988 || 질문아이디3 : 7A38 || 질문아이디4 : 182
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "출역 체크 진행해줘"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  B0F963FF_C988_7A38_182
+ que_id1 : 7061EE89_BA84_F626_182
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : B0F963FF_C988_7A38
+ scn_que_id1 : 7061EE89_BA84_F626
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p>카메라로 코드를 입력해주세요!</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"B0F963FF","s2": "C988","s3":"7A38","s4":"182"}]}
+*************************************
+접속일 :  2020-12-17 19:53:39
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 0 || 질문내용 : 출역관리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "출역관리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  7061EE89_BA84_F626_182
+ que_id1 : B0F963FF_C988_7A38_182
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7061EE89_BA84_F626
+ scn_que_id1 : B0F963FF_C988_7A38
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "<p>2020년 12월 18일 현재 10일 출역하셨습니다.</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7061EE89","s2": "BA84","s3":"F626","s4":"182"}]}
+*************************************
+접속일 :  2020-12-17 19:53:46
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 0 || 질문내용 : 체크 || 질문아이디1 : 7061EE89 || 질문아이디2 : BA84 || 질문아이디3 : F626 || 질문아이디4 : 182
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "체크"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  B0F963FF_C988_7A38_182
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : B0F963FF_C988_7A38
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 5244//2500
+{"answercode":"1", "ai_msg": "출역 체크 해드릴까요? | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"B0F963FF","s2": "C988","s3":"7A38","s4":"182"}]}
+*************************************
+접속일 :  2020-12-17 19:53:50
+유저아이디 :  64aab6dc-9c08-4920-b05f-d38bdb3174bc
+메시지 구분: 2 || 질문내용 : 출역 체크 해드릴까요? || 질문아이디1 : B0F963FF || 질문아이디2 : C988 || 질문아이디3 : 7A38 || 질문아이디4 : 182
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CHATBOT_JSY/result/result.out "출역 체크 진행해줘"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  B0F963FF_C988_7A38_182
+ que_id1 : 7061EE89_BA84_F626_182
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : B0F963FF_C988_7A38
+ scn_que_id1 : 7061EE89_BA84_F626
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p>카메라로 코드를 입력해주세요!</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"B0F963FF","s2": "C988","s3":"7A38","s4":"182"}]}

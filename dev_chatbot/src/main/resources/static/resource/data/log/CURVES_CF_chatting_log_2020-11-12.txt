@@ -1,0 +1,384 @@
+*************************************
+접속일 :  2020-11-12 09:40:12
+유저아이디 :  0e2b8fb2-c412-472a-96fd-c617131f06ef
+메시지 구분: 0 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/curves_cf/result/result.out "아이디/비밀번호 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-12 09:40:13
+유저아이디 :  0e2b8fb2-c412-472a-96fd-c617131f06ef
+메시지 구분: 1 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/curves_cf/result/result.out "아이디/비밀번호 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-12 09:40:18
+유저아이디 :  0e2b8fb2-c412-472a-96fd-c617131f06ef
+메시지 구분: 0 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/curves_cf/result/result.out "아이디/비밀번호 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-12 09:40:22
+유저아이디 :  0e2b8fb2-c412-472a-96fd-c617131f06ef
+메시지 구분: 1 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/curves_cf/result/result.out "아이디/비밀번호 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-12 09:41:51
+유저아이디 :  0e2b8fb2-c412-472a-96fd-c617131f06ef
+메시지 구분: 0 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/curves_cf/result/result.out "아이디/비밀번호 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-12 09:41:52
+유저아이디 :  0e2b8fb2-c412-472a-96fd-c617131f06ef
+메시지 구분: 1 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/curves_cf/result/result.out "아이디/비밀번호 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-12 09:42:01
+유저아이디 :  0e2b8fb2-c412-472a-96fd-c617131f06ef
+메시지 구분: 0 || 질문내용 : 퀸즈서비스 신청 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/curves_cf/result/result.out "퀸즈서비스 신청" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-12 09:42:02
+유저아이디 :  0e2b8fb2-c412-472a-96fd-c617131f06ef
+메시지 구분: 1 || 질문내용 : 퀸즈서비스 신청 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/curves_cf/result/result.out "퀸즈서비스 신청" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-12 09:50:41
+유저아이디 :  0e2b8fb2-c412-472a-96fd-c617131f06ef
+메시지 구분: 0 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/curves_cf/result/result.out "아이디/비밀번호 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-12 09:50:42
+유저아이디 :  0e2b8fb2-c412-472a-96fd-c617131f06ef
+메시지 구분: 1 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/curves_cf/result/result.out "아이디/비밀번호 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-12 10:58:41
+유저아이디 :  0e2b8fb2-c412-472a-96fd-c617131f06ef
+메시지 구분: 0 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/curves_cf/result/result.out "아이디/비밀번호 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-12 10:58:42
+유저아이디 :  0e2b8fb2-c412-472a-96fd-c617131f06ef
+메시지 구분: 1 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/curves_cf/result/result.out "아이디/비밀번호 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-12 10:58:52
+유저아이디 :  0e2b8fb2-c412-472a-96fd-c617131f06ef
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/curves_cf/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-12 10:58:53
+유저아이디 :  0e2b8fb2-c412-472a-96fd-c617131f06ef
+메시지 구분: 1 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/curves_cf/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-12 10:59:02
+유저아이디 :  0e2b8fb2-c412-472a-96fd-c617131f06ef
+메시지 구분: 0 || 질문내용 : 월간 코칭 예약 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/curves_cf/result/result.out "월간 코칭 예약" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-12 10:59:02
+유저아이디 :  0e2b8fb2-c412-472a-96fd-c617131f06ef
+메시지 구분: 1 || 질문내용 : 월간 코칭 예약 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/curves_cf/result/result.out "월간 코칭 예약" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}

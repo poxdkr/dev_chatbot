@@ -1,0 +1,120 @@
+*************************************
+접속일 :  2020-12-03 18:02:52
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 보노보노야 나 사진 하나만 주라 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "보노보노야 나 사진 하나만 주라"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  D197C1A8_6B66_67F3_60
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : D197C1A8_6B66_67F3
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 8370//2500
+{"answercode":"", "ai_msg": "<p>자-여기 내 사진이야!</p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"D197C1A8","s2": "6B66","s3":"67F3","s4":"60"}]}
+*************************************
+접속일 :  2020-12-03 18:03:49
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 보노보노야 나 사진 하나만 주라 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "보노보노야 나 사진 하나만 주라"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  D197C1A8_6B66_67F3_135
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : D197C1A8_6B66_67F3
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 8370//2500
+{"answercode":"", "ai_msg": "<p>자-여기 내 사진이야!</p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>||</span><br></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"D197C1A8","s2": "6B66","s3":"67F3","s4":"135"}]}
+*************************************
+접속일 :  2020-12-03 18:04:19
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 보노보노야 나 사진 하나만 주라 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "보노보노야 나 사진 하나만 주라"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  D197C1A8_6B66_67F3_135
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : D197C1A8_6B66_67F3
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 8370//2500
+{"answercode":"", "ai_msg": "<p>자-여기 내 사진이야!<span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"D197C1A8","s2": "6B66","s3":"67F3","s4":"135"}]}
+*************************************
+접속일 :  2020-12-03 18:04:59
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 보노보노 사진 하나만! || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "보노보노 사진 하나만!"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  D197C1A8_6B66_67F3_135
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : D197C1A8_6B66_67F3
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 8370//2500
+{"answercode":"", "ai_msg": "<p>자-여기 내 사진이야^ㅡ^<span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"D197C1A8","s2": "6B66","s3":"67F3","s4":"135"}]}
+*************************************
+접속일 :  2020-12-03 18:05:55
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 보노보노 사진 하나만!! || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "보노보노 사진 하나만!!"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  D197C1A8_6B66_67F3_135
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : D197C1A8_6B66_67F3
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 8370//2500
+{"answercode":"", "ai_msg": "<p>자-여기 내 사진이야^ㅡ^</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"D197C1A8","s2": "6B66","s3":"67F3","s4":"135"}]}

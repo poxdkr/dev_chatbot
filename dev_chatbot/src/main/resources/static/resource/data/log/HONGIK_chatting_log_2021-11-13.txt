@@ -1,0 +1,120 @@
+*************************************
+접속일 :  2021-11-13 00:50:49
+유저아이디 :  50ca50ad-242f-42a0-92b9-edacb0404118
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-11-13 00:51:30
+유저아이디 :  50ca50ad-242f-42a0-92b9-edacb0404118
+메시지 구분: 0 || 질문내용 : 부산에서 출발하는 여행 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "부산에서 출발하는 여행"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  TO01_TO01_TO01_195
+ que_id1 : TO10_TO10_TO10_195
+ que_id2 : #RE01_#RE01_#RE01_196
+ que_id3 : 705FB289_220B_7901_188
+ que_id4 : PR02_PR02_PR02_197
+ que_id5 : #TR02_#TR02_#TR02_195
+ que_id6 : 2961937E_F9F8_E91D_60
+ que_id7 : 1D14BC63_BCE3_F249_187
+ que_id8 : BA22D1E4_9E0B_A833_188
+ que_id9 : B1B9228A_D65B_7740_188
+ scn_que_id : TO01_TO01_TO01
+ scn_que_id1 : TO10_TO10_TO10
+ scn_que_id2 : #RE01_#RE01_#RE01
+ scn_que_id3 : 705FB289_220B_7901
+ scn_que_id4 : PR02_PR02_PR02
+ 확률 : 선택질문 확률 : 5820//2500
+{"answercode":"1", "ai_msg": "우천시 여행 일정 | 지방에서 출발하는 경우 | 여행상품 추천 | 여행계약서 | 승차권 상품 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"TO01","s2": "TO01","s3":"TO01","s4":"195"},{"s1":"TO10","s2": "TO10","s3":"TO10","s4":"195"},{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"},{"s1":"705FB289","s2": "220B","s3":"7901","s4":"188"},{"s1":"PR02","s2": "PR02","s3":"PR02","s4":"197"}]}
+*************************************
+접속일 :  2021-11-13 00:51:47
+유저아이디 :  50ca50ad-242f-42a0-92b9-edacb0404118
+메시지 구분: 2 || 질문내용 : 지방에서 출발하는 경우 || 질문아이디1 : TO10 || 질문아이디2 : TO10 || 질문아이디3 : TO10 || 질문아이디4 : 195
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "지방에서 출발하는 경우"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  TO10_TO10_TO10_195
+ que_id1 : PAY02_PAY02_PAY02_189
+ que_id2 : BA22D1E4_9E0B_A833_188
+ que_id3 : BD01_BD01_BD01_193
+ que_id4 : B1B9228A_D65B_7740_188
+ que_id5 : TO01_TO01_TO01_195
+ que_id6 : #ST02_#ST02_#ST02_193
+ que_id7 : PAY10_PAY10_PAY10_189
+ que_id8 : TO03_TO03_TO03_195
+ que_id9 : DIS03_DIS03_DIS03_190
+ scn_que_id : TO10_TO10_TO10
+ scn_que_id1 : PAY02_PAY02_PAY02
+ scn_que_id2 : BA22D1E4_9E0B_A833
+ scn_que_id3 : BD01_BD01_BD01
+ scn_que_id4 : B1B9228A_D65B_7740
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<span style=font-family: Verdana, sans-serif;>대부분의 여행상품이 서울지역에서 출발하고 있습니다. </span><br><span style=font-family: Verdana, sans-serif;>||지방에서 이용하시려면 중간 경유지 탑승, 열차 하차역 개별 집결 등의 방법으로 이용 하셔야 합니다.</span><p><br></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"TO10","s2": "TO10","s3":"TO10","s4":"195"}]}
+*************************************
+접속일 :  2021-11-13 00:53:26
+유저아이디 :  50ca50ad-242f-42a0-92b9-edacb0404118
+메시지 구분: 0 || 질문내용 : 부산에서 출발하는 여행 상품 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "부산에서 출발하는 여행 상품"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  TO01_TO01_TO01_195
+ que_id1 : TO10_TO10_TO10_195
+ que_id2 : #RE01_#RE01_#RE01_196
+ que_id3 : 705FB289_220B_7901_188
+ que_id4 : PR02_PR02_PR02_197
+ que_id5 : #TR02_#TR02_#TR02_195
+ que_id6 : 2961937E_F9F8_E91D_60
+ que_id7 : 1D14BC63_BCE3_F249_187
+ que_id8 : BA22D1E4_9E0B_A833_188
+ que_id9 : B1B9228A_D65B_7740_188
+ scn_que_id : TO01_TO01_TO01
+ scn_que_id1 : TO10_TO10_TO10
+ scn_que_id2 : #RE01_#RE01_#RE01
+ scn_que_id3 : 705FB289_220B_7901
+ scn_que_id4 : PR02_PR02_PR02
+ 확률 : 선택질문 확률 : 5820//2500
+{"answercode":"1", "ai_msg": "우천시 여행 일정 | 지방에서 출발하는 경우 | 여행상품 추천 | 여행계약서 | 승차권 상품 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"TO01","s2": "TO01","s3":"TO01","s4":"195"},{"s1":"TO10","s2": "TO10","s3":"TO10","s4":"195"},{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"},{"s1":"705FB289","s2": "220B","s3":"7901","s4":"188"},{"s1":"PR02","s2": "PR02","s3":"PR02","s4":"197"}]}
+*************************************
+접속일 :  2021-11-13 00:53:40
+유저아이디 :  50ca50ad-242f-42a0-92b9-edacb0404118
+메시지 구분: 2 || 질문내용 : 지방에서 출발하는 경우 || 질문아이디1 : TO10 || 질문아이디2 : TO10 || 질문아이디3 : TO10 || 질문아이디4 : 195
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "지방에서 출발하는 경우"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  TO10_TO10_TO10_195
+ que_id1 : PAY02_PAY02_PAY02_189
+ que_id2 : BA22D1E4_9E0B_A833_188
+ que_id3 : BD01_BD01_BD01_193
+ que_id4 : B1B9228A_D65B_7740_188
+ que_id5 : TO01_TO01_TO01_195
+ que_id6 : #ST02_#ST02_#ST02_193
+ que_id7 : PAY10_PAY10_PAY10_189
+ que_id8 : TO03_TO03_TO03_195
+ que_id9 : DIS03_DIS03_DIS03_190
+ scn_que_id : TO10_TO10_TO10
+ scn_que_id1 : PAY02_PAY02_PAY02
+ scn_que_id2 : BA22D1E4_9E0B_A833
+ scn_que_id3 : BD01_BD01_BD01
+ scn_que_id4 : B1B9228A_D65B_7740
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<span style=font-family: Verdana, sans-serif;>대부분의 여행상품이 서울지역에서 출발하고 있습니다. </span><br><span style=font-family: Verdana, sans-serif;>||지방에서 이용하시려면 중간 경유지 탑승, 열차 하차역 개별 집결 등의 방법으로 이용 하셔야 합니다.</span><p><br></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"TO10","s2": "TO10","s3":"TO10","s4":"195"}]}

@@ -1,0 +1,4152 @@
+*************************************
+접속일 :  2021-02-26 09:08:37
+유저아이디 :  aa9e9db3-1005-42e8-b8de-b6550f330f50
+메시지 구분: 0 || 질문내용 : 안녕 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "안녕"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 09:08:38
+유저아이디 :  aa9e9db3-1005-42e8-b8de-b6550f330f50
+메시지 구분: 1 || 질문내용 : 안녕 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "안녕"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 09:09:27
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 안녕 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "안녕"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 09:09:27
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : 안녕 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "안녕"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 09:09:58
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 09:28:00
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 09:32:23
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 10:17:33
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 10:18:30
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 10:22:52
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 1D14BC63 || 질문아이디2 : BCE3 || 질문아이디3 : F249 || 질문아이디4 : 187
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 10:22:53
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 10:24:39
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 10:24:40
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 10:41:20
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 333 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "333"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 10:41:21
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : 333 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "333"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 10:52:48
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅎㅎㅎ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅎㅎㅎ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 10:52:48
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅎㅎㅎ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅎㅎㅎ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 10:54:07
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 333 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "333"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 10:54:07
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : 333 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "333"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 10:55:24
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 10:55:25
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 10:58:10
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 10:59:35
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 10:59:35
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 10:59:44
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 10:59:44
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 10:59:56
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅎㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅎㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 10:59:57
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅎㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅎㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:00:25
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 웅 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "웅"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:00:26
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : 웅 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "웅"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:01:36
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 66 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "66"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:01:36
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : 66 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "66"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:01:40
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 4444444444444444 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "4444444444444444"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:01:41
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : 4444444444444444 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "4444444444444444"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:03:08
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:03:09
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:03:25
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 11:03:49
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 11:03:56
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅎㅎㅎ || 질문아이디1 : 1D14BC63 || 질문아이디2 : BCE3 || 질문아이디3 : F249 || 질문아이디4 : 187
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅎㅎㅎ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:03:56
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅎㅎㅎ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅎㅎㅎ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:04:45
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 웅 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "웅"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:04:45
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : 웅 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "웅"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:04:56
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 왜 두번 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "왜 두번"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:04:57
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : 왜 두번 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "왜 두번"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:05:12
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 왜 두번가지 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "왜 두번가지"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  DIS06_DIS06_DIS06_190
+ que_id1 : PAY04_PAY04_PAY04_189
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : DIS06_DIS06_DIS06
+ scn_que_id1 : PAY04_PAY04_PAY04
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 2702//2500
+{"answercode":"1", "ai_msg": "연령규정 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"DIS06","s2": "DIS06","s3":"DIS06","s4":"190"}]}
+*************************************
+접속일 :  2021-02-26 11:05:23
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 2 || 질문내용 : 왜 두번 || 질문아이디1 : DIS06 || 질문아이디2 : DIS06 || 질문아이디3 : DIS06 || 질문아이디4 : 190
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2021-02-26 11:05:24
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : 왜 두번 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "왜 두번"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:05:40
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 왜 두번 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "왜 두번"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:05:41
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : 왜 두번 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "왜 두번"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:09:09
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 왜 두번이지 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "왜 두번이지"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:09:10
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : 왜 두번이지 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "왜 두번이지"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:09:37
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 하이 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "하이"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  PAY02_PAY02_PAY02_189
+ que_id1 : B1B9228A_D65B_7740_188
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : PAY02_PAY02_PAY02
+ scn_que_id1 : B1B9228A_D65B_7740
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 2117//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:09:38
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : 하이 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "하이"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  PAY02_PAY02_PAY02_189
+ que_id1 : B1B9228A_D65B_7740_188
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : PAY02_PAY02_PAY02
+ scn_que_id1 : B1B9228A_D65B_7740
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 2117//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:12:11
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 하잉~ || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "하잉~"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:12:11
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : 하잉~ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "하잉~"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:27:04
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 11:27:16
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 하잉 || 질문아이디1 : 1D14BC63 || 질문아이디2 : BCE3 || 질문아이디3 : F249 || 질문아이디4 : 187
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "하잉"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:27:16
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : 하잉 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "하잉"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:27:29
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㄹㅇㄹㅇㄹㅇ || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㄹㅇㄹㅇㄹㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:27:30
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㄹㅇㄹㅇㄹㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㄹㅇㄹㅇㄹㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:27:37
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㄱㄱ || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㄱㄱ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:27:38
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㄱㄱ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㄱㄱ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:33:52
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:33:53
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:34:43
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:34:44
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:35:02
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:35:03
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:37:52
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 11:39:06
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 1D14BC63 || 질문아이디2 : BCE3 || 질문아이디3 : F249 || 질문아이디4 : 187
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:39:07
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:39:55
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:39:55
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:41:58
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:41:59
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:43:18
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 11:45:01
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:45:02
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:47:17
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 11:48:12
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 11:48:17
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅎㅇ || 질문아이디1 : 1D14BC63 || 질문아이디2 : BCE3 || 질문아이디3 : F249 || 질문아이디4 : 187
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅎㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:48:18
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅎㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅎㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 11:48:51
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 11:49:48
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 13:22:32
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 13:22:42
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 13:23:05
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 13:23:06
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 13:23:46
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 13:23:46
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 13:34:44
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 취소/변경/환불규정 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "취소/변경/환불규정"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  270EEA5B_D940_DA21_60
+ que_id1 : 270EEA5B_D940_DA21_192
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 270EEA5B_D940_DA21
+ scn_que_id1 : 270EEA5B_D940_DA21
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9884//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"270EEA5B","s2": "D940","s3":"DA21","s4":"60"}]}
+*************************************
+접속일 :  2021-02-26 13:35:11
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 취소/변경/환불규정 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "취소/변경/환불규정"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  270EEA5B_D940_DA21_60
+ que_id1 : 270EEA5B_D940_DA21_192
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 270EEA5B_D940_DA21
+ scn_que_id1 : 270EEA5B_D940_DA21
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9884//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"270EEA5B","s2": "D940","s3":"DA21","s4":"60"}]}
+*************************************
+접속일 :  2021-02-26 13:35:52
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 숙박등급 변경 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "숙박등급 변경"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  RO01_RO01_RO01_194
+ que_id1 : INS01_INS01_INS01_192
+ que_id2 : BD06_BD06_BD06_193
+ que_id3 : TO09_TO09_TO09_195
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : RO01_RO01_RO01
+ scn_que_id1 : INS01_INS01_INS01
+ scn_que_id2 : BD06_BD06_BD06
+ scn_que_id3 : TO09_TO09_TO09
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<span style=font-family: Verdana, sans-serif;>각 상품에 이용되는 숙박에서 업그레이드는 불가능합니다.</span><p><span style=font-family: Verdana, sans-serif;>||단체 인원의 경우에는 단독 견적요청을 통해 업그레이드가 가능합니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"RO01","s2": "RO01","s3":"RO01","s4":"194"}]}
+*************************************
+접속일 :  2021-02-26 13:36:08
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : RO01 || 질문아이디2 : RO01 || 질문아이디3 : RO01 || 질문아이디4 : 194
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 13:36:09
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 13:36:44
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 13:36:54
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 숙박등급 변경 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "숙박등급 변경"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  RO01_RO01_RO01_194
+ que_id1 : INS01_INS01_INS01_192
+ que_id2 : BD06_BD06_BD06_193
+ que_id3 : TO09_TO09_TO09_195
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : RO01_RO01_RO01
+ scn_que_id1 : INS01_INS01_INS01
+ scn_que_id2 : BD06_BD06_BD06
+ scn_que_id3 : TO09_TO09_TO09
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<span style=font-family: Verdana, sans-serif;>각 상품에 이용되는 숙박에서 업그레이드는 불가능합니다.</span><p><span style=font-family: Verdana, sans-serif;>||단체 인원의 경우에는 단독 견적요청을 통해 업그레이드가 가능합니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"RO01","s2": "RO01","s3":"RO01","s4":"194"}]}
+*************************************
+접속일 :  2021-02-26 13:38:31
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 13:38:31
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 13:41:58
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 13:41:58
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 13:55:58
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 13:56:45
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 13:58:30
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇㅇㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇㅇㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 13:58:31
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇㅇㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇㅇㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 13:59:03
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 13:59:04
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:00:01
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:00:01
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:00:26
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:00:44
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:01:15
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:01:51
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:02:03
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:03:43
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:03:52
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅎㅎㅎ || 질문아이디1 : 1D14BC63 || 질문아이디2 : BCE3 || 질문아이디3 : F249 || 질문아이디4 : 187
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅎㅎㅎ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:04:19
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:04:28
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 1D14BC63 || 질문아이디2 : BCE3 || 질문아이디3 : F249 || 질문아이디4 : 187
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:04:29
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:04:50
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:05:03
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 1D14BC63 || 질문아이디2 : BCE3 || 질문아이디3 : F249 || 질문아이디4 : 187
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:05:04
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:05:08
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:11:51
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:14:40
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:14:59
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:15:09
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 안녕 || 질문아이디1 : 1D14BC63 || 질문아이디2 : BCE3 || 질문아이디3 : F249 || 질문아이디4 : 187
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "안녕"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:15:09
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : 안녕 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "안녕"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:20:01
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:20:02
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:20:05
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:20:11
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:20:42
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:22:02
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:22:18
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 1D14BC63 || 질문아이디2 : BCE3 || 질문아이디3 : F249 || 질문아이디4 : 187
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:22:19
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:23:18
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:23:23
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 1D14BC63 || 질문아이디2 : BCE3 || 질문아이디3 : F249 || 질문아이디4 : 187
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:23:33
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:23:43
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:23:44
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:23:53
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇㅇㅇㅇㅇㅇ || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇㅇㅇㅇㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:24:00
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:27:33
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:27:46
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:27:51
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 1D14BC63 || 질문아이디2 : BCE3 || 질문아이디3 : F249 || 질문아이디4 : 187
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:27:52
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:28:05
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:28:06
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:30:37
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:30:49
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : SNS 할인 이벤트 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "SNS 할인 이벤트"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  SNS01_SNS01_SNS01_191
+ que_id1 : DIS03_DIS03_DIS03_190
+ que_id2 : SNS02_SNS02_SNS02_191
+ que_id3 : DIS01_DIS01_DIS01_190
+ que_id4 : SNS03_SNS03_SNS03_191
+ que_id5 : SNS04_SNS04_SNS04_191
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : SNS01_SNS01_SNS01
+ scn_que_id1 : DIS03_DIS03_DIS03
+ scn_que_id2 : SNS02_SNS02_SNS02
+ scn_que_id3 : DIS01_DIS01_DIS01
+ scn_que_id4 : SNS03_SNS03_SNS03
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>홍익여행사와 SNS 친구 맺고 혜택받자!</span></p><p><span style=font-family: Verdana, sans-serif;>자세한 사항은 아래 사이트를 통해 확인해보세요!&nbsp;</span><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>(｡･ω･｡)ﾉ♡</span></font></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"SNS01","s2": "SNS01","s3":"SNS01","s4":"191"}]}
+*************************************
+접속일 :  2021-02-26 14:31:00
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : SNS01 || 질문아이디2 : SNS01 || 질문아이디3 : SNS01 || 질문아이디4 : 191
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:31:01
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:31:06
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : SNS 할인 이벤트 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "SNS 할인 이벤트"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  SNS01_SNS01_SNS01_191
+ que_id1 : DIS03_DIS03_DIS03_190
+ que_id2 : SNS02_SNS02_SNS02_191
+ que_id3 : DIS01_DIS01_DIS01_190
+ que_id4 : SNS03_SNS03_SNS03_191
+ que_id5 : SNS04_SNS04_SNS04_191
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : SNS01_SNS01_SNS01
+ scn_que_id1 : DIS03_DIS03_DIS03
+ scn_que_id2 : SNS02_SNS02_SNS02
+ scn_que_id3 : DIS01_DIS01_DIS01
+ scn_que_id4 : SNS03_SNS03_SNS03
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>홍익여행사와 SNS 친구 맺고 혜택받자!</span></p><p><span style=font-family: Verdana, sans-serif;>자세한 사항은 아래 사이트를 통해 확인해보세요!&nbsp;</span><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>(｡･ω･｡)ﾉ♡</span></font></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"SNS01","s2": "SNS01","s3":"SNS01","s4":"191"}]}
+*************************************
+접속일 :  2021-02-26 14:31:46
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:32:00
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 1D14BC63 || 질문아이디2 : BCE3 || 질문아이디3 : F249 || 질문아이디4 : 187
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:32:01
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:32:06
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : SNS 할인 이벤트 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "SNS 할인 이벤트"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  SNS01_SNS01_SNS01_191
+ que_id1 : DIS03_DIS03_DIS03_190
+ que_id2 : SNS02_SNS02_SNS02_191
+ que_id3 : DIS01_DIS01_DIS01_190
+ que_id4 : SNS03_SNS03_SNS03_191
+ que_id5 : SNS04_SNS04_SNS04_191
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : SNS01_SNS01_SNS01
+ scn_que_id1 : DIS03_DIS03_DIS03
+ scn_que_id2 : SNS02_SNS02_SNS02
+ scn_que_id3 : DIS01_DIS01_DIS01
+ scn_que_id4 : SNS03_SNS03_SNS03
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>홍익여행사와 SNS 친구 맺고 혜택받자!</span></p><p><span style=font-family: Verdana, sans-serif;>자세한 사항은 아래 사이트를 통해 확인해보세요!&nbsp;</span><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>(｡･ω･｡)ﾉ♡</span></font></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"SNS01","s2": "SNS01","s3":"SNS01","s4":"191"}]}
+*************************************
+접속일 :  2021-02-26 14:32:50
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:32:57
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 1D14BC63 || 질문아이디2 : BCE3 || 질문아이디3 : F249 || 질문아이디4 : 187
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:32:58
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:33:03
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:36:11
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:36:37
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:38:25
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:38:42
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 14:39:04
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:39:05
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 1 || 질문내용 : ㅇㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "ㅇㅇ"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2021-02-26 14:39:10
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 15:07:45
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 15:07:57
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 15:38:38
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-26 16:38:22
+유저아이디 :  f21f9284-b313-47b9-8484-3981b36dd393
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}

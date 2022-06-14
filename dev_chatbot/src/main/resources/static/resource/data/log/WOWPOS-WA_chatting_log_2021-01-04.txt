@@ -1,0 +1,72 @@
+*************************************
+접속일 :  2021-01-04 17:36:38
+유저아이디 :  511b14a9-236f-43ff-86ee-25ed78cd8ccb
+메시지 구분: 0 || 질문내용 : #세무일정 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS-WA/result/result.out "#세무일정"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  노무/회계_세금_세무일정_79
+ que_id1 : #노무/회계_#세무일정_#세무일정_146
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 노무/회계_세금_세무일정
+ scn_que_id1 : #노무/회계_#세무일정_#세무일정
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"1", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"노무/회계","s2": "세금","s3":"세무일정","s4":"79"}]}
+*************************************
+접속일 :  2021-01-04 17:36:58
+유저아이디 :  511b14a9-236f-43ff-86ee-25ed78cd8ccb
+메시지 구분: 2 || 질문내용 : #근로계약서 || 질문아이디1 : 노무/회계 || 질문아이디2 : 세금 || 질문아이디3 : 세무일정 || 질문아이디4 : 79
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS-WA/result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2021-01-04 17:36:59
+유저아이디 :  511b14a9-236f-43ff-86ee-25ed78cd8ccb
+메시지 구분: 1 || 질문내용 : #근로계약서 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS-WA/result/result.out "#근로계약서"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #근로계약서_#점주_#상호명_71
+ que_id1 : 노무/회계_근로계약서_근무형태별근로계약서내용_146
+ que_id2 : #노무/회계_#근로계약서_#근무형태_71
+ que_id3 : 노무/회계_근로계약서_근로계약서내용_71
+ que_id4 : 노무/회계_근로계약서_표준근로계약서_71
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #근로계약서_#점주_#상호명
+ scn_que_id1 : 노무/회계_근로계약서_근무형태별근로계약서내용
+ scn_que_id2 : #노무/회계_#근로계약서_#근무형태
+ scn_que_id3 : 노무/회계_근로계약서_근로계약서내용
+ scn_que_id4 : 노무/회계_근로계약서_표준근로계약서
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"1", "ai_msg": "근로계약서내용 |표준근로계약서 |근무형태별 근로계약서내용 |근로계약서(사업주) |", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#근로계약서","s2": "#점주","s3":"#상호명","s4":"71"}]}

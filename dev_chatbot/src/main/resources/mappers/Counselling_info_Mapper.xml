@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wowcomm.dev_chatbot.mapper.Counselling_info_Mapper">
+
+	<select id="cnt_counselling_info" resultType="int">
+		SELECT COUNT(*) as cnt FROM counselling_info
+	</select>
+	
+</mapper>

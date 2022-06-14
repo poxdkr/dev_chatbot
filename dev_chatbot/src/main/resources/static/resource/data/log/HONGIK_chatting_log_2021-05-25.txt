@@ -1,0 +1,144 @@
+*************************************
+접속일 :  2021-05-25 16:52:40
+유저아이디 :  e43310be-294a-4356-bf80-e0cf59998ef4
+메시지 구분: 0 || 질문내용 : 오전에 여행예약한거 출발 못한다고 연락 받았는데요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "오전에 여행예약한거 출발 못한다고 연락 받았는데요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  B1B9228A_D65B_7740_188
+ que_id1 : TO01_TO01_TO01_195
+ que_id2 : BA22D1E4_9E0B_A833_188
+ que_id3 : 1D14BC63_BCE3_F249_187
+ que_id4 : BD01_BD01_BD01_193
+ que_id5 : 12EE921C_C84F_58DC_187
+ que_id6 : TO10_TO10_TO10_195
+ que_id7 : TO02_TO02_TO02_195
+ que_id8 : #RE01_#RE01_#RE01_196
+ que_id9 : 705FB289_220B_7901_188
+ scn_que_id : B1B9228A_D65B_7740
+ scn_que_id1 : TO01_TO01_TO01
+ scn_que_id2 : BA22D1E4_9E0B_A833
+ scn_que_id3 : 1D14BC63_BCE3_F249
+ scn_que_id4 : BD01_BD01_BD01
+ 확률 : 선택질문 확률 : 3797//2500
+{"answercode":"1", "ai_msg": "상품 확정 안내 | 우천시 여행 일정 | 여행이 취소되는 경우 | 여행상품 예약 방법 | 집합 장소 및 시간 안내 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"B1B9228A","s2": "D65B","s3":"7740","s4":"188"},{"s1":"TO01","s2": "TO01","s3":"TO01","s4":"195"},{"s1":"BA22D1E4","s2": "9E0B","s3":"A833","s4":"188"},{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"},{"s1":"BD01","s2": "BD01","s3":"BD01","s4":"193"}]}
+*************************************
+접속일 :  2021-05-25 16:52:59
+유저아이디 :  e43310be-294a-4356-bf80-e0cf59998ef4
+메시지 구분: 2 || 질문내용 : 여행이 취소되는 경우 || 질문아이디1 : BA22D1E4 || 질문아이디2 : 9E0B || 질문아이디3 : A833 || 질문아이디4 : 188
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행이 취소되는 경우"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  BA22D1E4_9E0B_A833_188
+ que_id1 : PAY02_PAY02_PAY02_189
+ que_id2 : #RE01_#RE01_#RE01_196
+ que_id3 : 705FB289_220B_7901_188
+ que_id4 : PR02_PR02_PR02_197
+ que_id5 : #TR02_#TR02_#TR02_195
+ que_id6 : 12EE921C_C84F_58DC_187
+ que_id7 : 270EEA5B_D940_DA21_192
+ que_id8 : 2961937E_F9F8_E91D_60
+ que_id9 : 1D14BC63_BCE3_F249_187
+ scn_que_id : BA22D1E4_9E0B_A833
+ scn_que_id1 : PAY02_PAY02_PAY02
+ scn_que_id2 : #RE01_#RE01_#RE01
+ scn_que_id3 : 705FB289_220B_7901
+ scn_que_id4 : PR02_PR02_PR02
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-size: 13.3333px; font-family: Verdana, sans-serif;>각 상품마다 최소 출발인원이 정해져 있습니다.</span></p><p><span style=font-size: 13.3333px; font-family: Verdana, sans-serif;>||최소 출발인원 미달 시 행사가 취소되며&nbsp;</span><span style=font-family: Verdana, sans-serif;>당일여행의 경우 출발 24시간 이전, 숙박여행의 경우 출발 48시간 전 이전에 안내 드리고 있습니다.</span></p><p><span style=font-size: 13.3333px; font-family: Verdana, sans-serif;>||모객인원부족으로 인한 취소시에는 전액 환불처리 해드립니다.</span></p><p><span style=font-size: 13.3333px; font-family: Verdana, sans-serif;>||섬여행 상품의 경우 기상상황에 따라 출발 1일전에 출발이 취소될 수 있으며,&nbsp;</span><span style=font-family: Verdana, sans-serif;>이경우 마찬가지로 전액 환불처리 해드리고 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"BA22D1E4","s2": "9E0B","s3":"A833","s4":"188"}]}
+*************************************
+접속일 :  2021-05-25 16:53:27
+유저아이디 :  e43310be-294a-4356-bf80-e0cf59998ef4
+메시지 구분: 0 || 질문내용 : 모객인원 부족 연락받았습니다. 취소 부탁드려요 || 질문아이디1 : BA22D1E4 || 질문아이디2 : 9E0B || 질문아이디3 : A833 || 질문아이디4 : 188
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "모객인원 부족 연락받았습니다. 취소 부탁드려요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  BA22D1E4_9E0B_A833_188
+ que_id1 : TO02_TO02_TO02_195
+ que_id2 : 1D14BC63_BCE3_F249_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : BD01_BD01_BD01_193
+ que_id5 : 270EEA5B_D940_DA21_192
+ que_id6 : PAY11_PAY11_PAY11_189
+ que_id7 : PAY08_PAY08_PAY08_189
+ que_id8 : TO01_TO01_TO01_195
+ que_id9 : 4F3EA5F5_46FF_89AA_187
+ scn_que_id : BA22D1E4_9E0B_A833
+ scn_que_id1 : TO02_TO02_TO02
+ scn_que_id2 : 1D14BC63_BCE3_F249
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : BD01_BD01_BD01
+ 확률 : 선택질문 확률 : 6591//2500
+{"answercode":"1", "ai_msg": "여행이 취소되는 경우 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"BA22D1E4","s2": "9E0B","s3":"A833","s4":"188"}]}
+*************************************
+접속일 :  2021-05-25 16:54:16
+유저아이디 :  e43310be-294a-4356-bf80-e0cf59998ef4
+메시지 구분: 0 || 질문내용 : 여행취소 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행취소"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  BA22D1E4_9E0B_A833_188
+ que_id1 : #RE01_#RE01_#RE01_196
+ que_id2 : 705FB289_220B_7901_188
+ que_id3 : PR02_PR02_PR02_197
+ que_id4 : #TR02_#TR02_#TR02_195
+ que_id5 : 2961937E_F9F8_E91D_60
+ que_id6 : 1D14BC63_BCE3_F249_187
+ que_id7 : B1B9228A_D65B_7740_188
+ que_id8 : INS01_INS01_INS01_192
+ que_id9 : TO11_TO11_TO11_195
+ scn_que_id : BA22D1E4_9E0B_A833
+ scn_que_id1 : #RE01_#RE01_#RE01
+ scn_que_id2 : 705FB289_220B_7901
+ scn_que_id3 : PR02_PR02_PR02
+ scn_que_id4 : #TR02_#TR02_#TR02
+ 확률 : 선택질문 확률 : 7427//2500
+{"answercode":"1", "ai_msg": "여행이 취소되는 경우 | 여행상품 추천 | 여행계약서 | 승차권 상품 | 여행 준비물 | ", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"BA22D1E4","s2": "9E0B","s3":"A833","s4":"188"},{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"},{"s1":"705FB289","s2": "220B","s3":"7901","s4":"188"},{"s1":"PR02","s2": "PR02","s3":"PR02","s4":"197"},{"s1":"#TR02","s2": "#TR02","s3":"#TR02","s4":"195"}]}
+*************************************
+접속일 :  2021-05-25 16:54:33
+유저아이디 :  e43310be-294a-4356-bf80-e0cf59998ef4
+메시지 구분: 2 || 질문내용 : 여행이 취소되는 경우 || 질문아이디1 : BA22D1E4 || 질문아이디2 : 9E0B || 질문아이디3 : A833 || 질문아이디4 : 188
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행이 취소되는 경우"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  BA22D1E4_9E0B_A833_188
+ que_id1 : PAY02_PAY02_PAY02_189
+ que_id2 : #RE01_#RE01_#RE01_196
+ que_id3 : 705FB289_220B_7901_188
+ que_id4 : PR02_PR02_PR02_197
+ que_id5 : #TR02_#TR02_#TR02_195
+ que_id6 : 12EE921C_C84F_58DC_187
+ que_id7 : 270EEA5B_D940_DA21_192
+ que_id8 : 2961937E_F9F8_E91D_60
+ que_id9 : 1D14BC63_BCE3_F249_187
+ scn_que_id : BA22D1E4_9E0B_A833
+ scn_que_id1 : PAY02_PAY02_PAY02
+ scn_que_id2 : #RE01_#RE01_#RE01
+ scn_que_id3 : 705FB289_220B_7901
+ scn_que_id4 : PR02_PR02_PR02
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-size: 13.3333px; font-family: Verdana, sans-serif;>각 상품마다 최소 출발인원이 정해져 있습니다.</span></p><p><span style=font-size: 13.3333px; font-family: Verdana, sans-serif;>||최소 출발인원 미달 시 행사가 취소되며&nbsp;</span><span style=font-family: Verdana, sans-serif;>당일여행의 경우 출발 24시간 이전, 숙박여행의 경우 출발 48시간 전 이전에 안내 드리고 있습니다.</span></p><p><span style=font-size: 13.3333px; font-family: Verdana, sans-serif;>||모객인원부족으로 인한 취소시에는 전액 환불처리 해드립니다.</span></p><p><span style=font-size: 13.3333px; font-family: Verdana, sans-serif;>||섬여행 상품의 경우 기상상황에 따라 출발 1일전에 출발이 취소될 수 있으며,&nbsp;</span><span style=font-family: Verdana, sans-serif;>이경우 마찬가지로 전액 환불처리 해드리고 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"BA22D1E4","s2": "9E0B","s3":"A833","s4":"188"}]}
+*************************************
+접속일 :  2021-05-25 17:14:53
+유저아이디 :  a0be4a33-c2ac-4492-8990-7aed8b796f56
+메시지 구분: 0 || 질문내용 : 안녕하세요 다름이 아니고 B2B자격으로 대리 상품 판매에대해 문의하고 싶은데요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "안녕하세요 다름이 아니고 B2B자격으로 대리 상품 판매에대해 문의하고 싶은데요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #RE01_#RE01_#RE01_196
+ que_id1 : PR01_PR01_PR01_197
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : PR02_PR02_PR02_197
+ que_id4 : RO05_RO05_RO05_194
+ que_id5 : 705FB289_220B_7901_188
+ que_id6 : #TR02_#TR02_#TR02_195
+ que_id7 : PAY12_PAY12_PAY12_189
+ que_id8 : TO06_TO06_TO06_195
+ que_id9 : 2961937E_F9F8_E91D_60
+ scn_que_id : #RE01_#RE01_#RE01
+ scn_que_id1 : PR01_PR01_PR01
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : PR02_PR02_PR02
+ scn_que_id4 : RO05_RO05_RO05
+ 확률 : 선택질문 확률 : 6013//2500
+{"answercode":"1", "ai_msg": "여행상품 추천 | 버스 상품 문의 | 단독관광(개별관광) 예약 | 승차권 상품 | 1인 여행객 방배정 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"},{"s1":"PR01","s2": "PR01","s3":"PR01","s4":"197"},{"s1":"12EE921C","s2": "C84F","s3":"58DC","s4":"187"},{"s1":"PR02","s2": "PR02","s3":"PR02","s4":"197"},{"s1":"RO05","s2": "RO05","s3":"RO05","s4":"194"}]}

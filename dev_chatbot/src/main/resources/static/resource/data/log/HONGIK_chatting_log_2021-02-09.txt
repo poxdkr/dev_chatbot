@@ -1,0 +1,2894 @@
+*************************************
+접속일 :  2021-02-09 09:46:50
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 국내 여행인데 캐리어 가져가도 돼요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "국내 여행인데 캐리어 가져가도 돼요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #TR02_#TR02_#TR02_195
+ que_id1 : RO05_RO05_RO05_194
+ que_id2 : B1B9228A_D65B_7740_188
+ que_id3 : TO01_TO01_TO01_195
+ que_id4 : 705FB289_220B_7901_188
+ que_id5 : PR02_PR02_PR02_197
+ que_id6 : 1D14BC63_BCE3_F249_187
+ que_id7 : TO11_TO11_TO11_195
+ que_id8 : TO13_TO13_TO13_195
+ que_id9 : PR01_PR01_PR01_197
+ scn_que_id : #TR02_#TR02_#TR02
+ scn_que_id1 : RO05_RO05_RO05
+ scn_que_id2 : B1B9228A_D65B_7740
+ scn_que_id3 : TO01_TO01_TO01
+ scn_que_id4 : 705FB289_220B_7901
+ 확률 : 선택질문 확률 : 8370//2500
+{"answercode":"4", "ai_msg": "<p>여행 유형에 따라 챙겨야 할 물건도 다르죠!<BR></p><p>즐거운 여행을 위해 꼼꼼히 체크해봐요.٩(ˊᗜˋ*)و</p><p>$$$▶국내 내륙여행</p><p>$$$▶국내 섬여행</p><p>$$$▶해외여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#TR02","s2": "#TR02","s3":"#TR02","s4":"195"}]}
+*************************************
+접속일 :  2021-02-09 09:46:55
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #TR02 || 질문아이디2 : #TR02 || 질문아이디3 : #TR02 || 질문아이디4 : 195
+ 시나리오 결과 값 : 
+ que_id :  #TR021_#TR021_#TR021_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR021_#TR021_#TR021
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>국내 내륙여행 준비물이에요.<br></p><p>참고해주세요!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 09:47:06
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #TR02 || 질문아이디2 : #TR02 || 질문아이디3 : #TR02 || 질문아이디4 : 195
+ 시나리오 결과 값 : 
+ que_id :  #TR022_#TR022_#TR022_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR022_#TR022_#TR022
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>국내 섬여행 준비물이에요.<br></p><p>참고해주세요!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 09:48:54
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 해외여행 준비물 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "해외여행 준비물"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #TR02_#TR02_#TR02_195
+ que_id1 : TO02_TO02_TO02_195
+ que_id2 : 705FB289_220B_7901_188
+ que_id3 : PR02_PR02_PR02_197
+ que_id4 : RO03_RO03_RO03_194
+ que_id5 : 1D14BC63_BCE3_F249_187
+ que_id6 : B1B9228A_D65B_7740_188
+ que_id7 : TO11_TO11_TO11_195
+ que_id8 : TO13_TO13_TO13_195
+ que_id9 : PR01_PR01_PR01_197
+ scn_que_id : #TR02_#TR02_#TR02
+ scn_que_id1 : TO02_TO02_TO02
+ scn_que_id2 : 705FB289_220B_7901
+ scn_que_id3 : PR02_PR02_PR02
+ scn_que_id4 : RO03_RO03_RO03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>여행 유형에 따라 챙겨야 할 물건도 다르죠!<BR></p><p>즐거운 여행을 위해 꼼꼼히 체크해봐요.٩(ˊᗜˋ*)و</p><p>$$$▶국내 내륙여행</p><p>$$$▶국내 섬여행</p><p>$$$▶해외여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#TR02","s2": "#TR02","s3":"#TR02","s4":"195"}]}
+*************************************
+접속일 :  2021-02-09 09:49:00
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #TR02 || 질문아이디2 : #TR02 || 질문아이디3 : #TR02 || 질문아이디4 : 195
+ 시나리오 결과 값 : 
+ que_id :  #TR021_#TR021_#TR021_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR021_#TR021_#TR021
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>국내 내륙여행 준비물이에요.<br></p><p>참고해주세요!</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128316615600.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 09:50:30
+유저아이디 :  31f41cc4-c5bf-4ba1-b362-05579427985e
+메시지 구분: 0 || 질문내용 : 여행 준비물 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행 준비물"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #TR02_#TR02_#TR02_195
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : 1D14BC63_BCE3_F249_187
+ que_id4 : B1B9228A_D65B_7740_188
+ que_id5 : TO11_TO11_TO11_195
+ que_id6 : TO13_TO13_TO13_195
+ que_id7 : PR01_PR01_PR01_197
+ que_id8 : BA22D1E4_9E0B_A833_188
+ que_id9 : RO05_RO05_RO05_194
+ scn_que_id : #TR02_#TR02_#TR02
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : 1D14BC63_BCE3_F249
+ scn_que_id4 : B1B9228A_D65B_7740
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>여행 유형에 따라 챙겨야 할 물건도 다르죠!<BR></p><p>즐거운 여행을 위해 꼼꼼히 체크해봐요.٩(ˊᗜˋ*)و</p><p>$$$▶국내 내륙여행</p><p>$$$▶국내 섬여행</p><p>$$$▶해외여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#TR02","s2": "#TR02","s3":"#TR02","s4":"195"}]}
+*************************************
+접속일 :  2021-02-09 09:50:35
+유저아이디 :  31f41cc4-c5bf-4ba1-b362-05579427985e
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #TR02 || 질문아이디2 : #TR02 || 질문아이디3 : #TR02 || 질문아이디4 : 195
+ 시나리오 결과 값 : 
+ que_id :  #TR021_#TR021_#TR021_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR021_#TR021_#TR021
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>국내 내륙여행 준비물이에요.<br></p><p>참고해주세요!</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128316615600.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 09:51:11
+유저아이디 :  31f41cc4-c5bf-4ba1-b362-05579427985e
+메시지 구분: 0 || 질문내용 : 서울역에서 출발하는데 어디서 모여요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "서울역에서 출발하는데 어디서 모여요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST02_#ST02_#ST02_193
+ que_id1 : #ST01_#ST01_#ST01_193
+ que_id2 : TO10_TO10_TO10_195
+ que_id3 : BA22D1E4_9E0B_A833_188
+ que_id4 : BD01_BD01_BD01_193
+ que_id5 : B1B9228A_D65B_7740_188
+ que_id6 : TO01_TO01_TO01_195
+ que_id7 : 1D14BC63_BCE3_F249_187
+ que_id8 : TO04_TO04_TO04_195
+ que_id9 : TO02_TO02_TO02_195
+ scn_que_id : #ST02_#ST02_#ST02
+ scn_que_id1 : #ST01_#ST01_#ST01
+ scn_que_id2 : TO10_TO10_TO10
+ scn_que_id3 : BA22D1E4_9E0B_A833
+ scn_que_id4 : BD01_BD01_BD01
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>여행 전 모이는 장소를 안내해드립니다!<BR></p><p>출발하시는 역을 선택해주세요!</p><p><br></p><p>$$$▶서울역</p><p>$$$▶용산역</p><p>$$$▶청량리역</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST02","s2": "#ST02","s3":"#ST02","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 09:51:15
+유저아이디 :  31f41cc4-c5bf-4ba1-b362-05579427985e
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST021_#ST021_#ST021_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST021_#ST021_#ST021
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>미팅장소: 서울역 3층 대합실 매표소 앞 홍익여행사 피켓 앞 집결</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 09:51:47
+유저아이디 :  31f41cc4-c5bf-4ba1-b362-05579427985e
+메시지 구분: 0 || 질문내용 : 예약하고 결제하는 건 어디서 해요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "예약하고 결제하는 건 어디서 해요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : 4F3EA5F5_46FF_89AA_187
+ que_id2 : PAY01_PAY01_PAY01_189
+ que_id3 : TO02_TO02_TO02_195
+ que_id4 : PAY09_PAY09_PAY09_189
+ que_id5 : 6CF1403C_6F66_9AE6_189
+ que_id6 : INS01_INS01_INS01_192
+ que_id7 : #ST02_#ST02_#ST02_193
+ que_id8 : BD02_BD02_BD02_193
+ que_id9 : #ST01_#ST01_#ST01_193
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : 4F3EA5F5_46FF_89AA
+ scn_que_id2 : PAY01_PAY01_PAY01
+ scn_que_id3 : TO02_TO02_TO02
+ scn_que_id4 : PAY09_PAY09_PAY09
+ 확률 : 선택질문 확률 : 6574//2500
+{"answercode":"1", "ai_msg": "여행상품 예약 방법 | 예약 마감 기간 | 비회원 결제 | 비상시 연락처 | 결제 방법 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"},{"s1":"4F3EA5F5","s2": "46FF","s3":"89AA","s4":"187"},{"s1":"PAY01","s2": "PAY01","s3":"PAY01","s4":"189"},{"s1":"TO02","s2": "TO02","s3":"TO02","s4":"195"},{"s1":"PAY09","s2": "PAY09","s3":"PAY09","s4":"189"}]}
+*************************************
+접속일 :  2021-02-09 09:51:52
+유저아이디 :  31f41cc4-c5bf-4ba1-b362-05579427985e
+메시지 구분: 2 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 1D14BC63 || 질문아이디2 : BCE3 || 질문아이디3 : F249 || 질문아이디4 : 187
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : 705FB289_220B_7901_188
+ que_id8 : PR02_PR02_PR02_197
+ que_id9 : #TR02_#TR02_#TR02_195
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-09 09:53:20
+유저아이디 :  31f41cc4-c5bf-4ba1-b362-05579427985e
+메시지 구분: 0 || 질문내용 : 여러명이서 한방 쓸 수 있나요? || 질문아이디1 : 1D14BC63 || 질문아이디2 : BCE3 || 질문아이디3 : F249 || 질문아이디4 : 187
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여러명이서 한방 쓸 수 있나요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  RO04_RO04_RO04_194
+ que_id1 : PAY08_PAY08_PAY08_189
+ que_id2 : 4F3EA5F5_46FF_89AA_187
+ que_id3 : BD02_BD02_BD02_193
+ que_id4 : PR01_PR01_PR01_197
+ que_id5 : RO02_RO02_RO02_194
+ que_id6 : TO05_TO05_TO05_195
+ que_id7 : PR02_PR02_PR02_197
+ que_id8 : BA22D1E4_9E0B_A833_188
+ que_id9 : DIS05_DIS05_DIS05_190
+ scn_que_id : RO04_RO04_RO04
+ scn_que_id1 : PAY08_PAY08_PAY08
+ scn_que_id2 : 4F3EA5F5_46FF_89AA
+ scn_que_id3 : BD02_BD02_BD02
+ scn_que_id4 : PR01_PR01_PR01
+ 확률 : 선택질문 확률 : 6362//2500
+{"answercode":"1", "ai_msg": "객실 사용 인원 안내 | 결제창이 안나타나요 | 예약 마감 기간 | 일행 좌석 지정 | 버스 상품 문의 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"RO04","s2": "RO04","s3":"RO04","s4":"194"},{"s1":"PAY08","s2": "PAY08","s3":"PAY08","s4":"189"},{"s1":"4F3EA5F5","s2": "46FF","s3":"89AA","s4":"187"},{"s1":"BD02","s2": "BD02","s3":"BD02","s4":"193"},{"s1":"PR01","s2": "PR01","s3":"PR01","s4":"197"}]}
+*************************************
+접속일 :  2021-02-09 09:53:27
+유저아이디 :  31f41cc4-c5bf-4ba1-b362-05579427985e
+메시지 구분: 2 || 질문내용 : 객실 사용 인원 안내 || 질문아이디1 : RO04 || 질문아이디2 : RO04 || 질문아이디3 : RO04 || 질문아이디4 : 194
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "객실 사용 인원 안내"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  RO04_RO04_RO04_194
+ que_id1 : B1B9228A_D65B_7740_188
+ que_id2 : SNS03_SNS03_SNS03_191
+ que_id3 : TO13_TO13_TO13_195
+ que_id4 : 6CF1403C_6F66_9AE6_189
+ que_id5 : PAY11_PAY11_PAY11_189
+ que_id6 : BD01_BD01_BD01_193
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : RO04_RO04_RO04
+ scn_que_id1 : B1B9228A_D65B_7740
+ scn_que_id2 : SNS03_SNS03_SNS03
+ scn_que_id3 : TO13_TO13_TO13
+ scn_que_id4 : 6CF1403C_6F66_9AE6
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품에 이용되는 숙박시설은 대부분 모텔시설로 대형 객실이 구비되어 있지 않습니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||각상품마다 최대 투숙가능한 인원으로 판매되고있으니 각 상품의 요금표를 참고 부탁드립니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"RO04","s2": "RO04","s3":"RO04","s4":"194"}]}
+*************************************
+접속일 :  2021-02-09 09:53:43
+유저아이디 :  31f41cc4-c5bf-4ba1-b362-05579427985e
+메시지 구분: 0 || 질문내용 : 승차권 어떻게 받아요? || 질문아이디1 : RO04 || 질문아이디2 : RO04 || 질문아이디3 : RO04 || 질문아이디4 : 194
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "승차권 어떻게 받아요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  TO04_TO04_TO04_195
+ que_id1 : PR02_PR02_PR02_197
+ que_id2 : PAY03_PAY03_PAY03_189
+ que_id3 : TO06_TO06_TO06_195
+ que_id4 : PAY09_PAY09_PAY09_189
+ que_id5 : SNS01_SNS01_SNS01_191
+ que_id6 : #TR02_#TR02_#TR02_195
+ que_id7 : 1D14BC63_BCE3_F249_187
+ que_id8 : SNS04_SNS04_SNS04_191
+ que_id9 : BD01_BD01_BD01_193
+ scn_que_id : TO04_TO04_TO04
+ scn_que_id1 : PR02_PR02_PR02
+ scn_que_id2 : PAY03_PAY03_PAY03
+ scn_que_id3 : TO06_TO06_TO06
+ scn_que_id4 : PAY09_PAY09_PAY09
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><font face=Dotum, 돋움, sans-serif><span style=font-size: 13.3333px;>열차 출발 20분전에 해당상품의 집결장소에 가셔서 성함을 말씀하시고 왕복 티켓과 일정표, 뱃지를 수령하시면 됩니다.</span></font></p><p><font face=Dotum, 돋움, sans-serif><span style=font-size: 13.3333px;>||중간역 탑승의 경우나 집결없이 탑승 하실 경우에는 출발 1~2일전 e-mail 또는 Fax 등으로 티켓과 일정표를 전송해드립니다.</span></font></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"TO04","s2": "TO04","s3":"TO04","s4":"195"}]}
+*************************************
+접속일 :  2021-02-09 09:54:07
+유저아이디 :  31f41cc4-c5bf-4ba1-b362-05579427985e
+메시지 구분: 0 || 질문내용 : 여행지 도착하면 어떻게 이동해요? || 질문아이디1 : TO04 || 질문아이디2 : TO04 || 질문아이디3 : TO04 || 질문아이디4 : 195
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행지 도착하면 어떻게 이동해요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  TO06_TO06_TO06_195
+ que_id1 : 12EE921C_C84F_58DC_187
+ que_id2 : 1D14BC63_BCE3_F249_187
+ que_id3 : 6CF1403C_6F66_9AE6_189
+ que_id4 : INS01_INS01_INS01_192
+ que_id5 : TO03_TO03_TO03_195
+ que_id6 : #ST02_#ST02_#ST02_193
+ que_id7 : TO07_TO07_TO07_195
+ que_id8 : PAY03_PAY03_PAY03_189
+ que_id9 : PAY09_PAY09_PAY09_189
+ scn_que_id : TO06_TO06_TO06
+ scn_que_id1 : 12EE921C_C84F_58DC
+ scn_que_id2 : 1D14BC63_BCE3_F249
+ scn_que_id3 : 6CF1403C_6F66_9AE6
+ scn_que_id4 : INS01_INS01_INS01
+ 확률 : 선택질문 확률 : 3918//2500
+{"answercode":"1", "ai_msg": "현지 이동차량 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"TO06","s2": "TO06","s3":"TO06","s4":"195"}]}
+*************************************
+접속일 :  2021-02-09 09:54:13
+유저아이디 :  31f41cc4-c5bf-4ba1-b362-05579427985e
+메시지 구분: 2 || 질문내용 : 현지 이동차량 || 질문아이디1 : TO06 || 질문아이디2 : TO06 || 질문아이디3 : TO06 || 질문아이디4 : 195
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "현지 이동차량"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  TO06_TO06_TO06_195
+ que_id1 : RO02_RO02_RO02_194
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : TO06_TO06_TO06
+ scn_que_id1 : RO02_RO02_RO02
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-size: 13.3333px; font-family: Verdana, sans-serif;>현지 관광에 이용되는 차량은 당일 여행인원에 따라 변경됩니다.</span></p><p><span style=font-size: 13.3333px; font-family: Verdana, sans-serif;>||인원이 적을 경우 봉고차, 스타렉스, 미니버스(25인승) 등으로 진행되는 경우도 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"TO06","s2": "TO06","s3":"TO06","s4":"195"}]}
+*************************************
+접속일 :  2021-02-09 09:55:59
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 여행 준비물 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행 준비물"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #TR02_#TR02_#TR02_195
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : 1D14BC63_BCE3_F249_187
+ que_id4 : B1B9228A_D65B_7740_188
+ que_id5 : TO11_TO11_TO11_195
+ que_id6 : TO13_TO13_TO13_195
+ que_id7 : PR01_PR01_PR01_197
+ que_id8 : BA22D1E4_9E0B_A833_188
+ que_id9 : RO05_RO05_RO05_194
+ scn_que_id : #TR02_#TR02_#TR02
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : 1D14BC63_BCE3_F249
+ scn_que_id4 : B1B9228A_D65B_7740
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>여행 유형에 따라 챙겨야 할 물건도 다르죠!<BR></p><p>즐거운 여행을 위해 꼼꼼히 체크해봐요.٩(ˊᗜˋ*)و</p><p>$$$▶국내 내륙여행</p><p>$$$▶국내 섬여행</p><p>$$$▶해외여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#TR02","s2": "#TR02","s3":"#TR02","s4":"195"}]}
+*************************************
+접속일 :  2021-02-09 09:56:03
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #TR02 || 질문아이디2 : #TR02 || 질문아이디3 : #TR02 || 질문아이디4 : 195
+ 시나리오 결과 값 : 
+ que_id :  #TR021_#TR021_#TR021_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR021_#TR021_#TR021
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>국내 내륙여행 준비물이에요.<br></p><p>참고해주세요!</p><p>||</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128316615600.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 10:10:08
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 울릉도 셔틀 버스 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "울릉도 셔틀 버스"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST01_#ST01_#ST01_193
+ que_id1 : BD03_BD03_BD03_193
+ que_id2 : PR01_PR01_PR01_197
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST01_#ST01_#ST01
+ scn_que_id1 : BD03_BD03_BD03
+ scn_que_id2 : PR01_PR01_PR01
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 5111//2500
+{"answercode":"1", "ai_msg": "울릉도 셔틀버스 탑승장소 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#ST01","s2": "#ST01","s3":"#ST01","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 10:10:13
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 2 || 질문내용 : 울릉도 셔틀버스 탑승장소 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "울릉도 셔틀버스 탑승장소"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST01_#ST01_#ST01_193
+ que_id1 : TO08_TO08_TO08_195
+ que_id2 : RO02_RO02_RO02_194
+ que_id3 : TO06_TO06_TO06_195
+ que_id4 : #ST02_#ST02_#ST02_193
+ que_id5 : TO09_TO09_TO09_195
+ que_id6 : BD01_BD01_BD01_193
+ que_id7 : BD06_BD06_BD06_193
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST01_#ST01_#ST01
+ scn_que_id1 : TO08_TO08_TO08
+ scn_que_id2 : RO02_RO02_RO02
+ scn_que_id3 : TO06_TO06_TO06
+ scn_que_id4 : #ST02_#ST02_#ST02
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>출발하시는 지역에 따라 탑승장소가 다릅니다.<BR></p><p>여행 전, 가까운 탑승장소를 확인해주세요!</p><p>||출발지를 선택하시면 탑승장소를 안내해드리겠습니다.&nbsp;(๑•͈ᴗ•͈)</p><p>$$$▶일산</p><p>$$$▶영등포</p><p>$$$▶시청</p><p>$$$▶잠실</p><p>$$$▶부평</p><p>$$$▶송내</p><p>$$$▶안양</p><p>$$$▶수원</p><p>$$$▶노원</p><p>$$$▶구리</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST01","s2": "#ST01","s3":"#ST01","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 10:10:17
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST014_#ST014_#ST014_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST014_#ST014_#ST014
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>잠실에서 출발하시는 분들은 <b>잠실역 4번출구 200미터 전방 롯데마트 앞</b>에서 탑승하실 수 있습니다.</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128327536300.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 10:10:29
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST011_#ST011_#ST011_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST011_#ST011_#ST011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>일산에서 출발하시는 분들은 <b>정발산역 2번출구 롯데백화점 앞</b>에서 탑승하실 수 있습니다.</p><p>||</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128326433800.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 10:11:58
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 울릉도 셔틀버스 어디서 타요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "울릉도 셔틀버스 어디서 타요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST01_#ST01_#ST01_193
+ que_id1 : #ST02_#ST02_#ST02_193
+ que_id2 : RO02_RO02_RO02_194
+ que_id3 : TO06_TO06_TO06_195
+ que_id4 : 1D14BC63_BCE3_F249_187
+ que_id5 : TO04_TO04_TO04_195
+ que_id6 : TO02_TO02_TO02_195
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST01_#ST01_#ST01
+ scn_que_id1 : #ST02_#ST02_#ST02
+ scn_que_id2 : RO02_RO02_RO02
+ scn_que_id3 : TO06_TO06_TO06
+ scn_que_id4 : 1D14BC63_BCE3_F249
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>출발하시는 지역에 따라 탑승장소가 다릅니다.<BR></p><p>여행 전, 가까운 탑승장소를 확인해주세요!</p><p>||출발지를 선택하시면 탑승장소를 안내해드리겠습니다.&nbsp;(๑•͈ᴗ•͈)</p><p>$$$▶일산</p><p>$$$▶영등포</p><p>$$$▶시청</p><p>$$$▶잠실</p><p>$$$▶부평</p><p>$$$▶송내</p><p>$$$▶안양</p><p>$$$▶수원</p><p>$$$▶노원</p><p>$$$▶구리</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST01","s2": "#ST01","s3":"#ST01","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 10:12:04
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 6 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST016_#ST016_#ST016_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST016_#ST016_#ST016
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>송내에서 출발하시는 분들은 <b>송내역 1번출구 150미터 전방 남부광장 훼미리마트 편의점 앞</b>에서 탑승하실 수 있습니다.</p><p>||<br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128328139500.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 10:12:12
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 10 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST010_#ST010_#ST010_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST010_#ST010_#ST010
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>구리에서 출발하시는 분들은 <b>구리 롯데백화점 맞은편 전자랜드 앞</b>에서 탑승하실 수 있습니다.|</p><p>||<br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 10:12:50
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 노원사는데 울릉도 갈 때 어디서 타요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "노원사는데 울릉도 갈 때 어디서 타요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST01_#ST01_#ST01_193
+ que_id1 : #ST02_#ST02_#ST02_193
+ que_id2 : RO02_RO02_RO02_194
+ que_id3 : TO06_TO06_TO06_195
+ que_id4 : 1D14BC63_BCE3_F249_187
+ que_id5 : TO04_TO04_TO04_195
+ que_id6 : TO02_TO02_TO02_195
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST01_#ST01_#ST01
+ scn_que_id1 : #ST02_#ST02_#ST02
+ scn_que_id2 : RO02_RO02_RO02
+ scn_que_id3 : TO06_TO06_TO06
+ scn_que_id4 : 1D14BC63_BCE3_F249
+ 확률 : 선택질문 확률 : 8318//2500
+{"answercode":"4", "ai_msg": "<p>출발하시는 지역에 따라 탑승장소가 다릅니다.<BR></p><p>여행 전, 가까운 탑승장소를 확인해주세요!</p><p>||출발지를 선택하시면 탑승장소를 안내해드리겠습니다.&nbsp;(๑•͈ᴗ•͈)</p><p>$$$▶일산</p><p>$$$▶영등포</p><p>$$$▶시청</p><p>$$$▶잠실</p><p>$$$▶부평</p><p>$$$▶송내</p><p>$$$▶안양</p><p>$$$▶수원</p><p>$$$▶노원</p><p>$$$▶구리</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST01","s2": "#ST01","s3":"#ST01","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 10:12:54
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 9 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST019_#ST019_#ST019_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST019_#ST019_#ST019
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>노원에서 출발하시는 분들은 <b>노원역 6번출구 삼성생명 빌딩 앞</b>에서 탑승하실 수 있습니다.</p><p>||<br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128329033600.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 10:13:04
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 10 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST010_#ST010_#ST010_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST010_#ST010_#ST010
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>구리에서 출발하시는 분들은 <b>구리 롯데백화점 맞은편 전자랜드 앞</b>에서 탑승하실 수 있습니다.|</p><p>||<br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 10:13:42
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 10 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST010_#ST010_#ST010_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST010_#ST010_#ST010
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>구리에서 출발하시는 분들은 <b>구리 롯데백화점 맞은편 전자랜드 앞</b>에서 탑승하실 수 있습니다.|</p><p>||<br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 10:14:45
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 울릉도 셔틀버스 타는 곳 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "울릉도 셔틀버스 타는 곳"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST01_#ST01_#ST01_193
+ que_id1 : TO06_TO06_TO06_195
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST01_#ST01_#ST01
+ scn_que_id1 : TO06_TO06_TO06
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9491//2500
+{"answercode":"4", "ai_msg": "<p>출발하시는 지역에 따라 탑승장소가 다릅니다.<BR></p><p>여행 전, 가까운 탑승장소를 확인해주세요!</p><p>||출발지를 선택하시면 탑승장소를 안내해드리겠습니다.&nbsp;(๑•͈ᴗ•͈)</p><p>$$$▶일산</p><p>$$$▶영등포</p><p>$$$▶시청</p><p>$$$▶잠실</p><p>$$$▶부평</p><p>$$$▶송내</p><p>$$$▶안양</p><p>$$$▶수원</p><p>$$$▶노원</p><p>$$$▶구리</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST01","s2": "#ST01","s3":"#ST01","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 10:14:54
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 10 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST010_#ST010_#ST010_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST010_#ST010_#ST010
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>구리에서 출발하시는 분들은 <b>구리 롯데백화점 맞은편 전자랜드 앞</b>에서 탑승하실 수 있습니다.</p><p>||<br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 10:23:07
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 울릉도 셔틀버스 타는 곳 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "울릉도 셔틀버스 타는 곳"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST01_#ST01_#ST01_193
+ que_id1 : TO06_TO06_TO06_195
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST01_#ST01_#ST01
+ scn_que_id1 : TO06_TO06_TO06
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9491//2500
+{"answercode":"4", "ai_msg": "<p>출발하시는 지역에 따라 탑승장소가 다릅니다.<BR></p><p>여행 전, 가까운 탑승장소를 확인해주세요!</p><p>||출발지를 선택하시면 탑승장소를 안내해드리겠습니다.&nbsp;(๑•͈ᴗ•͈)</p><p>$$$▶일산</p><p>$$$▶영등포</p><p>$$$▶시청</p><p>$$$▶잠실</p><p>$$$▶부평</p><p>$$$▶송내</p><p>$$$▶안양</p><p>$$$▶수원</p><p>$$$▶노원</p><p>$$$▶구리</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST01","s2": "#ST01","s3":"#ST01","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 10:23:15
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 10 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST010_#ST010_#ST010_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST010_#ST010_#ST010
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>구리에서 출발하시는 분들은 <b>구리 롯데백화점 맞은편 전자랜드 앞</b>에서 탑승하실 수 있습니다.</p><p>||<br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128337344600.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 10:23:48
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 9 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST019_#ST019_#ST019_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST019_#ST019_#ST019
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>노원에서 출발하시는 분들은 <b>노원역 6번출구 삼성생명 빌딩 앞</b>에서 탑승하실 수 있습니다.</p><p>||<br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128329033600.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 10:23:57
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 8 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST018_#ST018_#ST018_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST018_#ST018_#ST018
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>수원에서 출발하시는 분들은 <b>동수원 경기지방경찰청 건너편 SK LPG 충전소 앞</b>에서 탑승하실 수 있습니다.</p><p>||<br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128328730900.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 11:35:17
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 여행상품 추천 해주세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 추천 해주세요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #RE01_#RE01_#RE01_196
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : #TR02_#TR02_#TR02_195
+ que_id4 : 1D14BC63_BCE3_F249_187
+ que_id5 : B1B9228A_D65B_7740_188
+ que_id6 : TO11_TO11_TO11_195
+ que_id7 : TO13_TO13_TO13_195
+ que_id8 : PR01_PR01_PR01_197
+ que_id9 : BA22D1E4_9E0B_A833_188
+ scn_que_id : #RE01_#RE01_#RE01
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : #TR02_#TR02_#TR02
+ scn_que_id4 : 1D14BC63_BCE3_F249
+ 확률 : 선택질문 확률 : 5986//2500
+{"answercode":"1", "ai_msg": "여행상품 추천 | 여행계약서 | 승차권 상품 | 여행 준비물 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"},{"s1":"705FB289","s2": "220B","s3":"7901","s4":"188"},{"s1":"PR02","s2": "PR02","s3":"PR02","s4":"197"},{"s1":"#TR02","s2": "#TR02","s3":"#TR02","s4":"195"}]}
+*************************************
+접속일 :  2021-02-09 11:35:22
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 2 || 질문내용 : 여행상품 추천 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 추천"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #RE01_#RE01_#RE01_196
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : #TR02_#TR02_#TR02_195
+ que_id4 : 1D14BC63_BCE3_F249_187
+ que_id5 : B1B9228A_D65B_7740_188
+ que_id6 : TO11_TO11_TO11_195
+ que_id7 : TO13_TO13_TO13_195
+ que_id8 : PR01_PR01_PR01_197
+ que_id9 : BA22D1E4_9E0B_A833_188
+ scn_que_id : #RE01_#RE01_#RE01
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : #TR02_#TR02_#TR02
+ scn_que_id4 : 1D14BC63_BCE3_F249
+ 확률 : 선택질문 확률 : 7707//2500
+{"answercode":"4", "ai_msg": "<p>홍익여행에서만 만나실 수 있는 특별한 여행 상품입니다.</p><p>홍익여행과 함께 행복한 추억을 만들어봐요&nbsp;✧*.◟(ˊᗨˋ)◞.*✧</p><p>$$$▶비대면 기차여행</p><p>$$$▶낭만적인 해변열차</p><p>$$$▶서해 금빛열차</p><p>$$$▶저렴한 특가여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"}]}
+*************************************
+접속일 :  2021-02-09 11:35:30
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+ 시나리오 결과 값 : 
+ que_id :  #RE011_#RE011_#RE011_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #RE011_#RE011_#RE011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>비대면 기차여행이란 코로나19 확산을 방지하고 생활 속 거리두기를 실천하며, 패키지 단체여행이 아닌, 소인원으로 기차를 타고 자유롭게 즐길 수 있는 여행입니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 11:35:38
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+ 시나리오 결과 값 : 
+ que_id :  #RE012_#RE012_#RE012_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #RE012_#RE012_#RE012
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>해운대 해변열차는 아름다운 동부산의 수려한 해안절경을 감상하면서 해운대 미포에서 청사포를 거쳐 송정까지 왕복으로 운행하는 교통수단을 겸비한 관광 열차입니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 11:35:43
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+ 시나리오 결과 값 : 
+ que_id :  #RE013_#RE013_#RE013_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #RE013_#RE013_#RE013
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>­­- 와이드한 전망창과 안락한 의자로 편안하게 여행을 즐길 수 있는 열차<BR></p><p>- 일상의 피로를 씻어주는 족욕실 이용가능!(유료)<BR></p><p>- 바다의 싱그러움과 열차가 지나가는 지역의 숨겨진 관광지 등 차내 볼거리 제공<BR></p><p>- 해변가를 온 듯 사진을 찍을 수 있는 트릭아트 포토존</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 11:35:52
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+ 시나리오 결과 값 : 
+ que_id :  #RE014_#RE014_#RE014_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #RE014_#RE014_#RE014
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>당일 특가 여행부터 2박3일 특가 여행까지!<BR></p><p>&nbsp;저렴해서 기분좋은 특가여행을 소개합니다.&nbsp;(◍•ᗜ•́)✧</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 11:50:37
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 여행 어디로 가는 게 좋아요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행 어디로 가는 게 좋아요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #RE01_#RE01_#RE01_196
+ que_id1 : #ST02_#ST02_#ST02_193
+ que_id2 : B1B9228A_D65B_7740_188
+ que_id3 : TO01_TO01_TO01_195
+ que_id4 : 705FB289_220B_7901_188
+ que_id5 : PR02_PR02_PR02_197
+ que_id6 : #TR02_#TR02_#TR02_195
+ que_id7 : 1D14BC63_BCE3_F249_187
+ que_id8 : TO11_TO11_TO11_195
+ que_id9 : TO13_TO13_TO13_195
+ scn_que_id : #RE01_#RE01_#RE01
+ scn_que_id1 : #ST02_#ST02_#ST02
+ scn_que_id2 : B1B9228A_D65B_7740
+ scn_que_id3 : TO01_TO01_TO01
+ scn_que_id4 : 705FB289_220B_7901
+ 확률 : 선택질문 확률 : 5986//2500
+{"answercode":"1", "ai_msg": "여행상품 추천 | 기차여행 미팅 장소 | 상품 확정 안내 | 우천시 여행 일정 | 여행계약서 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"},{"s1":"#ST02","s2": "#ST02","s3":"#ST02","s4":"193"},{"s1":"B1B9228A","s2": "D65B","s3":"7740","s4":"188"},{"s1":"TO01","s2": "TO01","s3":"TO01","s4":"195"},{"s1":"705FB289","s2": "220B","s3":"7901","s4":"188"}]}
+*************************************
+접속일 :  2021-02-09 11:50:43
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 2 || 질문내용 : 여행상품 추천 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 추천"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #RE01_#RE01_#RE01_196
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : #TR02_#TR02_#TR02_195
+ que_id4 : 1D14BC63_BCE3_F249_187
+ que_id5 : B1B9228A_D65B_7740_188
+ que_id6 : TO11_TO11_TO11_195
+ que_id7 : TO13_TO13_TO13_195
+ que_id8 : PR01_PR01_PR01_197
+ que_id9 : BA22D1E4_9E0B_A833_188
+ scn_que_id : #RE01_#RE01_#RE01
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : #TR02_#TR02_#TR02
+ scn_que_id4 : 1D14BC63_BCE3_F249
+ 확률 : 선택질문 확률 : 7707//2500
+{"answercode":"4", "ai_msg": "<p>홍익여행에서만 만나실 수 있는 특별한 여행 상품입니다.</p><p>홍익여행과 함께 행복한 추억을 만들어봐요&nbsp;✧*.◟(ˊᗨˋ)◞.*✧</p><p>$$$▶비대면 기차여행</p><p>$$$▶낭만적인 해변열차</p><p>$$$▶서해 금빛열차</p><p>$$$▶저렴한 특가여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"}]}
+*************************************
+접속일 :  2021-02-09 11:50:54
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+ 시나리오 결과 값 : 
+ que_id :  #RE011_#RE011_#RE011_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #RE011_#RE011_#RE011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>비대면 기차여행이란 코로나19 확산을 방지하고 생활 속 거리두기를 실천하며, 패키지 단체여행이 아닌, 소인원으로 기차를 타고 자유롭게 즐길 수 있는 여행입니다.</p><p>||</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128389032000.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 11:51:00
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+ 시나리오 결과 값 : 
+ que_id :  #RE012_#RE012_#RE012_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #RE012_#RE012_#RE012
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>해운대 해변열차는 아름다운 동부산의 수려한 해안절경을 감상하면서 해운대 미포에서 청사포를 거쳐 송정까지 왕복으로 운행하는 교통수단을 겸비한 관광 열차입니다.</p><p>||<br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128389458000.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 11:51:08
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+ 시나리오 결과 값 : 
+ que_id :  #RE013_#RE013_#RE013_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #RE013_#RE013_#RE013
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>­­- 와이드한 전망창과 안락한 의자로 편안하게 여행을 즐길 수 있는 열차<br></p><p>- 일상의 피로를 씻어주는 족욕실 이용가능!(유료)<br></p><p>- 바다의 싱그러움과 열차가 지나가는 지역의 숨겨진 관광지 등 차내 볼거리 제공<br></p><p>- 해변가를 온 듯 사진을 찍을 수 있는 트릭아트 포토존</p><p>||<br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128389662100.jpg", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 11:51:17
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+ 시나리오 결과 값 : 
+ que_id :  #RE014_#RE014_#RE014_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #RE014_#RE014_#RE014
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>당일 특가 여행부터 2박3일 특가 여행까지!<br></p><p>&nbsp;저렴해서 기분좋은 특가여행을 소개합니다.&nbsp;(◍•ᗜ•́)✧</p><p>||<br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 11:52:09
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 여행상품 추천 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 추천"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #RE01_#RE01_#RE01_196
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : #TR02_#TR02_#TR02_195
+ que_id4 : 1D14BC63_BCE3_F249_187
+ que_id5 : B1B9228A_D65B_7740_188
+ que_id6 : TO11_TO11_TO11_195
+ que_id7 : TO13_TO13_TO13_195
+ que_id8 : PR01_PR01_PR01_197
+ que_id9 : BA22D1E4_9E0B_A833_188
+ scn_que_id : #RE01_#RE01_#RE01
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : #TR02_#TR02_#TR02
+ scn_que_id4 : 1D14BC63_BCE3_F249
+ 확률 : 선택질문 확률 : 7707//2500
+{"answercode":"4", "ai_msg": "<p>홍익여행에서만 만나실 수 있는 특별한 여행 상품입니다.</p><p>홍익여행과 함께 행복한 추억을 만들어봐요&nbsp;✧*.◟(ˊᗨˋ)◞.*✧</p><p>$$$▶비대면 기차여행</p><p>$$$▶낭만적인 해변열차</p><p>$$$▶서해 금빛열차</p><p>$$$▶저렴한 특가여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"}]}
+*************************************
+접속일 :  2021-02-09 11:52:13
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+ 시나리오 결과 값 : 
+ que_id :  #RE014_#RE014_#RE014_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #RE014_#RE014_#RE014
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>당일 특가 여행부터 2박3일 특가 여행까지!<br></p><p>&nbsp;저렴해서 기분좋은 특가여행을 소개합니다.&nbsp;(◍•ᗜ•́)✧</p><p>||<br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 11:54:03
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 여행상품 추천 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 추천"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #RE01_#RE01_#RE01_196
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : #TR02_#TR02_#TR02_195
+ que_id4 : 1D14BC63_BCE3_F249_187
+ que_id5 : B1B9228A_D65B_7740_188
+ que_id6 : TO11_TO11_TO11_195
+ que_id7 : TO13_TO13_TO13_195
+ que_id8 : PR01_PR01_PR01_197
+ que_id9 : BA22D1E4_9E0B_A833_188
+ scn_que_id : #RE01_#RE01_#RE01
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : #TR02_#TR02_#TR02
+ scn_que_id4 : 1D14BC63_BCE3_F249
+ 확률 : 선택질문 확률 : 7707//2500
+{"answercode":"4", "ai_msg": "<p>홍익여행에서만 만나실 수 있는 특별한 여행 상품입니다.</p><p>홍익여행과 함께 행복한 추억을 만들어봐요&nbsp;✧*.◟(ˊᗨˋ)◞.*✧</p><p>$$$▶비대면 기차여행</p><p>$$$▶낭만적인 해변열차</p><p>$$$▶서해 금빛열차</p><p>$$$▶저렴한 특가여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"}]}
+*************************************
+접속일 :  2021-02-09 11:54:07
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+ 시나리오 결과 값 : 
+ que_id :  #RE014_#RE014_#RE014_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #RE014_#RE014_#RE014
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>당일 특가 여행부터 2박3일 특가 여행까지!<br></p><p>&nbsp;저렴해서 기분좋은 특가여행을 소개합니다.&nbsp;(◍•ᗜ•́)✧</p><p>||<br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 11:55:00
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+ 시나리오 결과 값 : 
+ que_id :  #RE014_#RE014_#RE014_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #RE014_#RE014_#RE014
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>당일 특가 여행부터 2박3일 특가 여행까지!<br></p><p>&nbsp;저렴해서 기분좋은 특가여행을 소개합니다.&nbsp;(◍•ᗜ•́)✧</p><p>||<br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 11:55:22
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 여행상품 추천 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 추천"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #RE01_#RE01_#RE01_196
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : #TR02_#TR02_#TR02_195
+ que_id4 : 1D14BC63_BCE3_F249_187
+ que_id5 : B1B9228A_D65B_7740_188
+ que_id6 : TO11_TO11_TO11_195
+ que_id7 : TO13_TO13_TO13_195
+ que_id8 : PR01_PR01_PR01_197
+ que_id9 : BA22D1E4_9E0B_A833_188
+ scn_que_id : #RE01_#RE01_#RE01
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : #TR02_#TR02_#TR02
+ scn_que_id4 : 1D14BC63_BCE3_F249
+ 확률 : 선택질문 확률 : 7707//2500
+{"answercode":"4", "ai_msg": "<p>홍익여행에서만 만나실 수 있는 특별한 여행 상품입니다.</p><p>홍익여행과 함께 행복한 추억을 만들어봐요&nbsp;✧*.◟(ˊᗨˋ)◞.*✧</p><p>$$$▶비대면 기차여행</p><p>$$$▶낭만적인 해변열차</p><p>$$$▶서해 금빛열차</p><p>$$$▶저렴한 특가여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"}]}
+*************************************
+접속일 :  2021-02-09 11:55:26
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+ 시나리오 결과 값 : 
+ que_id :  #RE014_#RE014_#RE014_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #RE014_#RE014_#RE014
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>당일 특가 여행부터 2박3일 특가 여행까지!<br></p><p>&nbsp;저렴해서 기분좋은 특가여행을 소개합니다.&nbsp;(◍•ᗜ•́)✧</p><p>||<br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 11:59:24
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 울릉도 셔틀버스 타는 곳 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "울릉도 셔틀버스 타는 곳"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST01_#ST01_#ST01_193
+ que_id1 : TO06_TO06_TO06_195
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST01_#ST01_#ST01
+ scn_que_id1 : TO06_TO06_TO06
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9491//2500
+{"answercode":"4", "ai_msg": "<p>출발하시는 지역에 따라 탑승장소가 다릅니다.<BR></p><p>여행 전, 가까운 탑승장소를 확인해주세요!</p><p>||출발지를 선택하시면 탑승장소를 안내해드리겠습니다.&nbsp;(๑•͈ᴗ•͈)</p><p>$$$▶일산</p><p>$$$▶영등포</p><p>$$$▶시청</p><p>$$$▶잠실</p><p>$$$▶부평</p><p>$$$▶송내</p><p>$$$▶안양</p><p>$$$▶수원</p><p>$$$▶노원</p><p>$$$▶구리</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST01","s2": "#ST01","s3":"#ST01","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 11:59:29
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 10 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST010_#ST010_#ST010_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST010_#ST010_#ST010
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>구리에서 출발하시는 분들은 <b>구리 롯데백화점 맞은편 전자랜드 앞</b>에서 탑승하실 수 있습니다.</p><p>||<br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128337344600.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 11:59:33
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 9 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST019_#ST019_#ST019_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST019_#ST019_#ST019
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>노원에서 출발하시는 분들은 <b>노원역 6번출구 삼성생명 빌딩 앞</b>에서 탑승하실 수 있습니다.</p><p>||<br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128329033600.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 11:59:40
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 8 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST018_#ST018_#ST018_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST018_#ST018_#ST018
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>수원에서 출발하시는 분들은 <b>동수원 경기지방경찰청 건너편 SK LPG 충전소 앞</b>에서 탑승하실 수 있습니다.</p><p>||<br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128328730900.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 11:59:46
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 7 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST017_#ST017_#ST017_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST017_#ST017_#ST017
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>안양에서 출발하시는 분들은 <b>비산사거리 전자랜드21 앞</b>에서 탑승하실 수 있습니다.</p><p>||<br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128328344100.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 11:59:53
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 6 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST016_#ST016_#ST016_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST016_#ST016_#ST016
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>송내에서 출발하시는 분들은 <b>송내역 1번출구 150미터 전방 남부광장 훼미리마트 편의점 앞</b>에서 탑승하실 수 있습니다.</p><p>||<br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128328139500.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 11:59:59
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 5 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST015_#ST015_#ST015_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST015_#ST015_#ST015
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>부평에서 출발하시는 분들은 <b>부평역 북광장 삼화고속 앞</b>에서 탑승하실 수 있습니다.</p><p>||<br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128327806500.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 12:00:06
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST014_#ST014_#ST014_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST014_#ST014_#ST014
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>잠실에서 출발하시는 분들은 <b>잠실역 4번출구 200미터 전방 롯데마트 앞</b>에서 탑승하실 수 있습니다.</p><p>||</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128327536300.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 12:00:13
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST014_#ST014_#ST014_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST014_#ST014_#ST014
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>잠실에서 출발하시는 분들은 <b>잠실역 4번출구 200미터 전방 롯데마트 앞</b>에서 탑승하실 수 있습니다.</p><p>||</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128327536300.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 12:00:21
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST013_#ST013_#ST013_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST013_#ST013_#ST013
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>시청에서 출발하시는 분들은 <b>시청역 2번출구 덕수궁 대한문 정문 앞</b>에서 탑승하실 수 있습니다.</p><p>||<br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128327149300.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 12:00:28
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST012_#ST012_#ST012_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST012_#ST012_#ST012
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>영등포에서 출발하시는 분들은 <b>신세계 백화점 정문 앞</b>에서 탑승하실 수 있습니다.</p><p>||<br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128326622900.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 12:00:37
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #ST01 || 질문아이디2 : #ST01 || 질문아이디3 : #ST01 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST011_#ST011_#ST011_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST011_#ST011_#ST011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>일산에서 출발하시는 분들은 <b>정발산역 2번출구 롯데백화점 앞</b>에서 탑승하실 수 있습니다.</p><p>||</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128326433800.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 12:00:53
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 여행 준비물 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행 준비물"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #TR02_#TR02_#TR02_195
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : 1D14BC63_BCE3_F249_187
+ que_id4 : B1B9228A_D65B_7740_188
+ que_id5 : TO11_TO11_TO11_195
+ que_id6 : TO13_TO13_TO13_195
+ que_id7 : PR01_PR01_PR01_197
+ que_id8 : BA22D1E4_9E0B_A833_188
+ que_id9 : RO05_RO05_RO05_194
+ scn_que_id : #TR02_#TR02_#TR02
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : 1D14BC63_BCE3_F249
+ scn_que_id4 : B1B9228A_D65B_7740
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>여행 유형에 따라 챙겨야 할 물건도 다르죠!<BR></p><p>즐거운 여행을 위해 꼼꼼히 체크해봐요.٩(ˊᗜˋ*)و</p><p>$$$▶국내 내륙여행</p><p>$$$▶국내 섬여행</p><p>$$$▶해외여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#TR02","s2": "#TR02","s3":"#TR02","s4":"195"}]}
+*************************************
+접속일 :  2021-02-09 12:00:56
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #TR02 || 질문아이디2 : #TR02 || 질문아이디3 : #TR02 || 질문아이디4 : 195
+ 시나리오 결과 값 : 
+ que_id :  #TR021_#TR021_#TR021_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR021_#TR021_#TR021
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>국내 내륙여행 준비물이에요.<br></p><p>참고해주세요!</p><p>||</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128316615600.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 12:01:01
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #TR02 || 질문아이디2 : #TR02 || 질문아이디3 : #TR02 || 질문아이디4 : 195
+ 시나리오 결과 값 : 
+ que_id :  #TR022_#TR022_#TR022_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR022_#TR022_#TR022
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>국내 섬여행 준비물이에요.<br></p><p>참고해주세요!</p><p>||<br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128316846100.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 12:01:06
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #TR02 || 질문아이디2 : #TR02 || 질문아이디3 : #TR02 || 질문아이디4 : 195
+ 시나리오 결과 값 : 
+ que_id :  #TR023_# TR023_# TR023_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR023_# TR023_# TR023
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>해외여행 준비물이에요.<br></p><p>참고해주세요!</p><p>||<br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 12:04:16
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #TR02 || 질문아이디2 : #TR02 || 질문아이디3 : #TR02 || 질문아이디4 : 195
+ 시나리오 결과 값 : 
+ que_id :  #TR023_# TR023_# TR023_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR023_# TR023_# TR023
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>해외여행 준비물이에요.<br></p><p>참고해주세요!</p><p>||<br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 13:18:08
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 여행갈 때 준비물 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행갈 때 준비물"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #TR02_#TR02_#TR02_195
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : 1D14BC63_BCE3_F249_187
+ que_id4 : B1B9228A_D65B_7740_188
+ que_id5 : TO11_TO11_TO11_195
+ que_id6 : TO13_TO13_TO13_195
+ que_id7 : PR01_PR01_PR01_197
+ que_id8 : BA22D1E4_9E0B_A833_188
+ que_id9 : RO05_RO05_RO05_194
+ scn_que_id : #TR02_#TR02_#TR02
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : 1D14BC63_BCE3_F249
+ scn_que_id4 : B1B9228A_D65B_7740
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>여행 유형에 따라 챙겨야 할 물건도 다르죠!<BR></p><p>즐거운 여행을 위해 꼼꼼히 체크해봐요.٩(ˊᗜˋ*)و</p><p>$$$▶국내 내륙여행</p><p>$$$▶국내 섬여행</p><p>$$$▶해외여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#TR02","s2": "#TR02","s3":"#TR02","s4":"195"}]}
+*************************************
+접속일 :  2021-02-09 13:18:13
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #TR02 || 질문아이디2 : #TR02 || 질문아이디3 : #TR02 || 질문아이디4 : 195
+ 시나리오 결과 값 : 
+ que_id :  #TR023_# TR023_# TR023_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR023_# TR023_# TR023
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>해외여행 준비물이에요.<br></p><p>참고해주세요!</p><p>||<br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 13:19:53
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 여행 준비물 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행 준비물"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #TR02_#TR02_#TR02_195
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : 1D14BC63_BCE3_F249_187
+ que_id4 : B1B9228A_D65B_7740_188
+ que_id5 : TO11_TO11_TO11_195
+ que_id6 : TO13_TO13_TO13_195
+ que_id7 : PR01_PR01_PR01_197
+ que_id8 : BA22D1E4_9E0B_A833_188
+ que_id9 : RO05_RO05_RO05_194
+ scn_que_id : #TR02_#TR02_#TR02
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : 1D14BC63_BCE3_F249
+ scn_que_id4 : B1B9228A_D65B_7740
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>여행 유형에 따라 챙겨야 할 물건도 다르죠!<BR></p><p>즐거운 여행을 위해 꼼꼼히 체크해봐요.٩(ˊᗜˋ*)و</p><p>$$$▶국내 내륙여행</p><p>$$$▶국내 섬여행</p><p>$$$▶해외여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#TR02","s2": "#TR02","s3":"#TR02","s4":"195"}]}
+*************************************
+접속일 :  2021-02-09 13:19:56
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #TR02 || 질문아이디2 : #TR02 || 질문아이디3 : #TR02 || 질문아이디4 : 195
+ 시나리오 결과 값 : 
+ que_id :  #TR023_# TR023_# TR023_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR023_# TR023_# TR023
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>해외여행 준비물이에요.<br></p><p>참고해주세요!</p><p>||<br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 13:34:51
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 미팅 장소 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "미팅 장소"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST02_#ST02_#ST02_193
+ que_id1 : BD01_BD01_BD01_193
+ que_id2 : RO02_RO02_RO02_194
+ que_id3 : TO06_TO06_TO06_195
+ que_id4 : #ST01_#ST01_#ST01_193
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST02_#ST02_#ST02
+ scn_que_id1 : BD01_BD01_BD01
+ scn_que_id2 : RO02_RO02_RO02
+ scn_que_id3 : TO06_TO06_TO06
+ scn_que_id4 : #ST01_#ST01_#ST01
+ 확률 : 선택질문 확률 : 7427//2500
+{"answercode":"1", "ai_msg": "기차여행 미팅 장소 | 집합 장소 및 시간 안내 | 숙소 정보 제공 | 현지 이동차량 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#ST02","s2": "#ST02","s3":"#ST02","s4":"193"},{"s1":"BD01","s2": "BD01","s3":"BD01","s4":"193"},{"s1":"RO02","s2": "RO02","s3":"RO02","s4":"194"},{"s1":"TO06","s2": "TO06","s3":"TO06","s4":"195"}]}
+*************************************
+접속일 :  2021-02-09 13:34:56
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 2 || 질문내용 : 기차여행 미팅 장소 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "기차여행 미팅 장소"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST02_#ST02_#ST02_193
+ que_id1 : BD01_BD01_BD01_193
+ que_id2 : BD04_BD04_BD04_193
+ que_id3 : DIS04_DIS04_DIS04_190
+ que_id4 : TO04_TO04_TO04_195
+ que_id5 : TO07_TO07_TO07_195
+ que_id6 : 705FB289_220B_7901_188
+ que_id7 : PR02_PR02_PR02_197
+ que_id8 : #TR02_#TR02_#TR02_195
+ que_id9 : 1D14BC63_BCE3_F249_187
+ scn_que_id : #ST02_#ST02_#ST02
+ scn_que_id1 : BD01_BD01_BD01
+ scn_que_id2 : BD04_BD04_BD04
+ scn_que_id3 : DIS04_DIS04_DIS04
+ scn_que_id4 : TO04_TO04_TO04
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>여행 전 모이는 장소를 안내해드립니다!<BR></p><p>출발하시는 역을 선택해주세요!</p><p><br></p><p>$$$▶서울역</p><p>$$$▶용산역</p><p>$$$▶청량리역</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST02","s2": "#ST02","s3":"#ST02","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 13:35:00
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST021_#ST021_#ST021_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST021_#ST021_#ST021
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>미팅장소: 서울역 3층 대합실 매표소 앞 홍익여행사 피켓 앞 집결</p><p>|| 지하철(1번 출구), 또는 버스에서 하차 후 서울역 3층 대합실 안으로 들어오세요.</p><p>||매표소 앞으로 오시면 홍익여행사 피켓과 함께 직원이 기다리고 있습니다.<br></p><p>도착하신 순번대로 일정표와 티켓 수령 후 열차 출발 10분 전까지 개별 탑승하시면 됩니다.</p><p>||</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128447322500.jpg", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 13:35:09
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST022_#ST022_#ST022_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST022_#ST022_#ST022
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>미팅장소: 용산역 대합실 매표소 오른쪽 홍익여행사 피켓 앞 집결</p><p>||지하철 1호선 용산역에 하차하시면 3층 대합실로 바로 연결되어 있습니다.</p><p>||기차 매표소 오른쪽편에 Let's korail 여행센터가 있습니다.<br></p><p>용산역 매표소 오른편 앞으로 홍익여행사 피켓과 함께 직원이 기다리고 있습니다.<br></p><p>도착하신 순번대로 일정표와 티켓 수령 후 열차 출발 10분 전까지 개별 탑승하시면 됩니다.</p><p>||</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128448628900.jpg", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 13:35:18
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST023_#ST023_#ST023_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST023_#ST023_#ST023
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>미팅장소: 청량리역 3층 대합실 여행센터 앞 홍익여행사 피켓 앞 집결</p><p>||지하철(4번 출구) 청량리역 엘레베이터를 이용하셔서 3층 대합실로 올라오세요.</p><p>||여행센터 앞에 홍익여행사 피켓과 함께 직원이 기다리고 있습니다.<br></p><p>도착하신 순번대로 일정표와 티켓 수령 후 열차 출발 10분 전까지 개별 탑승하시면 됩니다.</p><p>||</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 13:36:08
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 기차여행 미팅장소 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "기차여행 미팅장소"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST02_#ST02_#ST02_193
+ que_id1 : BD01_BD01_BD01_193
+ que_id2 : BD04_BD04_BD04_193
+ que_id3 : DIS04_DIS04_DIS04_190
+ que_id4 : TO04_TO04_TO04_195
+ que_id5 : TO07_TO07_TO07_195
+ que_id6 : 705FB289_220B_7901_188
+ que_id7 : PR02_PR02_PR02_197
+ que_id8 : #TR02_#TR02_#TR02_195
+ que_id9 : 1D14BC63_BCE3_F249_187
+ scn_que_id : #ST02_#ST02_#ST02
+ scn_que_id1 : BD01_BD01_BD01
+ scn_que_id2 : BD04_BD04_BD04
+ scn_que_id3 : DIS04_DIS04_DIS04
+ scn_que_id4 : TO04_TO04_TO04
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>여행 전 모이는 장소를 안내해드립니다!<BR></p><p>출발하시는 역을 선택해주세요!</p><p><br></p><p>$$$▶서울역</p><p>$$$▶용산역</p><p>$$$▶청량리역</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST02","s2": "#ST02","s3":"#ST02","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 13:36:11
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST023_#ST023_#ST023_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST023_#ST023_#ST023
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>미팅장소: 청량리역 3층 대합실 여행센터 앞 홍익여행사 피켓 앞 집결</p><p>||지하철(4번 출구) 청량리역 엘레베이터를 이용하셔서 3층 대합실로 올라오세요.</p><p>||여행센터 앞에 홍익여행사 피켓과 함께 직원이 기다리고 있습니다.<br></p><p>도착하신 순번대로 일정표와 티켓 수령 후 열차 출발 10분 전까지 개별 탑승하시면 됩니다.</p><p>||</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 13:41:10
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 여행상품 추천 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 추천"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #RE01_#RE01_#RE01_196
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : #TR02_#TR02_#TR02_195
+ que_id4 : 1D14BC63_BCE3_F249_187
+ que_id5 : B1B9228A_D65B_7740_188
+ que_id6 : TO11_TO11_TO11_195
+ que_id7 : TO13_TO13_TO13_195
+ que_id8 : PR01_PR01_PR01_197
+ que_id9 : BA22D1E4_9E0B_A833_188
+ scn_que_id : #RE01_#RE01_#RE01
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : #TR02_#TR02_#TR02
+ scn_que_id4 : 1D14BC63_BCE3_F249
+ 확률 : 선택질문 확률 : 7707//2500
+{"answercode":"4", "ai_msg": "<p>홍익여행에서만 만나실 수 있는 특별한 여행 상품입니다.</p><p>홍익여행과 함께 행복한 추억을 만들어봐요&nbsp;✧*.◟(ˊᗨˋ)◞.*✧</p><p>$$$▶비대면 기차여행</p><p>$$$▶낭만적인 해변열차</p><p>$$$▶서해 금빛열차</p><p>$$$▶저렴한 특가여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"}]}
+*************************************
+접속일 :  2021-02-09 13:55:28
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 여행상품 추천 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 추천"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #RE01_#RE01_#RE01_196
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : #TR02_#TR02_#TR02_195
+ que_id4 : 1D14BC63_BCE3_F249_187
+ que_id5 : B1B9228A_D65B_7740_188
+ que_id6 : TO11_TO11_TO11_195
+ que_id7 : TO13_TO13_TO13_195
+ que_id8 : PR01_PR01_PR01_197
+ que_id9 : BA22D1E4_9E0B_A833_188
+ scn_que_id : #RE01_#RE01_#RE01
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : #TR02_#TR02_#TR02
+ scn_que_id4 : 1D14BC63_BCE3_F249
+ 확률 : 선택질문 확률 : 7707//2500
+{"answercode":"4", "ai_msg": "<p>홍익여행에서만 만나실 수 있는 특별한 여행 상품입니다.</p><p>홍익여행과 함께 행복한 추억을 만들어봐요&nbsp;✧*.◟(ˊᗨˋ)◞.*✧</p><p>$$$▶비대면 기차여행</p><p>$$$▶낭만적인 해변열차</p><p>$$$▶서해 금빛열차</p><p>$$$▶저렴한 특가여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"}]}
+*************************************
+접속일 :  2021-02-09 13:55:35
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : 705FB289_220B_7901_188
+ que_id8 : PR02_PR02_PR02_197
+ que_id9 : #TR02_#TR02_#TR02_195
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-02-09 13:55:40
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : SNS 할인 이벤트 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "SNS 할인 이벤트"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  SNS01_SNS01_SNS01_191
+ que_id1 : DIS03_DIS03_DIS03_190
+ que_id2 : SNS02_SNS02_SNS02_191
+ que_id3 : DIS01_DIS01_DIS01_190
+ que_id4 : SNS03_SNS03_SNS03_191
+ que_id5 : SNS04_SNS04_SNS04_191
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : SNS01_SNS01_SNS01
+ scn_que_id1 : DIS03_DIS03_DIS03
+ scn_que_id2 : SNS02_SNS02_SNS02
+ scn_que_id3 : DIS01_DIS01_DIS01
+ scn_que_id4 : SNS03_SNS03_SNS03
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>홍익여행사와 SNS 친구 맺고 혜택받자!</span></p><p><span style=font-family: Verdana, sans-serif;>자세한 사항은 아래 사이트를 통해 확인해보세요!&nbsp;</span><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>(｡･ω･｡)ﾉ♡</span></font></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"SNS01","s2": "SNS01","s3":"SNS01","s4":"191"}]}
+*************************************
+접속일 :  2021-02-09 13:58:10
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : #여행문의 || 질문아이디1 : SNS01 || 질문아이디2 : SNS01 || 질문아이디3 : SNS01 || 질문아이디4 : 191
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "#여행문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  PR01_PR01_PR01_197
+ que_id1 : RO05_RO05_RO05_194
+ que_id2 : 705FB289_220B_7901_188
+ que_id3 : PR02_PR02_PR02_197
+ que_id4 : #TR02_#TR02_#TR02_195
+ que_id5 : 1D14BC63_BCE3_F249_187
+ que_id6 : B1B9228A_D65B_7740_188
+ que_id7 : TO11_TO11_TO11_195
+ que_id8 : TO13_TO13_TO13_195
+ que_id9 : BA22D1E4_9E0B_A833_188
+ scn_que_id : PR01_PR01_PR01
+ scn_que_id1 : RO05_RO05_RO05
+ scn_que_id2 : 705FB289_220B_7901
+ scn_que_id3 : PR02_PR02_PR02
+ scn_que_id4 : #TR02_#TR02_#TR02
+ 확률 : 선택질문 확률 : 7427//2500
+{"answercode":"1", "ai_msg": "우천시 여행 일정 |비상시 연락처 |열차 이용을 하지 않는 경우 |티켓수령 방법 |여행 가이드 동행 여부 |현지 이동차량 |열차 시간 선택 |경유역 승하차 |중간역에서 탑승시 요금 |지방에서 출발하는 경우 |여행 책자 제공 |여행 일정표 제공 |여행 동행인원 |", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"PR01","s2": "PR01","s3":"PR01","s4":"197"},{"s1":"RO05","s2": "RO05","s3":"RO05","s4":"194"},{"s1":"705FB289","s2": "220B","s3":"7901","s4":"188"},{"s1":"PR02","s2": "PR02","s3":"PR02","s4":"197"},{"s1":"#TR02","s2": "#TR02","s3":"#TR02","s4":"195"}]}
+*************************************
+접속일 :  2021-02-09 13:58:21
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 2 || 질문내용 : 우천시 여행 일정 || 질문아이디1 : PR01 || 질문아이디2 : PR01 || 질문아이디3 : PR01 || 질문아이디4 : 197
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "우천시 여행 일정"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  TO01_TO01_TO01_195
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : #TR02_#TR02_#TR02_195
+ que_id4 : 1D14BC63_BCE3_F249_187
+ que_id5 : B1B9228A_D65B_7740_188
+ que_id6 : TO11_TO11_TO11_195
+ que_id7 : TO13_TO13_TO13_195
+ que_id8 : PR01_PR01_PR01_197
+ que_id9 : BA22D1E4_9E0B_A833_188
+ scn_que_id : TO01_TO01_TO01
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : #TR02_#TR02_#TR02
+ scn_que_id4 : 1D14BC63_BCE3_F249
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>천재지변으로 인한 선박 결항 상황을 제외하고는 모든 여행은 정상적으로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||단순 우천 사항은 천재지변으로 해당되지 않으니 참고 부탁드립니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"TO01","s2": "TO01","s3":"TO01","s4":"195"}]}
+*************************************
+접속일 :  2021-02-09 14:00:05
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 2 || 질문내용 : 여행 책자 제공 || 질문아이디1 : undefined || 질문아이디2 : undefined || 질문아이디3 : undefined || 질문아이디4 : undefined
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행 책자 제공"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  TO11_TO11_TO11_195
+ que_id1 : TO12_TO12_TO12_195
+ que_id2 : 705FB289_220B_7901_188
+ que_id3 : PR02_PR02_PR02_197
+ que_id4 : #TR02_#TR02_#TR02_195
+ que_id5 : 1D14BC63_BCE3_F249_187
+ que_id6 : BA22D1E4_9E0B_A833_188
+ que_id7 : B1B9228A_D65B_7740_188
+ que_id8 : RO02_RO02_RO02_194
+ que_id9 : TO13_TO13_TO13_195
+ scn_que_id : TO11_TO11_TO11
+ scn_que_id1 : TO12_TO12_TO12
+ scn_que_id2 : 705FB289_220B_7901
+ scn_que_id3 : PR02_PR02_PR02
+ scn_que_id4 : #TR02_#TR02_#TR02
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>저희는 따로 여행 책자를 제공해 드리고 있지 않습니다.</span></font></p><p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>||각 여행상품에 대한 정보는 홈페이지를 확인해주시면 감사하겠습니다.</span></font></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"TO11","s2": "TO11","s3":"TO11","s4":"195"}]}
+*************************************
+접속일 :  2021-02-09 14:00:31
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 열차 좌성 방향 지정 되나요? || 질문아이디1 : TO11 || 질문아이디2 : TO11 || 질문아이디3 : TO11 || 질문아이디4 : 195
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "열차 좌성 방향 지정 되나요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  BD05_BD05_BD05_193
+ que_id1 : BD04_BD04_BD04_193
+ que_id2 : TO07_TO07_TO07_195
+ que_id3 : TO03_TO03_TO03_195
+ que_id4 : BD02_BD02_BD02_193
+ que_id5 : BD03_BD03_BD03_193
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : B1B9228A_D65B_7740_188
+ que_id8 : TO04_TO04_TO04_195
+ que_id9 : RO03_RO03_RO03_194
+ scn_que_id : BD05_BD05_BD05
+ scn_que_id1 : BD04_BD04_BD04
+ scn_que_id2 : TO07_TO07_TO07
+ scn_que_id3 : TO03_TO03_TO03
+ scn_que_id4 : BD02_BD02_BD02
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-size: 13.3333px;>왕복 열차의 순방향/테이블석 등 열차좌석과 방향은 절대 지정이 불가능합니다.</span></p><p><span style=font-size: 13.3333px;>||유의하여 주시기 바랍니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"BD05","s2": "BD05","s3":"BD05","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 14:00:51
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 탑승역 어떻게 바꿔요? || 질문아이디1 : BD05 || 질문아이디2 : BD05 || 질문아이디3 : BD05 || 질문아이디4 : 193
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "탑승역 어떻게 바꿔요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  BD06_BD06_BD06_193
+ que_id1 : INS01_INS01_INS01_192
+ que_id2 : PAY03_PAY03_PAY03_189
+ que_id3 : TO06_TO06_TO06_195
+ que_id4 : PAY09_PAY09_PAY09_189
+ que_id5 : RO01_RO01_RO01_194
+ que_id6 : #TR02_#TR02_#TR02_195
+ que_id7 : 1D14BC63_BCE3_F249_187
+ que_id8 : SNS04_SNS04_SNS04_191
+ que_id9 : TO04_TO04_TO04_195
+ scn_que_id : BD06_BD06_BD06
+ scn_que_id1 : INS01_INS01_INS01
+ scn_que_id2 : PAY03_PAY03_PAY03
+ scn_que_id3 : TO06_TO06_TO06
+ scn_que_id4 : PAY09_PAY09_PAY09
+ 확률 : 선택질문 확률 : 9197//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>용산역, 서울역, 청량리역 등 처음 출발역을 제외한 경유역 탑승 요청 시 미리 말씀해주셔야 합니다.</span><br><span style=font-family: Verdana, sans-serif;>||열차에 따라 경유역에 차이가 있으므로 요청하신 경유역에서 탑승이 불가능할 수 있습니다.</span><br><span style=font-family: Verdana, sans-serif;>||경유역 탑승 요청 시, 출발 1일 전까지 열차번호, 열차출발시간, 해당 좌석번호를 안내해드립니다.</span></p><p><span style=font-family: Verdana, sans-serif; font-size: 10pt;>||열차 내 직원의 승차권 확인 요청시 사전에 전송된 승차권을 제시해주시면 됩니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"BD06","s2": "BD06","s3":"BD06","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 14:01:32
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 친구랑 같이 앉고 싶은데 붙여주실 수 있나요? || 질문아이디1 : BD06 || 질문아이디2 : BD06 || 질문아이디3 : BD06 || 질문아이디4 : 193
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "친구랑 같이 앉고 싶은데 붙여주실 수 있나요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  RO04_RO04_RO04_194
+ que_id1 : 12EE921C_C84F_58DC_187
+ que_id2 : BD02_BD02_BD02_193
+ que_id3 : PAY08_PAY08_PAY08_189
+ que_id4 : PAY12_PAY12_PAY12_189
+ que_id5 : 4F3EA5F5_46FF_89AA_187
+ que_id6 : PR01_PR01_PR01_197
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : RO02_RO02_RO02_194
+ que_id9 : TO05_TO05_TO05_195
+ scn_que_id : RO04_RO04_RO04
+ scn_que_id1 : 12EE921C_C84F_58DC
+ scn_que_id2 : BD02_BD02_BD02
+ scn_que_id3 : PAY08_PAY08_PAY08
+ scn_que_id4 : PAY12_PAY12_PAY12
+ 확률 : 선택질문 확률 : 6872//2500
+{"answercode":"1", "ai_msg": "객실 사용 인원 안내 | 단독관광(개별관광) 예약 | 일행 좌석 지정 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"RO04","s2": "RO04","s3":"RO04","s4":"194"},{"s1":"12EE921C","s2": "C84F","s3":"58DC","s4":"187"},{"s1":"BD02","s2": "BD02","s3":"BD02","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 14:01:40
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 2 || 질문내용 : 일행 좌석 지정 || 질문아이디1 : BD02 || 질문아이디2 : BD02 || 질문아이디3 : BD02 || 질문아이디4 : 193
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "일행 좌석 지정"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  BD02_BD02_BD02_193
+ que_id1 : BD03_BD03_BD03_193
+ que_id2 : BD04_BD04_BD04_193
+ que_id3 : BD05_BD05_BD05_193
+ que_id4 : RO03_RO03_RO03_194
+ que_id5 : TO07_TO07_TO07_195
+ que_id6 : RO04_RO04_RO04_194
+ que_id7 : PAY09_PAY09_PAY09_189
+ que_id8 : B1B9228A_D65B_7740_188
+ que_id9 : SNS02_SNS02_SNS02_191
+ scn_que_id : BD02_BD02_BD02
+ scn_que_id1 : BD03_BD03_BD03
+ scn_que_id2 : BD04_BD04_BD04
+ scn_que_id3 : BD05_BD05_BD05
+ scn_que_id4 : RO03_RO03_RO03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>열차상품에 이용되는 여행상품 승차권의 경우 좌석이 지정되지는 않습니다.</span></font></p><p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>||최대한 일행분들 고려해드려 좌석은 같이 앉아 가실 수 있게 해드리고 있습니다.</span></font></p><p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>||다만, 중간에 일행이 추가되는 경우, 혹은 여행일행이 많으신 경우, 예약이 늦으신 경우에는 일행과 좌석이 떨어질 수 있습니다.</span></font></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"BD02","s2": "BD02","s3":"BD02","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 14:03:33
+유저아이디 :  c9b2fa87-34d3-417d-a457-644bc971c2c9
+메시지 구분: 0 || 질문내용 : 기차여행 미팅 장소 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "기차여행 미팅 장소"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST02_#ST02_#ST02_193
+ que_id1 : BD01_BD01_BD01_193
+ que_id2 : BD04_BD04_BD04_193
+ que_id3 : DIS04_DIS04_DIS04_190
+ que_id4 : TO04_TO04_TO04_195
+ que_id5 : TO07_TO07_TO07_195
+ que_id6 : 705FB289_220B_7901_188
+ que_id7 : PR02_PR02_PR02_197
+ que_id8 : #TR02_#TR02_#TR02_195
+ que_id9 : 1D14BC63_BCE3_F249_187
+ scn_que_id : #ST02_#ST02_#ST02
+ scn_que_id1 : BD01_BD01_BD01
+ scn_que_id2 : BD04_BD04_BD04
+ scn_que_id3 : DIS04_DIS04_DIS04
+ scn_que_id4 : TO04_TO04_TO04
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>여행 전 모이는 장소를 안내해드립니다!<BR></p><p>출발하시는 역을 선택해주세요!</p><p><br></p><p>$$$▶서울역</p><p>$$$▶용산역</p><p>$$$▶청량리역</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST02","s2": "#ST02","s3":"#ST02","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 14:03:42
+유저아이디 :  c9b2fa87-34d3-417d-a457-644bc971c2c9
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST023_#ST023_#ST023_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST023_#ST023_#ST023
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>미팅장소: 청량리역 3층 대합실 여행센터 앞 홍익여행사 피켓 앞 집결</p><p>||지하철(4번 출구) 청량리역 엘레베이터를 이용하셔서 3층 대합실로 올라오세요.</p><p>||여행센터 앞에 홍익여행사 피켓과 함께 직원이 기다리고 있습니다.<br></p><p>도착하신 순번대로 일정표와 티켓 수령 후 열차 출발 10분 전까지 개별 탑승하시면 됩니다.</p><p>||</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 14:04:17
+유저아이디 :  c9b2fa87-34d3-417d-a457-644bc971c2c9
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST023_#ST023_#ST023_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST023_#ST023_#ST023
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>미팅장소: 청량리역 3층 대합실 여행센터 앞 홍익여행사 피켓 앞 집결</p><p>||지하철(4번 출구) 청량리역 엘레베이터를 이용하셔서 3층 대합실로 올라오세요.</p><p>||여행센터 앞에 홍익여행사 피켓과 함께 직원이 기다리고 있습니다.<br></p><p>도착하신 순번대로 일정표와 티켓 수령 후 열차 출발 10분 전까지 개별 탑승하시면 됩니다.</p><p>||</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 14:05:44
+유저아이디 :  c9b2fa87-34d3-417d-a457-644bc971c2c9
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST023_#ST023_#ST023_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST023_#ST023_#ST023
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>미팅장소: 청량리역 3층 대합실 여행센터 앞 홍익여행사 피켓 앞 집결</p><p>||지하철(4번 출구) 청량리역 엘레베이터를 이용하셔서 3층 대합실로 올라오세요.</p><p>||여행센터 앞에 홍익여행사 피켓과 함께 직원이 기다리고 있습니다.<br></p><p>도착하신 순번대로 일정표와 티켓 수령 후 열차 출발 10분 전까지 개별 탑승하시면 됩니다.</p><p>||</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128471306300.jpg", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 14:06:40
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 기차여행 미팅 장소 || 질문아이디1 : BD02 || 질문아이디2 : BD02 || 질문아이디3 : BD02 || 질문아이디4 : 193
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "기차여행 미팅 장소"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST02_#ST02_#ST02_193
+ que_id1 : BD01_BD01_BD01_193
+ que_id2 : BD04_BD04_BD04_193
+ que_id3 : DIS04_DIS04_DIS04_190
+ que_id4 : TO04_TO04_TO04_195
+ que_id5 : TO07_TO07_TO07_195
+ que_id6 : 705FB289_220B_7901_188
+ que_id7 : PR02_PR02_PR02_197
+ que_id8 : #TR02_#TR02_#TR02_195
+ que_id9 : 1D14BC63_BCE3_F249_187
+ scn_que_id : #ST02_#ST02_#ST02
+ scn_que_id1 : BD01_BD01_BD01
+ scn_que_id2 : BD04_BD04_BD04
+ scn_que_id3 : DIS04_DIS04_DIS04
+ scn_que_id4 : TO04_TO04_TO04
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>여행 전 모이는 장소를 안내해드립니다!<BR></p><p>출발하시는 역을 선택해주세요!</p><p><br></p><p>$$$▶서울역</p><p>$$$▶용산역</p><p>$$$▶청량리역</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST02","s2": "#ST02","s3":"#ST02","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 14:06:44
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST023_#ST023_#ST023_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST023_#ST023_#ST023
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>미팅장소: 청량리역 3층 대합실 여행센터 앞 홍익여행사 피켓 앞 집결</p><p>||지하철(4번 출구) 청량리역 엘레베이터를 이용하셔서 3층 대합실로 올라오세요.</p><p>||여행센터 앞에 홍익여행사 피켓과 함께 직원이 기다리고 있습니다.<br></p><p>도착하신 순번대로 일정표와 티켓 수령 후 열차 출발 10분 전까지 개별 탑승하시면 됩니다.</p><p>||</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 14:18:24
+유저아이디 :  c9b2fa87-34d3-417d-a457-644bc971c2c9
+메시지 구분: 0 || 질문내용 : 여행준비물 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행준비물"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #TR02_#TR02_#TR02_195
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : 1D14BC63_BCE3_F249_187
+ que_id4 : B1B9228A_D65B_7740_188
+ que_id5 : TO11_TO11_TO11_195
+ que_id6 : TO13_TO13_TO13_195
+ que_id7 : PR01_PR01_PR01_197
+ que_id8 : BA22D1E4_9E0B_A833_188
+ que_id9 : RO05_RO05_RO05_194
+ scn_que_id : #TR02_#TR02_#TR02
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : 1D14BC63_BCE3_F249
+ scn_que_id4 : B1B9228A_D65B_7740
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>여행 유형에 따라 챙겨야 할 물건도 다르죠!<BR></p><p>즐거운 여행을 위해 꼼꼼히 체크해봐요.٩(ˊᗜˋ*)و</p><p>$$$▶국내 내륙여행</p><p>$$$▶국내 섬여행</p><p>$$$▶해외여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#TR02","s2": "#TR02","s3":"#TR02","s4":"195"}]}
+*************************************
+접속일 :  2021-02-09 14:20:11
+유저아이디 :  c9b2fa87-34d3-417d-a457-644bc971c2c9
+메시지 구분: 0 || 질문내용 : 기차여행미팅장소 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "기차여행미팅장소"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST02_#ST02_#ST02_193
+ que_id1 : BD01_BD01_BD01_193
+ que_id2 : BD04_BD04_BD04_193
+ que_id3 : DIS04_DIS04_DIS04_190
+ que_id4 : TO04_TO04_TO04_195
+ que_id5 : TO07_TO07_TO07_195
+ que_id6 : 705FB289_220B_7901_188
+ que_id7 : PR02_PR02_PR02_197
+ que_id8 : #TR02_#TR02_#TR02_195
+ que_id9 : 1D14BC63_BCE3_F249_187
+ scn_que_id : #ST02_#ST02_#ST02
+ scn_que_id1 : BD01_BD01_BD01
+ scn_que_id2 : BD04_BD04_BD04
+ scn_que_id3 : DIS04_DIS04_DIS04
+ scn_que_id4 : TO04_TO04_TO04
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>여행 전 모이는 장소를 안내해드립니다!<BR></p><p>출발하시는 역을 선택해주세요!</p><p><br></p><p>$$$▶서울역</p><p>$$$▶용산역</p><p>$$$▶청량리역</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST02","s2": "#ST02","s3":"#ST02","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 14:20:15
+유저아이디 :  c9b2fa87-34d3-417d-a457-644bc971c2c9
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST023_#ST023_#ST023_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST023_#ST023_#ST023
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>미팅장소: 청량리역 3층 대합실 여행센터 앞 홍익여행사 피켓 앞 집결</p><p>||지하철(4번 출구) 청량리역 엘레베이터를 이용하셔서 3층 대합실로 올라오세요.</p><p>||여행센터 앞에 홍익여행사 피켓과 함께 직원이 기다리고 있습니다.<br></p><p>도착하신 순번대로 일정표와 티켓 수령 후 열차 출발 10분 전까지 개별 탑승하시면 됩니다.</p><p>||</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128477813600.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 14:20:56
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 기차 미팅 장소 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "기차 미팅 장소"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST02_#ST02_#ST02_193
+ que_id1 : BD01_BD01_BD01_193
+ que_id2 : TO04_TO04_TO04_195
+ que_id3 : BD04_BD04_BD04_193
+ que_id4 : TO07_TO07_TO07_195
+ que_id5 : RO02_RO02_RO02_194
+ que_id6 : TO06_TO06_TO06_195
+ que_id7 : PR02_PR02_PR02_197
+ que_id8 : TO03_TO03_TO03_195
+ que_id9 : BD05_BD05_BD05_193
+ scn_que_id : #ST02_#ST02_#ST02
+ scn_que_id1 : BD01_BD01_BD01
+ scn_que_id2 : TO04_TO04_TO04
+ scn_que_id3 : BD04_BD04_BD04
+ scn_que_id4 : TO07_TO07_TO07
+ 확률 : 선택질문 확률 : 8861//2500
+{"answercode":"4", "ai_msg": "<p>여행 전 모이는 장소를 안내해드립니다!<BR></p><p>출발하시는 역을 선택해주세요!</p><p><br></p><p>$$$▶서울역</p><p>$$$▶용산역</p><p>$$$▶청량리역</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST02","s2": "#ST02","s3":"#ST02","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 14:21:00
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST023_#ST023_#ST023_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST023_#ST023_#ST023
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>미팅장소: 청량리역 3층 대합실 여행센터 앞 홍익여행사 피켓 앞 집결</p><p>||지하철(4번 출구) 청량리역 엘레베이터를 이용하셔서 3층 대합실로 올라오세요.</p><p>||여행센터 앞에 홍익여행사 피켓과 함께 직원이 기다리고 있습니다.<br></p><p>도착하신 순번대로 일정표와 티켓 수령 후 열차 출발 10분 전까지 개별 탑승하시면 됩니다.</p><p>||</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128477813600.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 14:21:08
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 여행상품 추천 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 추천"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #RE01_#RE01_#RE01_196
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : #TR02_#TR02_#TR02_195
+ que_id4 : 1D14BC63_BCE3_F249_187
+ que_id5 : B1B9228A_D65B_7740_188
+ que_id6 : TO11_TO11_TO11_195
+ que_id7 : TO13_TO13_TO13_195
+ que_id8 : PR01_PR01_PR01_197
+ que_id9 : BA22D1E4_9E0B_A833_188
+ scn_que_id : #RE01_#RE01_#RE01
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : #TR02_#TR02_#TR02
+ scn_que_id4 : 1D14BC63_BCE3_F249
+ 확률 : 선택질문 확률 : 7707//2500
+{"answercode":"4", "ai_msg": "<p>홍익여행에서만 만나실 수 있는 특별한 여행 상품입니다.</p><p>홍익여행과 함께 행복한 추억을 만들어봐요&nbsp;✧*.◟(ˊᗨˋ)◞.*✧</p><p>$$$▶비대면 기차여행</p><p>$$$▶낭만적인 해변열차</p><p>$$$▶서해 금빛열차</p><p>$$$▶저렴한 특가여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"}]}
+*************************************
+접속일 :  2021-02-09 14:21:12
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+ 시나리오 결과 값 : 
+ que_id :  #RE014_#RE014_#RE014_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #RE014_#RE014_#RE014
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>당일 특가 여행부터 2박3일 특가 여행까지!<br></p><p>&nbsp;저렴해서 기분좋은 특가여행을 소개합니다.&nbsp;(◍•ᗜ•́)✧</p><p>||<br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 14:22:09
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 기차 집합 장소 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "기차 집합 장소"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST02_#ST02_#ST02_193
+ que_id1 : BD01_BD01_BD01_193
+ que_id2 : TO04_TO04_TO04_195
+ que_id3 : BD04_BD04_BD04_193
+ que_id4 : TO07_TO07_TO07_195
+ que_id5 : RO02_RO02_RO02_194
+ que_id6 : TO06_TO06_TO06_195
+ que_id7 : PR02_PR02_PR02_197
+ que_id8 : TO03_TO03_TO03_195
+ que_id9 : BD05_BD05_BD05_193
+ scn_que_id : #ST02_#ST02_#ST02
+ scn_que_id1 : BD01_BD01_BD01
+ scn_que_id2 : TO04_TO04_TO04
+ scn_que_id3 : BD04_BD04_BD04
+ scn_que_id4 : TO07_TO07_TO07
+ 확률 : 선택질문 확률 : 8861//2500
+{"answercode":"4", "ai_msg": "<p>여행 전 모이는 장소를 안내해드립니다!<BR></p><p>출발하시는 역을 선택해주세요!</p><p><br></p><p>$$$▶서울역</p><p>$$$▶용산역</p><p>$$$▶청량리역</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST02","s2": "#ST02","s3":"#ST02","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 14:22:14
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST023_#ST023_#ST023_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST023_#ST023_#ST023
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>미팅장소: 청량리역 3층 대합실 여행센터 앞 홍익여행사 피켓 앞 집결</p><p>||지하철(4번 출구) 청량리역 엘레베이터를 이용하셔서 3층 대합실로 올라오세요.</p><p>||여행센터 앞에 홍익여행사 피켓과 함께 직원이 기다리고 있습니다.<br></p><p>도착하신 순번대로 일정표와 티켓 수령 후 열차 출발 10분 전까지 개별 탑승하시면 됩니다.</p><p>||</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 14:22:52
+유저아이디 :  c9b2fa87-34d3-417d-a457-644bc971c2c9
+메시지 구분: 0 || 질문내용 : 기차여행미팅장소 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "기차여행미팅장소"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST02_#ST02_#ST02_193
+ que_id1 : BD01_BD01_BD01_193
+ que_id2 : BD04_BD04_BD04_193
+ que_id3 : DIS04_DIS04_DIS04_190
+ que_id4 : TO04_TO04_TO04_195
+ que_id5 : TO07_TO07_TO07_195
+ que_id6 : 705FB289_220B_7901_188
+ que_id7 : PR02_PR02_PR02_197
+ que_id8 : #TR02_#TR02_#TR02_195
+ que_id9 : 1D14BC63_BCE3_F249_187
+ scn_que_id : #ST02_#ST02_#ST02
+ scn_que_id1 : BD01_BD01_BD01
+ scn_que_id2 : BD04_BD04_BD04
+ scn_que_id3 : DIS04_DIS04_DIS04
+ scn_que_id4 : TO04_TO04_TO04
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>여행 전 모이는 장소를 안내해드립니다!<BR></p><p>출발하시는 역을 선택해주세요!</p><p><br></p><p>$$$▶서울역</p><p>$$$▶용산역</p><p>$$$▶청량리역</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST02","s2": "#ST02","s3":"#ST02","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 14:22:55
+유저아이디 :  c9b2fa87-34d3-417d-a457-644bc971c2c9
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST023_#ST023_#ST023_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST023_#ST023_#ST023
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>미팅장소: 청량리역 3층 대합실 여행센터 앞 홍익여행사 피켓 앞 집결</p><p>||지하철(4번 출구) 청량리역 엘레베이터를 이용하셔서 3층 대합실로 올라오세요.</p><p>||여행센터 앞에 홍익여행사 피켓과 함께 직원이 기다리고 있습니다.<br></p><p>도착하신 순번대로 일정표와 티켓 수령 후 열차 출발 10분 전까지 개별 탑승하시면 됩니다.</p><p>||</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 14:24:11
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 기차 미팅 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "기차 미팅"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST02_#ST02_#ST02_193
+ que_id1 : TO04_TO04_TO04_195
+ que_id2 : BD04_BD04_BD04_193
+ que_id3 : TO07_TO07_TO07_195
+ que_id4 : PR02_PR02_PR02_197
+ que_id5 : TO03_TO03_TO03_195
+ que_id6 : BD01_BD01_BD01_193
+ que_id7 : BD05_BD05_BD05_193
+ que_id8 : BD02_BD02_BD02_193
+ que_id9 : DIS01_DIS01_DIS01_190
+ scn_que_id : #ST02_#ST02_#ST02
+ scn_que_id1 : TO04_TO04_TO04
+ scn_que_id2 : BD04_BD04_BD04
+ scn_que_id3 : TO07_TO07_TO07
+ scn_que_id4 : PR02_PR02_PR02
+ 확률 : 선택질문 확률 : 5820//2500
+{"answercode":"1", "ai_msg": "기차여행 미팅 장소 | 티켓수령 방법 | 열차 좌석 지정 | 열차 시간 선택 | 승차권 상품 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#ST02","s2": "#ST02","s3":"#ST02","s4":"193"},{"s1":"TO04","s2": "TO04","s3":"TO04","s4":"195"},{"s1":"BD04","s2": "BD04","s3":"BD04","s4":"193"},{"s1":"TO07","s2": "TO07","s3":"TO07","s4":"195"},{"s1":"PR02","s2": "PR02","s3":"PR02","s4":"197"}]}
+*************************************
+접속일 :  2021-02-09 14:24:16
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 2 || 질문내용 : 기차여행 미팅 장소 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "기차여행 미팅 장소"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST02_#ST02_#ST02_193
+ que_id1 : BD01_BD01_BD01_193
+ que_id2 : BD04_BD04_BD04_193
+ que_id3 : DIS04_DIS04_DIS04_190
+ que_id4 : TO04_TO04_TO04_195
+ que_id5 : TO07_TO07_TO07_195
+ que_id6 : 705FB289_220B_7901_188
+ que_id7 : PR02_PR02_PR02_197
+ que_id8 : #TR02_#TR02_#TR02_195
+ que_id9 : 1D14BC63_BCE3_F249_187
+ scn_que_id : #ST02_#ST02_#ST02
+ scn_que_id1 : BD01_BD01_BD01
+ scn_que_id2 : BD04_BD04_BD04
+ scn_que_id3 : DIS04_DIS04_DIS04
+ scn_que_id4 : TO04_TO04_TO04
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>여행 전 모이는 장소를 안내해드립니다!<BR></p><p>출발하시는 역을 선택해주세요!</p><p><br></p><p>$$$▶서울역</p><p>$$$▶용산역</p><p>$$$▶청량리역</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST02","s2": "#ST02","s3":"#ST02","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 14:24:19
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST023_#ST023_#ST023_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST023_#ST023_#ST023
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>미팅장소: 청량리역 3층 대합실 여행센터 앞 홍익여행사 피켓 앞 집결</p><p>||지하철(4번 출구) 청량리역 엘레베이터를 이용하셔서 3층 대합실로 올라오세요.</p><p>||여행센터 앞에 홍익여행사 피켓과 함께 직원이 기다리고 있습니다.<br></p><p>도착하신 순번대로 일정표와 티켓 수령 후 열차 출발 10분 전까지 개별 탑승하시면 됩니다.</p><p>||</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 14:24:51
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 미팅 장소 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "미팅 장소"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST02_#ST02_#ST02_193
+ que_id1 : BD01_BD01_BD01_193
+ que_id2 : RO02_RO02_RO02_194
+ que_id3 : TO06_TO06_TO06_195
+ que_id4 : #ST01_#ST01_#ST01_193
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST02_#ST02_#ST02
+ scn_que_id1 : BD01_BD01_BD01
+ scn_que_id2 : RO02_RO02_RO02
+ scn_que_id3 : TO06_TO06_TO06
+ scn_que_id4 : #ST01_#ST01_#ST01
+ 확률 : 선택질문 확률 : 7427//2500
+{"answercode":"1", "ai_msg": "기차여행 미팅 장소 | 집합 장소 및 시간 안내 | 숙소 정보 제공 | 현지 이동차량 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#ST02","s2": "#ST02","s3":"#ST02","s4":"193"},{"s1":"BD01","s2": "BD01","s3":"BD01","s4":"193"},{"s1":"RO02","s2": "RO02","s3":"RO02","s4":"194"},{"s1":"TO06","s2": "TO06","s3":"TO06","s4":"195"}]}
+*************************************
+접속일 :  2021-02-09 14:24:54
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 2 || 질문내용 : 기차여행 미팅 장소 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "기차여행 미팅 장소"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #ST02_#ST02_#ST02_193
+ que_id1 : BD01_BD01_BD01_193
+ que_id2 : BD04_BD04_BD04_193
+ que_id3 : DIS04_DIS04_DIS04_190
+ que_id4 : TO04_TO04_TO04_195
+ que_id5 : TO07_TO07_TO07_195
+ que_id6 : 705FB289_220B_7901_188
+ que_id7 : PR02_PR02_PR02_197
+ que_id8 : #TR02_#TR02_#TR02_195
+ que_id9 : 1D14BC63_BCE3_F249_187
+ scn_que_id : #ST02_#ST02_#ST02
+ scn_que_id1 : BD01_BD01_BD01
+ scn_que_id2 : BD04_BD04_BD04
+ scn_que_id3 : DIS04_DIS04_DIS04
+ scn_que_id4 : TO04_TO04_TO04
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>여행 전 모이는 장소를 안내해드립니다!<BR></p><p>출발하시는 역을 선택해주세요!</p><p><br></p><p>$$$▶서울역</p><p>$$$▶용산역</p><p>$$$▶청량리역</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ST02","s2": "#ST02","s3":"#ST02","s4":"193"}]}
+*************************************
+접속일 :  2021-02-09 14:24:57
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #ST02 || 질문아이디2 : #ST02 || 질문아이디3 : #ST02 || 질문아이디4 : 193
+ 시나리오 결과 값 : 
+ que_id :  #ST023_#ST023_#ST023_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ST023_#ST023_#ST023
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>미팅장소: 청량리역 3층 대합실 여행센터 앞 홍익여행사 피켓 앞 집결</p><p>||지하철(4번 출구) 청량리역 엘레베이터를 이용하셔서 3층 대합실로 올라오세요.</p><p>||여행센터 앞에 홍익여행사 피켓과 함께 직원이 기다리고 있습니다.<br></p><p>도착하신 순번대로 일정표와 티켓 수령 후 열차 출발 10분 전까지 개별 탑승하시면 됩니다.</p><p>||</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128482776900.jpg", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 14:26:36
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 여행 준비물 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행 준비물"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #TR02_#TR02_#TR02_195
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : 1D14BC63_BCE3_F249_187
+ que_id4 : B1B9228A_D65B_7740_188
+ que_id5 : TO11_TO11_TO11_195
+ que_id6 : TO13_TO13_TO13_195
+ que_id7 : PR01_PR01_PR01_197
+ que_id8 : BA22D1E4_9E0B_A833_188
+ que_id9 : RO05_RO05_RO05_194
+ scn_que_id : #TR02_#TR02_#TR02
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : 1D14BC63_BCE3_F249
+ scn_que_id4 : B1B9228A_D65B_7740
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>여행 유형에 따라 챙겨야 할 물건도 다르죠!<BR></p><p>즐거운 여행을 위해 꼼꼼히 체크해봐요.٩(ˊᗜˋ*)و</p><p>$$$▶국내 내륙여행</p><p>$$$▶국내 섬여행</p><p>$$$▶해외여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#TR02","s2": "#TR02","s3":"#TR02","s4":"195"}]}
+*************************************
+접속일 :  2021-02-09 14:26:40
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #TR02 || 질문아이디2 : #TR02 || 질문아이디3 : #TR02 || 질문아이디4 : 195
+ 시나리오 결과 값 : 
+ que_id :  #TR023_# TR023_# TR023_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR023_# TR023_# TR023
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>해외여행 준비물이에요.<br></p><p>참고해주세요!</p><p>||<br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128483832900.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 14:29:24
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 여행상품 추천 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 추천"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #RE01_#RE01_#RE01_196
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : #TR02_#TR02_#TR02_195
+ que_id4 : 1D14BC63_BCE3_F249_187
+ que_id5 : B1B9228A_D65B_7740_188
+ que_id6 : TO11_TO11_TO11_195
+ que_id7 : TO13_TO13_TO13_195
+ que_id8 : PR01_PR01_PR01_197
+ que_id9 : BA22D1E4_9E0B_A833_188
+ scn_que_id : #RE01_#RE01_#RE01
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : #TR02_#TR02_#TR02
+ scn_que_id4 : 1D14BC63_BCE3_F249
+ 확률 : 선택질문 확률 : 7707//2500
+{"answercode":"4", "ai_msg": "<p>홍익여행에서만 만나실 수 있는 특별한 여행 상품입니다.</p><p>홍익여행과 함께 행복한 추억을 만들어봐요&nbsp;✧*.◟(ˊᗨˋ)◞.*✧</p><p>$$$▶비대면 기차여행</p><p>$$$▶낭만적인 해변열차</p><p>$$$▶서해 금빛열차</p><p>$$$▶저렴한 특가여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"}]}
+*************************************
+접속일 :  2021-02-09 14:29:29
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+ 시나리오 결과 값 : 
+ que_id :  #RE014_#RE014_#RE014_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #RE014_#RE014_#RE014
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>당일 특가 여행부터 2박3일 특가 여행까지!<br></p><p>&nbsp;저렴해서 기분좋은 특가여행을 소개합니다.&nbsp;(◍•ᗜ•́)✧</p><p>||<br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128485515300.jpg", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 16:48:15
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 0 || 질문내용 : 여행상품 추천 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 추천"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #RE01_#RE01_#RE01_196
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : #TR02_#TR02_#TR02_195
+ que_id4 : 1D14BC63_BCE3_F249_187
+ que_id5 : B1B9228A_D65B_7740_188
+ que_id6 : TO11_TO11_TO11_195
+ que_id7 : TO13_TO13_TO13_195
+ que_id8 : PR01_PR01_PR01_197
+ que_id9 : BA22D1E4_9E0B_A833_188
+ scn_que_id : #RE01_#RE01_#RE01
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : #TR02_#TR02_#TR02
+ scn_que_id4 : 1D14BC63_BCE3_F249
+ 확률 : 선택질문 확률 : 7707//2500
+{"answercode":"4", "ai_msg": "<p>홍익여행에서만 만나실 수 있는 특별한 여행 상품입니다.</p><p>홍익여행과 함께 행복한 추억을 만들어봐요&nbsp;✧*.◟(ˊᗨˋ)◞.*✧</p><p>$$$▶비대면 기차여행</p><p>$$$▶낭만적인 해변열차</p><p>$$$▶서해 금빛열차</p><p>$$$▶저렴한 특가여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"}]}
+*************************************
+접속일 :  2021-02-09 16:48:21
+유저아이디 :  018ef5e5-1bb3-4022-81ef-5969e4e2d075
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+ 시나리오 결과 값 : 
+ que_id :  #RE014_#RE014_#RE014_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #RE014_#RE014_#RE014
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>당일 특가 여행부터 2박3일 특가 여행까지!<br></p><p>&nbsp;저렴해서 기분좋은 특가여행을 소개합니다.&nbsp;(◍•ᗜ•́)✧</p><p>||<br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128568675800.jpg", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 17:55:40
+유저아이디 :  7c91c3cd-7d40-4a74-af56-318cdc993add
+메시지 구분: 0 || 질문내용 : SNS 할인 이벤트 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "SNS 할인 이벤트"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  SNS01_SNS01_SNS01_191
+ que_id1 : DIS03_DIS03_DIS03_190
+ que_id2 : SNS02_SNS02_SNS02_191
+ que_id3 : DIS01_DIS01_DIS01_190
+ que_id4 : SNS03_SNS03_SNS03_191
+ que_id5 : SNS04_SNS04_SNS04_191
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : SNS01_SNS01_SNS01
+ scn_que_id1 : DIS03_DIS03_DIS03
+ scn_que_id2 : SNS02_SNS02_SNS02
+ scn_que_id3 : DIS01_DIS01_DIS01
+ scn_que_id4 : SNS03_SNS03_SNS03
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>홍익여행사와 SNS 친구 맺고 혜택받자!</span></p><p><span style=font-family: Verdana, sans-serif;>자세한 사항은 아래 사이트를 통해 확인해보세요!&nbsp;</span><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>(｡･ω･｡)ﾉ♡</span></font></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"SNS01","s2": "SNS01","s3":"SNS01","s4":"191"}]}
+*************************************
+접속일 :  2021-02-09 17:55:48
+유저아이디 :  7c91c3cd-7d40-4a74-af56-318cdc993add
+메시지 구분: 0 || 질문내용 : 여행상품 추천 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 추천"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #RE01_#RE01_#RE01_196
+ que_id1 : 705FB289_220B_7901_188
+ que_id2 : PR02_PR02_PR02_197
+ que_id3 : #TR02_#TR02_#TR02_195
+ que_id4 : 1D14BC63_BCE3_F249_187
+ que_id5 : B1B9228A_D65B_7740_188
+ que_id6 : TO11_TO11_TO11_195
+ que_id7 : TO13_TO13_TO13_195
+ que_id8 : PR01_PR01_PR01_197
+ que_id9 : BA22D1E4_9E0B_A833_188
+ scn_que_id : #RE01_#RE01_#RE01
+ scn_que_id1 : 705FB289_220B_7901
+ scn_que_id2 : PR02_PR02_PR02
+ scn_que_id3 : #TR02_#TR02_#TR02
+ scn_que_id4 : 1D14BC63_BCE3_F249
+ 확률 : 선택질문 확률 : 7707//2500
+{"answercode":"4", "ai_msg": "<p>홍익여행에서만 만나실 수 있는 특별한 여행 상품입니다.</p><p>홍익여행과 함께 행복한 추억을 만들어봐요&nbsp;✧*.◟(ˊᗨˋ)◞.*✧</p><p>$$$▶비대면 기차여행</p><p>$$$▶낭만적인 해변열차</p><p>$$$▶서해 금빛열차</p><p>$$$▶저렴한 특가여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"}]}
+*************************************
+접속일 :  2021-02-09 17:55:53
+유저아이디 :  7c91c3cd-7d40-4a74-af56-318cdc993add
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+ 시나리오 결과 값 : 
+ que_id :  #RE011_#RE011_#RE011_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #RE011_#RE011_#RE011
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>비대면 기차여행이란 코로나19 확산을 방지하고 생활 속 거리두기를 실천하며, 패키지 단체여행이 아닌, 소인원으로 기차를 타고 자유롭게 즐길 수 있는 여행입니다.</p><p>||</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16128389032000.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-02-09 17:56:02
+유저아이디 :  7c91c3cd-7d40-4a74-af56-318cdc993add
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : 705FB289_220B_7901_188
+ que_id8 : PR02_PR02_PR02_197
+ que_id9 : #TR02_#TR02_#TR02_195
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}

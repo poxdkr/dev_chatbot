@@ -1,0 +1,24 @@
+*************************************
+접속일 :  2021-09-15 13:35:52
+유저아이디 :  abbcb67b-8fac-4fe3-93cc-14da54773aa4
+메시지 구분: 0 || 질문내용 : 예약되나요?~ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "예약되나요?~"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  B1B9228A_D65B_7740_188
+ que_id1 : PAY09_PAY09_PAY09_189
+ que_id2 : BD02_BD02_BD02_193
+ que_id3 : PAY05_PAY05_PAY05_189
+ que_id4 : 4F3EA5F5_46FF_89AA_187
+ que_id5 : 1D14BC63_BCE3_F249_187
+ que_id6 : INS01_INS01_INS01_192
+ que_id7 : BA22D1E4_9E0B_A833_188
+ que_id8 : #TR02_#TR02_#TR02_195
+ que_id9 : 12EE921C_C84F_58DC_187
+ scn_que_id : B1B9228A_D65B_7740
+ scn_que_id1 : PAY09_PAY09_PAY09
+ scn_que_id2 : BD02_BD02_BD02
+ scn_que_id3 : PAY05_PAY05_PAY05
+ scn_que_id4 : 4F3EA5F5_46FF_89AA
+ 확률 : 선택질문 확률 : 5820//2500
+{"answercode":"1", "ai_msg": "상품 확정 안내 | 결제 방법 | 일행 좌석 지정 | 전화 결제 가능 여부 | 예약 마감 기간 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"B1B9228A","s2": "D65B","s3":"7740","s4":"188"},{"s1":"PAY09","s2": "PAY09","s3":"PAY09","s4":"189"},{"s1":"BD02","s2": "BD02","s3":"BD02","s4":"193"},{"s1":"PAY05","s2": "PAY05","s3":"PAY05","s4":"189"},{"s1":"4F3EA5F5","s2": "46FF","s3":"89AA","s4":"187"}]}

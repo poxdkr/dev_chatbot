@@ -1,0 +1,68 @@
+*************************************
+접속일 :  2022-01-04 22:38:20
+유저아이디 :  e06afa0a-e27c-4011-876a-d64b3be86d35
+메시지 구분: 0 || 질문내용 : 여행상품 추천 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 추천"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #RE01_#RE01_#RE01_196
+ que_id1 : 2961937E_F9F8_E91D_60
+ que_id2 : 705FB289_220B_7901_188
+ que_id3 : PR02_PR02_PR02_197
+ que_id4 : #TR02_#TR02_#TR02_195
+ que_id5 : 1D14BC63_BCE3_F249_187
+ que_id6 : B1B9228A_D65B_7740_188
+ que_id7 : TO11_TO11_TO11_195
+ que_id8 : TO13_TO13_TO13_195
+ que_id9 : PR01_PR01_PR01_197
+ scn_que_id : #RE01_#RE01_#RE01
+ scn_que_id1 : 2961937E_F9F8_E91D
+ scn_que_id2 : 705FB289_220B_7901
+ scn_que_id3 : PR02_PR02_PR02
+ scn_que_id4 : #TR02_#TR02_#TR02
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>홍익여행에서만 만나실 수 있는 특별한 여행 상품입니다.</p><p>홍익여행과 함께 행복한 추억을 만들어봐요&nbsp;✧*.◟(ˊᗨˋ)◞.*✧</p><p>$$$▶비대면 기차여행</p><p>$$$▶낭만적인 해변열차</p><p>$$$▶서해 금빛열차</p><p>$$$▶저렴한 특가여행</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"}]}
+*************************************
+접속일 :  2022-01-04 22:38:24
+유저아이디 :  e06afa0a-e27c-4011-876a-d64b3be86d35
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+ 시나리오 결과 값 : 
+ que_id :  #RE012_#RE012_#RE012_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #RE012_#RE012_#RE012
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>해운대 해변열차는 아름다운 동부산의 수려한 해안절경을 감상하면서 해운대 미포에서 청사포를 거쳐 송정까지 왕복으로 운행하는 교통수단을 겸비한 관광 열차입니다.</p><p>||<br></p>", "ai_msg_img": "https://curveschat.wowdream.kr/_data/talk_images/16128389458000.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-01-04 22:38:31
+유저아이디 :  e06afa0a-e27c-4011-876a-d64b3be86d35
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #RE01 || 질문아이디2 : #RE01 || 질문아이디3 : #RE01 || 질문아이디4 : 196
+ 시나리오 결과 값 : 
+ que_id :  #RE014_#RE014_#RE014_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #RE014_#RE014_#RE014
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>당일 특가 여행부터 2박3일 특가 여행까지!<br></p><p>&nbsp;저렴해서 기분좋은 특가여행을 소개합니다.&nbsp;(◍•ᗜ•́)✧</p><p>||<br></p>", "ai_msg_img": "https://curveschat.wowdream.kr/_data/talk_images/16128569530500.jpg", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}

@@ -1,0 +1,48 @@
+*************************************
+접속일 :  2021-06-08 11:46:40
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문을 확인하세요! || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "자주 묻는 질문을 확인하세요!"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 5923//2500
+{"answercode":"1", "ai_msg": "WOW POS 고객센터 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2021-06-08 11:46:45
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 2 || 질문내용 : WOW POS 고객센터 || 질문아이디1 : 8404696F || 질문아이디2 : A06F || 질문아이디3 : 3A2C || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "WOW POS 고객센터"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : 7E95F99F_5529_62A7_172
+ que_id2 : CEB992D7_ACAA_1A4E_172
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : 7E95F99F_5529_62A7
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>고객센터 1670-3905로 전화주시거나,&nbsp;</span><span lang=EN-US style=font-size: 10pt; letter-spacing: 0pt; color: rgb(0, 0, 255); font-family: Verdana, sans-serif;><span style=color: rgb(18, 52, 86);>han@gowow.co.kr</span></span><span lang=EN-US style=font-size: 10pt; font-family: Verdana, sans-serif;> </span><span style=font-size: 10pt; font-family: Verdana, sans-serif;>로 문의주세요!</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>||고객센터 운영시간은</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=font-size: 10pt; color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>평일 10:00~17:00이며,&nbsp;</span><span style=font-size: 10pt; color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>주말과 공휴일은 휴무입니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}

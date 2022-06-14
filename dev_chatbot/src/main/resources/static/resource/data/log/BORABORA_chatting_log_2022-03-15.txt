@@ -1,0 +1,912 @@
+*************************************
+접속일 :  2022-03-15 09:44:10
+유저아이디 :  1f7a037b-4a24-4670-b94e-1f1a47426361
+메시지 구분: 0 || 질문내용 : 1 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "1"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어림없는 소리! 당치도 않다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 09:44:11
+유저아이디 :  1f7a037b-4a24-4670-b94e-1f1a47426361
+메시지 구분: 1 || 질문내용 : 1 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "1"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "그리할 수 없소!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 11:36:43
+유저아이디 :  ceb49608-9cad-4f73-918f-d62dfa85426d
+메시지 구분: 0 || 질문내용 : 안녕 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "안녕"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "가엽고 딱한 자로다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 11:36:44
+유저아이디 :  ceb49608-9cad-4f73-918f-d62dfa85426d
+메시지 구분: 1 || 질문내용 : 안녕 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "안녕"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "그리할 수 없소!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 11:37:32
+유저아이디 :  ceb49608-9cad-4f73-918f-d62dfa85426d
+메시지 구분: 0 || 질문내용 : 안녕하세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "안녕하세요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "그리할 수 없소!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 11:37:33
+유저아이디 :  ceb49608-9cad-4f73-918f-d62dfa85426d
+메시지 구분: 1 || 질문내용 : 안녕하세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "안녕하세요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "그리할 수 없소!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 11:37:39
+유저아이디 :  ceb49608-9cad-4f73-918f-d62dfa85426d
+메시지 구분: 0 || 질문내용 : 안녕하세요 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "안녕하세요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "가엽고 딱한 자로다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 11:37:39
+유저아이디 :  ceb49608-9cad-4f73-918f-d62dfa85426d
+메시지 구분: 1 || 질문내용 : 안녕하세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "안녕하세요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "가엽고 딱한 자로다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 11:38:08
+유저아이디 :  ceb49608-9cad-4f73-918f-d62dfa85426d
+메시지 구분: 0 || 질문내용 : 안녕 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "안녕"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어림없는 소리! 당치도 않다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 11:38:09
+유저아이디 :  ceb49608-9cad-4f73-918f-d62dfa85426d
+메시지 구분: 1 || 질문내용 : 안녕 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "안녕"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어림없는 소리! 당치도 않다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 11:38:18
+유저아이디 :  ceb49608-9cad-4f73-918f-d62dfa85426d
+메시지 구분: 0 || 질문내용 : 안녕 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "안녕"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "가엽고 딱한 자로다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 11:38:19
+유저아이디 :  ceb49608-9cad-4f73-918f-d62dfa85426d
+메시지 구분: 1 || 질문내용 : 안녕 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "안녕"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "가엽고 딱한 자로다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 17:56:55
+유저아이디 :  d54704a1-d941-4a81-a26a-0a40eb44b301
+메시지 구분: 0 || 질문내용 : 훈민정음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "훈민정음"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "가엽고 딱한 자로다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 17:56:56
+유저아이디 :  d54704a1-d941-4a81-a26a-0a40eb44b301
+메시지 구분: 1 || 질문내용 : 훈민정음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "훈민정음"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "가엽고 딱한 자로다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 17:58:13
+유저아이디 :  d54704a1-d941-4a81-a26a-0a40eb44b301
+메시지 구분: 0 || 질문내용 : 훈민정음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "훈민정음"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "그리할 수 없소!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 17:58:14
+유저아이디 :  d54704a1-d941-4a81-a26a-0a40eb44b301
+메시지 구분: 1 || 질문내용 : 훈민정음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "훈민정음"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어림없는 소리! 당치도 않다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:05:05
+유저아이디 :  d54704a1-d941-4a81-a26a-0a40eb44b301
+메시지 구분: 0 || 질문내용 : 훈민정음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "훈민정음"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "그리할 수 없소!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:05:05
+유저아이디 :  d54704a1-d941-4a81-a26a-0a40eb44b301
+메시지 구분: 1 || 질문내용 : 훈민정음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "훈민정음"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어림없는 소리! 당치도 않다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:05:32
+유저아이디 :  8270e337-bd73-4be5-8bd0-b258f2c019f2
+메시지 구분: 0 || 질문내용 : 훈민정음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "훈민정음"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "그리할 수 없소!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:05:33
+유저아이디 :  8270e337-bd73-4be5-8bd0-b258f2c019f2
+메시지 구분: 1 || 질문내용 : 훈민정음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "훈민정음"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "가엽고 딱한 자로다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:07:39
+유저아이디 :  d54704a1-d941-4a81-a26a-0a40eb44b301
+메시지 구분: 0 || 질문내용 : 훈민정음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "훈민정음"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "가엽고 딱한 자로다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:07:40
+유저아이디 :  d54704a1-d941-4a81-a26a-0a40eb44b301
+메시지 구분: 1 || 질문내용 : 훈민정음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "훈민정음"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "그리할 수 없소!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:07:47
+유저아이디 :  8270e337-bd73-4be5-8bd0-b258f2c019f2
+메시지 구분: 0 || 질문내용 : 훈민정음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "훈민정음"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "그리할 수 없소!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:07:48
+유저아이디 :  8270e337-bd73-4be5-8bd0-b258f2c019f2
+메시지 구분: 1 || 질문내용 : 훈민정음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "훈민정음"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어림없는 소리! 당치도 않다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:09:44
+유저아이디 :  8270e337-bd73-4be5-8bd0-b258f2c019f2
+메시지 구분: 0 || 질문내용 : 측우기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "측우기"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "가엽고 딱한 자로다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:09:45
+유저아이디 :  8270e337-bd73-4be5-8bd0-b258f2c019f2
+메시지 구분: 1 || 질문내용 : 측우기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "측우기"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "그리할 수 없소!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:11:12
+유저아이디 :  d54704a1-d941-4a81-a26a-0a40eb44b301
+메시지 구분: 0 || 질문내용 : 훈민정음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "훈민정음"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어림없는 소리! 당치도 않다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:11:13
+유저아이디 :  d54704a1-d941-4a81-a26a-0a40eb44b301
+메시지 구분: 1 || 질문내용 : 훈민정음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "훈민정음"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "가엽고 딱한 자로다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:12:18
+유저아이디 :  8270e337-bd73-4be5-8bd0-b258f2c019f2
+메시지 구분: 0 || 질문내용 : 훈민정음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "훈민정음"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "가엽고 딱한 자로다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:12:19
+유저아이디 :  8270e337-bd73-4be5-8bd0-b258f2c019f2
+메시지 구분: 1 || 질문내용 : 훈민정음 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "훈민정음"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "그리할 수 없소!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:12:48
+유저아이디 :  2ff4eb9a-54b4-4568-9e51-1b3cd9607cdb
+메시지 구분: 0 || 질문내용 : 자격루 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "자격루"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어림없는 소리! 당치도 않다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:12:49
+유저아이디 :  2ff4eb9a-54b4-4568-9e51-1b3cd9607cdb
+메시지 구분: 1 || 질문내용 : 자격루 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "자격루"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어림없는 소리! 당치도 않다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:13:02
+유저아이디 :  8270e337-bd73-4be5-8bd0-b258f2c019f2
+메시지 구분: 0 || 질문내용 : 측우기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "측우기"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "그리할 수 없소!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:13:03
+유저아이디 :  8270e337-bd73-4be5-8bd0-b258f2c019f2
+메시지 구분: 1 || 질문내용 : 측우기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "측우기"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어림없는 소리! 당치도 않다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:16:05
+유저아이디 :  d54704a1-d941-4a81-a26a-0a40eb44b301
+메시지 구분: 0 || 질문내용 : 자격루 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "자격루"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "그리할 수 없소!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:16:06
+유저아이디 :  d54704a1-d941-4a81-a26a-0a40eb44b301
+메시지 구분: 1 || 질문내용 : 자격루 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "자격루"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "가엽고 딱한 자로다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:18:15
+유저아이디 :  d54704a1-d941-4a81-a26a-0a40eb44b301
+메시지 구분: 0 || 질문내용 : 앙부일구 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "앙부일구"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "가엽고 딱한 자로다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-03-15 18:18:16
+유저아이디 :  d54704a1-d941-4a81-a26a-0a40eb44b301
+메시지 구분: 1 || 질문내용 : 앙부일구 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/BORABORA/result/result.out "앙부일구"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "가엽고 딱한 자로다!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}

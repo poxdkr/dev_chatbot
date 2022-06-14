@@ -1,0 +1,96 @@
+*************************************
+접속일 :  2021-10-13 17:11:48
+유저아이디 :  f245a775-55a6-4706-99d5-e1a3dbf643e9
+메시지 구분: 0 || 질문내용 : 여행상품 예약 방법 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "여행상품 예약 방법"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : 12EE921C_C84F_58DC_187
+ que_id3 : INS01_INS01_INS01_192
+ que_id4 : PAY03_PAY03_PAY03_189
+ que_id5 : TO06_TO06_TO06_195
+ que_id6 : PAY09_PAY09_PAY09_189
+ que_id7 : #RE01_#RE01_#RE01_196
+ que_id8 : 705FB289_220B_7901_188
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : 12EE921C_C84F_58DC
+ scn_que_id3 : INS01_INS01_INS01
+ scn_que_id4 : PAY03_PAY03_PAY03
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>여행상품 예약 방법은 크게</span></p><p><b><span style=font-family: Verdana, sans-serif;>예약상품 선택▶예약확인▶결제하기</span></b><span style=font-family: Verdana, sans-serif;>의 순서로 진행됩니다.</span></p><p><span style=font-family: Verdana, sans-serif;>||아래 자료를 클릭하시면 더 자세한 과정을 확인하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"}]}
+*************************************
+접속일 :  2021-10-13 17:13:26
+유저아이디 :  f245a775-55a6-4706-99d5-e1a3dbf643e9
+메시지 구분: 0 || 질문내용 : 예약 정보(인원과 이름) 입력하고 \\\\\\\'예약하기\\\\\\\' 누르면 이미 예약이 되어 있다고 뜹니다. 예약내역에는 없구요. 어떻게 해야 할까요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "예약 정보(인원과 이름) 입력하고 \\\\\\\'예약하기\\\\\\\' 누르면 이미 예약이 되어 있다고 뜹니다. 예약내역에는 없구요. 어떻게 해야 할까요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : INS01_INS01_INS01_192
+ que_id2 : 4F3EA5F5_46FF_89AA_187
+ que_id3 : 6CF1403C_6F66_9AE6_189
+ que_id4 : TO03_TO03_TO03_195
+ que_id5 : #TR02_#TR02_#TR02_195
+ que_id6 : TO07_TO07_TO07_195
+ que_id7 : BD02_BD02_BD02_193
+ que_id8 : PAY03_PAY03_PAY03_189
+ que_id9 : TO06_TO06_TO06_195
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : INS01_INS01_INS01
+ scn_que_id2 : 4F3EA5F5_46FF_89AA
+ scn_que_id3 : 6CF1403C_6F66_9AE6
+ scn_que_id4 : TO03_TO03_TO03
+ 확률 : 선택질문 확률 : 5562//2500
+{"answercode":"1", "ai_msg": "여행상품 예약 방법 | 예약 취소/변경 | 예약 마감 기간 | 신용카드 결제안내 | 열차 이용을 하지 않는 경우 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"},{"s1":"INS01","s2": "INS01","s3":"INS01","s4":"192"},{"s1":"4F3EA5F5","s2": "46FF","s3":"89AA","s4":"187"},{"s1":"6CF1403C","s2": "6F66","s3":"9AE6","s4":"189"},{"s1":"TO03","s2": "TO03","s3":"TO03","s4":"195"}]}
+*************************************
+접속일 :  2021-10-13 17:13:58
+유저아이디 :  f245a775-55a6-4706-99d5-e1a3dbf643e9
+메시지 구분: 0 || 질문내용 : SNS 할인 이벤트 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "SNS 할인 이벤트"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  SNS01_SNS01_SNS01_191
+ que_id1 : DIS03_DIS03_DIS03_190
+ que_id2 : SNS02_SNS02_SNS02_191
+ que_id3 : DIS01_DIS01_DIS01_190
+ que_id4 : SNS03_SNS03_SNS03_191
+ que_id5 : SNS04_SNS04_SNS04_191
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : SNS01_SNS01_SNS01
+ scn_que_id1 : DIS03_DIS03_DIS03
+ scn_que_id2 : SNS02_SNS02_SNS02
+ scn_que_id3 : DIS01_DIS01_DIS01
+ scn_que_id4 : SNS03_SNS03_SNS03
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>홍익여행사와 SNS 친구 맺고 혜택받자!</span></p><p><span style=font-family: Verdana, sans-serif;>자세한 사항은 아래 사이트를 통해 확인해보세요!&nbsp;</span><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>(｡･ω･｡)ﾉ♡</span></font></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"SNS01","s2": "SNS01","s3":"SNS01","s4":"191"}]}
+*************************************
+접속일 :  2021-10-13 17:14:06
+유저아이디 :  f245a775-55a6-4706-99d5-e1a3dbf643e9
+메시지 구분: 0 || 질문내용 : 예약 정보(인원과 이름) 입력하고 \\\\\\\'예약하기\\\\\\\' 누르면 이미 예약이 되어 있다고 뜹니다. 예약내역에는 없구요. 어떻게 해야 할까요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "예약 정보(인원과 이름) 입력하고 \\\\\\\'예약하기\\\\\\\' 누르면 이미 예약이 되어 있다고 뜹니다. 예약내역에는 없구요. 어떻게 해야 할까요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : INS01_INS01_INS01_192
+ que_id2 : 4F3EA5F5_46FF_89AA_187
+ que_id3 : 6CF1403C_6F66_9AE6_189
+ que_id4 : TO03_TO03_TO03_195
+ que_id5 : #TR02_#TR02_#TR02_195
+ que_id6 : TO07_TO07_TO07_195
+ que_id7 : BD02_BD02_BD02_193
+ que_id8 : PAY03_PAY03_PAY03_189
+ que_id9 : TO06_TO06_TO06_195
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : INS01_INS01_INS01
+ scn_que_id2 : 4F3EA5F5_46FF_89AA
+ scn_que_id3 : 6CF1403C_6F66_9AE6
+ scn_que_id4 : TO03_TO03_TO03
+ 확률 : 선택질문 확률 : 5562//2500
+{"answercode":"1", "ai_msg": "여행상품 예약 방법 | 예약 취소/변경 | 예약 마감 기간 | 신용카드 결제안내 | 열차 이용을 하지 않는 경우 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"},{"s1":"INS01","s2": "INS01","s3":"INS01","s4":"192"},{"s1":"4F3EA5F5","s2": "46FF","s3":"89AA","s4":"187"},{"s1":"6CF1403C","s2": "6F66","s3":"9AE6","s4":"189"},{"s1":"TO03","s2": "TO03","s3":"TO03","s4":"195"}]}

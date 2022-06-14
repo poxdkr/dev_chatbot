@@ -1,0 +1,2 @@
+접속일 :  --> February 9, 2021, 9:49 am // 테스트 실행 -- > /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/test_result.out ""   /home/curves/chatadm/www/engine_proc/_entity/test.entity.txt.utf8
+접속일 :  --> February 9, 2021, 9:50 am // 테스트 실행 -- > /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc//result/test_result.out "안녕하세요"   /home/curves/chatadm/www/engine_proc/_entity/test.entity.txt.utf8

@@ -1,0 +1,313 @@
+*************************************
+접속일 :  2020-12-01 09:35:40
+유저아이디 :  ff16838e-3a6e-4fc0-b91d-fcab8b5e0eb3
+메시지 구분: 0 || 질문내용 : 주가얼마야 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "주가얼마야"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  7A2FF4B9_F59A_74FA_135
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7A2FF4B9_F59A_74FA
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 3361//2500
+{"answercode":"1", "ai_msg": "기업정보를 질문하셨나요? | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7A2FF4B9","s2": "F59A","s3":"74FA","s4":"135"}]}
+접속일 :  --> December 1, 2020, 9:36 am // 테스트 실행 -- > /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/test_result.out "주가얼마야"   /home/curves/chatadm/www/engine_proc/_entity/test.entity.txt.utf8
+*************************************
+접속일 :  2020-12-01 09:36:22
+유저아이디 :  ff16838e-3a6e-4fc0-b91d-fcab8b5e0eb3
+메시지 구분: 2 || 질문내용 : 삼성전자 주가얼마야 || 질문아이디1 : 7A2FF4B9 || 질문아이디2 : F59A || 질문아이디3 : 74FA || 질문아이디4 : 135
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2020-12-01 09:36:22
+유저아이디 :  ff16838e-3a6e-4fc0-b91d-fcab8b5e0eb3
+메시지 구분: 1 || 질문내용 : 삼성전자 주가얼마야 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "삼성전자 주가얼마야"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  7A2FF4B9_F59A_74FA_135
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7A2FF4B9_F59A_74FA
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 8116//2500
+{"answercode":"", "ai_msg": "종목코드: 005930<br>업종: 통신 및 방송 장비 제조업<br>주요제품: IMT2000 서비스용 동기식 기지국/교환국장비/데이터단말기/동영상휴대폰/핵심칩/반도체제품/사무/계산 및 회계용기계<br>상장일: 1975-06-11<br>결산월: 12월<br>대표자명: 김기남, 김현석, 고동진<br>홈페이지: http://www.sec.co.kr<br>지역: 경기도<br>상장: 코스피", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7A2FF4B9","s2": "F59A","s3":"74FA","s4":"135"}]}
+*************************************
+접속일 :  2020-12-01 09:36:47
+유저아이디 :  ff16838e-3a6e-4fc0-b91d-fcab8b5e0eb3
+메시지 구분: 0 || 질문내용 : 엘지전자주가얼마야 || 질문아이디1 : 7A2FF4B9 || 질문아이디2 : F59A || 질문아이디3 : 74FA || 질문아이디4 : 135
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "엘지전자주가얼마야"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  7A2FF4B9_F59A_74FA_135
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7A2FF4B9_F59A_74FA
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 8116//2500
+{"answercode":"", "ai_msg": "종목코드: <br>업종: <br>주요제품: <br>상장일: <br>결산월: <br>대표자명: <br>홈페이지: <br>지역: <br>상장: ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7A2FF4B9","s2": "F59A","s3":"74FA","s4":"135"}]}
+*************************************
+접속일 :  2020-12-01 09:48:14
+유저아이디 :  ff16838e-3a6e-4fc0-b91d-fcab8b5e0eb3
+메시지 구분: 0 || 질문내용 : LG전자주가 얼마야 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "LG전자주가 얼마야"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  7A2FF4B9_F59A_74FA_135
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7A2FF4B9_F59A_74FA
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 3361//2500
+{"answercode":"1", "ai_msg": "기업정보를 질문하셨나요? | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7A2FF4B9","s2": "F59A","s3":"74FA","s4":"135"}]}
+*************************************
+접속일 :  2020-12-01 09:48:24
+유저아이디 :  ff16838e-3a6e-4fc0-b91d-fcab8b5e0eb3
+메시지 구분: 2 || 질문내용 : LG 주가 얼마야 || 질문아이디1 : 7A2FF4B9 || 질문아이디2 : F59A || 질문아이디3 : 74FA || 질문아이디4 : 135
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2020-12-01 09:48:25
+유저아이디 :  ff16838e-3a6e-4fc0-b91d-fcab8b5e0eb3
+메시지 구분: 1 || 질문내용 : LG 주가 얼마야 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "LG 주가 얼마야"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  7A2FF4B9_F59A_74FA_135
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7A2FF4B9_F59A_74FA
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 3361//2500
+{"answercode":"1", "ai_msg": "기업정보를 질문하셨나요? | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7A2FF4B9","s2": "F59A","s3":"74FA","s4":"135"}]}
+*************************************
+접속일 :  2020-12-01 09:48:45
+유저아이디 :  ff16838e-3a6e-4fc0-b91d-fcab8b5e0eb3
+메시지 구분: 2 || 질문내용 : 삼성전기 주가 얼마야 || 질문아이디1 : 7A2FF4B9 || 질문아이디2 : F59A || 질문아이디3 : 74FA || 질문아이디4 : 135
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2020-12-01 09:48:47
+유저아이디 :  ff16838e-3a6e-4fc0-b91d-fcab8b5e0eb3
+메시지 구분: 1 || 질문내용 : 삼성전기 주가 얼마야 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "삼성전기 주가 얼마야"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  7A2FF4B9_F59A_74FA_135
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7A2FF4B9_F59A_74FA
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 8116//2500
+{"answercode":"", "ai_msg": "종목코드: 009150<br>업종: 전자부품 제조업<br>주요제품: 영상/음향/통신장비/모듈/다층인쇄회로기판/적층세라믹콘덴서/고주파필터/전압제어발진기/온도보상형수정발진기/칩인덕터/디지털위성방송수신기/광픽업/편향코일<br>상장일: 1979-02-27<br>결산월: 12월<br>대표자명: 경계현<br>홈페이지: http://www.sem.samsung.co.kr<br>지역: 경기도<br>상장: 코스피", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7A2FF4B9","s2": "F59A","s3":"74FA","s4":"135"}]}
+*************************************
+접속일 :  2020-12-01 09:51:17
+유저아이디 :  ff16838e-3a6e-4fc0-b91d-fcab8b5e0eb3
+메시지 구분: 0 || 질문내용 : 삼성전자 || 질문아이디1 : 7A2FF4B9 || 질문아이디2 : F59A || 질문아이디3 : 74FA || 질문아이디4 : 135
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "삼성전자"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  7A2FF4B9_F59A_74FA_135
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7A2FF4B9_F59A_74FA
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 4553//2500
+{"answercode":"1", "ai_msg": "기업정보를 질문하셨나요? | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7A2FF4B9","s2": "F59A","s3":"74FA","s4":"135"}]}
+*************************************
+접속일 :  2020-12-01 09:51:26
+유저아이디 :  ff16838e-3a6e-4fc0-b91d-fcab8b5e0eb3
+메시지 구분: 2 || 질문내용 : 삼성전자 주가 얼마야 || 질문아이디1 : 7A2FF4B9 || 질문아이디2 : F59A || 질문아이디3 : 74FA || 질문아이디4 : 135
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2020-12-01 09:51:26
+유저아이디 :  ff16838e-3a6e-4fc0-b91d-fcab8b5e0eb3
+메시지 구분: 1 || 질문내용 : 삼성전자 주가 얼마야 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "삼성전자 주가 얼마야"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  7A2FF4B9_F59A_74FA_135
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7A2FF4B9_F59A_74FA
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 8116//2500
+{"answercode":"", "ai_msg": "종목코드: 005930<br>업종: 통신 및 방송 장비 제조업<br>주요제품: IMT2000 서비스용 동기식 기지국/교환국장비/데이터단말기/동영상휴대폰/핵심칩/반도체제품/사무/계산 및 회계용기계<br>상장일: 1975-06-11<br>결산월: 12월<br>대표자명: 김기남, 김현석, 고동진<br>홈페이지: http://www.sec.co.kr<br>지역: 경기도<br>상장: 코스피", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7A2FF4B9","s2": "F59A","s3":"74FA","s4":"135"}]}
+*************************************
+접속일 :  2020-12-01 13:25:07
+유저아이디 :  ff16838e-3a6e-4fc0-b91d-fcab8b5e0eb3
+메시지 구분: 0 || 질문내용 : 삼성전자 주가얼마야 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "삼성전자 주가얼마야"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  7A2FF4B9_F59A_74FA_135
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7A2FF4B9_F59A_74FA
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 8116//2500
+{"answercode":"", "ai_msg": "종목코드: 005930<br>업종: 통신 및 방송 장비 제조업<br>주요제품: IMT2000 서비스용 동기식 기지국/교환국장비/데이터단말기/동영상휴대폰/핵심칩/반도체제품/사무/계산 및 회계용기계<br>상장일: 1975-06-11<br>결산월: 12월<br>대표자명: 김기남, 김현석, 고동진<br>홈페이지: http://www.sec.co.kr<br>지역: 경기도<br>상장: 코스피", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7A2FF4B9","s2": "F59A","s3":"74FA","s4":"135"}]}

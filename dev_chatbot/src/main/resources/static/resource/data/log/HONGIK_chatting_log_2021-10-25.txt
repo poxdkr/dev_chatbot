@@ -1,0 +1,96 @@
+*************************************
+접속일 :  2021-10-25 12:51:36
+유저아이디 :  f7fc0fe6-b32c-4758-a0af-9a7c4fd597a0
+메시지 구분: 0 || 질문내용 : 안녕하세요 11월6일 내장산 여행 구매한 선우 주희 라고 합니다. 혹시 1인추가 가능할까요.?? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "안녕하세요 11월6일 내장산 여행 구매한 선우 주희 라고 합니다. 혹시 1인추가 가능할까요.??"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  RO03_RO03_RO03_194
+ que_id1 : BD02_BD02_BD02_193
+ que_id2 : RO05_RO05_RO05_194
+ que_id3 : #RE01_#RE01_#RE01_196
+ que_id4 : 12EE921C_C84F_58DC_187
+ que_id5 : SNS03_SNS03_SNS03_191
+ que_id6 : TO02_TO02_TO02_195
+ que_id7 : PAY01_PAY01_PAY01_189
+ que_id8 : B1B9228A_D65B_7740_188
+ que_id9 : PAY05_PAY05_PAY05_189
+ scn_que_id : RO03_RO03_RO03
+ scn_que_id1 : BD02_BD02_BD02
+ scn_que_id2 : RO05_RO05_RO05
+ scn_que_id3 : #RE01_#RE01_#RE01
+ scn_que_id4 : 12EE921C_C84F_58DC
+ 확률 : 선택질문 확률 : 3045//2500
+{"answercode":"1", "ai_msg": "객실타입 선택 | 일행 좌석 지정 | 1인 여행객 방배정 | 여행상품 추천 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"RO03","s2": "RO03","s3":"RO03","s4":"194"},{"s1":"BD02","s2": "BD02","s3":"BD02","s4":"193"},{"s1":"RO05","s2": "RO05","s3":"RO05","s4":"194"},{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"}]}
+*************************************
+접속일 :  2021-10-25 13:05:51
+유저아이디 :  f7fc0fe6-b32c-4758-a0af-9a7c4fd597a0
+메시지 구분: 0 || 질문내용 : 연락처 :  010-4860-4383 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "연락처 :  010-4860-4383"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  TO02_TO02_TO02_195
+ que_id1 : BA22D1E4_9E0B_A833_188
+ que_id2 : BD01_BD01_BD01_193
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : TO02_TO02_TO02
+ scn_que_id1 : BA22D1E4_9E0B_A833
+ scn_que_id2 : BD01_BD01_BD01
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 5326//2500
+{"answercode":"1", "ai_msg": "비상시 연락처 | 여행이 취소되는 경우 | 집합 장소 및 시간 안내 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"TO02","s2": "TO02","s3":"TO02","s4":"195"},{"s1":"BA22D1E4","s2": "9E0B","s3":"A833","s4":"188"},{"s1":"BD01","s2": "BD01","s3":"BD01","s4":"193"}]}
+*************************************
+접속일 :  2021-10-25 13:06:00
+유저아이디 :  f7fc0fe6-b32c-4758-a0af-9a7c4fd597a0
+메시지 구분: 2 || 질문내용 : 기존여행에 1인추가 가능한지 여쭤봅니다. || 질문아이디1 : TO02,BA22D1E4,BD01 || 질문아이디2 : TO02,9E0B,BD01 || 질문아이디3 : TO02,A833,BD01 || 질문아이디4 : 195,188,193
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2021-10-25 13:06:01
+유저아이디 :  f7fc0fe6-b32c-4758-a0af-9a7c4fd597a0
+메시지 구분: 1 || 질문내용 : 기존여행에 1인추가 가능한지 여쭤봅니다. || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "기존여행에 1인추가 가능한지 여쭤봅니다."   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #RE01_#RE01_#RE01_196
+ que_id1 : RO05_RO05_RO05_194
+ que_id2 : B1B9228A_D65B_7740_188
+ que_id3 : TO01_TO01_TO01_195
+ que_id4 : 12EE921C_C84F_58DC_187
+ que_id5 : RO03_RO03_RO03_194
+ que_id6 : 705FB289_220B_7901_188
+ que_id7 : PR02_PR02_PR02_197
+ que_id8 : #TR02_#TR02_#TR02_195
+ que_id9 : BD02_BD02_BD02_193
+ scn_que_id : #RE01_#RE01_#RE01
+ scn_que_id1 : RO05_RO05_RO05
+ scn_que_id2 : B1B9228A_D65B_7740
+ scn_que_id3 : TO01_TO01_TO01
+ scn_que_id4 : 12EE921C_C84F_58DC
+ 확률 : 선택질문 확률 : 4193//2500
+{"answercode":"1", "ai_msg": "여행상품 추천 | 1인 여행객 방배정 | 상품 확정 안내 | 우천시 여행 일정 | 단독관광(개별관광) 예약 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#RE01","s2": "#RE01","s3":"#RE01","s4":"196"},{"s1":"RO05","s2": "RO05","s3":"RO05","s4":"194"},{"s1":"B1B9228A","s2": "D65B","s3":"7740","s4":"188"},{"s1":"TO01","s2": "TO01","s3":"TO01","s4":"195"},{"s1":"12EE921C","s2": "C84F","s3":"58DC","s4":"187"}]}

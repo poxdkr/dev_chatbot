@@ -1,0 +1,48 @@
+*************************************
+접속일 :  2020-10-16 16:33:50
+유저아이디 :  76f555a3-6465-4e5d-a2c9-094759100ea5
+메시지 구분: 0 || 질문내용 : 미팅 가능 시간 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/YHtest/result/result.out "미팅 가능 시간" 
+
+ 시나리오 결과 값 : 
+ que_id :  문의_용무_시간_110
+ que_id1 : #문의_#미팅_#예약_110
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 문의_용무_시간
+ scn_que_id1 : #문의_#미팅_#예약
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 7480//2500
+{"answercode":"1", "ai_msg": " |  | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"문의","s2": "용무","s3":"시간","s4":"110"},{"s1":"#문의","s2": "#미팅","s3":"#예약","s4":"110"}]}
+*************************************
+접속일 :  2020-10-16 16:33:55
+유저아이디 :  76f555a3-6465-4e5d-a2c9-094759100ea5
+메시지 구분: 0 || 질문내용 : 미팅 협의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/YHtest/result/result.out "미팅 협의" 
+
+ 시나리오 결과 값 : 
+ que_id :  문의_용무_시간_110
+ que_id1 : #문의_#미팅_#예약_110
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 문의_용무_시간
+ scn_que_id1 : #문의_#미팅_#예약
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 6649//2500
+{"answercode":"1", "ai_msg": " |  | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"문의","s2": "용무","s3":"시간","s4":"110"},{"s1":"#문의","s2": "#미팅","s3":"#예약","s4":"110"}]}

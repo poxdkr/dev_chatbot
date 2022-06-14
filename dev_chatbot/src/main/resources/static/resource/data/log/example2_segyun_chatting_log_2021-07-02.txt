@@ -1,0 +1,48 @@
+*************************************
+접속일 :  2021-07-02 15:09:37
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 0 || 질문내용 : 국민의 소리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "국민의 소리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #SG02_#SG02_#SG02_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG02_#SG02_#SG02
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>국민 여러분과 함께<BR></p><p>대한민국의 미래를 만들어가겠습니다.</p><p>||작은 의견이라도 편하게 남겨주십시오!</p><p>$$$▶의견 보내기</p><p>$$$▶응원하기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#SG02","s2": "#SG02","s3":"#SG02","s4":"198"}]}
+*************************************
+접속일 :  2021-07-02 15:09:49
+유저아이디 :  4b94647b-3c16-41f8-8231-5194f0f64038
+메시지 구분: 0 || 질문내용 : 국민의 소리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/example2_segyun/result/result.out "국민의 소리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #SG02_#SG02_#SG02_198
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #SG02_#SG02_#SG02
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>국민 여러분과 함께<BR></p><p>대한민국의 미래를 만들어가겠습니다.</p><p>||작은 의견이라도 편하게 남겨주십시오!</p><p>$$$▶의견 보내기</p><p>$$$▶응원하기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#SG02","s2": "#SG02","s3":"#SG02","s4":"198"}]}

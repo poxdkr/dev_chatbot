@@ -1,0 +1,3218 @@
+*************************************
+접속일 :  2020-11-13 13:28:55
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 이야앙 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "이야앙" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 너무 어려워서 무슨 말인지 모르겠어요. (ㅠㅁㅠ)", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-13 13:28:56
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 1 || 질문내용 : 이야앙 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "이야앙" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요ㅠ 제가 모르는 내용이에요.<BR>다음에는 꼭 알려드릴게요!!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-13 14:32:50
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 포스 사용료 얼마에요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "포스 사용료 얼마에요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  CE7D9171_1DAE_54A4_172
+ que_id1 : 8E003A83_7F87_97D4_172
+ que_id2 : CE7D9171_1DAE_54A4_60
+ que_id3 : CEB992D7_ACAA_1A4E_172
+ que_id4 : CEB992D7_ACAA_1A4E_60
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CE7D9171_1DAE_54A4
+ scn_que_id1 : 8E003A83_7F87_97D4
+ scn_que_id2 : CE7D9171_1DAE_54A4
+ scn_que_id3 : CEB992D7_ACAA_1A4E
+ scn_que_id4 : CEB992D7_ACAA_1A4E
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 14:33:40
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 포스 사용료는 얼마에요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "포스 사용료는 얼마에요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  CE7D9171_1DAE_54A4_172
+ que_id1 : 8E003A83_7F87_97D4_172
+ que_id2 : CE7D9171_1DAE_54A4_60
+ que_id3 : CEB992D7_ACAA_1A4E_172
+ que_id4 : CEB992D7_ACAA_1A4E_60
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CE7D9171_1DAE_54A4
+ scn_que_id1 : 8E003A83_7F87_97D4
+ scn_que_id2 : CE7D9171_1DAE_54A4
+ scn_que_id3 : CEB992D7_ACAA_1A4E
+ scn_que_id4 : CEB992D7_ACAA_1A4E
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 14:34:08
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 어떤 핸드폰에서 쓸 수 있어요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "어떤 핸드폰에서 쓸 수 있어요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  CEB992D7_ACAA_1A4E_172
+ que_id1 : CE7D9171_1DAE_54A4_172
+ que_id2 : CEB992D7_ACAA_1A4E_60
+ que_id3 : 8E003A83_7F87_97D4_172
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CEB992D7_ACAA_1A4E
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : 8E003A83_7F87_97D4
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9784//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CEB992D7","s2": "ACAA","s3":"1A4E","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 14:35:42
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 원래 쓰던 포스에 설치할 수 있나요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "원래 쓰던 포스에 설치할 수 있나요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  8E003A83_7F87_97D4_172
+ que_id1 : CE7D9171_1DAE_54A4_172
+ que_id2 : CEB992D7_ACAA_1A4E_172
+ que_id3 : CEB992D7_ACAA_1A4E_60
+ que_id4 : CE7D9171_1DAE_54A4_60
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8E003A83_7F87_97D4
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : CEB992D7_ACAA_1A4E
+ scn_que_id4 : CE7D9171_1DAE_54A4
+ 확률 : 선택질문 확률 : 9926//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>와우 포스는 안드로이드 기반의 포스로,</span></p><p><span style=font-family: Verdana, sans-serif;>윈도우 기반의 포스에서는 사용하실 수 없습니다.</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||</span><span style=font-family: Verdana, sans-serif;>또, 안드로이드 포스라도 벤(VAN)사가 스마트로, KIS일 경우만 사용하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8E003A83","s2": "7F87","s3":"97D4","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 14:36:09
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 아이폰에서 쓸 수 있어요? || 질문아이디1 : 8E003A83 || 질문아이디2 : 7F87 || 질문아이디3 : 97D4 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "아이폰에서 쓸 수 있어요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  CEB992D7_ACAA_1A4E_172
+ que_id1 : CE7D9171_1DAE_54A4_172
+ que_id2 : CEB992D7_ACAA_1A4E_60
+ que_id3 : 8E003A83_7F87_97D4_172
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CEB992D7_ACAA_1A4E
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : 8E003A83_7F87_97D4
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9977//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CEB992D7","s2": "ACAA","s3":"1A4E","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 14:36:55
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문을 확인하세요! || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "자주 묻는 질문을 확인하세요!" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 너무 어려워서 무슨 말인지 모르겠어요. (ㅠㅁㅠ)", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-13 14:36:55
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 1 || 질문내용 : 자주 묻는 질문을 확인하세요! || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "자주 묻는 질문을 확인하세요!" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 너무 어려워서 무슨 말인지 모르겠어요. (ㅠㅁㅠ)", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-13 14:38:29
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 아이폰에서 쓸 수 있어요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "아이폰에서 쓸 수 있어요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  CEB992D7_ACAA_1A4E_172
+ que_id1 : CE7D9171_1DAE_54A4_172
+ que_id2 : CEB992D7_ACAA_1A4E_60
+ que_id3 : 8E003A83_7F87_97D4_172
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CEB992D7_ACAA_1A4E
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : 8E003A83_7F87_97D4
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9977//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CEB992D7","s2": "ACAA","s3":"1A4E","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 14:39:34
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 이야앙! || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "이야앙!" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요ㅠ 제가 모르는 내용이에요.<BR>다음에는 꼭 알려드릴게요!!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-13 14:39:35
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 1 || 질문내용 : 이야앙! || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "이야앙!" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요ㅠ 제가 모르는 내용이에요.<BR>다음에는 꼭 알려드릴게요!!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-13 14:39:43
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 우에엥 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "우에엥" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요ㅠ 제가 모르는 내용이에요.<BR>다음에는 꼭 알려드릴게요!!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-13 14:39:44
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 1 || 질문내용 : 우에엥 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "우에엥" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요ㅠ 제가 모르는 내용이에요.<BR>다음에는 꼭 알려드릴게요!!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-13 14:39:53
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 다른 대답두 이짜나! || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "다른 대답두 이짜나!" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. (ㅠㅁㅠ)<BR>너무 어려워서 무슨 말인지 모르겠어요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-13 14:39:53
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 1 || 질문내용 : 다른 대답두 이짜나! || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "다른 대답두 이짜나!" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요ㅠ 제가 모르는 내용이에요.<BR>다음에는 꼭 알려드릴게요!!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-13 14:40:04
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 그거 말고 다른 대답이요! || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "그거 말고 다른 대답이요!" 
+
+ 시나리오 결과 값 : 
+ que_id :  CE7D9171_1DAE_54A4_172
+ que_id1 : 8E003A83_7F87_97D4_172
+ que_id2 : CEB992D7_ACAA_1A4E_172
+ que_id3 : CEB992D7_ACAA_1A4E_60
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CE7D9171_1DAE_54A4
+ scn_que_id1 : 8E003A83_7F87_97D4
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : CEB992D7_ACAA_1A4E
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 4563//2500
+{"answercode":"1", "ai_msg": " | 기존에 사용하던 포스가 있는 경우 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"},{"s1":"8E003A83","s2": "7F87","s3":"97D4","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 14:40:17
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 2 || 질문내용 : 뿌엥 || 질문아이디1 : CE7D9171,8E003A83 || 질문아이디2 : 1DAE,7F87 || 질문아이디3 : 54A4,97D4 || 질문아이디4 : 172,172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2020-11-13 14:40:17
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 1 || 질문내용 : 뿌엥 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "뿌엥" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요ㅠ 제가 모르는 내용이에요.<BR>다음에는 꼭 알려드릴게요!!", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-13 14:51:22
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 아이패드 사용할 수 있어요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "아이패드 사용할 수 있어요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  F25EE803_EBB9_9C57_60
+ que_id1 : CE7D9171_1DAE_54A4_172
+ que_id2 : CEB992D7_ACAA_1A4E_172
+ que_id3 : 8E003A83_7F87_97D4_172
+ que_id4 : CE7D9171_1DAE_54A4_60
+ que_id5 : C9154054_6DC9_6D9C_60
+ que_id6 : C9154054_6DC9_6D9C_172
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : F25EE803_EBB9_9C57
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : 8E003A83_7F87_97D4
+ scn_que_id4 : CE7D9171_1DAE_54A4
+ 확률 : 선택질문 확률 : 8529//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>죄송합니다.&nbsp;</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>(｡•́︿•̀｡)</span></p><br><p><span style=font-family: Verdana, sans-serif;>와우 포스는 안드로이드 기반의 포스로</span></p><br><p><span style=font-family: Verdana, sans-serif;>아이폰/아이패드에서는 사용하실 수 없습니다.</span></p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"F25EE803","s2": "EBB9","s3":"9C57","s4":"60"}]}
+*************************************
+접속일 :  2020-11-13 14:51:56
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 아이패드에서 못써요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "아이패드에서 못써요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  F25EE803_EBB9_9C57_60
+ que_id1 : CE7D9171_1DAE_54A4_172
+ que_id2 : CEB992D7_ACAA_1A4E_172
+ que_id3 : 8E003A83_7F87_97D4_172
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : F25EE803_EBB9_9C57
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : 8E003A83_7F87_97D4
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 7021//2500
+{"answercode":"1", "ai_msg": " |  | WOW POS 사용 가능 기종 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"F25EE803","s2": "EBB9","s3":"9C57","s4":"60"},{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"},{"s1":"CEB992D7","s2": "ACAA","s3":"1A4E","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 14:52:01
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 2 || 질문내용 : WOW POS 사용 가능 기종 || 질문아이디1 : CEB992D7 || 질문아이디2 : ACAA || 질문아이디3 : 1A4E || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "핸드폰 기종에 상관없이 사용 가능한가요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  CEB992D7_ACAA_1A4E_172
+ que_id1 : F25EE803_EBB9_9C57_60
+ que_id2 : CE7D9171_1DAE_54A4_172
+ que_id3 : 8E003A83_7F87_97D4_172
+ que_id4 : C9154054_6DC9_6D9C_60
+ que_id5 : C9154054_6DC9_6D9C_172
+ que_id6 : CE7D9171_1DAE_54A4_60
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CEB992D7_ACAA_1A4E
+ scn_que_id1 : F25EE803_EBB9_9C57
+ scn_que_id2 : CE7D9171_1DAE_54A4
+ scn_que_id3 : 8E003A83_7F87_97D4
+ scn_que_id4 : C9154054_6DC9_6D9C
+ 확률 : 선택질문 확률 : 9977//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;><b>안드로이드 기반</b>의 <b>갤럭시 노트 5 이상</b> 기종이면 원활하게 사용하실 수 있습니다!</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CEB992D7","s2": "ACAA","s3":"1A4E","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 14:54:33
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 아이폰에서 쓸 수 있어요? || 질문아이디1 : CEB992D7 || 질문아이디2 : ACAA || 질문아이디3 : 1A4E || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "아이폰에서 쓸 수 있어요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  CEB992D7_ACAA_1A4E_172
+ que_id1 : CE7D9171_1DAE_54A4_172
+ que_id2 : F25EE803_EBB9_9C57_172
+ que_id3 : 8E003A83_7F87_97D4_172
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CEB992D7_ACAA_1A4E
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : F25EE803_EBB9_9C57
+ scn_que_id3 : 8E003A83_7F87_97D4
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9977//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;><b>안드로이드 기반</b>의 <b>갤럭시 노트 5 이상</b> 기종이면 원활하게 사용하실 수 있습니다!</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CEB992D7","s2": "ACAA","s3":"1A4E","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 14:54:46
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 아이패드에서 쓸 수 있어요? || 질문아이디1 : CEB992D7 || 질문아이디2 : ACAA || 질문아이디3 : 1A4E || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "아이패드에서 쓸 수 있어요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  F25EE803_EBB9_9C57_172
+ que_id1 : CE7D9171_1DAE_54A4_172
+ que_id2 : CEB992D7_ACAA_1A4E_172
+ que_id3 : 8E003A83_7F87_97D4_172
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : F25EE803_EBB9_9C57
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : 8E003A83_7F87_97D4
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 7021//2500
+{"answercode":"1", "ai_msg": "아이패드에서 쓸 수 있나요? |  | WOW POS 사용 가능 기종 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"F25EE803","s2": "EBB9","s3":"9C57","s4":"172"},{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"},{"s1":"CEB992D7","s2": "ACAA","s3":"1A4E","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 14:54:50
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 2 || 질문내용 : 아이패드에서 쓸 수 있나요? || 질문아이디1 : F25EE803 || 질문아이디2 : EBB9 || 질문아이디3 : 9C57 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "아이패드 사용 가능한가요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  F25EE803_EBB9_9C57_172
+ que_id1 : CE7D9171_1DAE_54A4_172
+ que_id2 : CEB992D7_ACAA_1A4E_172
+ que_id3 : 8E003A83_7F87_97D4_172
+ que_id4 : CE7D9171_1DAE_54A4_60
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : F25EE803_EBB9_9C57
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : 8E003A83_7F87_97D4
+ scn_que_id4 : CE7D9171_1DAE_54A4
+ 확률 : 선택질문 확률 : 9977//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>죄송합니다.&nbsp;</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ಡ︷ಡ)</span></p><p><span style=font-family: Verdana, sans-serif;>와우 포스는 안드로이드 기반의 포스로</span></p><p><span style=font-family: Verdana, sans-serif;>아이폰/아이패드에서는 사용하실 수 없습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"F25EE803","s2": "EBB9","s3":"9C57","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 14:55:05
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 사용료는 얼마에요? || 질문아이디1 : F25EE803 || 질문아이디2 : EBB9 || 질문아이디3 : 9C57 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "사용료는 얼마에요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  CE7D9171_1DAE_54A4_172
+ que_id1 : CE7D9171_1DAE_54A4_60
+ que_id2 : CEB992D7_ACAA_1A4E_172
+ que_id3 : F25EE803_EBB9_9C57_172
+ que_id4 : 8E003A83_7F87_97D4_172
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CE7D9171_1DAE_54A4
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : F25EE803_EBB9_9C57
+ scn_que_id4 : 8E003A83_7F87_97D4
+ 확률 : 선택질문 확률 : 5413//2500
+{"answercode":"1", "ai_msg": " | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 14:55:52
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 사용료 얼마에요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "사용료 얼마에요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  CE7D9171_1DAE_54A4_172
+ que_id1 : CEB992D7_ACAA_1A4E_172
+ que_id2 : F25EE803_EBB9_9C57_172
+ que_id3 : 8E003A83_7F87_97D4_172
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CE7D9171_1DAE_54A4
+ scn_que_id1 : CEB992D7_ACAA_1A4E
+ scn_que_id2 : F25EE803_EBB9_9C57
+ scn_que_id3 : 8E003A83_7F87_97D4
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 5413//2500
+{"answercode":"1", "ai_msg": "비용 안내 및 체험 사용 기간 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 14:55:56
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 2 || 질문내용 : 비용 안내 및 체험 사용 기간 || 질문아이디1 : CE7D9171 || 질문아이디2 : 1DAE || 질문아이디3 : 54A4 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "비용이 어떻게 되나요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  CE7D9171_1DAE_54A4_172
+ que_id1 : F25EE803_EBB9_9C57_172
+ que_id2 : 8E003A83_7F87_97D4_172
+ que_id3 : CEB992D7_ACAA_1A4E_172
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CE7D9171_1DAE_54A4
+ scn_que_id1 : F25EE803_EBB9_9C57
+ scn_que_id2 : 8E003A83_7F87_97D4
+ scn_que_id3 : CEB992D7_ACAA_1A4E
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9974//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>월 사용료는 9,000원(부가세 별도)입니다.</span></p><p><span style=font-family: Verdana, sans-serif;>하지만 경리나라 스토어를 통해 구입하신 고객님께서는</span></p><p><span style=font-family: Verdana, sans-serif;>제휴 상품 가격으로 사용하실 수 있습니다.</span></p><p><span style=font-family: Verdana, sans-serif;>자세한 내용은 아래 표를 참고해주세요!&nbsp;</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>٩</span><span lang=EN-US style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>(</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ˊ</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ᗜ</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ˋ</span><span lang=EN-US style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>*)</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>و</span></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052433179900.png", "qustType": "","questionID": [{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 14:56:45
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 2 || 질문내용 : 비용 안내 및 체험 사용 기간 || 질문아이디1 : CE7D9171 || 질문아이디2 : 1DAE || 질문아이디3 : 54A4 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "비용이 어떻게 되나요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  CE7D9171_1DAE_54A4_172
+ que_id1 : F25EE803_EBB9_9C57_172
+ que_id2 : 8E003A83_7F87_97D4_172
+ que_id3 : CEB992D7_ACAA_1A4E_172
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CE7D9171_1DAE_54A4
+ scn_que_id1 : F25EE803_EBB9_9C57
+ scn_que_id2 : 8E003A83_7F87_97D4
+ scn_que_id3 : CEB992D7_ACAA_1A4E
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9974//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>월 사용료는 9,000원(부가세 별도)입니다.</span></p><p><span style=font-family: Verdana, sans-serif;>하지만 경리나라 스토어를 통해 구입하신 고객님께서는</span></p><p><span style=font-family: Verdana, sans-serif;>제휴 상품 가격으로 사용하실 수 있습니다.</span></p><p><span style=font-family: Verdana, sans-serif;>자세한 내용은 아래 표를 참고해주세요!&nbsp;</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>٩</span><span lang=EN-US style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>(</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ˊ</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ᗜ</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ˋ</span><span lang=EN-US style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>*)</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>و</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>||</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;><br></span></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052433179900.png", "qustType": "","questionID": [{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:09:38
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 궁금한게 있는데 고객센터 번호 알려주세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "궁금한게 있는데 고객센터 번호 알려주세요" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : CE7D9171_1DAE_54A4_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 4987//2500
+{"answercode":"1", "ai_msg": "WOW POS 고객센터 | 비용 안내 및 체험 사용 기간 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"},{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:09:43
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 2 || 질문내용 : WOW POS 고객센터 || 질문아이디1 : 8404696F || 질문아이디2 : A06F || 질문아이디3 : 3A2C || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "문의드릴 게 있는데 어디로 연락하면 되나요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : 7E95F99F_5529_62A7_162
+ que_id2 : CE7D9171_1DAE_54A4_172
+ que_id3 : F25EE803_EBB9_9C57_172
+ que_id4 : 8E003A83_7F87_97D4_172
+ que_id5 : CEB992D7_ACAA_1A4E_172
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : 7E95F99F_5529_62A7
+ scn_que_id2 : CE7D9171_1DAE_54A4
+ scn_que_id3 : F25EE803_EBB9_9C57
+ scn_que_id4 : 8E003A83_7F87_97D4
+ 확률 : 선택질문 확률 : 9974//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>고객센터 1670-3905로 전화주시거나,</span></p><p></p><div id=hwpEditorBoardContent class=hwp_editor_board_content data-hjsonver=1.0 data-jsonlen=7019><!--[data-hwpjson]{documentPr: {di: ,dp: {dn: test.hwp,ta: 1,d1: 5,d2: 0,dv: 5,dr: 1,do: 1,vj: 1.1,an: Hancom Office Hangul,av: 10, 0, 0, 6636,ao: WIN,ab: 32,ar: LE,as: Windows_8},dis: false,ds: {ti: han,la: ko,cr: wow-work-pc,su: ,de: ,cd: 2020-11-13T15:01:33.172Z,md: 2020-11-13T15:01:33.299Z,pd: 1601-01-01T09:00:00.000Z,ke: }},dh: {do: {pa: 1,fo: 1,en: 1,pi: 1,tb: 1,eq: 1},fo: [ ],cd: {tp: 0,lc: {af: false,ui: false,fu: false,dn: false,ul: false,el: false,at: false,tq: false,da: false,dw: false,dj: false,bc: false,bu: false,al: false,ab: false,ap: false,an: false,aa: false,ds: false,de: false,as: false,cp: false,ao: false,et: false,ay: false,am: false,a1: false,bt: false,av: false,dh: false,dp: false,d1: false,mf: false,bl: false,ag: false,dg: false,ae: false,df: false,do: false,dl: false,di: false,d2: false,d3: false,ob: false,d4: false,ev: false,d5: false,d6: false,a2: false,dc: false}},ld: {pa: ,pi: true,fo: false}},bf: {01D6B982708C53A0000000B0: {id: 1,td: false,sh: false,st: 0,sc: 0,si: false,bt: 0,bi: false,cl: 0,bc: false,lt: 0,lw: 0,lc: 0,rt: 0,rw: 0,rc: 0,tt: 0,tw: 0,tc: 0,bbt: 0,bbw: 0,bbc: 0,dt: 1,dw: 0,dc: 0,fi: { }},01D6B982708C53A0000000B1: {id: 2,td: false,sh: false,st: 0,sc: 0,si: false,bt: 0,bi: false,cl: 0,bc: false,lt: 0,lw: 0,lc: 0,rt: 0,rw: 0,rc: 0,tt: 0,tw: 0,tc: 0,bbt: 0,bbw: 0,bbc: 0,dt: 1,dw: 0,dc: 0,fi: {wb: {fc: 4294967295,hc: 10066329,al: 0,hs: -1}}}},cp: {01D6B982708C7AB0000000B2: {id: 0,he: 1000,tc: 0,sc: 4294967295,uf: false,uk: false,sm: 0,bf: 01D6B982708C53A0000000B1,f1: 함초롬바탕,t1: 1,f2: 함초롬바탕,t2: 1,f3: 함초롬바탕,t3: 1,f4: 함초롬바탕,t4: 1,f5: 함초롬바탕,t5: 1,f6: 함초롬바탕,t6: 1,f7: 함초롬바탕,t7: 1,r1: 100,r2: 100,r3: 100,r4: 100,r5: 100,r6: 100,r7: 100,s1: 0,s2: 0,s3: 0,s4: 0,s5: 0,s6: 0,s7: 0,e1: 100,e2: 100,e3: 100,e4: 100,e5: 100,e6: 100,e7: 100,o1: 0,o2: 0,o3: 0,o4: 0,o5: 0,o6: 0,o7: 0,it: false,bo: false,ut: 0,us: 1,uc: 0,st: false,ss: 1,so: 0,ot: 0,ht: 0,hc: 0,hx: 0,hy: 0,em: false,en: false,su: false,sb: false},01D6B982708C7AB0000000B3: {id: 1,he: 1000,tc: 16711680,sc: 4294967295,uf: false,uk: false,sm: 0,bf: 01D6B982708C53A0000000B1,f1: 함초롬바탕,t1: 1,f2: 함초롬바탕,t2: 1,f3: 함초롬바탕,t3: 1,f4: 함초롬바탕,t4: 1,f5: 함초롬바탕,t5: 1,f6: 함초롬바탕,t6: 1,f7: 함초롬바탕,t7: 1,r1: 100,r2: 100,r3: 100,r4: 100,r5: 100,r6: 100,r7: 100,s1: 0,s2: 0,s3: 0,s4: 0,s5: 0,s6: 0,s7: 0,e1: 100,e2: 100,e3: 100,e4: 100,e5: 100,e6: 100,e7: 100,o1: 0,o2: 0,o3: 0,o4: 0,o5: 0,o6: 0,o7: 0,it: false,bo: false,ut: 1,us: 1,uc: 16711680,st: false,ss: 1,so: 0,ot: 0,ht: 0,hc: 0,hx: 0,hy: 0,em: false,en: false,su: false,sb: false}},tp: {01D6B982708C7AB0000000B4: {id: 0,al: false,ar: false,tp: [ ]}},nu: { },bu: { },pp: {01D6B982708C7AB0000000B5: {id: 0,ah: 0,av: 0,ht: 0,hi: ,hl: 0,tp: 01D6B982708C7AB0000000B4,kb: 0,kn: true,ko: false,kk: false,kl: false,kp: false,kw: 0,co: 0,fl: false,st: true,sl: false,ae: false,aa: false,mi: 0,ml: 0,mr: 0,mp: 0,mn: 0,lt: 0,lv: 160,bf: 01D6B982708C53A0000000B1,bl: 0,br: 0,bt: 0,bb: 0,bc: false,bi: false}},st: {01D6B982708C7AB0000000B6: {id: 0,ty: 0,na: 바탕글,en: Normal,pp: 01D6B982708C7AB0000000B5,cp: 01D6B982708C7AB0000000B2,ns: 01D6B982708C7AB0000000B6,li: 1042,lf: false}},mp: { },ro: {hp: 01D6B982708B6940000000AE,01D6B982708B6940000000AE: {np: ,id: 0,pp: 01D6B982708C7AB0000000B5,si: 01D6B982708C7AB0000000B6,bf: 3,ru: [{cp: 01D6B982708C7AB0000000B2,ch: [{cc: 2,ci: 1936024420,co: 01D6B982708B1B20000000AB},{cc: 2,ci: 1668246628,co: 01D6B982708B6940000000AC},{t:  },{cc: 3,ci: 627600491,co: 01D6B982708B6940000000AD}]},{cp: 01D6B982708C7AB0000000B3,ch: [{t: han@gowow.co.kr}]},{cp: 01D6B982708C7AB0000000B2,ch: [{cc: 4,ci: 6843499,co: 01D6B982708B6940000000AF},{t:  로 문의주시면 됩니다.}]}]}},sl: { },cs: {01D6B982708B1B20000000AB: {po: 01D6B982708B6940000000AE,cc: 2,ci: 1936024420,td: 0,tv: false,sc: 1134,ts: 8000,ms: ,os: ,gl: 0,gc: 0,gw: false,ns: 0,np: 0,ni: 0,nt: 0,ne: 0,hh: false,hf: false,hm: false,fb: false,hb: false,fi: false,hi: false,hp: false,he: false,sl: false,lr: 0,lc: 0,ld: 0,ls: 0,pp: {ls: false,wi: 59528,he: 84188,gt: 0,ml: 8504,mr: 8504,mt: 5668,mb: 4252,mh: 4252,mf: 4252,mg: 0},fn: {at: 0,au: ,ap: ,ac: ),as: false,ll: -1,lt: 1,lw: 1,lc: 0,sa: 850,sb: 567,st: 283,nt: 0,nn: 1,pp: 0,pb: false},en: {at: 0,au: ,ap: ,ac: ),as: false,ll: -4,lt: 1,lw: 1,lc: 0,sa: 850,sb: 567,st: 0,nt: 0,nn: 1,pp: 0,pb: false},pb: [{ty: 0,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417},{ty: 1,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417},{ty: 2,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417}],mp: [ ]},01D6B982708B6940000000AC: {po: 01D6B982708B6940000000AE,cc: 2,ci: 1668246628,ty: 0,la: 0,co: 1,ss: true,sg: 0,lt: 0,lw: 0,lc: 0,cs: [ ]},01D6B982708B6940000000AD: {po: 01D6B982708B6940000000AE,cc: 3,ci: 627600491,fb: {id: 1500617595,ty: 627600491,ed: false,di: true,pa: {fi: false,pr: 0,co: mailto:han@gowow.co.kr;2;0;0},zo: 4294967295,fi: 627600491}},01D6B982708B6940000000AF: {fo: 01D6B982708B6940000000AD,cc: 4,ci: 6843499,zo: 4294967295}},bi: [ ],bidt: { }}--></div><p></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span lang=EN-US style=font-family: Verdana, sans-serif;> </span><a href=mailto:han@gowow.co.kr><u style=text-underline:#0000ff single><span lang=EN-US style=letter-spacing: 0pt; color: rgb(0, 0, 255); font-family: Verdana, sans-serif;>han@gowow.co.kr</span></u></a><span lang=EN-US style=font-family: Verdana, sans-serif;> </span><span style=font-family: Verdana, sans-serif;>로 문의주세요!</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>||고객센터 운영시간은</span><span style=font-family: Verdana, sans-serif;><br></span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>평일 10:00~17:00이며,</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>주말과 공휴일은 휴무입니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:11:48
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 고객센터 번호 알려주세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "고객센터 번호 알려주세요" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 4885//2500
+{"answercode":"1", "ai_msg": "WOW POS 고객센터 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:11:52
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 2 || 질문내용 : WOW POS 고객센터 || 질문아이디1 : 8404696F || 질문아이디2 : A06F || 질문아이디3 : 3A2C || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "문의드릴 게 있는데 어디로 연락하면 되나요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : 7E95F99F_5529_62A7_162
+ que_id2 : CE7D9171_1DAE_54A4_172
+ que_id3 : F25EE803_EBB9_9C57_172
+ que_id4 : 8E003A83_7F87_97D4_172
+ que_id5 : CEB992D7_ACAA_1A4E_172
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : 7E95F99F_5529_62A7
+ scn_que_id2 : CE7D9171_1DAE_54A4
+ scn_que_id3 : F25EE803_EBB9_9C57
+ scn_que_id4 : 8E003A83_7F87_97D4
+ 확률 : 선택질문 확률 : 9974//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>고객센터 1670-3905로 전화주시거나,</span></p><p></p><div id=hwpEditorBoardContent class=hwp_editor_board_content data-hjsonver=1.0 data-jsonlen=7019><!--[data-hwpjson]{documentPr: {di: ,dp: {dn: test.hwp,ta: 1,d1: 5,d2: 0,dv: 5,dr: 1,do: 1,vj: 1.1,an: Hancom Office Hangul,av: 10, 0, 0, 6636,ao: WIN,ab: 32,ar: LE,as: Windows_8},dis: false,ds: {ti: han,la: ko,cr: wow-work-pc,su: ,de: ,cd: 2020-11-13T15:01:33.172Z,md: 2020-11-13T15:01:33.299Z,pd: 1601-01-01T09:00:00.000Z,ke: }},dh: {do: {pa: 1,fo: 1,en: 1,pi: 1,tb: 1,eq: 1},fo: [ ],cd: {tp: 0,lc: {af: false,ui: false,fu: false,dn: false,ul: false,el: false,at: false,tq: false,da: false,dw: false,dj: false,bc: false,bu: false,al: false,ab: false,ap: false,an: false,aa: false,ds: false,de: false,as: false,cp: false,ao: false,et: false,ay: false,am: false,a1: false,bt: false,av: false,dh: false,dp: false,d1: false,mf: false,bl: false,ag: false,dg: false,ae: false,df: false,do: false,dl: false,di: false,d2: false,d3: false,ob: false,d4: false,ev: false,d5: false,d6: false,a2: false,dc: false}},ld: {pa: ,pi: true,fo: false}},bf: {01D6B982708C53A0000000B0: {id: 1,td: false,sh: false,st: 0,sc: 0,si: false,bt: 0,bi: false,cl: 0,bc: false,lt: 0,lw: 0,lc: 0,rt: 0,rw: 0,rc: 0,tt: 0,tw: 0,tc: 0,bbt: 0,bbw: 0,bbc: 0,dt: 1,dw: 0,dc: 0,fi: { }},01D6B982708C53A0000000B1: {id: 2,td: false,sh: false,st: 0,sc: 0,si: false,bt: 0,bi: false,cl: 0,bc: false,lt: 0,lw: 0,lc: 0,rt: 0,rw: 0,rc: 0,tt: 0,tw: 0,tc: 0,bbt: 0,bbw: 0,bbc: 0,dt: 1,dw: 0,dc: 0,fi: {wb: {fc: 4294967295,hc: 10066329,al: 0,hs: -1}}}},cp: {01D6B982708C7AB0000000B2: {id: 0,he: 1000,tc: 0,sc: 4294967295,uf: false,uk: false,sm: 0,bf: 01D6B982708C53A0000000B1,f1: 함초롬바탕,t1: 1,f2: 함초롬바탕,t2: 1,f3: 함초롬바탕,t3: 1,f4: 함초롬바탕,t4: 1,f5: 함초롬바탕,t5: 1,f6: 함초롬바탕,t6: 1,f7: 함초롬바탕,t7: 1,r1: 100,r2: 100,r3: 100,r4: 100,r5: 100,r6: 100,r7: 100,s1: 0,s2: 0,s3: 0,s4: 0,s5: 0,s6: 0,s7: 0,e1: 100,e2: 100,e3: 100,e4: 100,e5: 100,e6: 100,e7: 100,o1: 0,o2: 0,o3: 0,o4: 0,o5: 0,o6: 0,o7: 0,it: false,bo: false,ut: 0,us: 1,uc: 0,st: false,ss: 1,so: 0,ot: 0,ht: 0,hc: 0,hx: 0,hy: 0,em: false,en: false,su: false,sb: false},01D6B982708C7AB0000000B3: {id: 1,he: 1000,tc: 16711680,sc: 4294967295,uf: false,uk: false,sm: 0,bf: 01D6B982708C53A0000000B1,f1: 함초롬바탕,t1: 1,f2: 함초롬바탕,t2: 1,f3: 함초롬바탕,t3: 1,f4: 함초롬바탕,t4: 1,f5: 함초롬바탕,t5: 1,f6: 함초롬바탕,t6: 1,f7: 함초롬바탕,t7: 1,r1: 100,r2: 100,r3: 100,r4: 100,r5: 100,r6: 100,r7: 100,s1: 0,s2: 0,s3: 0,s4: 0,s5: 0,s6: 0,s7: 0,e1: 100,e2: 100,e3: 100,e4: 100,e5: 100,e6: 100,e7: 100,o1: 0,o2: 0,o3: 0,o4: 0,o5: 0,o6: 0,o7: 0,it: false,bo: false,ut: 1,us: 1,uc: 16711680,st: false,ss: 1,so: 0,ot: 0,ht: 0,hc: 0,hx: 0,hy: 0,em: false,en: false,su: false,sb: false}},tp: {01D6B982708C7AB0000000B4: {id: 0,al: false,ar: false,tp: [ ]}},nu: { },bu: { },pp: {01D6B982708C7AB0000000B5: {id: 0,ah: 0,av: 0,ht: 0,hi: ,hl: 0,tp: 01D6B982708C7AB0000000B4,kb: 0,kn: true,ko: false,kk: false,kl: false,kp: false,kw: 0,co: 0,fl: false,st: true,sl: false,ae: false,aa: false,mi: 0,ml: 0,mr: 0,mp: 0,mn: 0,lt: 0,lv: 160,bf: 01D6B982708C53A0000000B1,bl: 0,br: 0,bt: 0,bb: 0,bc: false,bi: false}},st: {01D6B982708C7AB0000000B6: {id: 0,ty: 0,na: 바탕글,en: Normal,pp: 01D6B982708C7AB0000000B5,cp: 01D6B982708C7AB0000000B2,ns: 01D6B982708C7AB0000000B6,li: 1042,lf: false}},mp: { },ro: {hp: 01D6B982708B6940000000AE,01D6B982708B6940000000AE: {np: ,id: 0,pp: 01D6B982708C7AB0000000B5,si: 01D6B982708C7AB0000000B6,bf: 3,ru: [{cp: 01D6B982708C7AB0000000B2,ch: [{cc: 2,ci: 1936024420,co: 01D6B982708B1B20000000AB},{cc: 2,ci: 1668246628,co: 01D6B982708B6940000000AC},{t:  },{cc: 3,ci: 627600491,co: 01D6B982708B6940000000AD}]},{cp: 01D6B982708C7AB0000000B3,ch: [{t: han@gowow.co.kr}]},{cp: 01D6B982708C7AB0000000B2,ch: [{cc: 4,ci: 6843499,co: 01D6B982708B6940000000AF},{t:  로 문의주시면 됩니다.}]}]}},sl: { },cs: {01D6B982708B1B20000000AB: {po: 01D6B982708B6940000000AE,cc: 2,ci: 1936024420,td: 0,tv: false,sc: 1134,ts: 8000,ms: ,os: ,gl: 0,gc: 0,gw: false,ns: 0,np: 0,ni: 0,nt: 0,ne: 0,hh: false,hf: false,hm: false,fb: false,hb: false,fi: false,hi: false,hp: false,he: false,sl: false,lr: 0,lc: 0,ld: 0,ls: 0,pp: {ls: false,wi: 59528,he: 84188,gt: 0,ml: 8504,mr: 8504,mt: 5668,mb: 4252,mh: 4252,mf: 4252,mg: 0},fn: {at: 0,au: ,ap: ,ac: ),as: false,ll: -1,lt: 1,lw: 1,lc: 0,sa: 850,sb: 567,st: 283,nt: 0,nn: 1,pp: 0,pb: false},en: {at: 0,au: ,ap: ,ac: ),as: false,ll: -4,lt: 1,lw: 1,lc: 0,sa: 850,sb: 567,st: 0,nt: 0,nn: 1,pp: 0,pb: false},pb: [{ty: 0,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417},{ty: 1,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417},{ty: 2,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417}],mp: [ ]},01D6B982708B6940000000AC: {po: 01D6B982708B6940000000AE,cc: 2,ci: 1668246628,ty: 0,la: 0,co: 1,ss: true,sg: 0,lt: 0,lw: 0,lc: 0,cs: [ ]},01D6B982708B6940000000AD: {po: 01D6B982708B6940000000AE,cc: 3,ci: 627600491,fb: {id: 1500617595,ty: 627600491,ed: false,di: true,pa: {fi: false,pr: 0,co: mailto:han@gowow.co.kr;2;0;0},zo: 4294967295,fi: 627600491}},01D6B982708B6940000000AF: {fo: 01D6B982708B6940000000AD,cc: 4,ci: 6843499,zo: 4294967295}},bi: [ ],bidt: { }}--></div><p></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span lang=EN-US style=font-family: Verdana, sans-serif;> </span><a href=mailto:han@gowow.co.kr><u style=text-underline:#0000ff single><span lang=EN-US style=letter-spacing: 0pt; color: rgb(0, 0, 255); font-family: Verdana, sans-serif;>han@gowow.co.kr</span></u></a><span lang=EN-US style=font-family: Verdana, sans-serif;> </span><span style=font-family: Verdana, sans-serif;>로 문의주세요!</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>||고객센터 운영시간은</span><span style=font-family: Verdana, sans-serif;><br></span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>평일 10:00~17:00이며,</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>주말과 공휴일은 휴무입니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:13:38
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 고객센터 번호 알려줘요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "고객센터 번호 알려줘요" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 4885//2500
+{"answercode":"1", "ai_msg": "WOW POS 고객센터 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:13:42
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 2 || 질문내용 : WOW POS 고객센터 || 질문아이디1 : 8404696F || 질문아이디2 : A06F || 질문아이디3 : 3A2C || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "문의드릴 게 있는데 어디로 연락하면 되나요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : 7E95F99F_5529_62A7_162
+ que_id2 : CE7D9171_1DAE_54A4_172
+ que_id3 : F25EE803_EBB9_9C57_172
+ que_id4 : 8E003A83_7F87_97D4_172
+ que_id5 : CEB992D7_ACAA_1A4E_172
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : 7E95F99F_5529_62A7
+ scn_que_id2 : CE7D9171_1DAE_54A4
+ scn_que_id3 : F25EE803_EBB9_9C57
+ scn_que_id4 : 8E003A83_7F87_97D4
+ 확률 : 선택질문 확률 : 9974//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>고객센터 1670-3905로 전화주시거나,</span></p><p></p><div id=hwpEditorBoardContent class=hwp_editor_board_content data-hjsonver=1.0 data-jsonlen=7019><!--[data-hwpjson]{documentPr: {di: ,dp: {dn: test.hwp,ta: 1,d1: 5,d2: 0,dv: 5,dr: 1,do: 1,vj: 1.1,an: Hancom Office Hangul,av: 10, 0, 0, 6636,ao: WIN,ab: 32,ar: LE,as: Windows_8},dis: false,ds: {ti: han,la: ko,cr: wow-work-pc,su: ,de: ,cd: 2020-11-13T15:01:33.172Z,md: 2020-11-13T15:01:33.299Z,pd: 1601-01-01T09:00:00.000Z,ke: }},dh: {do: {pa: 1,fo: 1,en: 1,pi: 1,tb: 1,eq: 1},fo: [ ],cd: {tp: 0,lc: {af: false,ui: false,fu: false,dn: false,ul: false,el: false,at: false,tq: false,da: false,dw: false,dj: false,bc: false,bu: false,al: false,ab: false,ap: false,an: false,aa: false,ds: false,de: false,as: false,cp: false,ao: false,et: false,ay: false,am: false,a1: false,bt: false,av: false,dh: false,dp: false,d1: false,mf: false,bl: false,ag: false,dg: false,ae: false,df: false,do: false,dl: false,di: false,d2: false,d3: false,ob: false,d4: false,ev: false,d5: false,d6: false,a2: false,dc: false}},ld: {pa: ,pi: true,fo: false}},bf: {01D6B982708C53A0000000B0: {id: 1,td: false,sh: false,st: 0,sc: 0,si: false,bt: 0,bi: false,cl: 0,bc: false,lt: 0,lw: 0,lc: 0,rt: 0,rw: 0,rc: 0,tt: 0,tw: 0,tc: 0,bbt: 0,bbw: 0,bbc: 0,dt: 1,dw: 0,dc: 0,fi: { }},01D6B982708C53A0000000B1: {id: 2,td: false,sh: false,st: 0,sc: 0,si: false,bt: 0,bi: false,cl: 0,bc: false,lt: 0,lw: 0,lc: 0,rt: 0,rw: 0,rc: 0,tt: 0,tw: 0,tc: 0,bbt: 0,bbw: 0,bbc: 0,dt: 1,dw: 0,dc: 0,fi: {wb: {fc: 4294967295,hc: 10066329,al: 0,hs: -1}}}},cp: {01D6B982708C7AB0000000B2: {id: 0,he: 1000,tc: 0,sc: 4294967295,uf: false,uk: false,sm: 0,bf: 01D6B982708C53A0000000B1,f1: 함초롬바탕,t1: 1,f2: 함초롬바탕,t2: 1,f3: 함초롬바탕,t3: 1,f4: 함초롬바탕,t4: 1,f5: 함초롬바탕,t5: 1,f6: 함초롬바탕,t6: 1,f7: 함초롬바탕,t7: 1,r1: 100,r2: 100,r3: 100,r4: 100,r5: 100,r6: 100,r7: 100,s1: 0,s2: 0,s3: 0,s4: 0,s5: 0,s6: 0,s7: 0,e1: 100,e2: 100,e3: 100,e4: 100,e5: 100,e6: 100,e7: 100,o1: 0,o2: 0,o3: 0,o4: 0,o5: 0,o6: 0,o7: 0,it: false,bo: false,ut: 0,us: 1,uc: 0,st: false,ss: 1,so: 0,ot: 0,ht: 0,hc: 0,hx: 0,hy: 0,em: false,en: false,su: false,sb: false},01D6B982708C7AB0000000B3: {id: 1,he: 1000,tc: 16711680,sc: 4294967295,uf: false,uk: false,sm: 0,bf: 01D6B982708C53A0000000B1,f1: 함초롬바탕,t1: 1,f2: 함초롬바탕,t2: 1,f3: 함초롬바탕,t3: 1,f4: 함초롬바탕,t4: 1,f5: 함초롬바탕,t5: 1,f6: 함초롬바탕,t6: 1,f7: 함초롬바탕,t7: 1,r1: 100,r2: 100,r3: 100,r4: 100,r5: 100,r6: 100,r7: 100,s1: 0,s2: 0,s3: 0,s4: 0,s5: 0,s6: 0,s7: 0,e1: 100,e2: 100,e3: 100,e4: 100,e5: 100,e6: 100,e7: 100,o1: 0,o2: 0,o3: 0,o4: 0,o5: 0,o6: 0,o7: 0,it: false,bo: false,ut: 1,us: 1,uc: 16711680,st: false,ss: 1,so: 0,ot: 0,ht: 0,hc: 0,hx: 0,hy: 0,em: false,en: false,su: false,sb: false}},tp: {01D6B982708C7AB0000000B4: {id: 0,al: false,ar: false,tp: [ ]}},nu: { },bu: { },pp: {01D6B982708C7AB0000000B5: {id: 0,ah: 0,av: 0,ht: 0,hi: ,hl: 0,tp: 01D6B982708C7AB0000000B4,kb: 0,kn: true,ko: false,kk: false,kl: false,kp: false,kw: 0,co: 0,fl: false,st: true,sl: false,ae: false,aa: false,mi: 0,ml: 0,mr: 0,mp: 0,mn: 0,lt: 0,lv: 160,bf: 01D6B982708C53A0000000B1,bl: 0,br: 0,bt: 0,bb: 0,bc: false,bi: false}},st: {01D6B982708C7AB0000000B6: {id: 0,ty: 0,na: 바탕글,en: Normal,pp: 01D6B982708C7AB0000000B5,cp: 01D6B982708C7AB0000000B2,ns: 01D6B982708C7AB0000000B6,li: 1042,lf: false}},mp: { },ro: {hp: 01D6B982708B6940000000AE,01D6B982708B6940000000AE: {np: ,id: 0,pp: 01D6B982708C7AB0000000B5,si: 01D6B982708C7AB0000000B6,bf: 3,ru: [{cp: 01D6B982708C7AB0000000B2,ch: [{cc: 2,ci: 1936024420,co: 01D6B982708B1B20000000AB},{cc: 2,ci: 1668246628,co: 01D6B982708B6940000000AC},{t:  },{cc: 3,ci: 627600491,co: 01D6B982708B6940000000AD}]},{cp: 01D6B982708C7AB0000000B3,ch: [{t: han@gowow.co.kr}]},{cp: 01D6B982708C7AB0000000B2,ch: [{cc: 4,ci: 6843499,co: 01D6B982708B6940000000AF},{t:  로 문의주시면 됩니다.}]}]}},sl: { },cs: {01D6B982708B1B20000000AB: {po: 01D6B982708B6940000000AE,cc: 2,ci: 1936024420,td: 0,tv: false,sc: 1134,ts: 8000,ms: ,os: ,gl: 0,gc: 0,gw: false,ns: 0,np: 0,ni: 0,nt: 0,ne: 0,hh: false,hf: false,hm: false,fb: false,hb: false,fi: false,hi: false,hp: false,he: false,sl: false,lr: 0,lc: 0,ld: 0,ls: 0,pp: {ls: false,wi: 59528,he: 84188,gt: 0,ml: 8504,mr: 8504,mt: 5668,mb: 4252,mh: 4252,mf: 4252,mg: 0},fn: {at: 0,au: ,ap: ,ac: ),as: false,ll: -1,lt: 1,lw: 1,lc: 0,sa: 850,sb: 567,st: 283,nt: 0,nn: 1,pp: 0,pb: false},en: {at: 0,au: ,ap: ,ac: ),as: false,ll: -4,lt: 1,lw: 1,lc: 0,sa: 850,sb: 567,st: 0,nt: 0,nn: 1,pp: 0,pb: false},pb: [{ty: 0,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417},{ty: 1,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417},{ty: 2,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417}],mp: [ ]},01D6B982708B6940000000AC: {po: 01D6B982708B6940000000AE,cc: 2,ci: 1668246628,ty: 0,la: 0,co: 1,ss: true,sg: 0,lt: 0,lw: 0,lc: 0,cs: [ ]},01D6B982708B6940000000AD: {po: 01D6B982708B6940000000AE,cc: 3,ci: 627600491,fb: {id: 1500617595,ty: 627600491,ed: false,di: true,pa: {fi: false,pr: 0,co: mailto:han@gowow.co.kr;2;0;0},zo: 4294967295,fi: 627600491}},01D6B982708B6940000000AF: {fo: 01D6B982708B6940000000AD,cc: 4,ci: 6843499,zo: 4294967295}},bi: [ ],bidt: { }}--></div><p></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span lang=EN-US style=font-family: Verdana, sans-serif;> </span><a href=mailto:han@gowow.co.kr><u style=text-underline:#0000ff single><span lang=EN-US style=letter-spacing: 0pt; color: rgb(0, 0, 255); font-family: Verdana, sans-serif;>han@gowow.co.kr</span></u></a><span lang=EN-US style=font-family: Verdana, sans-serif;> </span><span style=font-family: Verdana, sans-serif;>로 문의주세요!</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>||고객센터 운영시간은</span><span style=font-family: Verdana, sans-serif;><br></span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>평일 10:00~17:00이며,</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>주말과 공휴일은 휴무입니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:15:11
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 사용료 궁금해 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "사용료 궁금해" 
+
+ 시나리오 결과 값 : 
+ que_id :  CE7D9171_1DAE_54A4_172
+ que_id1 : 8404696F_A06F_3A2C_172
+ que_id2 : CEB992D7_ACAA_1A4E_172
+ que_id3 : 7E95F99F_5529_62A7_162
+ que_id4 : F25EE803_EBB9_9C57_172
+ que_id5 : 8E003A83_7F87_97D4_172
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CE7D9171_1DAE_54A4
+ scn_que_id1 : 8404696F_A06F_3A2C
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : 7E95F99F_5529_62A7
+ scn_que_id4 : F25EE803_EBB9_9C57
+ 확률 : 선택질문 확률 : 5308//2500
+{"answercode":"1", "ai_msg": "비용 안내 및 체험 사용 기간 | WOW POS 고객센터 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"},{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:15:15
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 2 || 질문내용 : 비용 안내 및 체험 사용 기간 || 질문아이디1 : CE7D9171 || 질문아이디2 : 1DAE || 질문아이디3 : 54A4 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "비용이 어떻게 되나요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  CE7D9171_1DAE_54A4_172
+ que_id1 : 7E95F99F_5529_62A7_162
+ que_id2 : 8404696F_A06F_3A2C_172
+ que_id3 : F25EE803_EBB9_9C57_172
+ que_id4 : 8E003A83_7F87_97D4_172
+ que_id5 : CEB992D7_ACAA_1A4E_172
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CE7D9171_1DAE_54A4
+ scn_que_id1 : 7E95F99F_5529_62A7
+ scn_que_id2 : 8404696F_A06F_3A2C
+ scn_que_id3 : F25EE803_EBB9_9C57
+ scn_que_id4 : 8E003A83_7F87_97D4
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>월 사용료는 9,000원(부가세 별도)입니다.</span></p><p><span style=font-family: Verdana, sans-serif;>하지만 경리나라 스토어를 통해 구입하신 고객님께서는</span></p><p><span style=font-family: Verdana, sans-serif;>제휴 상품 가격으로 사용하실 수 있습니다.</span></p><p><span style=font-family: Verdana, sans-serif;>자세한 내용은 아래 표를 참고해주세요!&nbsp;</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>٩</span><span lang=EN-US style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>(</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ˊ</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ᗜ</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ˋ</span><span lang=EN-US style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>*)</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>و</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>||</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;><br></span></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052433179900.png", "qustType": "","questionID": [{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:15:57
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 와우포스 사용료 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "와우포스 사용료" 
+
+ 시나리오 결과 값 : 
+ que_id :  CE7D9171_1DAE_54A4_172
+ que_id1 : CEB992D7_ACAA_1A4E_172
+ que_id2 : 8E003A83_7F87_97D4_172
+ que_id3 : 7E95F99F_5529_62A7_162
+ que_id4 : F25EE803_EBB9_9C57_172
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CE7D9171_1DAE_54A4
+ scn_que_id1 : CEB992D7_ACAA_1A4E
+ scn_que_id2 : 8E003A83_7F87_97D4
+ scn_que_id3 : 7E95F99F_5529_62A7
+ scn_que_id4 : F25EE803_EBB9_9C57
+ 확률 : 선택질문 확률 : 7590//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>월 사용료는 9,000원(부가세 별도)입니다.</span></p><p><span style=font-family: Verdana, sans-serif;>하지만 경리나라 스토어를 통해 구입하신 고객님께서는</span></p><p><span style=font-family: Verdana, sans-serif;>제휴 상품 가격으로 사용하실 수 있습니다.</span></p><p><span style=font-family: Verdana, sans-serif;>자세한 내용은 아래 표를 참고해주세요!&nbsp;</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>٩</span><span lang=EN-US style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>(</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ˊ</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ᗜ</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ˋ</span><span lang=EN-US style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>*)</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>و</span></p><p><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;><br></span></p><p><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;><br></span></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052433179900.png", "qustType": "","questionID": [{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:16:36
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 고객센터 어디로? || 질문아이디1 : CE7D9171 || 질문아이디2 : 1DAE || 질문아이디3 : 54A4 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "고객센터 어디로?" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 4987//2500
+{"answercode":"1", "ai_msg": "WOW POS 고객센터 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:16:40
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 2 || 질문내용 : WOW POS 고객센터 || 질문아이디1 : 8404696F || 질문아이디2 : A06F || 질문아이디3 : 3A2C || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "문의드릴 게 있는데 어디로 연락하면 되나요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : 7E95F99F_5529_62A7_162
+ que_id2 : CE7D9171_1DAE_54A4_172
+ que_id3 : F25EE803_EBB9_9C57_172
+ que_id4 : 8E003A83_7F87_97D4_172
+ que_id5 : CEB992D7_ACAA_1A4E_172
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : 7E95F99F_5529_62A7
+ scn_que_id2 : CE7D9171_1DAE_54A4
+ scn_que_id3 : F25EE803_EBB9_9C57
+ scn_que_id4 : 8E003A83_7F87_97D4
+ 확률 : 선택질문 확률 : 9974//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>고객센터 1670-3905로 전화주시거나,</span></p><p></p><div id=hwpEditorBoardContent class=hwp_editor_board_content data-hjsonver=1.0 data-jsonlen=7019><!--[data-hwpjson]{documentPr: {di: ,dp: {dn: test.hwp,ta: 1,d1: 5,d2: 0,dv: 5,dr: 1,do: 1,vj: 1.1,an: Hancom Office Hangul,av: 10, 0, 0, 6636,ao: WIN,ab: 32,ar: LE,as: Windows_8},dis: false,ds: {ti: han,la: ko,cr: wow-work-pc,su: ,de: ,cd: 2020-11-13T15:01:33.172Z,md: 2020-11-13T15:01:33.299Z,pd: 1601-01-01T09:00:00.000Z,ke: }},dh: {do: {pa: 1,fo: 1,en: 1,pi: 1,tb: 1,eq: 1},fo: [ ],cd: {tp: 0,lc: {af: false,ui: false,fu: false,dn: false,ul: false,el: false,at: false,tq: false,da: false,dw: false,dj: false,bc: false,bu: false,al: false,ab: false,ap: false,an: false,aa: false,ds: false,de: false,as: false,cp: false,ao: false,et: false,ay: false,am: false,a1: false,bt: false,av: false,dh: false,dp: false,d1: false,mf: false,bl: false,ag: false,dg: false,ae: false,df: false,do: false,dl: false,di: false,d2: false,d3: false,ob: false,d4: false,ev: false,d5: false,d6: false,a2: false,dc: false}},ld: {pa: ,pi: true,fo: false}},bf: {01D6B982708C53A0000000B0: {id: 1,td: false,sh: false,st: 0,sc: 0,si: false,bt: 0,bi: false,cl: 0,bc: false,lt: 0,lw: 0,lc: 0,rt: 0,rw: 0,rc: 0,tt: 0,tw: 0,tc: 0,bbt: 0,bbw: 0,bbc: 0,dt: 1,dw: 0,dc: 0,fi: { }},01D6B982708C53A0000000B1: {id: 2,td: false,sh: false,st: 0,sc: 0,si: false,bt: 0,bi: false,cl: 0,bc: false,lt: 0,lw: 0,lc: 0,rt: 0,rw: 0,rc: 0,tt: 0,tw: 0,tc: 0,bbt: 0,bbw: 0,bbc: 0,dt: 1,dw: 0,dc: 0,fi: {wb: {fc: 4294967295,hc: 10066329,al: 0,hs: -1}}}},cp: {01D6B982708C7AB0000000B2: {id: 0,he: 1000,tc: 0,sc: 4294967295,uf: false,uk: false,sm: 0,bf: 01D6B982708C53A0000000B1,f1: 함초롬바탕,t1: 1,f2: 함초롬바탕,t2: 1,f3: 함초롬바탕,t3: 1,f4: 함초롬바탕,t4: 1,f5: 함초롬바탕,t5: 1,f6: 함초롬바탕,t6: 1,f7: 함초롬바탕,t7: 1,r1: 100,r2: 100,r3: 100,r4: 100,r5: 100,r6: 100,r7: 100,s1: 0,s2: 0,s3: 0,s4: 0,s5: 0,s6: 0,s7: 0,e1: 100,e2: 100,e3: 100,e4: 100,e5: 100,e6: 100,e7: 100,o1: 0,o2: 0,o3: 0,o4: 0,o5: 0,o6: 0,o7: 0,it: false,bo: false,ut: 0,us: 1,uc: 0,st: false,ss: 1,so: 0,ot: 0,ht: 0,hc: 0,hx: 0,hy: 0,em: false,en: false,su: false,sb: false},01D6B982708C7AB0000000B3: {id: 1,he: 1000,tc: 16711680,sc: 4294967295,uf: false,uk: false,sm: 0,bf: 01D6B982708C53A0000000B1,f1: 함초롬바탕,t1: 1,f2: 함초롬바탕,t2: 1,f3: 함초롬바탕,t3: 1,f4: 함초롬바탕,t4: 1,f5: 함초롬바탕,t5: 1,f6: 함초롬바탕,t6: 1,f7: 함초롬바탕,t7: 1,r1: 100,r2: 100,r3: 100,r4: 100,r5: 100,r6: 100,r7: 100,s1: 0,s2: 0,s3: 0,s4: 0,s5: 0,s6: 0,s7: 0,e1: 100,e2: 100,e3: 100,e4: 100,e5: 100,e6: 100,e7: 100,o1: 0,o2: 0,o3: 0,o4: 0,o5: 0,o6: 0,o7: 0,it: false,bo: false,ut: 1,us: 1,uc: 16711680,st: false,ss: 1,so: 0,ot: 0,ht: 0,hc: 0,hx: 0,hy: 0,em: false,en: false,su: false,sb: false}},tp: {01D6B982708C7AB0000000B4: {id: 0,al: false,ar: false,tp: [ ]}},nu: { },bu: { },pp: {01D6B982708C7AB0000000B5: {id: 0,ah: 0,av: 0,ht: 0,hi: ,hl: 0,tp: 01D6B982708C7AB0000000B4,kb: 0,kn: true,ko: false,kk: false,kl: false,kp: false,kw: 0,co: 0,fl: false,st: true,sl: false,ae: false,aa: false,mi: 0,ml: 0,mr: 0,mp: 0,mn: 0,lt: 0,lv: 160,bf: 01D6B982708C53A0000000B1,bl: 0,br: 0,bt: 0,bb: 0,bc: false,bi: false}},st: {01D6B982708C7AB0000000B6: {id: 0,ty: 0,na: 바탕글,en: Normal,pp: 01D6B982708C7AB0000000B5,cp: 01D6B982708C7AB0000000B2,ns: 01D6B982708C7AB0000000B6,li: 1042,lf: false}},mp: { },ro: {hp: 01D6B982708B6940000000AE,01D6B982708B6940000000AE: {np: ,id: 0,pp: 01D6B982708C7AB0000000B5,si: 01D6B982708C7AB0000000B6,bf: 3,ru: [{cp: 01D6B982708C7AB0000000B2,ch: [{cc: 2,ci: 1936024420,co: 01D6B982708B1B20000000AB},{cc: 2,ci: 1668246628,co: 01D6B982708B6940000000AC},{t:  },{cc: 3,ci: 627600491,co: 01D6B982708B6940000000AD}]},{cp: 01D6B982708C7AB0000000B3,ch: [{t: han@gowow.co.kr}]},{cp: 01D6B982708C7AB0000000B2,ch: [{cc: 4,ci: 6843499,co: 01D6B982708B6940000000AF},{t:  로 문의주시면 됩니다.}]}]}},sl: { },cs: {01D6B982708B1B20000000AB: {po: 01D6B982708B6940000000AE,cc: 2,ci: 1936024420,td: 0,tv: false,sc: 1134,ts: 8000,ms: ,os: ,gl: 0,gc: 0,gw: false,ns: 0,np: 0,ni: 0,nt: 0,ne: 0,hh: false,hf: false,hm: false,fb: false,hb: false,fi: false,hi: false,hp: false,he: false,sl: false,lr: 0,lc: 0,ld: 0,ls: 0,pp: {ls: false,wi: 59528,he: 84188,gt: 0,ml: 8504,mr: 8504,mt: 5668,mb: 4252,mh: 4252,mf: 4252,mg: 0},fn: {at: 0,au: ,ap: ,ac: ),as: false,ll: -1,lt: 1,lw: 1,lc: 0,sa: 850,sb: 567,st: 283,nt: 0,nn: 1,pp: 0,pb: false},en: {at: 0,au: ,ap: ,ac: ),as: false,ll: -4,lt: 1,lw: 1,lc: 0,sa: 850,sb: 567,st: 0,nt: 0,nn: 1,pp: 0,pb: false},pb: [{ty: 0,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417},{ty: 1,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417},{ty: 2,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417}],mp: [ ]},01D6B982708B6940000000AC: {po: 01D6B982708B6940000000AE,cc: 2,ci: 1668246628,ty: 0,la: 0,co: 1,ss: true,sg: 0,lt: 0,lw: 0,lc: 0,cs: [ ]},01D6B982708B6940000000AD: {po: 01D6B982708B6940000000AE,cc: 3,ci: 627600491,fb: {id: 1500617595,ty: 627600491,ed: false,di: true,pa: {fi: false,pr: 0,co: mailto:han@gowow.co.kr;2;0;0},zo: 4294967295,fi: 627600491}},01D6B982708B6940000000AF: {fo: 01D6B982708B6940000000AD,cc: 4,ci: 6843499,zo: 4294967295}},bi: [ ],bidt: { }}--></div><p></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span lang=EN-US style=font-family: Verdana, sans-serif;> </span><a href=mailto:han@gowow.co.kr><u style=text-underline:#0000ff single><span lang=EN-US style=letter-spacing: 0pt; color: rgb(0, 0, 255); font-family: Verdana, sans-serif;>han@gowow.co.kr</span></u></a><span lang=EN-US style=font-family: Verdana, sans-serif;> </span><span style=font-family: Verdana, sans-serif;>로 문의주세요!</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>||고객센터 운영시간은</span><span style=font-family: Verdana, sans-serif;><br></span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>평일 10:00~17:00이며,</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>주말과 공휴일은 휴무입니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:17:40
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : WOW POS 고객센터 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "WOW POS 고객센터" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 4885//2500
+{"answercode":"1", "ai_msg": "WOW POS 고객센터 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:17:44
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 2 || 질문내용 : WOW POS 고객센터 || 질문아이디1 : 8404696F || 질문아이디2 : A06F || 질문아이디3 : 3A2C || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "문의드릴 게 있는데 어디로 연락하면 되나요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : 7E95F99F_5529_62A7_162
+ que_id2 : CE7D9171_1DAE_54A4_172
+ que_id3 : F25EE803_EBB9_9C57_172
+ que_id4 : 8E003A83_7F87_97D4_172
+ que_id5 : CEB992D7_ACAA_1A4E_172
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : 7E95F99F_5529_62A7
+ scn_que_id2 : CE7D9171_1DAE_54A4
+ scn_que_id3 : F25EE803_EBB9_9C57
+ scn_que_id4 : 8E003A83_7F87_97D4
+ 확률 : 선택질문 확률 : 9974//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>고객센터 1670-3905로 전화주시거나,</span></p><p></p><div id=hwpEditorBoardContent class=hwp_editor_board_content data-hjsonver=1.0 data-jsonlen=7019><!--[data-hwpjson]{documentPr: {di: ,dp: {dn: test.hwp,ta: 1,d1: 5,d2: 0,dv: 5,dr: 1,do: 1,vj: 1.1,an: Hancom Office Hangul,av: 10, 0, 0, 6636,ao: WIN,ab: 32,ar: LE,as: Windows_8},dis: false,ds: {ti: han,la: ko,cr: wow-work-pc,su: ,de: ,cd: 2020-11-13T15:01:33.172Z,md: 2020-11-13T15:01:33.299Z,pd: 1601-01-01T09:00:00.000Z,ke: }},dh: {do: {pa: 1,fo: 1,en: 1,pi: 1,tb: 1,eq: 1},fo: [ ],cd: {tp: 0,lc: {af: false,ui: false,fu: false,dn: false,ul: false,el: false,at: false,tq: false,da: false,dw: false,dj: false,bc: false,bu: false,al: false,ab: false,ap: false,an: false,aa: false,ds: false,de: false,as: false,cp: false,ao: false,et: false,ay: false,am: false,a1: false,bt: false,av: false,dh: false,dp: false,d1: false,mf: false,bl: false,ag: false,dg: false,ae: false,df: false,do: false,dl: false,di: false,d2: false,d3: false,ob: false,d4: false,ev: false,d5: false,d6: false,a2: false,dc: false}},ld: {pa: ,pi: true,fo: false}},bf: {01D6B982708C53A0000000B0: {id: 1,td: false,sh: false,st: 0,sc: 0,si: false,bt: 0,bi: false,cl: 0,bc: false,lt: 0,lw: 0,lc: 0,rt: 0,rw: 0,rc: 0,tt: 0,tw: 0,tc: 0,bbt: 0,bbw: 0,bbc: 0,dt: 1,dw: 0,dc: 0,fi: { }},01D6B982708C53A0000000B1: {id: 2,td: false,sh: false,st: 0,sc: 0,si: false,bt: 0,bi: false,cl: 0,bc: false,lt: 0,lw: 0,lc: 0,rt: 0,rw: 0,rc: 0,tt: 0,tw: 0,tc: 0,bbt: 0,bbw: 0,bbc: 0,dt: 1,dw: 0,dc: 0,fi: {wb: {fc: 4294967295,hc: 10066329,al: 0,hs: -1}}}},cp: {01D6B982708C7AB0000000B2: {id: 0,he: 1000,tc: 0,sc: 4294967295,uf: false,uk: false,sm: 0,bf: 01D6B982708C53A0000000B1,f1: 함초롬바탕,t1: 1,f2: 함초롬바탕,t2: 1,f3: 함초롬바탕,t3: 1,f4: 함초롬바탕,t4: 1,f5: 함초롬바탕,t5: 1,f6: 함초롬바탕,t6: 1,f7: 함초롬바탕,t7: 1,r1: 100,r2: 100,r3: 100,r4: 100,r5: 100,r6: 100,r7: 100,s1: 0,s2: 0,s3: 0,s4: 0,s5: 0,s6: 0,s7: 0,e1: 100,e2: 100,e3: 100,e4: 100,e5: 100,e6: 100,e7: 100,o1: 0,o2: 0,o3: 0,o4: 0,o5: 0,o6: 0,o7: 0,it: false,bo: false,ut: 0,us: 1,uc: 0,st: false,ss: 1,so: 0,ot: 0,ht: 0,hc: 0,hx: 0,hy: 0,em: false,en: false,su: false,sb: false},01D6B982708C7AB0000000B3: {id: 1,he: 1000,tc: 16711680,sc: 4294967295,uf: false,uk: false,sm: 0,bf: 01D6B982708C53A0000000B1,f1: 함초롬바탕,t1: 1,f2: 함초롬바탕,t2: 1,f3: 함초롬바탕,t3: 1,f4: 함초롬바탕,t4: 1,f5: 함초롬바탕,t5: 1,f6: 함초롬바탕,t6: 1,f7: 함초롬바탕,t7: 1,r1: 100,r2: 100,r3: 100,r4: 100,r5: 100,r6: 100,r7: 100,s1: 0,s2: 0,s3: 0,s4: 0,s5: 0,s6: 0,s7: 0,e1: 100,e2: 100,e3: 100,e4: 100,e5: 100,e6: 100,e7: 100,o1: 0,o2: 0,o3: 0,o4: 0,o5: 0,o6: 0,o7: 0,it: false,bo: false,ut: 1,us: 1,uc: 16711680,st: false,ss: 1,so: 0,ot: 0,ht: 0,hc: 0,hx: 0,hy: 0,em: false,en: false,su: false,sb: false}},tp: {01D6B982708C7AB0000000B4: {id: 0,al: false,ar: false,tp: [ ]}},nu: { },bu: { },pp: {01D6B982708C7AB0000000B5: {id: 0,ah: 0,av: 0,ht: 0,hi: ,hl: 0,tp: 01D6B982708C7AB0000000B4,kb: 0,kn: true,ko: false,kk: false,kl: false,kp: false,kw: 0,co: 0,fl: false,st: true,sl: false,ae: false,aa: false,mi: 0,ml: 0,mr: 0,mp: 0,mn: 0,lt: 0,lv: 160,bf: 01D6B982708C53A0000000B1,bl: 0,br: 0,bt: 0,bb: 0,bc: false,bi: false}},st: {01D6B982708C7AB0000000B6: {id: 0,ty: 0,na: 바탕글,en: Normal,pp: 01D6B982708C7AB0000000B5,cp: 01D6B982708C7AB0000000B2,ns: 01D6B982708C7AB0000000B6,li: 1042,lf: false}},mp: { },ro: {hp: 01D6B982708B6940000000AE,01D6B982708B6940000000AE: {np: ,id: 0,pp: 01D6B982708C7AB0000000B5,si: 01D6B982708C7AB0000000B6,bf: 3,ru: [{cp: 01D6B982708C7AB0000000B2,ch: [{cc: 2,ci: 1936024420,co: 01D6B982708B1B20000000AB},{cc: 2,ci: 1668246628,co: 01D6B982708B6940000000AC},{t:  },{cc: 3,ci: 627600491,co: 01D6B982708B6940000000AD}]},{cp: 01D6B982708C7AB0000000B3,ch: [{t: han@gowow.co.kr}]},{cp: 01D6B982708C7AB0000000B2,ch: [{cc: 4,ci: 6843499,co: 01D6B982708B6940000000AF},{t:  로 문의주시면 됩니다.}]}]}},sl: { },cs: {01D6B982708B1B20000000AB: {po: 01D6B982708B6940000000AE,cc: 2,ci: 1936024420,td: 0,tv: false,sc: 1134,ts: 8000,ms: ,os: ,gl: 0,gc: 0,gw: false,ns: 0,np: 0,ni: 0,nt: 0,ne: 0,hh: false,hf: false,hm: false,fb: false,hb: false,fi: false,hi: false,hp: false,he: false,sl: false,lr: 0,lc: 0,ld: 0,ls: 0,pp: {ls: false,wi: 59528,he: 84188,gt: 0,ml: 8504,mr: 8504,mt: 5668,mb: 4252,mh: 4252,mf: 4252,mg: 0},fn: {at: 0,au: ,ap: ,ac: ),as: false,ll: -1,lt: 1,lw: 1,lc: 0,sa: 850,sb: 567,st: 283,nt: 0,nn: 1,pp: 0,pb: false},en: {at: 0,au: ,ap: ,ac: ),as: false,ll: -4,lt: 1,lw: 1,lc: 0,sa: 850,sb: 567,st: 0,nt: 0,nn: 1,pp: 0,pb: false},pb: [{ty: 0,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417},{ty: 1,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417},{ty: 2,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417}],mp: [ ]},01D6B982708B6940000000AC: {po: 01D6B982708B6940000000AE,cc: 2,ci: 1668246628,ty: 0,la: 0,co: 1,ss: true,sg: 0,lt: 0,lw: 0,lc: 0,cs: [ ]},01D6B982708B6940000000AD: {po: 01D6B982708B6940000000AE,cc: 3,ci: 627600491,fb: {id: 1500617595,ty: 627600491,ed: false,di: true,pa: {fi: false,pr: 0,co: mailto:han@gowow.co.kr;2;0;0},zo: 4294967295,fi: 627600491}},01D6B982708B6940000000AF: {fo: 01D6B982708B6940000000AD,cc: 4,ci: 6843499,zo: 4294967295}},bi: [ ],bidt: { }}--></div><p></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span lang=EN-US style=font-family: Verdana, sans-serif;> </span><span lang=EN-US style=letter-spacing: 0pt; color: rgb(0, 0, 255); font-family: Verdana, sans-serif;><span style=color: rgb(18, 52, 86);></span><span style=color: rgb(18, 52, 86);>han@gowow.co.kr</span></span><span lang=EN-US style=font-family: Verdana, sans-serif;> </span><span style=font-family: Verdana, sans-serif;>로 문의주세요!</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>||고객센터 운영시간은</span><span style=font-family: Verdana, sans-serif;><br></span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>평일 10:00~17:00이며,</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>주말과 공휴일은 휴무입니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:37:27
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 컴퓨터에서 쓸 수 있어요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "컴퓨터에서 쓸 수 있어요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  7E95F99F_5529_62A7_172
+ que_id1 : CE7D9171_1DAE_54A4_172
+ que_id2 : CEB992D7_ACAA_1A4E_172
+ que_id3 : F25EE803_EBB9_9C57_172
+ que_id4 : 8E003A83_7F87_97D4_172
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7E95F99F_5529_62A7
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : F25EE803_EBB9_9C57
+ scn_que_id4 : 8E003A83_7F87_97D4
+ 확률 : 선택질문 확률 : 6342//2500
+{"answercode":"1", "ai_msg": "PC에서 WOW POS 사용 | 비용 안내 및 체험 사용 기간 | WOW POS 사용 가능 기종 | 아이패드 사용 가능 여부 | 기존에 사용하던 포스가 있는 경우 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7E95F99F","s2": "5529","s3":"62A7","s4":"172"},{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"},{"s1":"CEB992D7","s2": "ACAA","s3":"1A4E","s4":"172"},{"s1":"F25EE803","s2": "EBB9","s3":"9C57","s4":"172"},{"s1":"8E003A83","s2": "7F87","s3":"97D4","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:37:34
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 2 || 질문내용 : PC에서 WOW POS 사용 || 질문아이디1 : 7E95F99F || 질문아이디2 : 5529 || 질문아이디3 : 62A7 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "PC에서 WOW POS 사용" 
+
+ 시나리오 결과 값 : 
+ que_id :  7E95F99F_5529_62A7_172
+ que_id1 : CEB992D7_ACAA_1A4E_172
+ que_id2 : CE7D9171_1DAE_54A4_172
+ que_id3 : 8404696F_A06F_3A2C_172
+ que_id4 : F25EE803_EBB9_9C57_172
+ que_id5 : 8E003A83_7F87_97D4_172
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7E95F99F_5529_62A7
+ scn_que_id1 : CEB992D7_ACAA_1A4E
+ scn_que_id2 : CE7D9171_1DAE_54A4
+ scn_que_id3 : 8404696F_A06F_3A2C
+ scn_que_id4 : F25EE803_EBB9_9C57
+ 확률 : 선택질문 확률 : 9972//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>PC에서 포스 프로그램 사용은 안되지만,</span></p><p><span style=font-family: Verdana, sans-serif;>사장님(관리자) 전용 백오피스가 따로 있어</span></p><p><span style=font-family: Verdana, sans-serif;>PC에서 <b>매출정산, 매장관리, 상품(일괄)등록, 메뉴수정</b> 등</span></p><p><span style=font-family: Verdana, sans-serif;><b>다양한 기능</b>을 사용하실 수 있습니다!</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7E95F99F","s2": "5529","s3":"62A7","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:37:59
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 고객센터 전화번호 || 질문아이디1 : 7E95F99F || 질문아이디2 : 5529 || 질문아이디3 : 62A7 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "고객센터 전화번호" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 5632//2500
+{"answercode":"1", "ai_msg": "WOW POS 고객센터 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:38:03
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 2 || 질문내용 : WOW POS 고객센터 || 질문아이디1 : 8404696F || 질문아이디2 : A06F || 질문아이디3 : 3A2C || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "WOW POS 고객센터" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : 7E95F99F_5529_62A7_172
+ que_id2 : CEB992D7_ACAA_1A4E_172
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : 7E95F99F_5529_62A7
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9979//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>고객센터 1670-3905로 전화주시거나,</span></p><p></p><div id=hwpEditorBoardContent class=hwp_editor_board_content data-hjsonver=1.0 data-jsonlen=7019><!--[data-hwpjson]{documentPr: {di: ,dp: {dn: test.hwp,ta: 1,d1: 5,d2: 0,dv: 5,dr: 1,do: 1,vj: 1.1,an: Hancom Office Hangul,av: 10, 0, 0, 6636,ao: WIN,ab: 32,ar: LE,as: Windows_8},dis: false,ds: {ti: han,la: ko,cr: wow-work-pc,su: ,de: ,cd: 2020-11-13T15:01:33.172Z,md: 2020-11-13T15:01:33.299Z,pd: 1601-01-01T09:00:00.000Z,ke: }},dh: {do: {pa: 1,fo: 1,en: 1,pi: 1,tb: 1,eq: 1},fo: [ ],cd: {tp: 0,lc: {af: false,ui: false,fu: false,dn: false,ul: false,el: false,at: false,tq: false,da: false,dw: false,dj: false,bc: false,bu: false,al: false,ab: false,ap: false,an: false,aa: false,ds: false,de: false,as: false,cp: false,ao: false,et: false,ay: false,am: false,a1: false,bt: false,av: false,dh: false,dp: false,d1: false,mf: false,bl: false,ag: false,dg: false,ae: false,df: false,do: false,dl: false,di: false,d2: false,d3: false,ob: false,d4: false,ev: false,d5: false,d6: false,a2: false,dc: false}},ld: {pa: ,pi: true,fo: false}},bf: {01D6B982708C53A0000000B0: {id: 1,td: false,sh: false,st: 0,sc: 0,si: false,bt: 0,bi: false,cl: 0,bc: false,lt: 0,lw: 0,lc: 0,rt: 0,rw: 0,rc: 0,tt: 0,tw: 0,tc: 0,bbt: 0,bbw: 0,bbc: 0,dt: 1,dw: 0,dc: 0,fi: { }},01D6B982708C53A0000000B1: {id: 2,td: false,sh: false,st: 0,sc: 0,si: false,bt: 0,bi: false,cl: 0,bc: false,lt: 0,lw: 0,lc: 0,rt: 0,rw: 0,rc: 0,tt: 0,tw: 0,tc: 0,bbt: 0,bbw: 0,bbc: 0,dt: 1,dw: 0,dc: 0,fi: {wb: {fc: 4294967295,hc: 10066329,al: 0,hs: -1}}}},cp: {01D6B982708C7AB0000000B2: {id: 0,he: 1000,tc: 0,sc: 4294967295,uf: false,uk: false,sm: 0,bf: 01D6B982708C53A0000000B1,f1: 함초롬바탕,t1: 1,f2: 함초롬바탕,t2: 1,f3: 함초롬바탕,t3: 1,f4: 함초롬바탕,t4: 1,f5: 함초롬바탕,t5: 1,f6: 함초롬바탕,t6: 1,f7: 함초롬바탕,t7: 1,r1: 100,r2: 100,r3: 100,r4: 100,r5: 100,r6: 100,r7: 100,s1: 0,s2: 0,s3: 0,s4: 0,s5: 0,s6: 0,s7: 0,e1: 100,e2: 100,e3: 100,e4: 100,e5: 100,e6: 100,e7: 100,o1: 0,o2: 0,o3: 0,o4: 0,o5: 0,o6: 0,o7: 0,it: false,bo: false,ut: 0,us: 1,uc: 0,st: false,ss: 1,so: 0,ot: 0,ht: 0,hc: 0,hx: 0,hy: 0,em: false,en: false,su: false,sb: false},01D6B982708C7AB0000000B3: {id: 1,he: 1000,tc: 16711680,sc: 4294967295,uf: false,uk: false,sm: 0,bf: 01D6B982708C53A0000000B1,f1: 함초롬바탕,t1: 1,f2: 함초롬바탕,t2: 1,f3: 함초롬바탕,t3: 1,f4: 함초롬바탕,t4: 1,f5: 함초롬바탕,t5: 1,f6: 함초롬바탕,t6: 1,f7: 함초롬바탕,t7: 1,r1: 100,r2: 100,r3: 100,r4: 100,r5: 100,r6: 100,r7: 100,s1: 0,s2: 0,s3: 0,s4: 0,s5: 0,s6: 0,s7: 0,e1: 100,e2: 100,e3: 100,e4: 100,e5: 100,e6: 100,e7: 100,o1: 0,o2: 0,o3: 0,o4: 0,o5: 0,o6: 0,o7: 0,it: false,bo: false,ut: 1,us: 1,uc: 16711680,st: false,ss: 1,so: 0,ot: 0,ht: 0,hc: 0,hx: 0,hy: 0,em: false,en: false,su: false,sb: false}},tp: {01D6B982708C7AB0000000B4: {id: 0,al: false,ar: false,tp: [ ]}},nu: { },bu: { },pp: {01D6B982708C7AB0000000B5: {id: 0,ah: 0,av: 0,ht: 0,hi: ,hl: 0,tp: 01D6B982708C7AB0000000B4,kb: 0,kn: true,ko: false,kk: false,kl: false,kp: false,kw: 0,co: 0,fl: false,st: true,sl: false,ae: false,aa: false,mi: 0,ml: 0,mr: 0,mp: 0,mn: 0,lt: 0,lv: 160,bf: 01D6B982708C53A0000000B1,bl: 0,br: 0,bt: 0,bb: 0,bc: false,bi: false}},st: {01D6B982708C7AB0000000B6: {id: 0,ty: 0,na: 바탕글,en: Normal,pp: 01D6B982708C7AB0000000B5,cp: 01D6B982708C7AB0000000B2,ns: 01D6B982708C7AB0000000B6,li: 1042,lf: false}},mp: { },ro: {hp: 01D6B982708B6940000000AE,01D6B982708B6940000000AE: {np: ,id: 0,pp: 01D6B982708C7AB0000000B5,si: 01D6B982708C7AB0000000B6,bf: 3,ru: [{cp: 01D6B982708C7AB0000000B2,ch: [{cc: 2,ci: 1936024420,co: 01D6B982708B1B20000000AB},{cc: 2,ci: 1668246628,co: 01D6B982708B6940000000AC},{t:  },{cc: 3,ci: 627600491,co: 01D6B982708B6940000000AD}]},{cp: 01D6B982708C7AB0000000B3,ch: [{t: han@gowow.co.kr}]},{cp: 01D6B982708C7AB0000000B2,ch: [{cc: 4,ci: 6843499,co: 01D6B982708B6940000000AF},{t:  로 문의주시면 됩니다.}]}]}},sl: { },cs: {01D6B982708B1B20000000AB: {po: 01D6B982708B6940000000AE,cc: 2,ci: 1936024420,td: 0,tv: false,sc: 1134,ts: 8000,ms: ,os: ,gl: 0,gc: 0,gw: false,ns: 0,np: 0,ni: 0,nt: 0,ne: 0,hh: false,hf: false,hm: false,fb: false,hb: false,fi: false,hi: false,hp: false,he: false,sl: false,lr: 0,lc: 0,ld: 0,ls: 0,pp: {ls: false,wi: 59528,he: 84188,gt: 0,ml: 8504,mr: 8504,mt: 5668,mb: 4252,mh: 4252,mf: 4252,mg: 0},fn: {at: 0,au: ,ap: ,ac: ),as: false,ll: -1,lt: 1,lw: 1,lc: 0,sa: 850,sb: 567,st: 283,nt: 0,nn: 1,pp: 0,pb: false},en: {at: 0,au: ,ap: ,ac: ),as: false,ll: -4,lt: 1,lw: 1,lc: 0,sa: 850,sb: 567,st: 0,nt: 0,nn: 1,pp: 0,pb: false},pb: [{ty: 0,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417},{ty: 1,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417},{ty: 2,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417}],mp: [ ]},01D6B982708B6940000000AC: {po: 01D6B982708B6940000000AE,cc: 2,ci: 1668246628,ty: 0,la: 0,co: 1,ss: true,sg: 0,lt: 0,lw: 0,lc: 0,cs: [ ]},01D6B982708B6940000000AD: {po: 01D6B982708B6940000000AE,cc: 3,ci: 627600491,fb: {id: 1500617595,ty: 627600491,ed: false,di: true,pa: {fi: false,pr: 0,co: mailto:han@gowow.co.kr;2;0;0},zo: 4294967295,fi: 627600491}},01D6B982708B6940000000AF: {fo: 01D6B982708B6940000000AD,cc: 4,ci: 6843499,zo: 4294967295}},bi: [ ],bidt: { }}--></div><p></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span lang=EN-US style=font-family: Verdana, sans-serif;> </span><span lang=EN-US style=letter-spacing: 0pt; color: rgb(0, 0, 255); font-family: Verdana, sans-serif;><span style=color: rgb(18, 52, 86);>han@gowow.co.kr</span></span><span lang=EN-US style=font-family: Verdana, sans-serif;> </span><span style=font-family: Verdana, sans-serif;>로 문의주세요!</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>||고객센터 운영시간은</span><span style=font-family: Verdana, sans-serif;><br></span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>평일 10:00~17:00이며,</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>주말과 공휴일은 휴무입니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:46:47
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 카드사 신규 가맹 시 절차 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드사 신규 가맹 시 절차" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : C9154054_6DC9_6D9C_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : C9154054_6DC9_6D9C
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 7424//2500
+{"answercode":"1", "ai_msg": "카드사 신규 가맹 시 절차 및 준비서류 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:46:53
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 2 || 질문내용 : 카드사 신규 가맹 시 절차 및 준비서류 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드사 신규 가맹 시 절차 및 준비서류" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : C9154054_6DC9_6D9C_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : C9154054_6DC9_6D9C
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>카드사 신규 가맹 시 어떻게 해야하는지 안내해드릴게요!<BR></p><p>찾으시는 내용을 선택해주세요.&nbsp;(๑•̀ㅁ•́๑)✧</p><p>$$$가맹 절차가 궁금해요</p><p>$$$준비서류가 궁금해요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:47:04
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO11_#PO11_#PO11_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO11_#PO11_#PO11
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래에서 사장님께 해당되는 내용을 선택해주세요!</p><p>$$$▶개인사업자</p><p>$$$▶법인사업자</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO11","s2": "#PO11","s3":"#PO11","s4":""}]}
+*************************************
+접속일 :  2020-11-13 15:47:29
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 카드사 신규 가맹 시 절차 및 준비서류 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드사 신규 가맹 시 절차 및 준비서류" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : C9154054_6DC9_6D9C_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : C9154054_6DC9_6D9C
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>카드사 신규 가맹 시 어떻게 해야하는지 안내해드릴게요!<BR></p><p>찾으시는 내용을 선택해주세요.&nbsp;(๑•̀ㅁ•́๑)✧</p><p>$$$가맹 절차가 궁금해요</p><p>$$$준비서류가 궁금해요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:47:33
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO12_#PO12_#PO12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO12_#PO12_#PO12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>사장님께서 준비 하셔야 하는 서류에는<br></p><p><b>개인/법인 공통서류</b>와 <b>법인추가서류</b>가 있어요.</p><p>||자세한 목록을 확인하시려면<BR><br></p><p>원하시는 내용을 선택해주세요!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 15:52:27
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 카드사 신규 가맹 시 절차 및 준비서류 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드사 신규 가맹 시 절차 및 준비서류" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : C9154054_6DC9_6D9C_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : C9154054_6DC9_6D9C
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>카드사 신규 가맹 시 어떻게 해야하는지 안내해드릴게요!<BR></p><p>찾으시는 내용을 선택해주세요.&nbsp;(๑•̀ㅁ•́๑)✧</p><p>$$$가맹 절차가 궁금해요</p><p>$$$준비서류가 궁금해요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 15:52:32
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO12_#PO12_#PO12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO12_#PO12_#PO12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>사장님께서 준비 하셔야 하는 서류에는<br></p><p><b>개인/법인 공통서류</b>와 <b>법인추가서류</b>가 있어요.</p><p>||자세한 목록을 확인하시려면<br></p><p>원하시는 내용을 선택해주세요!</p><p>$$$개인/법인 공통서류</p><p>$$$법인추가서류</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO12","s2": "#PO12","s3":"#PO12","s4":""}]}
+*************************************
+접속일 :  2020-11-13 15:52:38
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #PO12 || 질문아이디2 : #PO12 || 질문아이디3 : #PO12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO121_#PO121_#PO121_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO121_#PO121_#PO121
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p><b><u>개인/법인 공통서류</u></b>에는 다음 항목이 포함됩니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 15:52:41
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO12 || 질문아이디2 : #PO12 || 질문아이디3 : #PO12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO122_#PO122_#PO122_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO122_#PO122_#PO122
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p><b><u>법인추가서류</u></b>에는 다음 항목이 포함됩니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 16:08:05
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 가맹절차 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "가맹절차" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 3712//2500
+{"answercode":"1", "ai_msg": "카드사 신규 가맹 시 절차 및 준비서류 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 16:08:08
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 2 || 질문내용 : 카드사 신규 가맹 시 절차 및 준비서류 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드사 신규 가맹 시 절차 및 준비서류" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : C9154054_6DC9_6D9C_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : C9154054_6DC9_6D9C
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>카드사 신규 가맹 시 어떻게 해야하는지 안내해드릴게요!<BR></p><p>찾으시는 내용을 선택해주세요.&nbsp;(๑•̀ㅁ•́๑)✧</p><p>$$$가맹 절차가 궁금해요</p><p>$$$준비서류가 궁금해요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 16:08:11
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO11_#PO11_#PO11_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO11_#PO11_#PO11
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래에서 사장님께 해당되는 내용을 선택해주세요!</p><p>$$$▶개인사업자</p><p>$$$▶법인사업자</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO11","s2": "#PO11","s3":"#PO11","s4":""}]}
+*************************************
+접속일 :  2020-11-13 16:08:14
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #PO11 || 질문아이디2 : #PO11 || 질문아이디3 : #PO11 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO111_#PO111_#PO111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO111_#PO111_#PO111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>개인사업자의 경우,<br></p><p>다음과 같은 절차로 진행됩니다.</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052512408200.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 16:49:35
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 카드사 신규 가맹 시 절차 및 준비서류 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드사 신규 가맹 시 절차 및 준비서류" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : C9154054_6DC9_6D9C_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : C9154054_6DC9_6D9C
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>카드사 신규 가맹 시 어떻게 해야하는지 안내해드릴게요!<BR></p><p>찾으시는 내용을 선택해주세요.&nbsp;(๑•̀ㅁ•́๑)✧</p><p>$$$가맹 절차가 궁금해요</p><p>$$$준비서류가 궁금해요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 16:49:41
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO12_#PO12_#PO12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO12_#PO12_#PO12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>사장님께서 준비 하셔야 하는 서류에는<br></p><p><b>개인/법인 공통서류</b>와 <b>법인추가서류</b>가 있어요.</p><p>||자세한 목록을 확인하시려면<br></p><p>원하시는 내용을 선택해주세요!</p><p>$$$개인/법인 공통서류</p><p>$$$법인추가서류</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO12","s2": "#PO12","s3":"#PO12","s4":""}]}
+*************************************
+접속일 :  2020-11-13 16:49:46
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #PO12 || 질문아이디2 : #PO12 || 질문아이디3 : #PO12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO121_#PO121_#PO121_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO121_#PO121_#PO121
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p><b><u>개인/법인 공통서류</u></b>에는 다음 항목이 포함됩니다.</p><p><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052537139000.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 16:49:53
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO12 || 질문아이디2 : #PO12 || 질문아이디3 : #PO12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO122_#PO122_#PO122_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO122_#PO122_#PO122
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p><b><u>법인추가서류</u></b>에는 다음 항목이 포함됩니다.</p><p><br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 16:51:17
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 카드사 신규 가맹 시 절차와 준비서류 알려 주세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드사 신규 가맹 시 절차와 준비서류 알려 주세요" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : C9154054_6DC9_6D9C_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : C9154054_6DC9_6D9C
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9782//2500
+{"answercode":"4", "ai_msg": "<p>카드사 신규 가맹 시 어떻게 해야하는지 안내해드릴게요!<BR></p><p>찾으시는 내용을 선택해주세요.&nbsp;(๑•̀ㅁ•́๑)✧</p><p>$$$가맹 절차가 궁금해요</p><p>$$$준비서류가 궁금해요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 16:51:20
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO12_#PO12_#PO12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO12_#PO12_#PO12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>사장님께서 준비 하셔야 하는 서류에는<br></p><p><b>개인/법인 공통서류</b>와 <b>법인추가서류</b>가 있어요.</p><p>||자세한 목록을 확인하시려면<br></p><p>원하시는 내용을 선택해주세요!</p><p>$$$개인/법인 공통서류</p><p>$$$법인추가서류</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO12","s2": "#PO12","s3":"#PO12","s4":""}]}
+*************************************
+접속일 :  2020-11-13 16:51:25
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO12 || 질문아이디2 : #PO12 || 질문아이디3 : #PO12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO122_#PO122_#PO122_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO122_#PO122_#PO122
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p><b><u>법인추가서류</u></b>에는 다음 항목이 포함됩니다.</p><p><br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 16:51:28
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #PO12 || 질문아이디2 : #PO12 || 질문아이디3 : #PO12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO121_#PO121_#PO121_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO121_#PO121_#PO121
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p><b><u>개인/법인 공통서류</u></b>에는 다음 항목이 포함됩니다.</p><p><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052537139000.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 16:52:52
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 카드사 신규 가맹 시 절차와 준비서류 알려 주세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드사 신규 가맹 시 절차와 준비서류 알려 주세요" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : C9154054_6DC9_6D9C_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : C9154054_6DC9_6D9C
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9782//2500
+{"answercode":"4", "ai_msg": "<p>카드사 신규 가맹 시 어떻게 해야하는지 안내해드릴게요!<BR></p><p>찾으시는 내용을 선택해주세요.&nbsp;(๑•̀ㅁ•́๑)✧</p><p>$$$가맹 절차가 궁금해요</p><p>$$$준비서류가 궁금해요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 16:53:06
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO12_#PO12_#PO12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO12_#PO12_#PO12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>사장님께서 준비 하셔야 하는 서류에는<br></p><p><b>개인/법인 공통서류</b>와 <b>법인추가서류</b>가 있어요.</p><p>||자세한 목록을 확인하시려면<br></p><p>원하시는 내용을 선택해주세요!</p><p>$$$개인/법인 공통서류</p><p>$$$법인추가서류</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO12","s2": "#PO12","s3":"#PO12","s4":""}]}
+*************************************
+접속일 :  2020-11-13 16:53:15
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO12 || 질문아이디2 : #PO12 || 질문아이디3 : #PO12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO122_#PO122_#PO122_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO122_#PO122_#PO122
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p><b><u>법인추가서류</u></b>에는 다음 항목이 포함됩니다.</p><p><br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 16:53:19
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 1 || 질문내용 : 법인추가서류 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "법인추가서류" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. (ㅠㅁㅠ)<BR>너무 어려워서 무슨 말인지 모르겠어요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-13 16:53:20
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 1 || 질문내용 : 법인추가서류 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "법인추가서류" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. (ㅠㅁㅠ)<BR>너무 어려워서 무슨 말인지 모르겠어요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-13 16:55:36
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 카드사 신규 가맹 시 절차와 준비서류 알려 주세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드사 신규 가맹 시 절차와 준비서류 알려 주세요" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : C9154054_6DC9_6D9C_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : C9154054_6DC9_6D9C
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9782//2500
+{"answercode":"4", "ai_msg": "<p>카드사 신규 가맹 시 어떻게 해야하는지 안내해드릴게요!<BR></p><p>찾으시는 내용을 선택해주세요.&nbsp;(๑•̀ㅁ•́๑)✧</p><p>$$$가맹 절차가 궁금해요</p><p>$$$준비서류가 궁금해요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 16:55:39
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO12_#PO12_#PO12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO12_#PO12_#PO12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>사장님께서 준비 하셔야 하는 서류에는<br></p><p><b>개인/법인 공통서류</b>와 <b>법인추가서류</b>가 있어요.</p><p>||자세한 목록을 확인하시려면<br></p><p>원하시는 내용을 선택해주세요!</p><p>$$$개인/법인 공통서류</p><p>$$$법인추가서류</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO12","s2": "#PO12","s3":"#PO12","s4":""}]}
+*************************************
+접속일 :  2020-11-13 16:55:43
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO12 || 질문아이디2 : #PO12 || 질문아이디3 : #PO12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO122_#PO122_#PO122_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO122_#PO122_#PO122
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p><b><u>법인추가서류</u></b>에는 다음 항목이 포함됩니다.</p><p><br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 16:56:19
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO11_#PO11_#PO11_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO11_#PO11_#PO11
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래에서 사장님께 해당되는 내용을 선택해주세요!</p><p>$$$▶개인사업자</p><p>$$$▶법인사업자</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO11","s2": "#PO11","s3":"#PO11","s4":""}]}
+*************************************
+접속일 :  2020-11-13 16:56:22
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #PO11 || 질문아이디2 : #PO11 || 질문아이디3 : #PO11 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO111_#PO111_#PO111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO111_#PO111_#PO111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>개인사업자의 경우,<br></p><p>다음과 같은 절차로 진행됩니다.</p><p><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052512408200.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 16:56:29
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO11 || 질문아이디2 : #PO11 || 질문아이디3 : #PO11 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO112_#PO112_#PO112_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO112_#PO112_#PO112
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>법인사업자의 경우,<br></p><p>다음과 같은 절차로 진행됩니다.</p><p><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052512542000.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 16:57:26
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 카드사 신규 가맹 시 절차와 준비서류 알려 주세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드사 신규 가맹 시 절차와 준비서류 알려 주세요" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : C9154054_6DC9_6D9C_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : C9154054_6DC9_6D9C
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9782//2500
+{"answercode":"4", "ai_msg": "<p>카드사 신규 가맹 시 어떻게 해야하는지 안내해드릴게요!<BR></p><p>찾으시는 내용을 선택해주세요.&nbsp;(๑•̀ㅁ•́๑)✧</p><p>$$$가맹 절차가 궁금해요</p><p>$$$준비서류가 궁금해요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 16:57:30
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO11_#PO11_#PO11_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO11_#PO11_#PO11
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래에서 사장님께 해당되는 내용을 선택해주세요!</p><p>$$$▶개인사업자</p><p>$$$▶법인사업자</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO11","s2": "#PO11","s3":"#PO11","s4":""}]}
+*************************************
+접속일 :  2020-11-13 16:57:33
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #PO11 || 질문아이디2 : #PO11 || 질문아이디3 : #PO11 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO111_#PO111_#PO111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO111_#PO111_#PO111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>개인사업자의 경우,<br></p><p>다음과 같은 절차로 진행됩니다.<BR></p><p><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052512408200.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 16:57:43
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 카드사 신규 가맹 시 절차와 준비서류 알려 주세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드사 신규 가맹 시 절차와 준비서류 알려 주세요" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : C9154054_6DC9_6D9C_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : C9154054_6DC9_6D9C
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9782//2500
+{"answercode":"4", "ai_msg": "<p>카드사 신규 가맹 시 어떻게 해야하는지 안내해드릴게요!<BR></p><p>찾으시는 내용을 선택해주세요.&nbsp;(๑•̀ㅁ•́๑)✧</p><p>$$$가맹 절차가 궁금해요</p><p>$$$준비서류가 궁금해요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 16:57:46
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO11_#PO11_#PO11_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO11_#PO11_#PO11
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래에서 사장님께 해당되는 내용을 선택해주세요!</p><p>$$$▶개인사업자</p><p>$$$▶법인사업자</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO11","s2": "#PO11","s3":"#PO11","s4":""}]}
+*************************************
+접속일 :  2020-11-13 16:57:53
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO11 || 질문아이디2 : #PO11 || 질문아이디3 : #PO11 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO112_#PO112_#PO112_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO112_#PO112_#PO112
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>법인사업자의 경우,<br></p><p>다음과 같은 절차로 진행됩니다.<BR></p><p><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052512542000.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 16:58:40
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 0 || 질문내용 : 카드사 신규 가맹 시 절차와 준비서류 알려주세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드사 신규 가맹 시 절차와 준비서류 알려주세요" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : C9154054_6DC9_6D9C_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : C9154054_6DC9_6D9C
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9782//2500
+{"answercode":"4", "ai_msg": "<p>카드사 신규 가맹 시 어떻게 해야하는지 안내해드릴게요!<BR></p><p>찾으시는 내용을 선택해주세요.&nbsp;(๑•̀ㅁ•́๑)✧</p><p>$$$가맹 절차가 궁금해요</p><p>$$$준비서류가 궁금해요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 16:58:44
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO12_#PO12_#PO12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO12_#PO12_#PO12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>사장님께서 준비 하셔야 하는 서류에는<br></p><p><b>개인/법인 공통서류</b>와 <b>법인추가서류</b>가 있어요.</p><p>||자세한 목록을 확인하시려면<br></p><p>원하시는 내용을 선택해주세요!</p><p>$$$개인/법인 공통서류</p><p>$$$법인추가서류</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO12","s2": "#PO12","s3":"#PO12","s4":""}]}
+*************************************
+접속일 :  2020-11-13 16:58:49
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #PO12 || 질문아이디2 : #PO12 || 질문아이디3 : #PO12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO121_#PO121_#PO121_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO121_#PO121_#PO121
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p><b><u>개인/법인 공통서류</u></b>에는 다음 항목이 포함됩니다.<BR></p><p><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052537139000.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 16:58:56
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO12 || 질문아이디2 : #PO12 || 질문아이디3 : #PO12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO122_#PO122_#PO122_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO122_#PO122_#PO122
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p><b><u>법인추가서류</u></b>에는 다음 항목이 포함됩니다.<BR></p><p><br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 16:59:22
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 0 || 질문내용 : 아이폰에서 쓸 수 있나요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "아이폰에서 쓸 수 있나요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  CEB992D7_ACAA_1A4E_172
+ que_id1 : CE7D9171_1DAE_54A4_172
+ que_id2 : F25EE803_EBB9_9C57_172
+ que_id3 : 7E95F99F_5529_62A7_172
+ que_id4 : 8E003A83_7F87_97D4_172
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CEB992D7_ACAA_1A4E
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : F25EE803_EBB9_9C57
+ scn_que_id3 : 7E95F99F_5529_62A7
+ scn_que_id4 : 8E003A83_7F87_97D4
+ 확률 : 선택질문 확률 : 9977//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;><b>안드로이드 기반</b>의 <b>갤럭시 노트 5 이상</b> 기종이면 원활하게 사용하실 수 있습니다!</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CEB992D7","s2": "ACAA","s3":"1A4E","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 16:59:38
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 0 || 질문내용 : 사용료가 얼마에요? || 질문아이디1 : CEB992D7 || 질문아이디2 : ACAA || 질문아이디3 : 1A4E || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "사용료가 얼마에요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  CE7D9171_1DAE_54A4_172
+ que_id1 : CEB992D7_ACAA_1A4E_172
+ que_id2 : F25EE803_EBB9_9C57_172
+ que_id3 : 7E95F99F_5529_62A7_172
+ que_id4 : 8E003A83_7F87_97D4_172
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CE7D9171_1DAE_54A4
+ scn_que_id1 : CEB992D7_ACAA_1A4E
+ scn_que_id2 : F25EE803_EBB9_9C57
+ scn_que_id3 : 7E95F99F_5529_62A7
+ scn_que_id4 : 8E003A83_7F87_97D4
+ 확률 : 선택질문 확률 : 5413//2500
+{"answercode":"1", "ai_msg": "비용 안내 및 체험 사용 기간 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 16:59:41
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 2 || 질문내용 : 비용 안내 및 체험 사용 기간 || 질문아이디1 : CE7D9171 || 질문아이디2 : 1DAE || 질문아이디3 : 54A4 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "비용 안내 및 체험 사용 기간" 
+
+ 시나리오 결과 값 : 
+ que_id :  CE7D9171_1DAE_54A4_172
+ que_id1 : CEB992D7_ACAA_1A4E_172
+ que_id2 : F25EE803_EBB9_9C57_172
+ que_id3 : 7E95F99F_5529_62A7_172
+ que_id4 : 8E003A83_7F87_97D4_172
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CE7D9171_1DAE_54A4
+ scn_que_id1 : CEB992D7_ACAA_1A4E
+ scn_que_id2 : F25EE803_EBB9_9C57
+ scn_que_id3 : 7E95F99F_5529_62A7
+ scn_que_id4 : 8E003A83_7F87_97D4
+ 확률 : 선택질문 확률 : 9974//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>월 사용료는 9,000원(부가세 별도)입니다.</span></p><p><span style=font-family: Verdana, sans-serif;>하지만 경리나라 스토어를 통해 구입하신 고객님께서는</span></p><p><span style=font-family: Verdana, sans-serif;>제휴 상품 가격으로 사용하실 수 있습니다.</span></p><p><span style=font-family: Verdana, sans-serif;>자세한 내용은 아래 표를 참고해주세요!&nbsp;</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>٩</span><span lang=EN-US style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>(</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ˊ</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ᗜ</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ˋ</span><span lang=EN-US style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>*)</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>و</span></p><p><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;><br></span></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052433179900.png", "qustType": "","questionID": [{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:02:00
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 0 || 질문내용 : 사용료가 얼마에요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "사용료가 얼마에요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  CE7D9171_1DAE_54A4_172
+ que_id1 : CEB992D7_ACAA_1A4E_172
+ que_id2 : F25EE803_EBB9_9C57_172
+ que_id3 : 7E95F99F_5529_62A7_172
+ que_id4 : 8E003A83_7F87_97D4_172
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CE7D9171_1DAE_54A4
+ scn_que_id1 : CEB992D7_ACAA_1A4E
+ scn_que_id2 : F25EE803_EBB9_9C57
+ scn_que_id3 : 7E95F99F_5529_62A7
+ scn_que_id4 : 8E003A83_7F87_97D4
+ 확률 : 선택질문 확률 : 5413//2500
+{"answercode":"1", "ai_msg": "비용 안내 및 체험 사용 기간 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:02:04
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 2 || 질문내용 : 비용 안내 및 체험 사용 기간 || 질문아이디1 : CE7D9171 || 질문아이디2 : 1DAE || 질문아이디3 : 54A4 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "비용 안내 및 체험 사용 기간" 
+
+ 시나리오 결과 값 : 
+ que_id :  CE7D9171_1DAE_54A4_172
+ que_id1 : CEB992D7_ACAA_1A4E_172
+ que_id2 : F25EE803_EBB9_9C57_172
+ que_id3 : 7E95F99F_5529_62A7_172
+ que_id4 : 8E003A83_7F87_97D4_172
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CE7D9171_1DAE_54A4
+ scn_que_id1 : CEB992D7_ACAA_1A4E
+ scn_que_id2 : F25EE803_EBB9_9C57
+ scn_que_id3 : 7E95F99F_5529_62A7
+ scn_que_id4 : 8E003A83_7F87_97D4
+ 확률 : 선택질문 확률 : 9974//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>월 사용료는 9,000원(부가세 별도)입니다.</span></p><p><span style=font-family: Verdana, sans-serif;>하지만 경리나라 스토어를 통해 구입하신 고객님께서는&nbsp;</span><span style=font-family: Verdana, sans-serif; font-size: 10pt;>제휴 상품 가격으로 사용하실 수 있습니다.</span></p><p><span style=font-family: Verdana, sans-serif;>자세한 내용은 아래 표를 참고해주세요!</span></p><p><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>٩</span><span lang=EN-US style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>(</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ˊ</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ᗜ</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ˋ</span><span lang=EN-US style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>*)</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>و</span><span style=font-family: Verdana, sans-serif;><br></span></p><p><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;><br></span></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052433179900.png", "qustType": "","questionID": [{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:02:35
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 0 || 질문내용 : 아이패드 쓸 수 있어요? || 질문아이디1 : CE7D9171 || 질문아이디2 : 1DAE || 질문아이디3 : 54A4 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "아이패드 쓸 수 있어요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  F25EE803_EBB9_9C57_172
+ que_id1 : CE7D9171_1DAE_54A4_172
+ que_id2 : CEB992D7_ACAA_1A4E_172
+ que_id3 : 7E95F99F_5529_62A7_172
+ que_id4 : 8E003A83_7F87_97D4_172
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : F25EE803_EBB9_9C57
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : 7E95F99F_5529_62A7
+ scn_que_id4 : 8E003A83_7F87_97D4
+ 확률 : 선택질문 확률 : 9979//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>죄송합니다.&nbsp;</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ಡ︷ಡ)</span></p><p><span style=font-family: Verdana, sans-serif;>와우 포스는 안드로이드 기반의 포스로</span></p><p><span style=font-family: Verdana, sans-serif;>아이폰/아이패드에서는 사용하실 수 없습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"F25EE803","s2": "EBB9","s3":"9C57","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:02:54
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 0 || 질문내용 : 카드 결제 단말기는 필수 구입이에요? || 질문아이디1 : F25EE803 || 질문아이디2 : EBB9 || 질문아이디3 : 9C57 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드 결제 단말기는 필수 구입이에요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  C9154054_6DC9_6D9C_172
+ que_id1 : 8E003A83_7F87_97D4_172
+ que_id2 : CEB992D7_ACAA_1A4E_172
+ que_id3 : #PO1_#PO1_#PO1_172
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : C9154054_6DC9_6D9C
+ scn_que_id1 : 8E003A83_7F87_97D4
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : #PO1_#PO1_#PO1
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9975//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>와우 포스는 NFC, QR코드 결제가 가능하기 때문에</span></p><p><span style=font-family: Verdana, sans-serif;>카드 결제 단말기가 꼭 필요한 것은 아닙니다.</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||하지만 간혹 인터넷 환경이 불안정하여 결제가 정상적으로</span></p><p><span style=font-family: Verdana, sans-serif;>되지 않을 경우를 대비하여 블루투스 카드결제 단말기를</span></p><p><span style=font-family: Verdana, sans-serif;>옵션으로 주문하실 수 있습니다.&nbsp;</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"C9154054","s2": "6DC9","s3":"6D9C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:04:02
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 0 || 질문내용 : 문의할 게 있는데 어디로 연락하나요? || 질문아이디1 : C9154054 || 질문아이디2 : 6DC9 || 질문아이디3 : 6D9C || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "문의할 게 있는데 어디로 연락하나요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 5632//2500
+{"answercode":"1", "ai_msg": "WOW POS 고객센터 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:04:06
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 2 || 질문내용 : WOW POS 고객센터 || 질문아이디1 : 8404696F || 질문아이디2 : A06F || 질문아이디3 : 3A2C || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "WOW POS 고객센터" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : 7E95F99F_5529_62A7_172
+ que_id2 : CEB992D7_ACAA_1A4E_172
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : 7E95F99F_5529_62A7
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9979//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>고객센터 1670-3905로 전화주시거나,</span></p><p></p><div id=hwpEditorBoardContent class=hwp_editor_board_content data-hjsonver=1.0 data-jsonlen=7019><!--[data-hwpjson]{documentPr: {di: ,dp: {dn: test.hwp,ta: 1,d1: 5,d2: 0,dv: 5,dr: 1,do: 1,vj: 1.1,an: Hancom Office Hangul,av: 10, 0, 0, 6636,ao: WIN,ab: 32,ar: LE,as: Windows_8},dis: false,ds: {ti: han,la: ko,cr: wow-work-pc,su: ,de: ,cd: 2020-11-13T15:01:33.172Z,md: 2020-11-13T15:01:33.299Z,pd: 1601-01-01T09:00:00.000Z,ke: }},dh: {do: {pa: 1,fo: 1,en: 1,pi: 1,tb: 1,eq: 1},fo: [ ],cd: {tp: 0,lc: {af: false,ui: false,fu: false,dn: false,ul: false,el: false,at: false,tq: false,da: false,dw: false,dj: false,bc: false,bu: false,al: false,ab: false,ap: false,an: false,aa: false,ds: false,de: false,as: false,cp: false,ao: false,et: false,ay: false,am: false,a1: false,bt: false,av: false,dh: false,dp: false,d1: false,mf: false,bl: false,ag: false,dg: false,ae: false,df: false,do: false,dl: false,di: false,d2: false,d3: false,ob: false,d4: false,ev: false,d5: false,d6: false,a2: false,dc: false}},ld: {pa: ,pi: true,fo: false}},bf: {01D6B982708C53A0000000B0: {id: 1,td: false,sh: false,st: 0,sc: 0,si: false,bt: 0,bi: false,cl: 0,bc: false,lt: 0,lw: 0,lc: 0,rt: 0,rw: 0,rc: 0,tt: 0,tw: 0,tc: 0,bbt: 0,bbw: 0,bbc: 0,dt: 1,dw: 0,dc: 0,fi: { }},01D6B982708C53A0000000B1: {id: 2,td: false,sh: false,st: 0,sc: 0,si: false,bt: 0,bi: false,cl: 0,bc: false,lt: 0,lw: 0,lc: 0,rt: 0,rw: 0,rc: 0,tt: 0,tw: 0,tc: 0,bbt: 0,bbw: 0,bbc: 0,dt: 1,dw: 0,dc: 0,fi: {wb: {fc: 4294967295,hc: 10066329,al: 0,hs: -1}}}},cp: {01D6B982708C7AB0000000B2: {id: 0,he: 1000,tc: 0,sc: 4294967295,uf: false,uk: false,sm: 0,bf: 01D6B982708C53A0000000B1,f1: 함초롬바탕,t1: 1,f2: 함초롬바탕,t2: 1,f3: 함초롬바탕,t3: 1,f4: 함초롬바탕,t4: 1,f5: 함초롬바탕,t5: 1,f6: 함초롬바탕,t6: 1,f7: 함초롬바탕,t7: 1,r1: 100,r2: 100,r3: 100,r4: 100,r5: 100,r6: 100,r7: 100,s1: 0,s2: 0,s3: 0,s4: 0,s5: 0,s6: 0,s7: 0,e1: 100,e2: 100,e3: 100,e4: 100,e5: 100,e6: 100,e7: 100,o1: 0,o2: 0,o3: 0,o4: 0,o5: 0,o6: 0,o7: 0,it: false,bo: false,ut: 0,us: 1,uc: 0,st: false,ss: 1,so: 0,ot: 0,ht: 0,hc: 0,hx: 0,hy: 0,em: false,en: false,su: false,sb: false},01D6B982708C7AB0000000B3: {id: 1,he: 1000,tc: 16711680,sc: 4294967295,uf: false,uk: false,sm: 0,bf: 01D6B982708C53A0000000B1,f1: 함초롬바탕,t1: 1,f2: 함초롬바탕,t2: 1,f3: 함초롬바탕,t3: 1,f4: 함초롬바탕,t4: 1,f5: 함초롬바탕,t5: 1,f6: 함초롬바탕,t6: 1,f7: 함초롬바탕,t7: 1,r1: 100,r2: 100,r3: 100,r4: 100,r5: 100,r6: 100,r7: 100,s1: 0,s2: 0,s3: 0,s4: 0,s5: 0,s6: 0,s7: 0,e1: 100,e2: 100,e3: 100,e4: 100,e5: 100,e6: 100,e7: 100,o1: 0,o2: 0,o3: 0,o4: 0,o5: 0,o6: 0,o7: 0,it: false,bo: false,ut: 1,us: 1,uc: 16711680,st: false,ss: 1,so: 0,ot: 0,ht: 0,hc: 0,hx: 0,hy: 0,em: false,en: false,su: false,sb: false}},tp: {01D6B982708C7AB0000000B4: {id: 0,al: false,ar: false,tp: [ ]}},nu: { },bu: { },pp: {01D6B982708C7AB0000000B5: {id: 0,ah: 0,av: 0,ht: 0,hi: ,hl: 0,tp: 01D6B982708C7AB0000000B4,kb: 0,kn: true,ko: false,kk: false,kl: false,kp: false,kw: 0,co: 0,fl: false,st: true,sl: false,ae: false,aa: false,mi: 0,ml: 0,mr: 0,mp: 0,mn: 0,lt: 0,lv: 160,bf: 01D6B982708C53A0000000B1,bl: 0,br: 0,bt: 0,bb: 0,bc: false,bi: false}},st: {01D6B982708C7AB0000000B6: {id: 0,ty: 0,na: 바탕글,en: Normal,pp: 01D6B982708C7AB0000000B5,cp: 01D6B982708C7AB0000000B2,ns: 01D6B982708C7AB0000000B6,li: 1042,lf: false}},mp: { },ro: {hp: 01D6B982708B6940000000AE,01D6B982708B6940000000AE: {np: ,id: 0,pp: 01D6B982708C7AB0000000B5,si: 01D6B982708C7AB0000000B6,bf: 3,ru: [{cp: 01D6B982708C7AB0000000B2,ch: [{cc: 2,ci: 1936024420,co: 01D6B982708B1B20000000AB},{cc: 2,ci: 1668246628,co: 01D6B982708B6940000000AC},{t:  },{cc: 3,ci: 627600491,co: 01D6B982708B6940000000AD}]},{cp: 01D6B982708C7AB0000000B3,ch: [{t: han@gowow.co.kr}]},{cp: 01D6B982708C7AB0000000B2,ch: [{cc: 4,ci: 6843499,co: 01D6B982708B6940000000AF},{t:  로 문의주시면 됩니다.}]}]}},sl: { },cs: {01D6B982708B1B20000000AB: {po: 01D6B982708B6940000000AE,cc: 2,ci: 1936024420,td: 0,tv: false,sc: 1134,ts: 8000,ms: ,os: ,gl: 0,gc: 0,gw: false,ns: 0,np: 0,ni: 0,nt: 0,ne: 0,hh: false,hf: false,hm: false,fb: false,hb: false,fi: false,hi: false,hp: false,he: false,sl: false,lr: 0,lc: 0,ld: 0,ls: 0,pp: {ls: false,wi: 59528,he: 84188,gt: 0,ml: 8504,mr: 8504,mt: 5668,mb: 4252,mh: 4252,mf: 4252,mg: 0},fn: {at: 0,au: ,ap: ,ac: ),as: false,ll: -1,lt: 1,lw: 1,lc: 0,sa: 850,sb: 567,st: 283,nt: 0,nn: 1,pp: 0,pb: false},en: {at: 0,au: ,ap: ,ac: ),as: false,ll: -4,lt: 1,lw: 1,lc: 0,sa: 850,sb: 567,st: 0,nt: 0,nn: 1,pp: 0,pb: false},pb: [{ty: 0,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417},{ty: 1,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417},{ty: 2,bf: 01D6B982708C53A0000000B0,tb: true,hi: false,fi: false,fa: 0,ol: 1417,or: 1417,ot: 1417,ob: 1417}],mp: [ ]},01D6B982708B6940000000AC: {po: 01D6B982708B6940000000AE,cc: 2,ci: 1668246628,ty: 0,la: 0,co: 1,ss: true,sg: 0,lt: 0,lw: 0,lc: 0,cs: [ ]},01D6B982708B6940000000AD: {po: 01D6B982708B6940000000AE,cc: 3,ci: 627600491,fb: {id: 1500617595,ty: 627600491,ed: false,di: true,pa: {fi: false,pr: 0,co: mailto:han@gowow.co.kr;2;0;0},zo: 4294967295,fi: 627600491}},01D6B982708B6940000000AF: {fo: 01D6B982708B6940000000AD,cc: 4,ci: 6843499,zo: 4294967295}},bi: [ ],bidt: { }}--></div><p></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span lang=EN-US style=font-family: Verdana, sans-serif;> </span><span lang=EN-US style=letter-spacing: 0pt; color: rgb(0, 0, 255); font-family: Verdana, sans-serif;><span style=color: rgb(18, 52, 86);>han@gowow.co.kr</span></span><span lang=EN-US style=font-family: Verdana, sans-serif;> </span><span style=font-family: Verdana, sans-serif;>로 문의주세요!</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>||고객센터 운영시간은</span><span style=font-family: Verdana, sans-serif;><br></span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>평일 10:00~17:00이며,</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>주말과 공휴일은 휴무입니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:06:22
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문을 확인하세요! || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "자주 묻는 질문을 확인하세요!" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 5632//2500
+{"answercode":"1", "ai_msg": "WOW POS 고객센터 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:06:42
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 2 || 질문내용 : 컴퓨터에서도 쓸 수 있나요? || 질문아이디1 : 8404696F || 질문아이디2 : A06F || 질문아이디3 : 3A2C || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2020-11-13 17:06:43
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 1 || 질문내용 : 컴퓨터에서도 쓸 수 있나요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "컴퓨터에서도 쓸 수 있나요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  7E95F99F_5529_62A7_172
+ que_id1 : CE7D9171_1DAE_54A4_172
+ que_id2 : CEB992D7_ACAA_1A4E_172
+ que_id3 : F25EE803_EBB9_9C57_172
+ que_id4 : 8E003A83_7F87_97D4_172
+ que_id5 : C9154054_6DC9_6D9C_172
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7E95F99F_5529_62A7
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : F25EE803_EBB9_9C57
+ scn_que_id4 : 8E003A83_7F87_97D4
+ 확률 : 선택질문 확률 : 6342//2500
+{"answercode":"1", "ai_msg": "PC에서 WOW POS 사용 | 비용 안내 및 체험 사용 기간 | WOW POS 사용 가능 기종 | 아이패드 사용 가능 여부 | 기존에 사용하던 포스가 있는 경우 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7E95F99F","s2": "5529","s3":"62A7","s4":"172"},{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"},{"s1":"CEB992D7","s2": "ACAA","s3":"1A4E","s4":"172"},{"s1":"F25EE803","s2": "EBB9","s3":"9C57","s4":"172"},{"s1":"8E003A83","s2": "7F87","s3":"97D4","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:06:47
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 2 || 질문내용 : PC에서 WOW POS 사용 || 질문아이디1 : 7E95F99F || 질문아이디2 : 5529 || 질문아이디3 : 62A7 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "PC에서 WOW POS 사용" 
+
+ 시나리오 결과 값 : 
+ que_id :  7E95F99F_5529_62A7_172
+ que_id1 : CEB992D7_ACAA_1A4E_172
+ que_id2 : CE7D9171_1DAE_54A4_172
+ que_id3 : 8404696F_A06F_3A2C_172
+ que_id4 : F25EE803_EBB9_9C57_172
+ que_id5 : 8E003A83_7F87_97D4_172
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7E95F99F_5529_62A7
+ scn_que_id1 : CEB992D7_ACAA_1A4E
+ scn_que_id2 : CE7D9171_1DAE_54A4
+ scn_que_id3 : 8404696F_A06F_3A2C
+ scn_que_id4 : F25EE803_EBB9_9C57
+ 확률 : 선택질문 확률 : 9972//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>PC에서 포스 프로그램 사용은 안되지만,</span></p><p><span style=font-family: Verdana, sans-serif;>사장님(관리자) 전용 백오피스가 따로 있어</span></p><p><span style=font-family: Verdana, sans-serif;>PC에서 <b>매출정산, 매장관리, 상품(일괄)등록, 메뉴수정</b> 등&nbsp;</span><b style=font-family: Verdana, sans-serif; font-size: 10pt;>다양한 기능</b><span style=font-family: Verdana, sans-serif; font-size: 10pt;>을 사용하실 수 있습니다!</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7E95F99F","s2": "5529","s3":"62A7","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:07:28
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 0 || 질문내용 : 카드사 신규 가맹 시 절차 및 준비서류 || 질문아이디1 : 7E95F99F || 질문아이디2 : 5529 || 질문아이디3 : 62A7 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드사 신규 가맹 시 절차 및 준비서류" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : C9154054_6DC9_6D9C_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : C9154054_6DC9_6D9C
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>카드사 신규 가맹 시 어떻게 해야하는지 안내해드릴게요!<BR></p><p>찾으시는 내용을 선택해주세요.&nbsp;(๑•̀ㅁ•́๑)✧</p><p>$$$가맹 절차가 궁금해요</p><p>$$$준비서류가 궁금해요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:07:34
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO12_#PO12_#PO12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO12_#PO12_#PO12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>사장님께서 준비 하셔야 하는 서류에는<br></p><p><b>개인/법인 공통서류</b>와 <b>법인추가서류</b>가 있어요.</p><p>||자세한 목록을 확인하시려면<br></p><p>원하시는 내용을 선택해주세요!</p><p>$$$개인/법인 공통서류</p><p>$$$법인추가서류</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO12","s2": "#PO12","s3":"#PO12","s4":""}]}
+*************************************
+접속일 :  2020-11-13 17:07:38
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #PO12 || 질문아이디2 : #PO12 || 질문아이디3 : #PO12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO121_#PO121_#PO121_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO121_#PO121_#PO121
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p><b><u>개인/법인 공통서류</u></b>에는 다음 항목이 포함됩니다.<BR></p><p><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052537139000.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 17:07:45
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO12 || 질문아이디2 : #PO12 || 질문아이디3 : #PO12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO122_#PO122_#PO122_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO122_#PO122_#PO122
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p><b><u>법인추가서류</u></b>에는 다음 항목이 포함됩니다.<BR></p><p><br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 17:07:50
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO11_#PO11_#PO11_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO11_#PO11_#PO11
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래에서 사장님께 해당되는 내용을 선택해주세요!</p><p>$$$▶개인사업자</p><p>$$$▶법인사업자</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO11","s2": "#PO11","s3":"#PO11","s4":""}]}
+*************************************
+접속일 :  2020-11-13 17:07:53
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #PO11 || 질문아이디2 : #PO11 || 질문아이디3 : #PO11 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO111_#PO111_#PO111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO111_#PO111_#PO111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>개인사업자의 경우,<br></p><p>다음과 같은 절차로 진행됩니다.<BR></p><p><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052512408200.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 17:07:57
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO11 || 질문아이디2 : #PO11 || 질문아이디3 : #PO11 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO112_#PO112_#PO112_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO112_#PO112_#PO112
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>법인사업자의 경우,<br></p><p>다음과 같은 절차로 진행됩니다.<BR></p><p><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052512542000.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 17:09:29
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 0 || 질문내용 : 신규 가맹 절차랑 준비서류 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "신규 가맹 절차랑 준비서류" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 8120//2500
+{"answercode":"4", "ai_msg": "<p>카드사 신규 가맹 시 어떻게 해야하는지 안내해드릴게요!<BR></p><p>찾으시는 내용을 선택해주세요.&nbsp;(๑•̀ㅁ•́๑)✧</p><p>$$$가맹 절차가 궁금해요</p><p>$$$준비서류가 궁금해요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:09:33
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO12_#PO12_#PO12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO12_#PO12_#PO12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>사장님께서 준비 하셔야 하는 서류에는<br></p><p><b>개인/법인 공통서류</b>와 <b>법인추가서류</b>가 있어요.</p><p>||자세한 목록을 확인하시려면<br></p><p>원하시는 내용을 선택해주세요!</p><p>$$$개인/법인 공통서류</p><p>$$$법인추가서류</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO12","s2": "#PO12","s3":"#PO12","s4":""}]}
+*************************************
+접속일 :  2020-11-13 17:09:37
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO12 || 질문아이디2 : #PO12 || 질문아이디3 : #PO12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO122_#PO122_#PO122_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO122_#PO122_#PO122
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p><b><u>법인추가서류</u></b>에는 다음 항목이 포함됩니다.<br></p><p><br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 17:10:50
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 카드사 신규 가맹 시 절차와 준비서류 알려 주세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드사 신규 가맹 시 절차와 준비서류 알려 주세요" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : C9154054_6DC9_6D9C_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : C9154054_6DC9_6D9C
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9782//2500
+{"answercode":"4", "ai_msg": "<p>카드사 신규 가맹 시 어떻게 해야하는지 안내해드릴게요!<BR></p><p>찾으시는 내용을 선택해주세요.&nbsp;(๑•̀ㅁ•́๑)✧</p><p>$$$가맹 절차가 궁금해요</p><p>$$$준비서류가 궁금해요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:10:53
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO12_#PO12_#PO12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO12_#PO12_#PO12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>사장님께서 준비 하셔야 하는 서류에는<br></p><p><b>개인/법인 공통서류</b>와 <b>법인추가서류</b>가 있어요.</p><p>||자세한 목록을 확인하시려면<br></p><p>원하시는 내용을 선택해주세요!</p><p>$$$개인/법인 공통서류</p><p>$$$법인추가서류</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO12","s2": "#PO12","s3":"#PO12","s4":""}]}
+*************************************
+접속일 :  2020-11-13 17:10:58
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO12 || 질문아이디2 : #PO12 || 질문아이디3 : #PO12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO122_#PO122_#PO122_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO122_#PO122_#PO122
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p><b><u>법인추가서류</u></b>에는 다음 항목이 포함됩니다.<br></p><p><br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 17:11:36
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #PO12 || 질문아이디2 : #PO12 || 질문아이디3 : #PO12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO121_#PO121_#PO121_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO121_#PO121_#PO121
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p><b><u>개인/법인 공통서류</u></b>에는<BR>다음 항목이 포함됩니다.<br></p><p><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052537139000.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 17:11:59
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 2 || 질문내용 : 아이패드 사용 가능 여부 || 질문아이디1 : F25EE803 || 질문아이디2 : EBB9 || 질문아이디3 : 9C57 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "아이패드 사용 가능 여부" 
+
+ 시나리오 결과 값 : 
+ que_id :  F25EE803_EBB9_9C57_172
+ que_id1 : 7E95F99F_5529_62A7_172
+ que_id2 : CEB992D7_ACAA_1A4E_172
+ que_id3 : 8404696F_A06F_3A2C_172
+ que_id4 : CE7D9171_1DAE_54A4_172
+ que_id5 : 8E003A83_7F87_97D4_172
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : F25EE803_EBB9_9C57
+ scn_que_id1 : 7E95F99F_5529_62A7
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : 8404696F_A06F_3A2C
+ scn_que_id4 : CE7D9171_1DAE_54A4
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>죄송합니다.&nbsp;</span><span style=color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, helvetica, AppleSDGothicNeo, sans-serif; font-size: 16px; text-align: center;>ಡ︷ಡ)</span></p><p><span style=font-family: Verdana, sans-serif;>와우 포스는 안드로이드 기반의 포스로</span></p><p><span style=font-family: Verdana, sans-serif;>아이폰/아이패드에서는 사용하실 수 없습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"F25EE803","s2": "EBB9","s3":"9C57","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:12:40
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 0 || 질문내용 : 고객센터 알려주세요 || 질문아이디1 : F25EE803 || 질문아이디2 : EBB9 || 질문아이디3 : 9C57 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "고객센터 알려주세요" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 5517//2500
+{"answercode":"1", "ai_msg": "WOW POS 고객센터 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:12:44
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 2 || 질문내용 : WOW POS 고객센터 || 질문아이디1 : 8404696F || 질문아이디2 : A06F || 질문아이디3 : 3A2C || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "WOW POS 고객센터" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : 7E95F99F_5529_62A7_172
+ que_id2 : CEB992D7_ACAA_1A4E_172
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : 7E95F99F_5529_62A7
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9979//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>고객센터 1670-3905로 전화주시거나,&nbsp;</span><span lang=EN-US style=font-size: 10pt; letter-spacing: 0pt; color: rgb(0, 0, 255); font-family: Verdana, sans-serif;><span style=color: rgb(18, 52, 86);>han@gowow.co.kr</span></span><span lang=EN-US style=font-size: 10pt; font-family: Verdana, sans-serif;> </span><span style=font-size: 10pt; font-family: Verdana, sans-serif;>로 문의주세요!</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>||고객센터 운영시간은</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=font-size: 10pt; color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>평일 10:00~17:00이며,&nbsp;</span><span style=font-size: 10pt; color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>주말과 공휴일은 휴무입니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:15:51
+유저아이디 :  9c51efed-c1d9-4ba2-9cf9-2e67cfcf89bf
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문을 확인하세요! || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "자주 묻는 질문을 확인하세요!" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 5632//2500
+{"answercode":"1", "ai_msg": "WOW POS 고객센터 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:16:04
+유저아이디 :  9c51efed-c1d9-4ba2-9cf9-2e67cfcf89bf
+메시지 구분: 2 || 질문내용 : 신규가맹 || 질문아이디1 : 8404696F || 질문아이디2 : A06F || 질문아이디3 : 3A2C || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2020-11-13 17:16:05
+유저아이디 :  9c51efed-c1d9-4ba2-9cf9-2e67cfcf89bf
+메시지 구분: 1 || 질문내용 : 신규가맹 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "신규가맹" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 3712//2500
+{"answercode":"1", "ai_msg": "카드사 신규 가맹 시 절차 및 준비서류 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:16:08
+유저아이디 :  9c51efed-c1d9-4ba2-9cf9-2e67cfcf89bf
+메시지 구분: 2 || 질문내용 : 카드사 신규 가맹 시 절차 및 준비서류 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드사 신규 가맹 시 절차 및 준비서류" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : C9154054_6DC9_6D9C_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : C9154054_6DC9_6D9C
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>카드사 신규 가맹 시 어떻게 해야하는지 안내해드릴게요!<BR></p><p>찾으시는 내용을 선택해주세요.&nbsp;(๑•̀ㅁ•́๑)✧</p><p>$$$가맹 절차가 궁금해요</p><p>$$$준비서류가 궁금해요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:16:12
+유저아이디 :  9c51efed-c1d9-4ba2-9cf9-2e67cfcf89bf
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO12_#PO12_#PO12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO12_#PO12_#PO12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>사장님께서 준비 하셔야 하는 서류에는<br></p><p><b>개인/법인 공통서류</b>와 <b>법인추가서류</b>가 있어요.</p><p>||자세한 목록을 확인하시려면<br></p><p>원하시는 내용을 선택해주세요!</p><p>$$$개인/법인 공통서류</p><p>$$$법인추가서류</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO12","s2": "#PO12","s3":"#PO12","s4":""}]}
+*************************************
+접속일 :  2020-11-13 17:16:18
+유저아이디 :  9c51efed-c1d9-4ba2-9cf9-2e67cfcf89bf
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO12 || 질문아이디2 : #PO12 || 질문아이디3 : #PO12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO122_#PO122_#PO122_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO122_#PO122_#PO122
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p><b><u>법인추가서류</u></b>에는 다음 항목이 포함됩니다.<br></p><p><br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 17:16:43
+유저아이디 :  9c51efed-c1d9-4ba2-9cf9-2e67cfcf89bf
+메시지 구분: 0 || 질문내용 : 카드사 신규 가맹 시 절차 및 준비서류 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드사 신규 가맹 시 절차 및 준비서류" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : C9154054_6DC9_6D9C_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : C9154054_6DC9_6D9C
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>카드사 신규 가맹 시 어떻게 해야하는지 안내해드릴게요!<BR></p><p>찾으시는 내용을 선택해주세요.&nbsp;(๑•̀ㅁ•́๑)✧</p><p>$$$가맹 절차가 궁금해요</p><p>$$$준비서류가 궁금해요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:16:48
+유저아이디 :  9c51efed-c1d9-4ba2-9cf9-2e67cfcf89bf
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO11_#PO11_#PO11_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO11_#PO11_#PO11
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래에서 사장님께 해당되는 내용을 선택해주세요!</p><p>$$$▶개인사업자</p><p>$$$▶법인사업자</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO11","s2": "#PO11","s3":"#PO11","s4":""}]}
+*************************************
+접속일 :  2020-11-13 17:16:54
+유저아이디 :  9c51efed-c1d9-4ba2-9cf9-2e67cfcf89bf
+메시지 구분: 0 || 질문내용 : 카드사 신규 가맹 시 절차 및 준비서류 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드사 신규 가맹 시 절차 및 준비서류" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : C9154054_6DC9_6D9C_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : C9154054_6DC9_6D9C
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>카드사 신규 가맹 시 어떻게 해야하는지 안내해드릴게요!<BR></p><p>찾으시는 내용을 선택해주세요.&nbsp;(๑•̀ㅁ•́๑)✧</p><p>$$$가맹 절차가 궁금해요</p><p>$$$준비서류가 궁금해요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:16:58
+유저아이디 :  9c51efed-c1d9-4ba2-9cf9-2e67cfcf89bf
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO12_#PO12_#PO12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO12_#PO12_#PO12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>사장님께서 준비 하셔야 하는 서류에는<br></p><p><b>개인/법인 공통서류</b>와 <b>법인추가서류</b>가 있어요.</p><p>||자세한 목록을 확인하시려면<br></p><p>원하시는 내용을 선택해주세요!</p><p>$$$개인/법인 공통서류</p><p>$$$법인추가서류</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO12","s2": "#PO12","s3":"#PO12","s4":""}]}
+*************************************
+접속일 :  2020-11-13 17:17:02
+유저아이디 :  9c51efed-c1d9-4ba2-9cf9-2e67cfcf89bf
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO12 || 질문아이디2 : #PO12 || 질문아이디3 : #PO12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO122_#PO122_#PO122_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO122_#PO122_#PO122
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p><b><u>법인추가서류</u></b>에는 다음 항목이 포함됩니다.<br></p><p><br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 17:18:09
+유저아이디 :  9c51efed-c1d9-4ba2-9cf9-2e67cfcf89bf
+메시지 구분: 0 || 질문내용 : 카드사 신규 가맹 시 절차 및 준비서류 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드사 신규 가맹 시 절차 및 준비서류" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : C9154054_6DC9_6D9C_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : C9154054_6DC9_6D9C
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>카드사 신규 가맹 시 어떻게 해야하는지 안내해드릴게요!<BR></p><p>찾으시는 내용을 선택해주세요.&nbsp;(๑•̀ㅁ•́๑)✧</p><p>$$$가맹 절차가 궁금해요</p><p>$$$준비서류가 궁금해요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:18:13
+유저아이디 :  9c51efed-c1d9-4ba2-9cf9-2e67cfcf89bf
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO12_#PO12_#PO12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO12_#PO12_#PO12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>사장님께서 준비 하셔야 하는 서류에는<br></p><p><b>개인/법인 공통서류</b>와 <b>법인추가서류</b>가 있어요.</p><p>||자세한 목록을 확인하시려면<br></p><p>원하시는 내용을 선택해주세요!</p><p>$$$개인/법인 공통서류</p><p>$$$법인추가서류</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO12","s2": "#PO12","s3":"#PO12","s4":""}]}
+*************************************
+접속일 :  2020-11-13 17:18:17
+유저아이디 :  9c51efed-c1d9-4ba2-9cf9-2e67cfcf89bf
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO12 || 질문아이디2 : #PO12 || 질문아이디3 : #PO12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO122_#PO122_#PO122_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO122_#PO122_#PO122
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p><b><u>법인추가서류</u></b>에는 다음 항목이 포함됩니다.<br></p><p><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052554757900.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 17:18:33
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 0 || 질문내용 : 신규 가맹 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "신규 가맹" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 3712//2500
+{"answercode":"1", "ai_msg": "카드사 신규 가맹 시 절차 및 준비서류 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:18:36
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 2 || 질문내용 : 카드사 신규 가맹 시 절차 및 준비서류 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "카드사 신규 가맹 시 절차 및 준비서류" 
+
+ 시나리오 결과 값 : 
+ que_id :  #PO1_#PO1_#PO1_172
+ que_id1 : C9154054_6DC9_6D9C_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO1_#PO1_#PO1
+ scn_que_id1 : C9154054_6DC9_6D9C
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>카드사 신규 가맹 시 어떻게 해야하는지 안내해드릴게요!<BR></p><p>찾으시는 내용을 선택해주세요.&nbsp;(๑•̀ㅁ•́๑)✧</p><p>$$$가맹 절차가 궁금해요</p><p>$$$준비서류가 궁금해요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO1","s2": "#PO1","s3":"#PO1","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:18:39
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO1 || 질문아이디2 : #PO1 || 질문아이디3 : #PO1 || 질문아이디4 : 172
+ 시나리오 결과 값 : 
+ que_id :  #PO12_#PO12_#PO12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO12_#PO12_#PO12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>사장님께서 준비 하셔야 하는 서류에는<br></p><p><b>개인/법인 공통서류</b>와 <b>법인추가서류</b>가 있어요.</p><p>||자세한 목록을 확인하시려면<br></p><p>원하시는 내용을 선택해주세요!</p><p>$$$개인/법인 공통서류</p><p>$$$법인추가서류</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#PO12","s2": "#PO12","s3":"#PO12","s4":""}]}
+*************************************
+접속일 :  2020-11-13 17:18:43
+유저아이디 :  87b58f31-b45a-4cb0-b2ca-cf2fed64fee8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #PO12 || 질문아이디2 : #PO12 || 질문아이디3 : #PO12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #PO122_#PO122_#PO122_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #PO122_#PO122_#PO122
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p><b><u>법인추가서류</u></b>에는 다음 항목이 포함됩니다.<br></p><p><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16052554757900.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-13 17:56:21
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문을 확인하세요! || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "자주 묻는 질문을 확인하세요!" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 5632//2500
+{"answercode":"1", "ai_msg": "WOW POS 고객센터 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}
+*************************************
+접속일 :  2020-11-13 17:56:25
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 2 || 질문내용 : WOW POS 고객센터 || 질문아이디1 : 8404696F || 질문아이디2 : A06F || 질문아이디3 : 3A2C || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "WOW POS 고객센터" 
+
+ 시나리오 결과 값 : 
+ que_id :  8404696F_A06F_3A2C_172
+ que_id1 : 7E95F99F_5529_62A7_172
+ que_id2 : CEB992D7_ACAA_1A4E_172
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8404696F_A06F_3A2C
+ scn_que_id1 : 7E95F99F_5529_62A7
+ scn_que_id2 : CEB992D7_ACAA_1A4E
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9979//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>고객센터 1670-3905로 전화주시거나,&nbsp;</span><span lang=EN-US style=font-size: 10pt; letter-spacing: 0pt; color: rgb(0, 0, 255); font-family: Verdana, sans-serif;><span style=color: rgb(18, 52, 86);>han@gowow.co.kr</span></span><span lang=EN-US style=font-size: 10pt; font-family: Verdana, sans-serif;> </span><span style=font-size: 10pt; font-family: Verdana, sans-serif;>로 문의주세요!</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>||고객센터 운영시간은</span></p><p class=0 style=mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;><span style=font-size: 10pt; color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>평일 10:00~17:00이며,&nbsp;</span><span style=font-size: 10pt; color: rgb(85, 85, 85); font-family: Verdana, sans-serif;>주말과 공휴일은 휴무입니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8404696F","s2": "A06F","s3":"3A2C","s4":"172"}]}

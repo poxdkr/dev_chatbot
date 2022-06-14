@@ -1,0 +1,114 @@
+*************************************
+접속일 :  2021-01-04 15:12:48
+유저아이디 :  669e5bc7-2f23-456b-b982-9e7acde6ffb5
+메시지 구분: 0 || 질문내용 : 여행지 추천! || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "여행지 추천!"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #FR01_#FR01_#FR01_134
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FR01_#FR01_#FR01
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>님, 어디로 떠나볼까요?<br></p><p>저랑 같이 생각해봐요!! ⸜( •⌄• )⸝</p><p>$$$여행은 역시 먼 곳으로! 유럽</p><p>$$$비슷한듯 다른 게 매력! 중국/일본</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FR01","s2": "#FR01","s3":"#FR01","s4":"134"}]}
+*************************************
+접속일 :  2021-01-04 15:12:54
+유저아이디 :  669e5bc7-2f23-456b-b982-9e7acde6ffb5
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #FR01 || 질문아이디2 : #FR01 || 질문아이디3 : #FR01 || 질문아이디4 : 134
+ 시나리오 결과 값 : 
+ que_id :  #TR012_#TR012_#TR012_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR012_#TR012_#TR012
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>요즘 인기있는 상품을 안내해드릴게요!</p><p>$$$일본-도쿄 일주일</p><p>$$$일본-후쿠오카 일주일</p><p>$$$중국-베이징 일주일</p><p>$$$중국-상하이 일주일</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#TR012","s2": "#TR012","s3":"#TR012","s4":""}]}
+*************************************
+접속일 :  2021-01-04 15:12:59
+유저아이디 :  669e5bc7-2f23-456b-b982-9e7acde6ffb5
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #TR012 || 질문아이디2 : #TR012 || 질문아이디3 : #TR012 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #TR0121_#TR0121_#TR0121_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR0121_#TR0121_#TR0121
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>신주쿠, 시부야, 이케부쿠로, 긴자!<BR></p><p>도쿄 쇼핑과 트렌드의 중심지에서<BR></p><p>즐거운 시간을 보낼 수 있는 여행상품 입니다.</p><p>$$$상세 페이지 가기</p><p>$$$고객센터 연결</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#TR0121","s2": "#TR0121","s3":"#TR0121","s4":""}]}
+*************************************
+접속일 :  2021-01-04 15:13:06
+유저아이디 :  669e5bc7-2f23-456b-b982-9e7acde6ffb5
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #TR0121 || 질문아이디2 : #TR0121 || 질문아이디3 : #TR0121 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #TR01211_#TR01211_#TR01211_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR01211_#TR01211_#TR01211
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>링크를 안내해드릴게요!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2021-01-04 15:13:23
+유저아이디 :  669e5bc7-2f23-456b-b982-9e7acde6ffb5
+메시지 구분: 0 || 질문내용 : 가장 좋아하는 사람은? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "가장 좋아하는 사람은?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  96F75910_D5C1_5054_134
+ que_id1 : E530F969_1A28_28A1_60
+ que_id2 : 3FB0B54F_C9B0_3BD3_134
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 96F75910_D5C1_5054
+ scn_que_id1 : E530F969_1A28_28A1
+ scn_que_id2 : 3FB0B54F_C9B0_3BD3
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 8685//2500
+{"answercode":"", "ai_msg": "<p>, 바로 너?&nbsp;(づ｡◕‿‿◕｡)づ</p><p><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16076664964200.jpg", "qustType": "","questionID": [{"s1":"96F75910","s2": "D5C1","s3":"5054","s4":"134"}]}

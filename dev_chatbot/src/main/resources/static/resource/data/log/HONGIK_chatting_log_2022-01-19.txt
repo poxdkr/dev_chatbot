@@ -1,0 +1,96 @@
+*************************************
+접속일 :  2022-01-19 14:32:10
+유저아이디 :  be5c2e1b-fcb3-4f7e-9650-db01fc813e5a
+메시지 구분: 0 || 질문내용 : 더명품여행  예약했어요  카드결제는 어떻게 진행하나요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "더명품여행  예약했어요  카드결제는 어떻게 진행하나요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : 6CF1403C_6F66_9AE6_189
+ que_id2 : INS01_INS01_INS01_192
+ que_id3 : PAY09_PAY09_PAY09_189
+ que_id4 : BA22D1E4_9E0B_A833_188
+ que_id5 : 4F3EA5F5_46FF_89AA_187
+ que_id6 : PAY12_PAY12_PAY12_189
+ que_id7 : 12EE921C_C84F_58DC_187
+ que_id8 : TO02_TO02_TO02_195
+ que_id9 : TO03_TO03_TO03_195
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : 6CF1403C_6F66_9AE6
+ scn_que_id2 : INS01_INS01_INS01
+ scn_que_id3 : PAY09_PAY09_PAY09
+ scn_que_id4 : BA22D1E4_9E0B_A833
+ 확률 : 선택질문 확률 : 5766//2500
+{"answercode":"1", "ai_msg": "여행상품 예약 방법 | 신용카드 결제안내 | 예약 취소/변경 | 결제 방법 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"},{"s1":"6CF1403C","s2": "6F66","s3":"9AE6","s4":"189"},{"s1":"INS01","s2": "INS01","s3":"INS01","s4":"192"},{"s1":"PAY09","s2": "PAY09","s3":"PAY09","s4":"189"}]}
+*************************************
+접속일 :  2022-01-19 14:32:18
+유저아이디 :  be5c2e1b-fcb3-4f7e-9650-db01fc813e5a
+메시지 구분: 2 || 질문내용 : 신용카드 결제안내 || 질문아이디1 : 6CF1403C || 질문아이디2 : 6F66 || 질문아이디3 : 9AE6 || 질문아이디4 : 189
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "신용카드 결제안내"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  6CF1403C_6F66_9AE6_189
+ que_id1 : PAY12_PAY12_PAY12_189
+ que_id2 : PAY02_PAY02_PAY02_189
+ que_id3 : 1D14BC63_BCE3_F249_187
+ que_id4 : PAY09_PAY09_PAY09_189
+ que_id5 : PAY03_PAY03_PAY03_189
+ que_id6 : PAY06_PAY06_PAY06_189
+ que_id7 : B1B9228A_D65B_7740_188
+ que_id8 : PAY01_PAY01_PAY01_189
+ que_id9 : PAY11_PAY11_PAY11_189
+ scn_que_id : 6CF1403C_6F66_9AE6
+ scn_que_id1 : PAY12_PAY12_PAY12
+ scn_que_id2 : PAY02_PAY02_PAY02
+ scn_que_id3 : 1D14BC63_BCE3_F249
+ scn_que_id4 : PAY09_PAY09_PAY09
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>신용카드 결제 방법에 대해 안내해드릴게요!</span></font></p><p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>||아래 버튼을 클릭하시면 자세한 내용을 확인하실 수 있어요!(｡•̀ᴗ-)✧</span></font></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"6CF1403C","s2": "6F66","s3":"9AE6","s4":"189"}]}
+*************************************
+접속일 :  2022-01-19 14:34:47
+유저아이디 :  be5c2e1b-fcb3-4f7e-9650-db01fc813e5a
+메시지 구분: 0 || 질문내용 : 카드결제 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "카드결제"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  6CF1403C_6F66_9AE6_189
+ que_id1 : PAY12_PAY12_PAY12_189
+ que_id2 : PAY02_PAY02_PAY02_189
+ que_id3 : 1D14BC63_BCE3_F249_187
+ que_id4 : PAY09_PAY09_PAY09_189
+ que_id5 : PAY03_PAY03_PAY03_189
+ que_id6 : PAY06_PAY06_PAY06_189
+ que_id7 : PAY01_PAY01_PAY01_189
+ que_id8 : PAY05_PAY05_PAY05_189
+ que_id9 : PAY04_PAY04_PAY04_189
+ scn_que_id : 6CF1403C_6F66_9AE6
+ scn_que_id1 : PAY12_PAY12_PAY12
+ scn_que_id2 : PAY02_PAY02_PAY02
+ scn_que_id3 : 1D14BC63_BCE3_F249
+ scn_que_id4 : PAY09_PAY09_PAY09
+ 확률 : 선택질문 확률 : 7865//2500
+{"answercode":"", "ai_msg": "<p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>신용카드 결제 방법에 대해 안내해드릴게요!</span></font></p><p><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>||아래 버튼을 클릭하시면 자세한 내용을 확인하실 수 있어요!(｡•̀ᴗ-)✧</span></font></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"6CF1403C","s2": "6F66","s3":"9AE6","s4":"189"}]}
+*************************************
+접속일 :  2022-01-19 14:35:23
+유저아이디 :  be5c2e1b-fcb3-4f7e-9650-db01fc813e5a
+메시지 구분: 0 || 질문내용 : 목록옆에 카트결제 나와요  문구가 없어요 || 질문아이디1 : 6CF1403C || 질문아이디2 : 6F66 || 질문아이디3 : 9AE6 || 질문아이디4 : 189
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "목록옆에 카트결제 나와요  문구가 없어요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  PAY12_PAY12_PAY12_189
+ que_id1 : PAY02_PAY02_PAY02_189
+ que_id2 : BD02_BD02_BD02_193
+ que_id3 : 1D14BC63_BCE3_F249_187
+ que_id4 : 6CF1403C_6F66_9AE6_189
+ que_id5 : B1B9228A_D65B_7740_188
+ que_id6 : PAY08_PAY08_PAY08_189
+ que_id7 : PAY09_PAY09_PAY09_189
+ que_id8 : PAY03_PAY03_PAY03_189
+ que_id9 : PAY06_PAY06_PAY06_189
+ scn_que_id : PAY12_PAY12_PAY12
+ scn_que_id1 : PAY02_PAY02_PAY02
+ scn_que_id2 : BD02_BD02_BD02
+ scn_que_id3 : 1D14BC63_BCE3_F249
+ scn_que_id4 : 6CF1403C_6F66_9AE6
+ 확률 : 선택질문 확률 : 6000//2500
+{"answercode":"1", "ai_msg": "타인 명의 카드로 결제 | 결제 방법에 따른 금액 차이 | 일행 좌석 지정 | 여행상품 예약 방법 | 신용카드 결제안내 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"PAY12","s2": "PAY12","s3":"PAY12","s4":"189"},{"s1":"PAY02","s2": "PAY02","s3":"PAY02","s4":"189"},{"s1":"BD02","s2": "BD02","s3":"BD02","s4":"193"},{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"},{"s1":"6CF1403C","s2": "6F66","s3":"9AE6","s4":"189"}]}

@@ -1,0 +1,24 @@
+*************************************
+접속일 :  2022-03-08 17:40:36
+유저아이디 :  5c83a8c9-5557-42de-88c4-a10f8b38ccd6
+메시지 구분: 0 || 질문내용 : 근로계약서(사업주) || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/contract/result/result.out "근로계약서(사업주)"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  근로계약서_작성_사업주_60
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 근로계약서_작성_사업주
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9884//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"근로계약서","s2": "작성","s3":"사업주","s4":"60"}]}

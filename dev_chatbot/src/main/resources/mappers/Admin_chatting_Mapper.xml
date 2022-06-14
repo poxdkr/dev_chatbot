@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wowcomm.dev_chatbot.mapper.Admin_chatting_Mapper">
+<sql id="admin_chatting_Columns">
+		gubun,
+		mb_id,
+		user_id,
+		state,
+		regdate
+</sql>
+
+<insert id="insert_admin_chatting" parameterType="Admin_chatting_VO">
+	insert into admin_chatting (
+		<include refid="admin_chatting_Columns" />
+	) values (
+		#{gubun },
+		#{mb_id },
+		#{user_id },
+		#{state },
+		#{regdate }
+	)
+</insert>
+
+<select id="getList_admin_Chatting" resultType="Admin_chatting_VO">
+	select * from admin_chatting order by seq_num desc
+</select>
+
+</mapper>

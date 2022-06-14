@@ -1,0 +1,72 @@
+*************************************
+접속일 :  2021-03-21 12:39:10
+유저아이디 :  52268e8f-2f4a-468d-8108-90f2b7bae067
+메시지 구분: 0 || 질문내용 : 울릉도(7일) 여행의 경로우대, 국가유공자 는 얼마의 할인요금이 적용되는지요?? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "울릉도(7일) 여행의 경로우대, 국가유공자 는 얼마의 할인요금이 적용되는지요??"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  DIS01_DIS01_DIS01_190
+ que_id1 : SNS04_SNS04_SNS04_191
+ que_id2 : SNS01_SNS01_SNS01_191
+ que_id3 : DIS02_DIS02_DIS02_190
+ que_id4 : DIS04_DIS04_DIS04_190
+ que_id5 : #RE01_#RE01_#RE01_196
+ que_id6 : SNS02_SNS02_SNS02_191
+ que_id7 : 705FB289_220B_7901_188
+ que_id8 : PAY07_PAY07_PAY07_189
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : DIS01_DIS01_DIS01
+ scn_que_id1 : SNS04_SNS04_SNS04
+ scn_que_id2 : SNS01_SNS01_SNS01
+ scn_que_id3 : DIS02_DIS02_DIS02
+ scn_que_id4 : DIS04_DIS04_DIS04
+ 확률 : 선택질문 확률 : 2694//2500
+{"answercode":"1", "ai_msg": "추가 할인 적용 | SNS 할인 적용 방법 | SNS 할인 팁 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"DIS01","s2": "DIS01","s3":"DIS01","s4":"190"},{"s1":"SNS04","s2": "SNS04","s3":"SNS04","s4":"191"},{"s1":"SNS01","s2": "SNS01","s3":"SNS01","s4":"191"}]}
+*************************************
+접속일 :  2021-03-21 12:39:22
+유저아이디 :  52268e8f-2f4a-468d-8108-90f2b7bae067
+메시지 구분: 0 || 질문내용 : SNS 할인 이벤트 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "SNS 할인 이벤트"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  SNS01_SNS01_SNS01_191
+ que_id1 : DIS03_DIS03_DIS03_190
+ que_id2 : SNS02_SNS02_SNS02_191
+ que_id3 : DIS01_DIS01_DIS01_190
+ que_id4 : SNS03_SNS03_SNS03_191
+ que_id5 : SNS04_SNS04_SNS04_191
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : SNS01_SNS01_SNS01
+ scn_que_id1 : DIS03_DIS03_DIS03
+ scn_que_id2 : SNS02_SNS02_SNS02
+ scn_que_id3 : DIS01_DIS01_DIS01
+ scn_que_id4 : SNS03_SNS03_SNS03
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>홍익여행사와 SNS 친구 맺고 혜택받자!</span></p><p><span style=font-family: Verdana, sans-serif;>자세한 사항은 아래 사이트를 통해 확인해보세요!&nbsp;</span><font face=Verdana, sans-serif><span style=font-size: 13.3333px;>(｡･ω･｡)ﾉ♡</span></font></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"SNS01","s2": "SNS01","s3":"SNS01","s4":"191"}]}
+*************************************
+접속일 :  2021-03-21 12:39:45
+유저아이디 :  52268e8f-2f4a-468d-8108-90f2b7bae067
+메시지 구분: 0 || 질문내용 : 울릉도(7일) 여행의 경로우대, 국가유공자 는 얼마의 할인요금이 적용되는지요?? || 질문아이디1 : SNS01 || 질문아이디2 : SNS01 || 질문아이디3 : SNS01 || 질문아이디4 : 191
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "울릉도(7일) 여행의 경로우대, 국가유공자 는 얼마의 할인요금이 적용되는지요??"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  DIS01_DIS01_DIS01_190
+ que_id1 : SNS04_SNS04_SNS04_191
+ que_id2 : SNS01_SNS01_SNS01_191
+ que_id3 : DIS02_DIS02_DIS02_190
+ que_id4 : DIS04_DIS04_DIS04_190
+ que_id5 : #RE01_#RE01_#RE01_196
+ que_id6 : SNS02_SNS02_SNS02_191
+ que_id7 : 705FB289_220B_7901_188
+ que_id8 : PAY07_PAY07_PAY07_189
+ que_id9 : PR02_PR02_PR02_197
+ scn_que_id : DIS01_DIS01_DIS01
+ scn_que_id1 : SNS04_SNS04_SNS04
+ scn_que_id2 : SNS01_SNS01_SNS01
+ scn_que_id3 : DIS02_DIS02_DIS02
+ scn_que_id4 : DIS04_DIS04_DIS04
+ 확률 : 선택질문 확률 : 2694//2500
+{"answercode":"1", "ai_msg": "추가 할인 적용 | SNS 할인 적용 방법 | SNS 할인 팁 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"DIS01","s2": "DIS01","s3":"DIS01","s4":"190"},{"s1":"SNS04","s2": "SNS04","s3":"SNS04","s4":"191"},{"s1":"SNS01","s2": "SNS01","s3":"SNS01","s4":"191"}]}

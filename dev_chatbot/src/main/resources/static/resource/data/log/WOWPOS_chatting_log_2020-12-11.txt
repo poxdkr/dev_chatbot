@@ -1,0 +1,72 @@
+*************************************
+접속일 :  2020-12-11 10:14:42
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 0 || 질문내용 : 저 아이폰 쓰는데 이거 깔아도 돼요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "저 아이폰 쓰는데 이거 깔아도 돼요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  8E003A83_7F87_97D4_172
+ que_id1 : CE7D9171_1DAE_54A4_172
+ que_id2 : 8404696F_A06F_3A2C_172
+ que_id3 : 7E95F99F_5529_62A7_172
+ que_id4 : CEB992D7_ACAA_1A4E_172
+ que_id5 : F25EE803_EBB9_9C57_172
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8E003A83_7F87_97D4
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : 8404696F_A06F_3A2C
+ scn_que_id3 : 7E95F99F_5529_62A7
+ scn_que_id4 : CEB992D7_ACAA_1A4E
+ 확률 : 선택질문 확률 : 5420//2500
+{"answercode":"1", "ai_msg": "기존에 사용하던 포스가 있는 경우 | 비용 안내 및 체험 사용 기간 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8E003A83","s2": "7F87","s3":"97D4","s4":"172"},{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"}]}
+*************************************
+접속일 :  2020-12-11 10:14:57
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 2 || 질문내용 : 얼마에요? || 질문아이디1 : 8E003A83,CE7D9171 || 질문아이디2 : 7F87,1DAE || 질문아이디3 : 97D4,54A4 || 질문아이디4 : 172,172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2020-12-11 10:14:57
+유저아이디 :  500fe281-6b40-47f2-a227-79fd3d9d2480
+메시지 구분: 1 || 질문내용 : 얼마에요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/result.out "얼마에요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  CE7D9171_1DAE_54A4_172
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CE7D9171_1DAE_54A4
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 5857//2500
+{"answercode":"1", "ai_msg": "비용 안내 및 체험 사용 기간 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"}]}

@@ -1,0 +1,108 @@
+.viewport {
+	-webkit-user-select: none; -moz-user-select: none; user-select: none;
+}
+[magnet=true]:not(.element) {
+	cursor: crosshair;
+}
+[magnet=true]:not(.element):hover {
+	opacity: 0.7;
+}
+.element {
+	cursor: move;
+}
+.element * {
+	vector-effect: non-scaling-stroke; user-drag: none;
+}
+.connection-wrap {
+	cursor: move; opacity: 0; fill: none; stroke: black; stroke-linecap: round; stroke-linejoin: round; stroke-width: 15;
+}
+.connection-wrap:hover {
+	opacity: 0.4; stroke-opacity: 0.4;
+}
+.connection {
+	fill: none; stroke-linejoin: round;
+}
+.marker-source {
+	vector-effect: non-scaling-stroke;
+}
+.marker-target {
+	vector-effect: non-scaling-stroke;
+}
+.marker-vertices {
+	cursor: move; opacity: 0;
+}
+.marker-arrowheads {
+	cursor: move; opacity: 0;
+}
+.link-tools {
+	cursor: pointer; opacity: 0;
+}
+.link-tools .tool-options {
+	display: none;
+}
+.link-tools .tool-remove circle {
+	fill: red;
+}
+.link-tools .tool-remove path {
+	fill: white;
+}
+.link:hover .marker-vertices {
+	opacity: 1;
+}
+.link:hover .marker-arrowheads {
+	opacity: 1;
+}
+.link:hover .link-tools {
+	opacity: 1;
+}
+.marker-vertex {
+	fill: #1abc9c;
+}
+.marker-vertex:hover {
+	fill: #34495e; stroke: none;
+}
+.marker-arrowhead {
+	fill: #1abc9c;
+}
+.marker-arrowhead:hover {
+	fill: #f39c12; stroke: none;
+}
+.marker-vertex-remove {
+	cursor: pointer; opacity: 0.1; fill: white;
+}
+.marker-vertex-group:hover .marker-vertex-remove {
+	opacity: 1;
+}
+.marker-vertex-remove-area {
+	cursor: pointer; opacity: 0.1;
+}
+.marker-vertex-group:hover .marker-vertex-remove-area {
+	opacity: 1;
+}
+.highlighted {
+	opacity: 0.7;
+}
+text.highlighted {
+	fill: #ff0000;
+}
+@media not all
+{
+.highlighted {
+	outline: rgb(255, 0, 0) solid 2px;
+}
+}
+.element .fobj {
+	overflow: hidden;
+}
+.element .fobj body {
+	margin: 0px; background-color: transparent;
+}
+.element .fobj div {
+	padding: 0px 5px; text-align: center; vertical-align: middle; display: table-cell;
+}
+img.update {
+	cursor: pointer;
+}
+img.delete {
+	cursor: pointer;
+}

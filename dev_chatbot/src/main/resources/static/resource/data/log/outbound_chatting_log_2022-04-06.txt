@@ -1,0 +1,4374 @@
+*************************************
+접속일 :  2022-04-06 09:14:19
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 09:14:34
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 09:23:17
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 09:23:23
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 09:24:18
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 09:24:22
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 09:29:20
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 09:29:32
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 09:29:40
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 학생 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠? <br></p><p>$$$예</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 09:30:03
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#입원예_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#입원예
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>종료</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 09:30:03
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 예 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2022-04-06 09:30:04
+유저아이디 :  undefined
+메시지 구분: 1 || 질문내용 : 1 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "1"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 아직 공부가 더 필요해요. ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-04-06 09:30:04
+유저아이디 :  undefined
+메시지 구분: 1 || 질문내용 : 1 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "1"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 아직 공부가 더 필요해요. ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-04-06 09:33:11
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 09:33:27
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 09:33:27
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 네 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 09:33:43
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 학생 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠? <br></p><p>$$$예</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 09:33:55
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 네 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2022-04-06 09:33:55
+유저아이디 :  undefined
+메시지 구분: 1 || 질문내용 : 네 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "네"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어제 분명히 공부했던 내용인데... 이래서 복습이 중요한가봐요", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-04-06 09:36:27
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 09:36:43
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 09:36:43
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 네 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 09:36:47
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 네 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠? <br></p><p>$$$예</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 09:36:47
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 고객님 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2022-04-06 09:36:48
+유저아이디 :  undefined
+메시지 구분: 1 || 질문내용 : 고객님 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "고객님"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어제 분명히 공부했던 내용인데... 이래서 복습이 중요한가봐요", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-04-06 10:10:52
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 10:11:08
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:11:10
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 네 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠? <br></p><p>$$$예</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:11:11
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 고객님 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:11:12
+유저아이디 :  undefined
+메시지 구분: 1 || 질문내용 : 고객님 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "고객님"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 아직 공부가 더 필요해요. ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-04-06 10:11:33
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 10:11:48
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 아니요 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:11:49
+유저아이디 :  undefined
+메시지 구분: 1 || 질문내용 : 아니요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아니요"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어제 분명히 공부했던 내용인데... 이래서 복습이 중요한가봐요", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-04-06 10:12:44
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 10:13:00
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:13:03
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 네 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠? <br></p><p>$$$예</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:13:04
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 네 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:13:04
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 네 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#입원예_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#입원예
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>종료</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 10:13:04
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 네 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:13:04
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 네 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#입원예_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#입원예
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>종료</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 10:13:05
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 네 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:13:05
+유저아이디 :  undefined
+메시지 구분: 1 || 질문내용 : 네 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "네"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 아직 공부가 더 필요해요. ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-04-06 10:13:05
+유저아이디 :  undefined
+메시지 구분: 1 || 질문내용 : 네 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "네"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어제 분명히 공부했던 내용인데... 이래서 복습이 중요한가봐요", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-04-06 10:13:05
+유저아이디 :  undefined
+메시지 구분: 1 || 질문내용 : 네 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "네"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 아직 공부가 더 필요해요. ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-04-06 10:13:06
+유저아이디 :  undefined
+메시지 구분: 1 || 질문내용 : 네 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "네"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 아직 공부가 더 필요해요. ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-04-06 10:13:06
+유저아이디 :  undefined
+메시지 구분: 1 || 질문내용 : 네 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "네"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 아직 공부가 더 필요해요. ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-04-06 10:15:51
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 10:16:07
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:16:11
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 네 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠? <br></p><p>$$$예</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:18:13
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 10:18:29
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:18:42
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 무지 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠? <br></p><p>$$$예</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:18:53
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#입원예_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#입원예
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>종료</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 10:22:03
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 10:22:17
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:22:27
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 네 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "네"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "어제 분명히 공부했던 내용인데... 이래서 복습이 중요한가봐요", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-04-06 10:22:28
+유저아이디 :  undefined
+메시지 구분: 1 || 질문내용 : 네 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "네"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 아직 공부가 더 필요해요. ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-04-06 10:22:56
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 10:23:10
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:23:19
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 학생 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠? <br></p><p>$$$예</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:23:27
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#입원예_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#입원예
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>종료</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 10:24:22
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 10:24:40
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:24:46
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 올라 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠? <br></p><p>$$$예</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:25:10
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#입원예_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#입원예
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>종료</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 10:34:47
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 10:35:01
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:35:08
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 백수 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠? <br></p><p>$$$예</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:50:21
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 10:50:36
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:54:23
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 10:57:07
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 10:58:11
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 10:58:50
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 10:59:16
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:59:24
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 학생 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠? <br></p><p>$$$예</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 10:59:45
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#입원예_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#입원예
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>종료</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 11:01:09
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:01:27
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:03:22
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:05:01
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:05:17
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:05:31
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 백수 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠?&nbsp;네 아니요로 말씀해주세요<br></p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:05:41
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#입원예_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#입원예
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>종료</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 11:07:00
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:07:21
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:07:31
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 백수 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠?&nbsp;네 아니요로 말씀해주세요<br></p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:07:39
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#입원예_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#입원예
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>말씀해주신 주소로 10일 이내 발송 해드리겠습니다.</p><p>만약 공제 증권이 도착하지 않거나 고객님의 주소, 운전여부, 직업에 변동이 있는 경우,</p><p>신협 CS 센터 0000-0000으로 전화 주시기 바랍니다. </p><p>동봉해드린 청약서는 자필서명란에 서명하신 후 반송용 봉투를 이용하셔서 발송해 주시기 바랍니다. </p><p>우리 고객님들께서 가족분들도 함께 많이 가입하셨는데요. 제가 배우자님도 지금 준비해드리겠습니다. </p><p>회원님 가입 잘 되셨습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 11:10:47
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:11:05
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:11:12
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 학생 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠?&nbsp;네 아니요로 말씀해주세요<br></p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:12:16
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:12:44
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:12:52
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 학생 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠?&nbsp;네 아니요로 말씀해주세요<br></p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:13:28
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#입원예_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#입원예
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>말씀해주신 내용을 10일 이내 발송 해드리겠습니다.</p><p>만약 공제 증권이 도착하지 않거나 고객님의 주소, 운전여부, 직업에 변동이 있는 경우,</p><p>신협 CS 센터 0000-0000으로 전화 주시기 바랍니다. </p><p>동봉해드린 청약서는 자필서명란에 서명하신 후 반송용 봉투를 이용하셔서 발송해 주시기 바랍니다. </p><p>우리 고객님들께서 가족분들도 함께 많이 가입하셨는데요. 제가 배우자님도 지금 준비해드리겠습니다. </p><p>회원님 가입 잘 되셨습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 11:14:58
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:15:16
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:15:48
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:16:25
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:16:59
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:17:28
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:19:48
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:19:49
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:20:13
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:20:19
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 백수 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠?&nbsp;네 아니요로 말씀해주세요<br></p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:24:09
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:24:24
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:24:29
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 직업은 어떻게 되시나요 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠?&nbsp;네 아니요로 말씀해주세요<br></p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:26:00
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:26:19
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:28:25
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:28:39
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:29:34
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:29:48
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:30:28
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:30:43
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:31:40
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:33:00
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:33:18
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:33:25
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 직장 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠?&nbsp;네 아니요로 말씀해주세요<br></p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:33:34
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#입원_아니요_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#입원_아니요
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>말씀해주신 내용을 10일 이내 발송 해드리겠습니다.</p><p>만약 공제 증권이 도착하지 않거나 고객님의 주소, 운전여부, 직업에 변동이 있는 경우,</p><p>신협 CS 센터 0000-0000으로 전화 주시기 바랍니다.</p><p>동봉해드린 청약서는 자필서명란에 서명하신 후 반송용 봉투를 이용하셔서 발송해 주시기 바랍니다.</p><p>우리 고객님들께서 가족분들도 함께 많이 가입하셨는데요. 제가 배우자님도 지금 준비해드리겠습니다.</p><p>회원님 가입 잘 되셨습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 11:48:47
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:49:02
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:49:10
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 학생 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠?&nbsp;네 아니요로 말씀해주세요<br></p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:49:30
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#입원_아니요_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#입원_아니요
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>말씀해주신 내용을 10일 이내 발송 해드리겠습니다.</p><p>만약 공제 증권이 도착하지 않거나 고객님의 주소, 운전여부, 직업에 변동이 있는 경우,</p><p>신협 CS 센터 0000-0000으로 전화 주시기 바랍니다.</p><p>동봉해드린 청약서는 자필서명란에 서명하신 후 반송용 봉투를 이용하셔서 발송해 주시기 바랍니다.</p><p>우리 고객님들께서 가족분들도 함께 많이 가입하셨는데요. 제가 배우자님도 지금 준비해드리겠습니다.</p><p>회원님 가입 잘 되셨습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 11:51:03
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:51:22
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#아니오_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#아니오
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>종료</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 11:51:35
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:51:50
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:52:09
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 3 4 5 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠?&nbsp;네 아니요로 말씀해주세요<br></p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:52:18
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#입원예_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#입원예
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>말씀해주신 내용을 10일 이내 발송 해드리겠습니다.</p><p>만약 공제 증권이 도착하지 않거나 고객님의 주소, 운전여부, 직업에 변동이 있는 경우,</p><p>신협 CS 센터 0000-0000으로 전화 주시기 바랍니다. </p><p>동봉해드린 청약서는 자필서명란에 서명하신 후 반송용 봉투를 이용하셔서 발송해 주시기 바랍니다. </p><p>우리 고객님들께서 가족분들도 함께 많이 가입하셨는데요. 제가 배우자님도 지금 준비해드리겠습니다. </p><p>회원님 가입 잘 되셨습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 11:53:07
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>한수경님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 11:53:22
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:53:43
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 없어 없어 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠?&nbsp;네 아니요로 말씀해주세요<br></p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 11:53:53
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#입원예_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#입원예
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>말씀해주신 내용을 10일 이내 발송 해드리겠습니다.</p><p>만약 공제 증권이 도착하지 않거나 고객님의 주소, 운전여부, 직업에 변동이 있는 경우,</p><p>신협 CS 센터 0000-0000으로 전화 주시기 바랍니다. </p><p>동봉해드린 청약서는 자필서명란에 서명하신 후 반송용 봉투를 이용하셔서 발송해 주시기 바랍니다. </p><p>우리 고객님들께서 가족분들도 함께 많이 가입하셨는데요. 제가 배우자님도 지금 준비해드리겠습니다. </p><p>회원님 가입 잘 되셨습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 13:06:02
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 13:06:08
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 13:12:25
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 16:34:44
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 16:39:31
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 16:45:07
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 16:48:16
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 16:48:47
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 16:49:22
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 16:49:37
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 16:49:43
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 애들 다 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠?&nbsp;네 아니요로 말씀해주세요<br></p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 16:49:55
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#입원_아니요_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#입원_아니요
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>말씀해주신 내용을 10일 이내 발송 해드리겠습니다.</p><p>만약 공제 증권이 도착하지 않거나 고객님의 주소, 운전여부, 직업에 변동이 있는 경우,</p><p>신협 CS 센터 0000-0000으로 전화 주시기 바랍니다.</p><p>동봉해드린 청약서는 자필서명란에 서명하신 후 반송용 봉투를 이용하셔서 발송해 주시기 바랍니다.</p><p>우리 고객님들께서 가족분들도 함께 많이 가입하셨는데요. 제가 배우자님도 지금 준비해드리겠습니다.</p><p>회원님 가입 잘 되셨습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 16:51:11
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 16:51:12
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 16:51:30
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 16:51:57
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 16:51:58
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 16:52:20
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 16:52:25
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 16:52:35
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 16:52:42
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 직장인 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠?&nbsp;네 아니요로 말씀해주세요<br></p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 16:53:17
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#입원_아니요_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#입원_아니요
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>말씀해주신 내용을 10일 이내 발송 해드리겠습니다.</p><p>만약 공제 증권이 도착하지 않거나 고객님의 주소, 운전여부, 직업에 변동이 있는 경우,</p><p>신협 CS 센터 0000-0000으로 전화 주시기 바랍니다.</p><p>동봉해드린 청약서는 자필서명란에 서명하신 후 반송용 봉투를 이용하셔서 발송해 주시기 바랍니다.</p><p>우리 고객님들께서 가족분들도 함께 많이 가입하셨는데요. 제가 배우자님도 지금 준비해드리겠습니다.</p><p>회원님 가입 잘 되셨습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 16:59:12
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:00:12
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:03:02
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:03:20
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:03:36
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#아니오_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#아니오
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>종료</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 17:04:29
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:04:43
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#아니오_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#아니오
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>네 즐거운 하루되세요~</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 17:09:23
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:09:44
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 17:09:53
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 학생 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠?&nbsp;네 아니요로 말씀해주세요<br></p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 17:10:24
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:10:44
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:10:45
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:12:04
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:12:05
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:13:08
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:13:42
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:13:43
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:13:44
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:16:37
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:34:26
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:35:02
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:35:47
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:36:15
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:36:29
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 17:36:36
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 모직 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠?&nbsp;네 아니요로 말씀해주세요<br></p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}
+*************************************
+접속일 :  2022-04-06 17:36:46
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #직업 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#입원예_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#입원예
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>말씀해주신 내용을 10일 이내 발송 해드리겠습니다.</p><p>만약 공제 증권이 도착하지 않거나 고객님의 주소, 운전여부, 직업에 변동이 있는 경우,</p><p>신협 CS 센터 0000-0000으로 전화 주시기 바랍니다. </p><p>동봉해드린 청약서는 자필서명란에 서명하신 후 반송용 봉투를 이용하셔서 발송해 주시기 바랍니다. </p><p>우리 고객님들께서 가족분들도 함께 많이 가입하셨는데요. 제가 배우자님도 지금 준비해드리겠습니다. </p><p>회원님 가입 잘 되셨습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2022-04-06 17:37:53
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 17:38:18
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 19:10:09
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 19:10:11
+유저아이디 :  undefined
+메시지 구분: 0 || 질문내용 : 아웃바운드콜 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/outbound/result/result.out "아웃바운드콜"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#전화_210
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#전화
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9541//2500
+{"answercode":"4", "ai_msg": "<p>지금부터 가입에 대한 계약내용을 안내해드리겠습니다.</p><p>박사장님께서는 스마트 상해공제에 가입을 수락하셨습니다, 맞으시죠?&nbsp;</p><p>네 아니요로 말씀해주세요</p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#전화","s4":"210"}]}
+*************************************
+접속일 :  2022-04-06 19:10:39
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #전화 || 질문아이디4 : 210
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#네_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#네
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>고객님, 직업은 어떻게 되시나요?&nbsp;</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#네","s4":""}]}
+*************************************
+접속일 :  2022-04-06 19:10:47
+유저아이디 :  undefined
+메시지 구분: 3 || 질문내용 : 사자 || 질문아이디1 : #아웃바운드 || 질문아이디2 : #아웃바운드 || 질문아이디3 : #네 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #아웃바운드_#아웃바운드_#직업_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #아웃바운드_#아웃바운드_#직업
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>최근 5년 이내 상해로 인해 치료나, 입원하신 적 없으시죠?&nbsp;네 아니요로 말씀해주세요<br></p><p>$$$네</p><p>$$$아니요</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#아웃바운드","s2": "#아웃바운드","s3":"#직업","s4":""}]}

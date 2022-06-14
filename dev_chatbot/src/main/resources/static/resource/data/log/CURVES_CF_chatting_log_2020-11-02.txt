@@ -1,0 +1,188 @@
+*************************************
+접속일 :  2020-11-02 15:33:05
+유저아이디 :  14dfc239-3033-48c0-9eae-399dfd215994
+메시지 구분: 0 || 질문내용 : ㅎㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "ㅎㅇ" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-02 15:33:05
+유저아이디 :  14dfc239-3033-48c0-9eae-399dfd215994
+메시지 구분: 1 || 질문내용 : ㅎㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "ㅎㅇ" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-02 15:33:26
+유저아이디 :  14dfc239-3033-48c0-9eae-399dfd215994
+메시지 구분: 0 || 질문내용 : ㅎㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "ㅎㅇ" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-02 15:33:26
+유저아이디 :  14dfc239-3033-48c0-9eae-399dfd215994
+메시지 구분: 1 || 질문내용 : ㅎㅇ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "ㅎㅇ" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요. 잘 모르는 내용이에요.", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-11-02 15:33:49
+유저아이디 :  14dfc239-3033-48c0-9eae-399dfd215994
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p><br>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-02 15:34:03
+유저아이디 :  14dfc239-3033-48c0-9eae-399dfd215994
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #CT01_#CT01_#CT01_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CT01_#CT01_#CT01
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>무엇이 궁금하세요?</p><p>$$$커브스 클럽 운영시간</p><p>$$$가까운 클럽 찾기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#CT01","s2": "#CT01","s3":"#CT01","s4":""}]}
+*************************************
+접속일 :  2020-11-02 15:34:11
+유저아이디 :  14dfc239-3033-48c0-9eae-399dfd215994
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #CT01 || 질문아이디2 : #CT01 || 질문아이디3 : #CT01 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #CT2_#CT2_#CT2_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CT2_#CT2_#CT2
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>가까운 클럽 찾기 링크를 안내해드리겠습니다.</p><p><br>고객님과 가까운 커브스 클럽을 찾아보세요!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-02 15:34:42
+유저아이디 :  14dfc239-3033-48c0-9eae-399dfd215994
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p><br>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}

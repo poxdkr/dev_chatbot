@@ -1,0 +1,24 @@
+*************************************
+접속일 :  2021-12-09 14:31:26
+유저아이디 :  30a0c6fb-4c8b-4c8b-b4ef-b9baa1787a5c
+메시지 구분: 0 || 질문내용 : 예약완료했는데요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "예약완료했는데요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D14BC63_BCE3_F249_187
+ que_id1 : PAY08_PAY08_PAY08_189
+ que_id2 : BD02_BD02_BD02_193
+ que_id3 : 4F3EA5F5_46FF_89AA_187
+ que_id4 : INS01_INS01_INS01_192
+ que_id5 : B1B9228A_D65B_7740_188
+ que_id6 : BA22D1E4_9E0B_A833_188
+ que_id7 : 12EE921C_C84F_58DC_187
+ que_id8 : PAY07_PAY07_PAY07_189
+ que_id9 : PAY09_PAY09_PAY09_189
+ scn_que_id : 1D14BC63_BCE3_F249
+ scn_que_id1 : PAY08_PAY08_PAY08
+ scn_que_id2 : BD02_BD02_BD02
+ scn_que_id3 : 4F3EA5F5_46FF_89AA
+ scn_que_id4 : INS01_INS01_INS01
+ 확률 : 선택질문 확률 : 5251//2500
+{"answercode":"1", "ai_msg": "여행상품 예약 방법 | 결제창이 안나타나요 | 일행 좌석 지정 | 예약 마감 기간 | 예약 취소/변경 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D14BC63","s2": "BCE3","s3":"F249","s4":"187"},{"s1":"PAY08","s2": "PAY08","s3":"PAY08","s4":"189"},{"s1":"BD02","s2": "BD02","s3":"BD02","s4":"193"},{"s1":"4F3EA5F5","s2": "46FF","s3":"89AA","s4":"187"},{"s1":"INS01","s2": "INS01","s3":"INS01","s4":"192"}]}

@@ -1,0 +1,72 @@
+*************************************
+접속일 :  2021-06-14 12:05:55
+유저아이디 :  bd2ba10a-5849-4555-94cd-70ba17be3f41
+메시지 구분: 0 || 질문내용 : 근로자휴가지원사업 포인트로 수서에서 부산 srt기차 티켓만 발권가능한가요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "근로자휴가지원사업 포인트로 수서에서 부산 srt기차 티켓만 발권가능한가요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  PR02_PR02_PR02_197
+ que_id1 : TO03_TO03_TO03_195
+ que_id2 : PAY01_PAY01_PAY01_189
+ que_id3 : BD05_BD05_BD05_193
+ que_id4 : PAY05_PAY05_PAY05_189
+ que_id5 : PAY09_PAY09_PAY09_189
+ que_id6 : RO04_RO04_RO04_194
+ que_id7 : TO08_TO08_TO08_195
+ que_id8 : TO07_TO07_TO07_195
+ que_id9 : RO03_RO03_RO03_194
+ scn_que_id : PR02_PR02_PR02
+ scn_que_id1 : TO03_TO03_TO03
+ scn_que_id2 : PAY01_PAY01_PAY01
+ scn_que_id3 : BD05_BD05_BD05
+ scn_que_id4 : PAY05_PAY05_PAY05
+ 확률 : 선택질문 확률 : 4352//2500
+{"answercode":"1", "ai_msg": "승차권 상품 | 열차 이용을 하지 않는 경우 | 비회원 결제 | 열차 좌석 방향 지정 | 전화 결제 가능 여부 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"PR02","s2": "PR02","s3":"PR02","s4":"197"},{"s1":"TO03","s2": "TO03","s3":"TO03","s4":"195"},{"s1":"PAY01","s2": "PAY01","s3":"PAY01","s4":"189"},{"s1":"BD05","s2": "BD05","s3":"BD05","s4":"193"},{"s1":"PAY05","s2": "PAY05","s3":"PAY05","s4":"189"}]}
+*************************************
+접속일 :  2021-06-14 12:06:05
+유저아이디 :  bd2ba10a-5849-4555-94cd-70ba17be3f41
+메시지 구분: 2 || 질문내용 : 승차권 상품 || 질문아이디1 : PR02 || 질문아이디2 : PR02 || 질문아이디3 : PR02 || 질문아이디4 : 197
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "승차권 상품"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  PR02_PR02_PR02_197
+ que_id1 : #RE01_#RE01_#RE01_196
+ que_id2 : 705FB289_220B_7901_188
+ que_id3 : #TR02_#TR02_#TR02_195
+ que_id4 : 2961937E_F9F8_E91D_60
+ que_id5 : TO04_TO04_TO04_195
+ que_id6 : 1D14BC63_BCE3_F249_187
+ que_id7 : BA22D1E4_9E0B_A833_188
+ que_id8 : B1B9228A_D65B_7740_188
+ que_id9 : TO11_TO11_TO11_195
+ scn_que_id : PR02_PR02_PR02
+ scn_que_id1 : #RE01_#RE01_#RE01
+ scn_que_id2 : 705FB289_220B_7901
+ scn_que_id3 : #TR02_#TR02_#TR02
+ scn_que_id4 : 2961937E_F9F8_E91D
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<span style=font-family: Verdana, sans-serif;>죄송합니다.</span><br><span style=font-family: Verdana, sans-serif;>저희는 승차권만 따로 판매하는 상품은 취급하지 않고 있습니다.</span>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"PR02","s2": "PR02","s3":"PR02","s4":"197"}]}
+*************************************
+접속일 :  2021-06-14 12:06:27
+유저아이디 :  bd2ba10a-5849-4555-94cd-70ba17be3f41
+메시지 구분: 2 || 질문내용 : 열차 이용을 하지 않는 경우 || 질문아이디1 : TO03 || 질문아이디2 : TO03 || 질문아이디3 : TO03 || 질문아이디4 : 195
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "열차 이용을 하지 않는 경우"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  TO03_TO03_TO03_195
+ que_id1 : PAY02_PAY02_PAY02_189
+ que_id2 : TO04_TO04_TO04_195
+ que_id3 : BD04_BD04_BD04_193
+ que_id4 : TO07_TO07_TO07_195
+ que_id5 : TO10_TO10_TO10_195
+ que_id6 : BA22D1E4_9E0B_A833_188
+ que_id7 : PR02_PR02_PR02_197
+ que_id8 : BD05_BD05_BD05_193
+ que_id9 : #ST02_#ST02_#ST02_193
+ scn_que_id : TO03_TO03_TO03
+ scn_que_id1 : PAY02_PAY02_PAY02
+ scn_que_id2 : TO04_TO04_TO04
+ scn_que_id3 : BD04_BD04_BD04
+ scn_que_id4 : TO07_TO07_TO07
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-size: 13.3333px; font-family: Verdana, sans-serif;>열차를 이용 안 하실 경우 해당 상품의 도착역으로 시간 맞춰 집결해 주시면 됩니다.</span></p><p><span style=font-size: 13.3333px; font-family: Verdana, sans-serif;>||또한 해당 열차금액을 공제 처리해드릴 수 있으니 유선 문의 바랍니다.</span></p><p><span style=font-size: 13.3333px; font-family: Verdana, sans-serif;>||다만, 출발 3일전부터는 열차의 취소 및 변경이 불가능하므로 꼭 출발 4일전까지 유선 연락 주셔야 합니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"TO03","s2": "TO03","s3":"TO03","s4":"195"}]}

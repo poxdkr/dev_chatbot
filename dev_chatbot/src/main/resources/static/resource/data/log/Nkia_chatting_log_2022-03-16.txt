@@ -1,0 +1,48 @@
+*************************************
+접속일 :  2022-03-16 09:16:38
+유저아이디 :  7f47518e-b323-4084-ac08-b3cbd6bfa676
+메시지 구분: 0 || 질문내용 : 업무문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/Nkia/result/result.out "업무문의"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #W1_#W2_#W3_137
+ que_id1 : #o8_#o8_#o8_137
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #W1_#W2_#W3
+ scn_que_id1 : #o8_#o8_#o8
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>업무 문의 관련 질문 카테고리 입니다.<br></p><p>원하는 내용을 선택하거나 직접 입력해주세요.&nbsp;</p><p>$$$▶설치관련</p><p>$$$▶작업관련</p><p>$$$▶라이선스 관련</p><p>$$$▶서류/파일 요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#W1","s2": "#W2","s3":"#W3","s4":"137"}]}
+*************************************
+접속일 :  2022-03-16 09:20:18
+유저아이디 :  7f47518e-b323-4084-ac08-b3cbd6bfa676
+메시지 구분: 0 || 질문내용 : 장애접수 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/devchatbot/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/devchatbot/chatadm/www/engine_proc/qbot.lic /home/devchatbot/chatadm/www/engine_proc/Nkia/result/result.out "장애접수"   /home/devchatbot/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ER5_ER51_ER511_139
+ que_id1 : ER4_ER41_ER411_139
+ que_id2 : ER6_ER61_ER611_139
+ que_id3 : B8593542_A88F_F7A6_137
+ que_id4 : #ER11_#ER111_#ER111_139
+ que_id5 : ER3_ER31_ER311_139
+ que_id6 : #FC12_#FC121_#FC1211_138
+ que_id7 : #f4_#f4_#f4_137
+ que_id8 : #ER1_#ER11_#ER111_139
+ que_id9 : ER2_ER21_ER211_139
+ scn_que_id : ER5_ER51_ER511
+ scn_que_id1 : ER4_ER41_ER411
+ scn_que_id2 : ER6_ER61_ER611
+ scn_que_id3 : B8593542_A88F_F7A6
+ scn_que_id4 : #ER11_#ER111_#ER111
+ 확률 : 선택질문 확률 : 6254//2500
+{"answercode":"1", "ai_msg": "Elasticsearch 장애 접수 | Agent 등록 오류 접수 | Agent 가용성 오류 접수 | 사용자 및 운영자 교육 | 보고서 오류 | ", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"ER5","s2": "ER51","s3":"ER511","s4":"139"},{"s1":"ER4","s2": "ER41","s3":"ER411","s4":"139"},{"s1":"ER6","s2": "ER61","s3":"ER611","s4":"139"},{"s1":"B8593542","s2": "A88F","s3":"F7A6","s4":"137"},{"s1":"#ER11","s2": "#ER111","s3":"#ER111","s4":"139"}]}

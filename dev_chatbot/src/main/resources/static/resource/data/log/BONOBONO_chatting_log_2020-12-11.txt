@@ -1,0 +1,1797 @@
+*************************************
+접속일 :  2020-12-11 09:10:39
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 이야앙 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "이야앙"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 09:10:40
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 1 || 질문내용 : 이야앙 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "이야앙"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 09:11:20
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 우리 엄마 이름은? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "우리 엄마 이름은?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 09:11:20
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 1 || 질문내용 : 우리 엄마 이름은? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "우리 엄마 이름은?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 09:36:04
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 동굴 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "동굴"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 09:36:05
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 1 || 질문내용 : 동굴 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "동굴"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 09:36:13
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 포로리 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "포로리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 09:36:13
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 1 || 질문내용 : 포로리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "포로리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 09:36:20
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 너부리 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "너부리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 09:36:21
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 1 || 질문내용 : 너부리 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "너부리"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 09:36:57
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 기업 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "기업"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 09:36:58
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 1 || 질문내용 : 기업 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "기업"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 09:37:07
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 기업 주가 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "기업 주가"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 09:37:08
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 1 || 질문내용 : 기업 주가 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "기업 주가"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 09:37:20
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 기업정보 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "기업정보"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  7A2FF4B9_F59A_74FA_135
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7A2FF4B9_F59A_74FA
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9273//2500
+{"answercode":"", "ai_msg": "종목코드: <br>업종: <br>주요제품: <br>상장일: <br>결산월: <br>대표자명: <br>홈페이지: <br>지역: <br>상장: ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7A2FF4B9","s2": "F59A","s3":"74FA","s4":"135"}]}
+*************************************
+접속일 :  2020-12-11 09:43:01
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 포스 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "포스"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 09:43:01
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 1 || 질문내용 : 포스 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "포스"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 09:44:40
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 포스 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "포스"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  8E003A83_7F87_97D4_172
+ que_id1 : CE7D9171_1DAE_54A4_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8E003A83_7F87_97D4
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>와우 포스는 안드로이드 기반의 포스로,</span></p><p><span style=font-family: Verdana, sans-serif;>윈도우 기반의 포스에서는 사용하실 수 없습니다.</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||</span><span style=font-family: Verdana, sans-serif;>또, 안드로이드 포스라도 벤(VAN)사가 스마트로, KIS일 경우만 사용하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8E003A83","s2": "7F87","s3":"97D4","s4":"172"}]}
+*************************************
+접속일 :  2020-12-11 09:46:05
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 포스 사용료 || 질문아이디1 : 8E003A83 || 질문아이디2 : 7F87 || 질문아이디3 : 97D4 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "포스 사용료"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  8E003A83_7F87_97D4_172
+ que_id1 : CE7D9171_1DAE_54A4_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8E003A83_7F87_97D4
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>와우 포스는 안드로이드 기반의 포스로,</span></p><p><span style=font-family: Verdana, sans-serif;>윈도우 기반의 포스에서는 사용하실 수 없습니다.</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||</span><span style=font-family: Verdana, sans-serif;>또, 안드로이드 포스라도 벤(VAN)사가 스마트로, KIS일 경우만 사용하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8E003A83","s2": "7F87","s3":"97D4","s4":"172"}]}
+*************************************
+접속일 :  2020-12-11 09:46:21
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 포스 비용 || 질문아이디1 : 8E003A83 || 질문아이디2 : 7F87 || 질문아이디3 : 97D4 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "포스 비용"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  8E003A83_7F87_97D4_172
+ que_id1 : CE7D9171_1DAE_54A4_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8E003A83_7F87_97D4
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>와우 포스는 안드로이드 기반의 포스로,</span></p><p><span style=font-family: Verdana, sans-serif;>윈도우 기반의 포스에서는 사용하실 수 없습니다.</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||</span><span style=font-family: Verdana, sans-serif;>또, 안드로이드 포스라도 벤(VAN)사가 스마트로, KIS일 경우만 사용하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8E003A83","s2": "7F87","s3":"97D4","s4":"172"}]}
+*************************************
+접속일 :  2020-12-11 09:54:44
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 포스 어떻게 써요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "포스 어떻게 써요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  8E003A83_7F87_97D4_172
+ que_id1 : CE7D9171_1DAE_54A4_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8E003A83_7F87_97D4
+ scn_que_id1 : CE7D9171_1DAE_54A4
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>와우 포스는 안드로이드 기반의 포스로,</span></p><p><span style=font-family: Verdana, sans-serif;>윈도우 기반의 포스에서는 사용하실 수 없습니다.</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||</span><span style=font-family: Verdana, sans-serif;>또, 안드로이드 포스라도 벤(VAN)사가 스마트로, KIS일 경우만 사용하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8E003A83","s2": "7F87","s3":"97D4","s4":"172"}]}
+*************************************
+접속일 :  2020-12-11 09:55:06
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 사용 || 질문아이디1 : 8E003A83 || 질문아이디2 : 7F87 || 질문아이디3 : 97D4 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "사용"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 09:55:07
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 1 || 질문내용 : 사용 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "사용"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 09:58:38
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 스마트폰 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "스마트폰"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  CEB992D7_ACAA_1A4E_172
+ que_id1 : 8E003A83_7F87_97D4_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CEB992D7_ACAA_1A4E
+ scn_que_id1 : 8E003A83_7F87_97D4
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9273//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;><b>안드로이드 기반</b>의 <b>갤럭시 노트 5 이상</b> 기종이면 원활하게 사용하실 수 있습니다!</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CEB992D7","s2": "ACAA","s3":"1A4E","s4":"172"}]}
+*************************************
+접속일 :  2020-12-11 09:58:54
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 핸드폰에서 어떻게 사용해요? || 질문아이디1 : CEB992D7 || 질문아이디2 : ACAA || 질문아이디3 : 1A4E || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "핸드폰에서 어떻게 사용해요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  CEB992D7_ACAA_1A4E_172
+ que_id1 : 8E003A83_7F87_97D4_172
+ que_id2 : F25EE803_EBB9_9C57_172
+ que_id3 : 7E95F99F_5529_62A7_172
+ que_id4 : CE7D9171_1DAE_54A4_172
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CEB992D7_ACAA_1A4E
+ scn_que_id1 : 8E003A83_7F87_97D4
+ scn_que_id2 : F25EE803_EBB9_9C57
+ scn_que_id3 : 7E95F99F_5529_62A7
+ scn_que_id4 : CE7D9171_1DAE_54A4
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;><b>안드로이드 기반</b>의 <b>갤럭시 노트 5 이상</b> 기종이면 원활하게 사용하실 수 있습니다!</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CEB992D7","s2": "ACAA","s3":"1A4E","s4":"172"}]}
+*************************************
+접속일 :  2020-12-11 09:59:06
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 포스 비용 얼마? || 질문아이디1 : CEB992D7 || 질문아이디2 : ACAA || 질문아이디3 : 1A4E || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "포스 비용 얼마?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  CE7D9171_1DAE_54A4_172
+ que_id1 : 8E003A83_7F87_97D4_172
+ que_id2 : 7A2FF4B9_F59A_74FA_135
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CE7D9171_1DAE_54A4
+ scn_que_id1 : 8E003A83_7F87_97D4
+ scn_que_id2 : 7A2FF4B9_F59A_74FA
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 7427//2500
+{"answercode":"1", "ai_msg": "비용 안내 및 체험 사용 기간 | 기존에 사용하던 포스가 있는 경우 | 기업정보를 질문하셨나요? | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"},{"s1":"8E003A83","s2": "7F87","s3":"97D4","s4":"172"},{"s1":"7A2FF4B9","s2": "F59A","s3":"74FA","s4":"135"}]}
+*************************************
+접속일 :  2020-12-11 09:59:31
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 2 || 질문내용 : 포스 비용 얼마에요? || 질문아이디1 : CE7D9171,8E003A83,7A2FF4B9 || 질문아이디2 : 1DAE,7F87,F59A || 질문아이디3 : 54A4,97D4,74FA || 질문아이디4 : 172,172,135
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2020-12-11 09:59:32
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 1 || 질문내용 : 포스 비용 얼마에요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "포스 비용 얼마에요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  CE7D9171_1DAE_54A4_172
+ que_id1 : 8E003A83_7F87_97D4_172
+ que_id2 : 7A2FF4B9_F59A_74FA_135
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CE7D9171_1DAE_54A4
+ scn_que_id1 : 8E003A83_7F87_97D4
+ scn_que_id2 : 7A2FF4B9_F59A_74FA
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 7427//2500
+{"answercode":"1", "ai_msg": "비용 안내 및 체험 사용 기간 | 기존에 사용하던 포스가 있는 경우 | 기업정보를 질문하셨나요? | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"},{"s1":"8E003A83","s2": "7F87","s3":"97D4","s4":"172"},{"s1":"7A2FF4B9","s2": "F59A","s3":"74FA","s4":"135"}]}
+*************************************
+접속일 :  2020-12-11 09:59:41
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 2 || 질문내용 : 체험기간 있어요? || 질문아이디1 : CE7D9171,8E003A83,7A2FF4B9 || 질문아이디2 : 1DAE,7F87,F59A || 질문아이디3 : 54A4,97D4,74FA || 질문아이디4 : 172,172,135
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out ""   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2020-12-11 09:59:42
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 1 || 질문내용 : 체험기간 있어요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "체험기간 있어요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  CE7D9171_1DAE_54A4_172
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CE7D9171_1DAE_54A4
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 2869//2500
+{"answercode":"1", "ai_msg": "비용 안내 및 체험 사용 기간 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"}]}
+*************************************
+접속일 :  2020-12-11 10:00:02
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 2 || 질문내용 : 기업정보를 질문하셨나요? || 질문아이디1 : 7A2FF4B9 || 질문아이디2 : F59A || 질문아이디3 : 74FA || 질문아이디4 : 135
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "기업정보는?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  7A2FF4B9_F59A_74FA_135
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 7A2FF4B9_F59A_74FA
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9273//2500
+{"answercode":"", "ai_msg": "종목코드: <br>업종: <br>주요제품: <br>상장일: <br>결산월: <br>대표자명: <br>홈페이지: <br>지역: <br>상장: ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"7A2FF4B9","s2": "F59A","s3":"74FA","s4":"135"}]}
+*************************************
+접속일 :  2020-12-11 10:01:10
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 어떻게 설치해요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "어떻게 설치해요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  8E003A83_7F87_97D4_172
+ que_id1 : CEB992D7_ACAA_1A4E_172
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8E003A83_7F87_97D4
+ scn_que_id1 : CEB992D7_ACAA_1A4E
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9008//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>와우 포스는 안드로이드 기반의 포스로,</span></p><p><span style=font-family: Verdana, sans-serif;>윈도우 기반의 포스에서는 사용하실 수 없습니다.</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||</span><span style=font-family: Verdana, sans-serif;>또, 안드로이드 포스라도 벤(VAN)사가 스마트로, KIS일 경우만 사용하실 수 있습니다.</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8E003A83","s2": "7F87","s3":"97D4","s4":"172"}]}
+*************************************
+접속일 :  2020-12-11 10:01:23
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 비용이 얼마에요? || 질문아이디1 : 8E003A83 || 질문아이디2 : 7F87 || 질문아이디3 : 97D4 || 질문아이디4 : 172
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "비용이 얼마에요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  CE7D9171_1DAE_54A4_172
+ que_id1 : 7A2FF4B9_F59A_74FA_135
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : CE7D9171_1DAE_54A4
+ scn_que_id1 : 7A2FF4B9_F59A_74FA
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 7096//2500
+{"answercode":"1", "ai_msg": "비용 안내 및 체험 사용 기간 | 기업정보를 질문하셨나요? | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CE7D9171","s2": "1DAE","s3":"54A4","s4":"172"},{"s1":"7A2FF4B9","s2": "F59A","s3":"74FA","s4":"135"}]}
+*************************************
+접속일 :  2020-12-11 10:06:55
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 얼마에요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "얼마에요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  8C40B50C_B73A_229B_60
+ que_id1 : F923A9F1_CD7D_1B46_60
+ que_id2 : 1D3E6C43_0349_8C38_60
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8C40B50C_B73A_229B
+ scn_que_id1 : F923A9F1_CD7D_1B46
+ scn_que_id2 : 1D3E6C43_0349_8C38
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9273//2500
+{"answercode":"", "ai_msg": "<p>A는 30,000원 입니다.</p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8C40B50C","s2": "B73A","s3":"229B","s4":"60"}]}
+*************************************
+접속일 :  2020-12-11 10:07:06
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 가격 || 질문아이디1 : 8C40B50C || 질문아이디2 : B73A || 질문아이디3 : 229B || 질문아이디4 : 60
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "가격"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  8C40B50C_B73A_229B_60
+ que_id1 : F923A9F1_CD7D_1B46_60
+ que_id2 : 1D3E6C43_0349_8C38_60
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8C40B50C_B73A_229B
+ scn_que_id1 : F923A9F1_CD7D_1B46
+ scn_que_id2 : 1D3E6C43_0349_8C38
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9016//2500
+{"answercode":"", "ai_msg": "<p>A는 30,000원 입니다.</p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8C40B50C","s2": "B73A","s3":"229B","s4":"60"}]}
+*************************************
+접속일 :  2020-12-11 10:07:19
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 비용 || 질문아이디1 : 8C40B50C || 질문아이디2 : B73A || 질문아이디3 : 229B || 질문아이디4 : 60
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "비용"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  8C40B50C_B73A_229B_60
+ que_id1 : F923A9F1_CD7D_1B46_60
+ que_id2 : 1D3E6C43_0349_8C38_60
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8C40B50C_B73A_229B
+ scn_que_id1 : F923A9F1_CD7D_1B46
+ scn_que_id2 : 1D3E6C43_0349_8C38
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9016//2500
+{"answercode":"", "ai_msg": "<p>A는 30,000원 입니다.</p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8C40B50C","s2": "B73A","s3":"229B","s4":"60"}]}
+*************************************
+접속일 :  2020-12-11 10:08:35
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 얼마? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "얼마?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  8C40B50C_B73A_229B_60
+ que_id1 : F923A9F1_CD7D_1B46_60
+ que_id2 : 1D3E6C43_0349_8C38_60
+ que_id3 : 7A2FF4B9_F59A_74FA_135
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8C40B50C_B73A_229B
+ scn_que_id1 : F923A9F1_CD7D_1B46
+ scn_que_id2 : 1D3E6C43_0349_8C38
+ scn_que_id3 : 7A2FF4B9_F59A_74FA
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9016//2500
+{"answercode":"", "ai_msg": "<p>A는 30,000원 입니다.</p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8C40B50C","s2": "B73A","s3":"229B","s4":"60"}]}
+*************************************
+접속일 :  2020-12-11 10:08:48
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 얼마나 || 질문아이디1 : 8C40B50C || 질문아이디2 : B73A || 질문아이디3 : 229B || 질문아이디4 : 60
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "얼마나"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  8C40B50C_B73A_229B_60
+ que_id1 : F923A9F1_CD7D_1B46_60
+ que_id2 : 1D3E6C43_0349_8C38_60
+ que_id3 : 7A2FF4B9_F59A_74FA_135
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8C40B50C_B73A_229B
+ scn_que_id1 : F923A9F1_CD7D_1B46
+ scn_que_id2 : 1D3E6C43_0349_8C38
+ scn_que_id3 : 7A2FF4B9_F59A_74FA
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9016//2500
+{"answercode":"", "ai_msg": "<p>A는 30,000원 입니다.</p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8C40B50C","s2": "B73A","s3":"229B","s4":"60"}]}
+*************************************
+접속일 :  2020-12-11 10:08:58
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : C는 얼마에요? || 질문아이디1 : 8C40B50C || 질문아이디2 : B73A || 질문아이디3 : 229B || 질문아이디4 : 60
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "C는 얼마에요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  8C40B50C_B73A_229B_60
+ que_id1 : F923A9F1_CD7D_1B46_60
+ que_id2 : 1D3E6C43_0349_8C38_60
+ que_id3 : 7A2FF4B9_F59A_74FA_135
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8C40B50C_B73A_229B
+ scn_que_id1 : F923A9F1_CD7D_1B46
+ scn_que_id2 : 1D3E6C43_0349_8C38
+ scn_que_id3 : 7A2FF4B9_F59A_74FA
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9273//2500
+{"answercode":"", "ai_msg": "<p>A는 30,000원 입니다.</p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8C40B50C","s2": "B73A","s3":"229B","s4":"60"}]}
+*************************************
+접속일 :  2020-12-11 10:09:22
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 비용문의 || 질문아이디1 : 8C40B50C || 질문아이디2 : B73A || 질문아이디3 : 229B || 질문아이디4 : 60
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "비용문의"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  8C40B50C_B73A_229B_60
+ que_id1 : F923A9F1_CD7D_1B46_60
+ que_id2 : 1D3E6C43_0349_8C38_60
+ que_id3 : 7A2FF4B9_F59A_74FA_135
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8C40B50C_B73A_229B
+ scn_que_id1 : F923A9F1_CD7D_1B46
+ scn_que_id2 : 1D3E6C43_0349_8C38
+ scn_que_id3 : 7A2FF4B9_F59A_74FA
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9016//2500
+{"answercode":"", "ai_msg": "<p>A는 30,000원 입니다.</p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8C40B50C","s2": "B73A","s3":"229B","s4":"60"}]}
+*************************************
+접속일 :  2020-12-11 10:09:36
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : B 가격 || 질문아이디1 : 8C40B50C || 질문아이디2 : B73A || 질문아이디3 : 229B || 질문아이디4 : 60
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "B 가격"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  8C40B50C_B73A_229B_60
+ que_id1 : F923A9F1_CD7D_1B46_60
+ que_id2 : 1D3E6C43_0349_8C38_60
+ que_id3 : 7A2FF4B9_F59A_74FA_135
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 8C40B50C_B73A_229B
+ scn_que_id1 : F923A9F1_CD7D_1B46
+ scn_que_id2 : 1D3E6C43_0349_8C38
+ scn_que_id3 : 7A2FF4B9_F59A_74FA
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9016//2500
+{"answercode":"", "ai_msg": "<p>A는 30,000원 입니다.</p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"8C40B50C","s2": "B73A","s3":"229B","s4":"60"}]}
+접속일 :  --> December 11, 2020, 10:09 am // 테스트 실행 -- > /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/test_result.out "얼마"   /home/curves/chatadm/www/engine_proc/_entity/test.entity.txt.utf8
+*************************************
+접속일 :  2020-12-11 10:11:17
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 얼마? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "얼마?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D3E6C43_0349_8C38_60
+ que_id1 : F923A9F1_CD7D_1B46_177
+ que_id2 : 8C40B50C_B73A_229B_177
+ que_id3 : 7A2FF4B9_F59A_74FA_135
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 1D3E6C43_0349_8C38
+ scn_que_id1 : F923A9F1_CD7D_1B46
+ scn_que_id2 : 8C40B50C_B73A_229B
+ scn_que_id3 : 7A2FF4B9_F59A_74FA
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9016//2500
+{"answercode":"", "ai_msg": "<p>C는 50,000원 입니다.</p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D3E6C43","s2": "0349","s3":"8C38","s4":"60"}]}
+*************************************
+접속일 :  2020-12-11 10:11:29
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 비용 얼마? || 질문아이디1 : 1D3E6C43 || 질문아이디2 : 0349 || 질문아이디3 : 8C38 || 질문아이디4 : 60
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "비용 얼마?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D3E6C43_0349_8C38_60
+ que_id1 : F923A9F1_CD7D_1B46_177
+ que_id2 : 8C40B50C_B73A_229B_177
+ que_id3 : 7A2FF4B9_F59A_74FA_135
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 1D3E6C43_0349_8C38
+ scn_que_id1 : F923A9F1_CD7D_1B46
+ scn_que_id2 : 8C40B50C_B73A_229B
+ scn_que_id3 : 7A2FF4B9_F59A_74FA
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9016//2500
+{"answercode":"", "ai_msg": "<p>C는 50,000원 입니다.</p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D3E6C43","s2": "0349","s3":"8C38","s4":"60"}]}
+*************************************
+접속일 :  2020-12-11 10:11:35
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 비용 || 질문아이디1 : 1D3E6C43 || 질문아이디2 : 0349 || 질문아이디3 : 8C38 || 질문아이디4 : 60
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "비용"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D3E6C43_0349_8C38_60
+ que_id1 : F923A9F1_CD7D_1B46_177
+ que_id2 : 8C40B50C_B73A_229B_177
+ que_id3 : 7A2FF4B9_F59A_74FA_135
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 1D3E6C43_0349_8C38
+ scn_que_id1 : F923A9F1_CD7D_1B46
+ scn_que_id2 : 8C40B50C_B73A_229B
+ scn_que_id3 : 7A2FF4B9_F59A_74FA
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9016//2500
+{"answercode":"", "ai_msg": "<p>C는 50,000원 입니다.</p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D3E6C43","s2": "0349","s3":"8C38","s4":"60"}]}
+*************************************
+접속일 :  2020-12-11 10:11:45
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 가격 얼마나 비싸? || 질문아이디1 : 1D3E6C43 || 질문아이디2 : 0349 || 질문아이디3 : 8C38 || 질문아이디4 : 60
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "가격 얼마나 비싸?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D3E6C43_0349_8C38_60
+ que_id1 : F923A9F1_CD7D_1B46_177
+ que_id2 : 8C40B50C_B73A_229B_177
+ que_id3 : 7A2FF4B9_F59A_74FA_135
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 1D3E6C43_0349_8C38
+ scn_que_id1 : F923A9F1_CD7D_1B46
+ scn_que_id2 : 8C40B50C_B73A_229B
+ scn_que_id3 : 7A2FF4B9_F59A_74FA
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9016//2500
+{"answercode":"", "ai_msg": "<p>C는 50,000원 입니다.</p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D3E6C43","s2": "0349","s3":"8C38","s4":"60"}]}
+접속일 :  --> December 11, 2020, 10:11 am // 테스트 실행 -- > /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/test_result.out "가격"   /home/curves/chatadm/www/engine_proc/_entity/test.entity.txt.utf8
+접속일 :  --> December 11, 2020, 10:12 am // 테스트 실행 -- > /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/test_result.out "얼마나 싸요?"   /home/curves/chatadm/www/engine_proc/_entity/test.entity.txt.utf8
+접속일 :  --> December 11, 2020, 10:12 am // 테스트 실행 -- > /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/test_result.out "얼마나 싸요?"   /home/curves/chatadm/www/engine_proc/_entity/test.entity.txt.utf8
+접속일 :  --> December 11, 2020, 10:12 am // 테스트 실행 -- > /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/test_result.out "얼마나 저렴해요?"   /home/curves/chatadm/www/engine_proc/_entity/test.entity.txt.utf8
+접속일 :  --> December 11, 2020, 10:12 am // 테스트 실행 -- > /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/test_result.out "얼마나 저렴해요?"   /home/curves/chatadm/www/engine_proc/_entity/test.entity.txt.utf8
+접속일 :  --> December 11, 2020, 10:12 am // 테스트 실행 -- > /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/test_result.out "얼마나 저렴해요?"   /home/curves/chatadm/www/engine_proc/_entity/test.entity.txt.utf8
+접속일 :  --> December 11, 2020, 10:12 am // 테스트 실행 -- > /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/test_result.out "얼마나 저렴해요?"   /home/curves/chatadm/www/engine_proc/_entity/test.entity.txt.utf8
+접속일 :  --> December 11, 2020, 10:12 am // 테스트 실행 -- > /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/test_result.out "얼마나 저렴해요?"   /home/curves/chatadm/www/engine_proc/_entity/test.entity.txt.utf8
+*************************************
+접속일 :  2020-12-11 10:12:31
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 얼마나 저렴해요? || 질문아이디1 : 1D3E6C43 || 질문아이디2 : 0349 || 질문아이디3 : 8C38 || 질문아이디4 : 60
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "얼마나 저렴해요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D3E6C43_0349_8C38_60
+ que_id1 : F923A9F1_CD7D_1B46_177
+ que_id2 : 8C40B50C_B73A_229B_177
+ que_id3 : 7A2FF4B9_F59A_74FA_135
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 1D3E6C43_0349_8C38
+ scn_que_id1 : F923A9F1_CD7D_1B46
+ scn_que_id2 : 8C40B50C_B73A_229B
+ scn_que_id3 : 7A2FF4B9_F59A_74FA
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9016//2500
+{"answercode":"", "ai_msg": "<p>C는 50,000원 입니다.</p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D3E6C43","s2": "0349","s3":"8C38","s4":"60"}]}
+*************************************
+접속일 :  2020-12-11 10:12:40
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 지불해야 하는 금액 || 질문아이디1 : 1D3E6C43 || 질문아이디2 : 0349 || 질문아이디3 : 8C38 || 질문아이디4 : 60
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "지불해야 하는 금액"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 10:12:41
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 1 || 질문내용 : 지불해야 하는 금액 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "지불해야 하는 금액"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 10:13:03
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 지불해야하는 금액 || 질문아이디1 : 00000 || 질문아이디2 : 00000 || 질문아이디3 : 00000 || 질문아이디4 : 00000
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "지불해야하는 금액"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 10:13:03
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 1 || 질문내용 : 지불해야하는 금액 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "지불해야하는 금액"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 10:13:37
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 지불해야하는 금액 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "지불해야하는 금액"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D3E6C43_0349_8C38_60
+ que_id1 : F923A9F1_CD7D_1B46_177
+ que_id2 : 8C40B50C_B73A_229B_177
+ que_id3 : 7A2FF4B9_F59A_74FA_135
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 1D3E6C43_0349_8C38
+ scn_que_id1 : F923A9F1_CD7D_1B46
+ scn_que_id2 : 8C40B50C_B73A_229B
+ scn_que_id3 : 7A2FF4B9_F59A_74FA
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9016//2500
+{"answercode":"", "ai_msg": "<p>C는 50,000원 입니다.</p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D3E6C43","s2": "0349","s3":"8C38","s4":"60"}]}
+*************************************
+접속일 :  2020-12-11 10:13:54
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 물건을 사기 위해 지불해야하는 금액 || 질문아이디1 : 1D3E6C43 || 질문아이디2 : 0349 || 질문아이디3 : 8C38 || 질문아이디4 : 60
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "물건을 사기 위해 지불해야하는 금액"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  1D3E6C43_0349_8C38_60
+ que_id1 : F923A9F1_CD7D_1B46_177
+ que_id2 : 8C40B50C_B73A_229B_177
+ que_id3 : 7A2FF4B9_F59A_74FA_135
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 1D3E6C43_0349_8C38
+ scn_que_id1 : F923A9F1_CD7D_1B46
+ scn_que_id2 : 8C40B50C_B73A_229B
+ scn_que_id3 : 7A2FF4B9_F59A_74FA
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9016//2500
+{"answercode":"", "ai_msg": "<p>C는 50,000원 입니다.</p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"1D3E6C43","s2": "0349","s3":"8C38","s4":"60"}]}
+*************************************
+접속일 :  2020-12-11 10:14:09
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 물건을 사기 위해 지불해야 하는 대가 || 질문아이디1 : 1D3E6C43 || 질문아이디2 : 0349 || 질문아이디3 : 8C38 || 질문아이디4 : 60
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "물건을 사기 위해 지불해야 하는 대가"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 10:14:09
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 1 || 질문내용 : 물건을 사기 위해 지불해야 하는 대가 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "물건을 사기 위해 지불해야 하는 대가"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요.<br> 잘 모르는 내용이에요. ๑°⌓°๑", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-12-11 14:26:31
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 어떤 음식 좋아해요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "어떤 음식 좋아해요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  96F75910_D5C1_5054_60
+ que_id1 : E530F969_1A28_28A1_60
+ que_id2 : 3FB0B54F_C9B0_3BD3_134
+ que_id3 : 이름_이름2_이름3_134
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 96F75910_D5C1_5054
+ scn_que_id1 : E530F969_1A28_28A1
+ scn_que_id2 : 3FB0B54F_C9B0_3BD3
+ scn_que_id3 : 이름_이름2_이름3
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9349//2500
+{"answercode":"", "ai_msg": "<p>떡볶이요!<span style=color: rgb(102, 102, 102); font-family: 나눔고딕, nanumgothic, se_NanumGothic, AppleSDGothicNeo, sans-serif, simhei; font-size: 16px; text-align: center;>(•ө•)♡</span></p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"96F75910","s2": "D5C1","s3":"5054","s4":"60"}]}
+*************************************
+접속일 :  2020-12-11 14:27:17
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 어떤 음식 좋아해요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "어떤 음식 좋아해요?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  96F75910_D5C1_5054_134
+ que_id1 : E530F969_1A28_28A1_60
+ que_id2 : 3FB0B54F_C9B0_3BD3_134
+ que_id3 : 이름_이름2_이름3_134
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 96F75910_D5C1_5054
+ scn_que_id1 : E530F969_1A28_28A1
+ scn_que_id2 : 3FB0B54F_C9B0_3BD3
+ scn_que_id3 : 이름_이름2_이름3
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9349//2500
+{"answercode":"", "ai_msg": "<p>떡볶이요!<span style=color: rgb(102, 102, 102); font-family: 나눔고딕, nanumgothic, se_NanumGothic, AppleSDGothicNeo, sans-serif, simhei; font-size: 16px; text-align: center;>(•ө•)♡</span></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16076644179700.jpg", "qustType": "","questionID": [{"s1":"96F75910","s2": "D5C1","s3":"5054","s4":"134"}]}
+*************************************
+접속일 :  2020-12-11 15:16:57
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 누가 제일 좋아? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "누가 제일 좋아?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  96F75910_D5C1_5054_134
+ que_id1 : E530F969_1A28_28A1_60
+ que_id2 : 3FB0B54F_C9B0_3BD3_134
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 96F75910_D5C1_5054
+ scn_que_id1 : E530F969_1A28_28A1
+ scn_que_id2 : 3FB0B54F_C9B0_3BD3
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 8958//2500
+{"answercode":"", "ai_msg": "<p>바로 너?&nbsp;(づ｡◕‿‿◕｡)づ&nbsp;</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16076664964200.jpg", "qustType": "","questionID": [{"s1":"96F75910","s2": "D5C1","s3":"5054","s4":"134"}]}
+*************************************
+접속일 :  2020-12-11 15:18:22
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 누가 제일 좋아? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "누가 제일 좋아?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  96F75910_D5C1_5054_134
+ que_id1 : E530F969_1A28_28A1_60
+ que_id2 : 3FB0B54F_C9B0_3BD3_134
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 96F75910_D5C1_5054
+ scn_que_id1 : E530F969_1A28_28A1
+ scn_que_id2 : 3FB0B54F_C9B0_3BD3
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 8958//2500
+{"answercode":"", "ai_msg": "<p>바로 너?&nbsp;(づ｡◕‿‿◕｡)づ&nbsp;</p><p><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16076664964200.jpg", "qustType": "","questionID": [{"s1":"96F75910","s2": "D5C1","s3":"5054","s4":"134"}]}
+*************************************
+접속일 :  2020-12-11 15:32:37
+유저아이디 :  5fbd0eae-1813-4aa1-812e-b7b919d4126a
+메시지 구분: 0 || 질문내용 : 누가 제일 좋아? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "누가 제일 좋아?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  96F75910_D5C1_5054_134
+ que_id1 : E530F969_1A28_28A1_60
+ que_id2 : 3FB0B54F_C9B0_3BD3_134
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 96F75910_D5C1_5054
+ scn_que_id1 : E530F969_1A28_28A1
+ scn_que_id2 : 3FB0B54F_C9B0_3BD3
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 8958//2500
+{"answercode":"", "ai_msg": "<p>바로 너?&nbsp;(づ｡◕‿‿◕｡)づ&nbsp;</p><p><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16076664964200.jpg", "qustType": "","questionID": [{"s1":"96F75910","s2": "D5C1","s3":"5054","s4":"134"}]}
+*************************************
+접속일 :  2020-12-11 17:43:31
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 그림 그린거 보여주라 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "그림 그린거 보여주라"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  D197C1A8_6B66_67F3_135
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : D197C1A8_6B66_67F3
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 6246//2500
+{"answercode":"1", "ai_msg": "그림 보여달라고 하기 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"D197C1A8","s2": "6B66","s3":"67F3","s4":"135"}]}
+*************************************
+접속일 :  2020-12-11 17:44:04
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 그림 그린거 보여주라 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "그림 그린거 보여주라"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  D197C1A8_6B66_67F3_135
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : D197C1A8_6B66_67F3
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 6246//2500
+{"answercode":"1", "ai_msg": "그림 보여달라고 하기 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"D197C1A8","s2": "6B66","s3":"67F3","s4":"135"}]}
+*************************************
+접속일 :  2020-12-11 17:44:29
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 그림 그린거 보여주라 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "그림 그린거 보여주라"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  D197C1A8_6B66_67F3_135
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : D197C1A8_6B66_67F3
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 7428//2500
+{"answercode":"1", "ai_msg": "그림 보여달라고 하기 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"D197C1A8","s2": "6B66","s3":"67F3","s4":"135"}]}
+*************************************
+접속일 :  2020-12-11 17:46:44
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 그림 그린거 보여주라 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "그림 그린거 보여주라"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  D197C1A8_6B66_67F3_134
+ que_id1 : D197C1A8_6B66_67F3_135
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : D197C1A8_6B66_67F3
+ scn_que_id1 : D197C1A8_6B66_67F3
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"D197C1A8","s2": "6B66","s3":"67F3","s4":"134"}]}
+*************************************
+접속일 :  2020-12-11 17:47:22
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 그림 그린거 보여주세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "그림 그린거 보여주세요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  D197C1A8_6B66_67F3_134
+ que_id1 : D197C1A8_6B66_67F3_135
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : D197C1A8_6B66_67F3
+ scn_que_id1 : D197C1A8_6B66_67F3
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"D197C1A8","s2": "6B66","s3":"67F3","s4":"134"}]}
+*************************************
+접속일 :  2020-12-11 18:47:34
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 여행지 추천해주세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "여행지 추천해주세요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #FR01_#FR01_#FR01_134
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FR01_#FR01_#FR01
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 7480//2500
+{"answercode":"1", "ai_msg": "여행상품추천 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#FR01","s2": "#FR01","s3":"#FR01","s4":"134"}]}
+*************************************
+접속일 :  2020-12-11 18:48:06
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 여행지 추천해주세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "여행지 추천해주세요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #FR01_#FR01_#FR01_134
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FR01_#FR01_#FR01
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 7480//2500
+{"answercode":"1", "ai_msg": "여행상품추천 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"#FR01","s2": "#FR01","s3":"#FR01","s4":"134"}]}
+*************************************
+접속일 :  2020-12-11 18:48:13
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 2 || 질문내용 : 여행상품추천 || 질문아이디1 : #FR01 || 질문아이디2 : #FR01 || 질문아이디3 : #FR01 || 질문아이디4 : 134
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "여행상품추천"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #FR01_#FR01_#FR01_134
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FR01_#FR01_#FR01
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>어디로 떠나볼까요?<br></p><p>저랑 같이 생각해봐요!! ⸜( •⌄• )⸝</p><p>$$$여행은 역시 먼 곳으로! 유럽</p><p>$$$비슷한듯 다른 게 매력! 중국/일본</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FR01","s2": "#FR01","s3":"#FR01","s4":"134"}]}
+*************************************
+접속일 :  2020-12-11 18:48:19
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #FR01 || 질문아이디2 : #FR01 || 질문아이디3 : #FR01 || 질문아이디4 : 134
+ 시나리오 결과 값 : 
+ que_id :  #TR012_#TR012_#TR012_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR012_#TR012_#TR012
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>요즘 인기있는 상품을 안내해드릴게요!</p><p>$$$일본-도쿄 일주일</p><p>$$$일본-후쿠오카 일주일</p><p>$$$중국-베이징 일주일</p><p>$$$중국-상하이 일주일</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#TR012","s2": "#TR012","s3":"#TR012","s4":""}]}
+*************************************
+접속일 :  2020-12-11 18:48:25
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #TR012 || 질문아이디2 : #TR012 || 질문아이디3 : #TR012 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #TR0121_#TR0121_#TR0121_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR0121_#TR0121_#TR0121
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>신주쿠, 시부야, 이케부쿠로, 긴자!<BR></p><p>도쿄 쇼핑과 트렌드의 중심지에서<BR></p><p>즐거운 시간을 보낼 수 있는 여행상품 입니다.</p><p>$$$상세 페이지 가기</p><p>$$$고객센터 연결</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#TR0121","s2": "#TR0121","s3":"#TR0121","s4":""}]}
+*************************************
+접속일 :  2020-12-11 18:48:34
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #TR0121 || 질문아이디2 : #TR0121 || 질문아이디3 : #TR0121 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #TR01211_#TR01211_#TR01211_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR01211_#TR01211_#TR01211
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>링크를 안내해드릴게요!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-12-11 18:50:54
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 그림 그린거 보여주세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "그림 그린거 보여주세요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  D197C1A8_6B66_67F3_134
+ que_id1 : D197C1A8_6B66_67F3_135
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : D197C1A8_6B66_67F3
+ scn_que_id1 : D197C1A8_6B66_67F3
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"D197C1A8","s2": "6B66","s3":"67F3","s4":"134"}]}
+*************************************
+접속일 :  2020-12-11 18:51:20
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 0 || 질문내용 : 여행 어디갈지 추천해주세요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/BONOBONO/result/result.out "여행 어디갈지 추천해주세요"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  #FR01_#FR01_#FR01_134
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FR01_#FR01_#FR01
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>어디로 떠나볼까요?<br></p><p>저랑 같이 생각해봐요!! ⸜( •⌄• )⸝</p><p>$$$여행은 역시 먼 곳으로! 유럽</p><p>$$$비슷한듯 다른 게 매력! 중국/일본</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FR01","s2": "#FR01","s3":"#FR01","s4":"134"}]}
+*************************************
+접속일 :  2020-12-11 18:51:59
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #FR01 || 질문아이디2 : #FR01 || 질문아이디3 : #FR01 || 질문아이디4 : 134
+ 시나리오 결과 값 : 
+ que_id :  #TR012_#TR012_#TR012_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR012_#TR012_#TR012
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>요즘 인기있는 상품을 안내해드릴게요!</p><p>$$$일본-도쿄 일주일</p><p>$$$일본-후쿠오카 일주일</p><p>$$$중국-베이징 일주일</p><p>$$$중국-상하이 일주일</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#TR012","s2": "#TR012","s3":"#TR012","s4":""}]}
+*************************************
+접속일 :  2020-12-11 18:52:10
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #TR012 || 질문아이디2 : #TR012 || 질문아이디3 : #TR012 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #TR0121_#TR0121_#TR0121_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR0121_#TR0121_#TR0121
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>신주쿠, 시부야, 이케부쿠로, 긴자!<BR></p><p>도쿄 쇼핑과 트렌드의 중심지에서<BR></p><p>즐거운 시간을 보낼 수 있는 여행상품 입니다.</p><p>$$$상세 페이지 가기</p><p>$$$고객센터 연결</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#TR0121","s2": "#TR0121","s3":"#TR0121","s4":""}]}
+*************************************
+접속일 :  2020-12-11 18:52:14
+유저아이디 :  555c00be-3df5-4b8b-abb4-ca1a83da0441
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #TR0121 || 질문아이디2 : #TR0121 || 질문아이디3 : #TR0121 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #TR01211_#TR01211_#TR01211_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #TR01211_#TR01211_#TR01211
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>링크를 안내해드릴게요!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}

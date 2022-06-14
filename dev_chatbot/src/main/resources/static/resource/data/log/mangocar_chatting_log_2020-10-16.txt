@@ -1,0 +1,714 @@
+*************************************
+접속일 :  2020-10-16 16:42:06
+유저아이디 :  fedb78a1-ab62-4cc9-a0c6-0b71ed737f76
+메시지 구분: 0 || 질문내용 : ▶ 망고카 소개 ◀ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/mangocar/result/result.out "▶ 망고카 소개 ◀" 
+
+ 시나리오 결과 값 : 
+ que_id :  #망고카_#회사_#소개_101
+ que_id1 : #망고카_#렌트카_#예약_101
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #망고카_#회사_#소개
+ scn_que_id1 : #망고카_#렌트카_#예약
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>안녕하세요~ 저희 망고카는 12개 회사가 모여 설립한 제주렌터카서비스협동조합의 브랜드입니다!</p><p><br></p><p><iframe width=100% height=200 src=https://www.youtube.com/embed/xbwKgMairY0 frameborder=0 allow=accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe><br></p><p><br></p><p>||참여 업체가 궁금하시다면 아래의 참여업체 알아보기 버튼을 클릭해주세요.</p><p>$$$▶ 망고카 특징</p><p>$$$▶ 참여업체 알아보기</p><p>$$$▶ 망고카 고객센터</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#망고카","s2": "#회사","s3":"#소개","s4":"101"}]}
+*************************************
+접속일 :  2020-10-16 16:42:14
+유저아이디 :  fedb78a1-ab62-4cc9-a0c6-0b71ed737f76
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #망고카 || 질문아이디2 : #회사 || 질문아이디3 : #소개 || 질문아이디4 : 101
+ 시나리오 결과 값 : 
+ que_id :  #회사_#소개_#특징_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #회사_#소개_#특징
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>망고카는 렌터카 예약 중개 사이트가 아닌 <b>렌터카</b> <b>직접 판매 사이트</b>입니다. ||공통된 운영 규정을 통하여 예약부터 이용 후까지 약속한 것은 책임지는 시스템을 만들어가고 있어요.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-10-16 16:43:13
+유저아이디 :  fedb78a1-ab62-4cc9-a0c6-0b71ed737f76
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #망고카 || 질문아이디2 : #회사 || 질문아이디3 : #소개 || 질문아이디4 : 101
+ 시나리오 결과 값 : 
+ que_id :  #회사_#소개_#특징_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #회사_#소개_#특징
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>망고카는 렌터카 예약 중개 사이트가 아닌 <b>렌터카</b> <b>직접 판매 사이트</b>입니다. ||공통된 운영 규정을 통하여 예약부터 이용 후까지 약속한 것은 책임지는 시스템을 만들어가고 있어요.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-10-16 16:48:00
+유저아이디 :  fedb78a1-ab62-4cc9-a0c6-0b71ed737f76
+메시지 구분: 0 || 질문내용 : ▶ 망고카 소개 ◀ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/mangocar/result/result.out "▶ 망고카 소개 ◀" 
+
+ 시나리오 결과 값 : 
+ que_id :  #망고카_#회사_#소개_101
+ que_id1 : #망고카_#렌트카_#예약_101
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #망고카_#회사_#소개
+ scn_que_id1 : #망고카_#렌트카_#예약
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+*************************************
+접속일 :  2020-10-16 16:48:50
+유저아이디 :  fedb78a1-ab62-4cc9-a0c6-0b71ed737f76
+메시지 구분: 0 || 질문내용 : ▶ 망고카 소개 ◀ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/mangocar/result/result.out "▶ 망고카 소개 ◀" 
+
+ 시나리오 결과 값 : 
+ que_id :  #망고카_#회사_#소개_101
+ que_id1 : #망고카_#렌트카_#예약_101
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #망고카_#회사_#소개
+ scn_que_id1 : #망고카_#렌트카_#예약
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+*************************************
+접속일 :  2020-10-16 16:49:44
+유저아이디 :  fedb78a1-ab62-4cc9-a0c6-0b71ed737f76
+메시지 구분: 0 || 질문내용 : ▶ 망고카 소개 ◀ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/mangocar/result/result.out "▶ 망고카 소개 ◀" 
+
+ 시나리오 결과 값 : 
+ que_id :  #망고카_#회사_#소개_101
+ que_id1 : #망고카_#렌트카_#예약_101
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #망고카_#회사_#소개
+ scn_que_id1 : #망고카_#렌트카_#예약
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>안녕하세요~ 저희 망고카는 12개 회사가 모여 설립한 제주렌터카서비스협동조합의 브랜드입니다!</p><p><br></p><p><iframe width=100% height=200 src=https://www.youtube.com/embed/xbwKgMairY0 frameborder=0 allow=accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe><br></p><p><br></p><p>||참여 업체가 궁금하시다면 아래의 참여업체 알아보기 버튼을 클릭해주세요.</p><p>$$$▶ 망고카 특징</p><p>$$$▶ 참여업체 알아보기</p><p>$$$▶ 망고카 고객센터</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#망고카","s2": "#회사","s3":"#소개","s4":"101"}]}
+*************************************
+접속일 :  2020-10-16 16:50:50
+유저아이디 :  fedb78a1-ab62-4cc9-a0c6-0b71ed737f76
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #망고카 || 질문아이디2 : #회사 || 질문아이디3 : #소개 || 질문아이디4 : 101
+ 시나리오 결과 값 : 
+ que_id :  #회사_#소개_#특징_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #회사_#소개_#특징
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>망고카는 렌터카 예약 중개 사이트가 아닌 <b>렌터카</b> <b>직접 판매 사이트</b>입니다. ||공통된 운영 규정을 통하여 예약부터 이용 후까지 약속한 것은 책임지는 시스템을 만들어가고 있어요.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-10-16 16:51:03
+유저아이디 :  fedb78a1-ab62-4cc9-a0c6-0b71ed737f76
+메시지 구분: 0 || 질문내용 : ▶ 망고카 소개 ◀ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/mangocar/result/result.out "▶ 망고카 소개 ◀" 
+
+ 시나리오 결과 값 : 
+ que_id :  #망고카_#회사_#소개_101
+ que_id1 : #망고카_#렌트카_#예약_101
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #망고카_#회사_#소개
+ scn_que_id1 : #망고카_#렌트카_#예약
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>안녕하세요~ 저희 망고카는 12개 회사가 모여 설립한 제주렌터카서비스협동조합의 브랜드입니다!</p><p><br></p><p><iframe width=100% height=200 src=https://www.youtube.com/embed/xbwKgMairY0 frameborder=0 allow=accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe><br></p><p><br></p><p>||참여 업체가 궁금하시다면 아래의 참여업체 알아보기 버튼을 클릭해주세요.</p><p>$$$▶ 망고카 특징</p><p>$$$▶ 참여업체 알아보기</p><p>$$$▶ 망고카 고객센터</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#망고카","s2": "#회사","s3":"#소개","s4":"101"}]}
+*************************************
+접속일 :  2020-10-16 16:51:08
+유저아이디 :  fedb78a1-ab62-4cc9-a0c6-0b71ed737f76
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #망고카 || 질문아이디2 : #회사 || 질문아이디3 : #소개 || 질문아이디4 : 101
+ 시나리오 결과 값 : 
+ que_id :  #회사_#소개_#특징_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #회사_#소개_#특징
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>망고카는 렌터카 예약 중개 사이트가 아닌 <b>렌터카</b> <b>직접 판매 사이트</b>입니다. ||공통된 운영 규정을 통하여 예약부터 이용 후까지 약속한 것은 책임지는 시스템을 만들어가고 있어요.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-10-16 16:52:18
+유저아이디 :  fedb78a1-ab62-4cc9-a0c6-0b71ed737f76
+메시지 구분: 0 || 질문내용 : ▶ 망고카 소개 ◀ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/mangocar/result/result.out "▶ 망고카 소개 ◀" 
+
+ 시나리오 결과 값 : 
+ que_id :  #망고카_#회사_#소개_101
+ que_id1 : #망고카_#렌트카_#예약_101
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #망고카_#회사_#소개
+ scn_que_id1 : #망고카_#렌트카_#예약
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>안녕하세요~ 저희 망고카는 12개 회사가 모여 설립한 제주렌터카서비스협동조합의 브랜드입니다!</p><p><br></p><p><iframe width=100% height=200 src=https://www.youtube.com/embed/xbwKgMairY0 frameborder=0 allow=accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe><br></p><p><br></p><p>||참여 업체가 궁금하시다면 아래의 참여업체 알아보기 버튼을 클릭해주세요.</p><p>$$$▶ 망고카 특징</p><p>$$$▶ 참여업체 알아보기</p><p>$$$▶ 망고카 고객센터</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#망고카","s2": "#회사","s3":"#소개","s4":"101"}]}
+*************************************
+접속일 :  2020-10-16 16:52:29
+유저아이디 :  fedb78a1-ab62-4cc9-a0c6-0b71ed737f76
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #망고카 || 질문아이디2 : #회사 || 질문아이디3 : #소개 || 질문아이디4 : 101
+ 시나리오 결과 값 : 
+ que_id :  #회사_#소개_#특징_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #회사_#소개_#특징
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>망고카는 렌터카 예약 중개 사이트가 아닌 <b>렌터카</b> <b>직접 판매 사이트</b>입니다. ||공통된 운영 규정을 통하여 예약부터 이용 후까지 약속한 것은 책임지는 시스템을 만들어가고 있어요.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-10-16 16:53:46
+유저아이디 :  fedb78a1-ab62-4cc9-a0c6-0b71ed737f76
+메시지 구분: 0 || 질문내용 : ▶ 망고카 소개 ◀ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/mangocar/result/result.out "▶ 망고카 소개 ◀" 
+
+ 시나리오 결과 값 : 
+ que_id :  #망고카_#회사_#소개_101
+ que_id1 : #망고카_#렌트카_#예약_101
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #망고카_#회사_#소개
+ scn_que_id1 : #망고카_#렌트카_#예약
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>안녕하세요~ 저희 망고카는 12개 회사가 모여 설립한 제주렌터카서비스협동조합의 브랜드입니다!</p><p><br></p><p><iframe width=100% height=200 src=https://www.youtube.com/embed/xbwKgMairY0 frameborder=0 allow=accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe><br></p><p><br></p><p>||참여 업체가 궁금하시다면 아래의 참여업체 알아보기 버튼을 클릭해주세요.</p><p>$$$▶ 망고카 특징</p><p>$$$▶ 참여업체 알아보기</p><p>$$$▶ 망고카 고객센터</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#망고카","s2": "#회사","s3":"#소개","s4":"101"}]}
+*************************************
+접속일 :  2020-10-16 16:53:51
+유저아이디 :  fedb78a1-ab62-4cc9-a0c6-0b71ed737f76
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #망고카 || 질문아이디2 : #회사 || 질문아이디3 : #소개 || 질문아이디4 : 101
+ 시나리오 결과 값 : 
+ que_id :  #회사_#소개_#특징_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #회사_#소개_#특징
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>망고카는 렌터카 예약 중개 사이트가 아닌 <b>렌터카</b> <b>직접 판매 사이트</b>입니다. ||공통된 운영 규정을 통하여 예약부터 이용 후까지 약속한 것은 책임지는 시스템을 만들어가고 있어요.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-10-16 16:55:02
+유저아이디 :  fedb78a1-ab62-4cc9-a0c6-0b71ed737f76
+메시지 구분: 0 || 질문내용 : ▶ 망고카 소개 ◀ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/mangocar/result/result.out "▶ 망고카 소개 ◀" 
+
+ 시나리오 결과 값 : 
+ que_id :  #망고카_#회사_#소개_101
+ que_id1 : #망고카_#렌트카_#예약_101
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #망고카_#회사_#소개
+ scn_que_id1 : #망고카_#렌트카_#예약
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>안녕하세요~ 저희 망고카는 12개 회사가 모여 설립한 제주렌터카서비스협동조합의 브랜드입니다!</p><p><br></p><p><iframe width=100% height=200 src=https://www.youtube.com/embed/xbwKgMairY0 frameborder=0 allow=accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe><br></p><p><br></p><p>||참여 업체가 궁금하시다면 아래의 참여업체 알아보기 버튼을 클릭해주세요.</p><p>$$$▶ 망고카 특징</p><p>$$$▶ 참여업체 알아보기</p><p>$$$▶ 망고카 고객센터</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#망고카","s2": "#회사","s3":"#소개","s4":"101"}]}
+*************************************
+접속일 :  2020-10-16 16:55:07
+유저아이디 :  fedb78a1-ab62-4cc9-a0c6-0b71ed737f76
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #망고카 || 질문아이디2 : #회사 || 질문아이디3 : #소개 || 질문아이디4 : 101
+ 시나리오 결과 값 : 
+ que_id :  #회사_#소개_#특징_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #회사_#소개_#특징
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>망고카는 렌터카 예약 중개 사이트가 아닌 <b>렌터카</b> <b>직접 판매 사이트</b>입니다. ||공통된 운영 규정을 통하여 예약부터 이용 후까지 약속한 것은 책임지는 시스템을 만들어가고 있어요.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-10-16 16:57:58
+유저아이디 :  fedb78a1-ab62-4cc9-a0c6-0b71ed737f76
+메시지 구분: 0 || 질문내용 : ▶ 망고카 소개 ◀ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/mangocar/result/result.out "▶ 망고카 소개 ◀" 
+
+ 시나리오 결과 값 : 
+ que_id :  #망고카_#회사_#소개_101
+ que_id1 : #망고카_#렌트카_#예약_101
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #망고카_#회사_#소개
+ scn_que_id1 : #망고카_#렌트카_#예약
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>안녕하세요~ 저희 망고카는 12개 회사가 모여 설립한 제주렌터카서비스협동조합의 브랜드입니다!</p><p><br></p><p><iframe width=100% height=200 src=https://www.youtube.com/embed/xbwKgMairY0 frameborder=0 allow=accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe><br></p><p><br></p><p>||참여 업체가 궁금하시다면 아래의 참여업체 알아보기 버튼을 클릭해주세요.</p><p>$$$▶ 망고카 특징</p><p>$$$▶ 참여업체 알아보기</p><p>$$$▶ 망고카 고객센터</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#망고카","s2": "#회사","s3":"#소개","s4":"101"}]}
+*************************************
+접속일 :  2020-10-16 16:58:03
+유저아이디 :  fedb78a1-ab62-4cc9-a0c6-0b71ed737f76
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #망고카 || 질문아이디2 : #회사 || 질문아이디3 : #소개 || 질문아이디4 : 101
+ 시나리오 결과 값 : 
+ que_id :  #회사_#소개_#특징_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #회사_#소개_#특징
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>망고카는 렌터카 예약 중개 사이트가 아닌 <b>렌터카</b> <b>직접 판매 사이트</b>입니다. ||공통된 운영 규정을 통하여 예약부터 이용 후까지 약속한 것은 책임지는 시스템을 만들어가고 있어요.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-10-16 16:59:01
+유저아이디 :  36661981-9160-4c12-a583-4e8a52cfd0cc
+메시지 구분: 0 || 질문내용 : ▶ 망고카 소개 ◀ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/mangocar/result/result.out "▶ 망고카 소개 ◀" 
+
+ 시나리오 결과 값 : 
+ que_id :  #망고카_#회사_#소개_101
+ que_id1 : #망고카_#렌트카_#예약_101
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #망고카_#회사_#소개
+ scn_que_id1 : #망고카_#렌트카_#예약
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>안녕하세요~ 저희 망고카는 12개 회사가 모여 설립한 제주렌터카서비스협동조합의 브랜드입니다!</p><p><br></p><p><iframe width=100% height=200 src=https://www.youtube.com/embed/xbwKgMairY0 frameborder=0 allow=accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe><br></p><p><br></p><p>||참여 업체가 궁금하시다면 아래의 참여업체 알아보기 버튼을 클릭해주세요.</p><p>$$$▶ 망고카 특징</p><p>$$$▶ 참여업체 알아보기</p><p>$$$▶ 망고카 고객센터</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#망고카","s2": "#회사","s3":"#소개","s4":"101"}]}
+*************************************
+접속일 :  2020-10-16 16:59:06
+유저아이디 :  36661981-9160-4c12-a583-4e8a52cfd0cc
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #망고카 || 질문아이디2 : #회사 || 질문아이디3 : #소개 || 질문아이디4 : 101
+ 시나리오 결과 값 : 
+ que_id :  #회사_#소개_#특징_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #회사_#소개_#특징
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>망고카는 렌터카 예약 중개 사이트가 아닌 <b>렌터카</b> <b>직접 판매 사이트</b>입니다. ||공통된 운영 규정을 통하여 예약부터 이용 후까지 약속한 것은 책임지는 시스템을 만들어가고 있어요.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-10-16 17:03:01
+유저아이디 :  a8af50b0-905d-4f6e-9ab5-0b4fc2447467
+메시지 구분: 0 || 질문내용 : ▶ 망고카 소개 ◀ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/mangocar/result/result.out "▶ 망고카 소개 ◀" 
+
+ 시나리오 결과 값 : 
+ que_id :  #망고카_#회사_#소개_101
+ que_id1 : #망고카_#렌트카_#예약_101
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #망고카_#회사_#소개
+ scn_que_id1 : #망고카_#렌트카_#예약
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>안녕하세요~ 저희 망고카는 12개 회사가 모여 설립한 제주렌터카서비스협동조합의 브랜드입니다!</p><p><br></p><p><iframe width=100% height=200 src=https://www.youtube.com/embed/xbwKgMairY0 frameborder=0 allow=accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe><br></p><p><br></p><p>||참여 업체가 궁금하시다면 아래의 참여업체 알아보기 버튼을 클릭해주세요.</p><p>$$$▶ 망고카 특징</p><p>$$$▶ 참여업체 알아보기</p><p>$$$▶ 망고카 고객센터</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#망고카","s2": "#회사","s3":"#소개","s4":"101"}]}
+*************************************
+접속일 :  2020-10-16 17:03:33
+유저아이디 :  a8af50b0-905d-4f6e-9ab5-0b4fc2447467
+메시지 구분: 0 || 질문내용 : ▶ 망고카 소개 ◀ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/mangocar/result/result.out "▶ 망고카 소개 ◀" 
+
+ 시나리오 결과 값 : 
+ que_id :  #망고카_#회사_#소개_101
+ que_id1 : #망고카_#렌트카_#예약_101
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #망고카_#회사_#소개
+ scn_que_id1 : #망고카_#렌트카_#예약
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>안녕하세요~ 저희 망고카는 12개 회사가 모여 설립한 제주렌터카서비스협동조합의 브랜드입니다!</p><p><br></p><p><iframe width=100% height=200 src=https://www.youtube.com/embed/xbwKgMairY0 frameborder=0 allow=accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe><br></p><p><br></p><p>||참여 업체가 궁금하시다면 아래의 참여업체 알아보기 버튼을 클릭해주세요.</p><p>$$$▶ 망고카 특징</p><p>$$$▶ 참여업체 알아보기</p><p>$$$▶ 망고카 고객센터</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#망고카","s2": "#회사","s3":"#소개","s4":"101"}]}
+*************************************
+접속일 :  2020-10-16 17:03:37
+유저아이디 :  a8af50b0-905d-4f6e-9ab5-0b4fc2447467
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #망고카 || 질문아이디2 : #회사 || 질문아이디3 : #소개 || 질문아이디4 : 101
+ 시나리오 결과 값 : 
+ que_id :  #회사_#소개_#특징_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #회사_#소개_#특징
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>망고카는 렌터카 예약 중개 사이트가 아닌 <b>렌터카</b> <b>직접 판매 사이트</b>입니다. ||공통된 운영 규정을 통하여 예약부터 이용 후까지 약속한 것은 책임지는 시스템을 만들어가고 있어요.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-10-16 17:05:13
+유저아이디 :  ae8ad50a-6414-4148-a0c7-6bbb57fc7453
+메시지 구분: 0 || 질문내용 : ▶ 망고카 소개 ◀ || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/mangocar/result/result.out "▶ 망고카 소개 ◀" 
+
+ 시나리오 결과 값 : 
+ que_id :  #망고카_#회사_#소개_101
+ que_id1 : #망고카_#렌트카_#예약_101
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #망고카_#회사_#소개
+ scn_que_id1 : #망고카_#렌트카_#예약
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>안녕하세요~ 저희 망고카는 12개 회사가 모여 설립한 제주렌터카서비스협동조합의 브랜드입니다!</p><p><br></p><p><iframe width=100% height=200 src=https://www.youtube.com/embed/xbwKgMairY0 frameborder=0 allow=accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture allowfullscreen></iframe><br></p><p><br></p><p>||참여 업체가 궁금하시다면 아래의 참여업체 알아보기 버튼을 클릭해주세요.</p><p>$$$▶ 망고카 특징</p><p>$$$▶ 참여업체 알아보기</p><p>$$$▶ 망고카 고객센터</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#망고카","s2": "#회사","s3":"#소개","s4":"101"}]}
+*************************************
+접속일 :  2020-10-16 17:05:20
+유저아이디 :  ae8ad50a-6414-4148-a0c7-6bbb57fc7453
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #망고카 || 질문아이디2 : #회사 || 질문아이디3 : #소개 || 질문아이디4 : 101
+ 시나리오 결과 값 : 
+ que_id :  #회사_#소개_#특징_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #회사_#소개_#특징
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>망고카는 렌터카 예약 중개 사이트가 아닌 <b>렌터카</b> <b>직접 판매 사이트</b>입니다. ||공통된 운영 규정을 통하여 예약부터 이용 후까지 약속한 것은 책임지는 시스템을 만들어가고 있어요.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-10-16 17:05:29
+유저아이디 :  ae8ad50a-6414-4148-a0c7-6bbb57fc7453
+메시지 구분: 1 || 질문내용 : 이미지 액션 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/mangocar/result/result.out "이미지 액션" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "분명 알고 있었는데... 이래서 복습이 중요한가 봐요", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-10-16 17:05:30
+유저아이디 :  ae8ad50a-6414-4148-a0c7-6bbb57fc7453
+메시지 구분: 1 || 질문내용 : 이미지 액션 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/mangocar/result/result.out "이미지 액션" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "죄송해요ㅜㅜ <br>아직 공부가 부족한가봐요", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2020-10-16 17:12:46
+유저아이디 :  ae8ad50a-6414-4148-a0c7-6bbb57fc7453
+메시지 구분: 0 || 질문내용 : 망고카 예약 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/mangocar/result/result.out "망고카 예약" 
+
+ 시나리오 결과 값 : 
+ que_id :  #망고카_#렌트카_#예약_101
+ que_id1 : #망고카_#회사_#소개_101
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #망고카_#렌트카_#예약
+ scn_que_id1 : #망고카_#회사_#소개
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>렌터카 예약을 도와드릴게요~</p><p>||당일 대여의 경우 현재 시간 기준 2시간 이후부터 대여 신청이 가능한 점 참고해주세요!</p><p>$$$▶ 망고카 예약하기</p><p>$$$▶ 망고카 예약확인</p><p>$$$▶ 망고카 후기보기</p><p>$$$▶ 최대 대여 가능일 확인하기</p><p>$$$▶ 인수/반납 시간</p><p>$$$▶ 20시 이후</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#망고카","s2": "#렌트카","s3":"#예약","s4":"101"}]}
+*************************************
+접속일 :  2020-10-16 17:12:53
+유저아이디 :  ae8ad50a-6414-4148-a0c7-6bbb57fc7453
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #망고카 || 질문아이디2 : #렌트카 || 질문아이디3 : #예약 || 질문아이디4 : 101
+ 시나리오 결과 값 : 
+ que_id :  #렌트카_#예약_#하기_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #렌트카_#예약_#하기
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>협동조합의 특성상 형평성을 위한 무작위 배정 시스템으로 예약 전 업체 지정은 하실 수 없습니다.&nbsp;</p><p>||망고카는 카카오 계정으로 간단하게 로그인하실 수 있어요~</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-10-16 18:24:07
+유저아이디 :  36661981-9160-4c12-a583-4e8a52cfd0cc
+메시지 구분: 0 || 질문내용 : 망고카 예약 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/mangocar/result/result.out "망고카 예약" 
+
+ 시나리오 결과 값 : 
+ que_id :  #망고카_#렌트카_#예약_101
+ que_id1 : #망고카_#회사_#소개_101
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #망고카_#렌트카_#예약
+ scn_que_id1 : #망고카_#회사_#소개
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"4", "ai_msg": "<p>렌터카 예약을 도와드릴게요~</p><p>||당일 대여의 경우 현재 시간 기준 2시간 이후부터 대여 신청이 가능한 점 참고해주세요!</p><p>$$$▶ 망고카 예약하기</p><p>$$$▶ 망고카 예약확인</p><p>$$$▶ 망고카 후기보기</p><p>$$$▶ 최대 대여 가능일 확인하기</p><p>$$$▶ 인수/반납 시간</p><p>$$$▶ 20시 이후</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#망고카","s2": "#렌트카","s3":"#예약","s4":"101"}]}
+*************************************
+접속일 :  2020-10-16 18:24:12
+유저아이디 :  36661981-9160-4c12-a583-4e8a52cfd0cc
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #망고카 || 질문아이디2 : #렌트카 || 질문아이디3 : #예약 || 질문아이디4 : 101
+ 시나리오 결과 값 : 
+ que_id :  #렌트카_#예약_#확인_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #렌트카_#예약_#확인
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>예약한 차량을 확인해보세요!<br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-10-16 18:24:19
+유저아이디 :  36661981-9160-4c12-a583-4e8a52cfd0cc
+메시지 구분: 3 || 질문내용 : 6 || 질문아이디1 : #망고카 || 질문아이디2 : #렌트카 || 질문아이디3 : #예약 || 질문아이디4 : 101
+ 시나리오 결과 값 : 
+ que_id :  #렌트카_#시간_#종료_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #렌트카_#시간_#종료
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>공식 업무시간이 종료된 20시 이후 예약 시에는 야간 배차를 신청하셔야 하며, 시간당 10,000원의 추가 비용이 발생합니다.</p><p>||홈페이지에서 20시 기준으로 예약 진행하신 후 렌터카 예약 업체로 야간 배차를 신청해주세요.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}

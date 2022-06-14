@@ -1,0 +1,48 @@
+*************************************
+접속일 :  2022-01-06 17:22:03
+유저아이디 :  62f974c0-2cfa-4f60-a448-53c4d4ffb1f7
+메시지 구분: 0 || 질문내용 : 안녕하세요! || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "안녕하세요!"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  PR02_PR02_PR02_197
+ que_id1 : TO04_TO04_TO04_195
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : PR02_PR02_PR02
+ scn_que_id1 : TO04_TO04_TO04
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 2403//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}
+*************************************
+접속일 :  2022-01-06 17:22:04
+유저아이디 :  62f974c0-2cfa-4f60-a448-53c4d4ffb1f7
+메시지 구분: 1 || 질문내용 : 안녕하세요! || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/HONGIK/result/result.out "안녕하세요!"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  PR02_PR02_PR02_197
+ que_id1 : TO04_TO04_TO04_195
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : PR02_PR02_PR02
+ scn_que_id1 : TO04_TO04_TO04
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 2403//2500
+{"answercode":"", "ai_msg": "무슨 말인지 잘 모르겠어요.ㅠㅁㅠ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"00000","s2": "00000","s3":"00000","s4":"00000"}]}

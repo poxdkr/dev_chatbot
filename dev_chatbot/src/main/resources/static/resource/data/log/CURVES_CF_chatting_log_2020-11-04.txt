@@ -1,0 +1,3362 @@
+*************************************
+접속일 :  2020-11-04 11:13:22
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 상담 문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "상담 문의" 
+
+ 시나리오 결과 값 : 
+ que_id :  #CS1_#CS1_#CS1_162
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CS1_#CS1_#CS1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9722//2500
+{"answercode":"4", "ai_msg": "<p>상담이 필요하세요?</p><p>원하시는 항목을 선택해주세요.</p><p>$$$클럽 상담 요청</p><p>$$$클럽이동/회원권이용/상담요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#CS1","s2": "#CS1","s3":"#CS1","s4":"162"}]}
+*************************************
+접속일 :  2020-11-04 11:32:03
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "아이디/비밀번호 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  4ECD5B06_D713_89ED_166
+ que_id1 : CA2_CA22_CA222_163
+ que_id2 : CA5_CA55_CA555_163
+ que_id3 : #c1_#c1_#c1_164
+ que_id4 : CE1_CE11_CE111_165
+ que_id5 : CT2_CT22_CT222_164
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 4ECD5B06_D713_89ED
+ scn_que_id1 : CA2_CA22_CA222
+ scn_que_id2 : CA5_CA55_CA555
+ scn_que_id3 : #c1_#c1_#c1
+ scn_que_id4 : CE1_CE11_CE111
+ 확률 : 선택질문 확률 : 4130//2500
+{"answercode":"1", "ai_msg": "아이디/비밀번호 찾기 | 비밀번호 분실 | 인증번호를 받지 못한 경우 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"4ECD5B06","s2": "D713","s3":"89ED","s4":"166"},{"s1":"CA2","s2": "CA22","s3":"CA222","s4":"163"},{"s1":"CA5","s2": "CA55","s3":"CA555","s4":"163"}]}
+*************************************
+접속일 :  2020-11-04 11:32:07
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 2 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 4ECD5B06 || 질문아이디2 : D713 || 질문아이디3 : 89ED || 질문아이디4 : 166
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "아이디/비밀번호가 기억나지 않아요." 
+
+ 시나리오 결과 값 : 
+ que_id :  4ECD5B06_D713_89ED_166
+ que_id1 : CA2_CA22_CA222_163
+ que_id2 : CE1_CE11_CE111_165
+ que_id3 : CR4_CR44_CR444_158
+ que_id4 : CT2_CT22_CT222_164
+ que_id5 : CA5_CA55_CA555_163
+ que_id6 : CC8_CC88_CC888_159
+ que_id7 : CA4_CA44_CA444_163
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 4ECD5B06_D713_89ED
+ scn_que_id1 : CA2_CA22_CA222
+ scn_que_id2 : CE1_CE11_CE111
+ scn_que_id3 : CR4_CR44_CR444
+ scn_que_id4 : CT2_CT22_CT222
+ 확률 : 선택질문 확률 : 9981//2500
+{"answercode":"", "ai_msg": "<p>아이디, 비밀번호가 기억나지 않으세요?</p><p><span style=color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>||커브스 회원 가입시 입력하신 이메일 주소</span></p><p><span style=color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>또는 등록하신 휴대폰 번호를 통해 찾아보세요!</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"4ECD5B06","s2": "D713","s3":"89ED","s4":"166"}]}
+*************************************
+접속일 :  2020-11-04 11:33:46
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 가입비 왜 안돌려줘요? || 질문아이디1 : 4ECD5B06 || 질문아이디2 : D713 || 질문아이디3 : 89ED || 질문아이디4 : 166
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "가입비 왜 안돌려줘요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  CC6_CC66_CC666_159
+ que_id1 : CR5_CR55_CR555_158
+ que_id2 : CR3_CR33_CR333_158
+ que_id3 : CC7_CC77_CC777_159
+ que_id4 : CR4_CR44_CR444_158
+ que_id5 : CR2_CR22_CR222_158
+ que_id6 : CC13_CC1313_CC131313_159
+ que_id7 : CC5_CC55_CC555_159
+ que_id8 : CC1_CC11_CC111_159
+ que_id9 : CC14_CC1414_CC141414_159
+ scn_que_id : CC6_CC66_CC666
+ scn_que_id1 : CR5_CR55_CR555
+ scn_que_id2 : CR3_CR33_CR333
+ scn_que_id3 : CC7_CC77_CC777
+ scn_que_id4 : CR4_CR44_CR444
+ 확률 : 선택질문 확률 : 9979//2500
+{"answercode":"", "ai_msg": "회원 약관에 따라 회원권 개시(첫 운동) 전에 해지 할 경우<br>가입비를 환불해드리지만,<br>회원권 개시(첫 운동) 후 가입비는 환불 대상에서 제외됩니다.<br><span style=color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>||</span>또한 해지 후 6개월 이내 커브스의 다른 클럽에 재가입 시<br>가입비는 따로 부과 되지 않습니다.<p><br></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CC6","s2": "CC66","s3":"CC666","s4":"159"}]}
+*************************************
+접속일 :  2020-11-04 11:36:25
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "아이디/비밀번호 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  4ECD5B06_D713_89ED_166
+ que_id1 : CA2_CA22_CA222_163
+ que_id2 : CA5_CA55_CA555_163
+ que_id3 : #c1_#c1_#c1_164
+ que_id4 : CE1_CE11_CE111_165
+ que_id5 : CT2_CT22_CT222_164
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 4ECD5B06_D713_89ED
+ scn_que_id1 : CA2_CA22_CA222
+ scn_que_id2 : CA5_CA55_CA555
+ scn_que_id3 : #c1_#c1_#c1
+ scn_que_id4 : CE1_CE11_CE111
+ 확률 : 선택질문 확률 : 4130//2500
+{"answercode":"1", "ai_msg": "아이디/비밀번호 찾기 | 비밀번호 분실 | 인증번호를 받지 못한 경우 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"4ECD5B06","s2": "D713","s3":"89ED","s4":"166"},{"s1":"CA2","s2": "CA22","s3":"CA222","s4":"163"},{"s1":"CA5","s2": "CA55","s3":"CA555","s4":"163"}]}
+*************************************
+접속일 :  2020-11-04 11:36:30
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 2 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 4ECD5B06 || 질문아이디2 : D713 || 질문아이디3 : 89ED || 질문아이디4 : 166
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "아이디/비밀번호가 기억나지 않아요." 
+
+ 시나리오 결과 값 : 
+ que_id :  4ECD5B06_D713_89ED_166
+ que_id1 : CA2_CA22_CA222_163
+ que_id2 : CE1_CE11_CE111_165
+ que_id3 : CR4_CR44_CR444_158
+ que_id4 : CT2_CT22_CT222_164
+ que_id5 : CA5_CA55_CA555_163
+ que_id6 : CC8_CC88_CC888_159
+ que_id7 : CA4_CA44_CA444_163
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 4ECD5B06_D713_89ED
+ scn_que_id1 : CA2_CA22_CA222
+ scn_que_id2 : CE1_CE11_CE111
+ scn_que_id3 : CR4_CR44_CR444
+ scn_que_id4 : CT2_CT22_CT222
+ 확률 : 선택질문 확률 : 9981//2500
+{"answercode":"", "ai_msg": "<p>아이디, 비밀번호가 기억나지 않으세요?</p><p><span style=color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>||커브스 회원 가입시 입력하신 이메일 주소</span></p><p><span style=color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>또는 등록하신 휴대폰 번호를 통해 찾아보세요!</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"4ECD5B06","s2": "D713","s3":"89ED","s4":"166"}]}
+*************************************
+접속일 :  2020-11-04 11:37:14
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 클럽 안갔는데 출금돼써요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "클럽 안갔는데 출금돼써요" 
+
+ 시나리오 결과 값 : 
+ que_id :  CC2_CC22_CC222_159
+ que_id1 : CR3_CR33_CR333_158
+ que_id2 : CE2_CE22_CE222_165
+ que_id3 : CT2_CT22_CT222_164
+ que_id4 : CT1_CT11_CT111_164
+ que_id5 : #c1_#c1_#c1_164
+ que_id6 : CR2_CR22_CR222_158
+ que_id7 : CC16_CC1616_CC161616_159
+ que_id8 : CA1_CA11_CA111_163
+ que_id9 : CC8_CC88_CC888_159
+ scn_que_id : CC2_CC22_CC222
+ scn_que_id1 : CR3_CR33_CR333
+ scn_que_id2 : CE2_CE22_CE222
+ scn_que_id3 : CT2_CT22_CT222
+ scn_que_id4 : CT1_CT11_CT111
+ 확률 : 선택질문 확률 : 6885//2500
+{"answercode":"1", "ai_msg": "클럽을 이용하지 않았는데 출금이 됐어요 | 남성 회원가입 가능 여부 | 커브스 운동 방법 | 가까운 클럽 찾기 | 커브스 클럽 운영시간 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CC2","s2": "CC22","s3":"CC222","s4":"159"},{"s1":"CR3","s2": "CR33","s3":"CR333","s4":"158"},{"s1":"CE2","s2": "CE22","s3":"CE222","s4":"165"},{"s1":"CT2","s2": "CT22","s3":"CT222","s4":"164"},{"s1":"CT1","s2": "CT11","s3":"CT111","s4":"164"}]}
+*************************************
+접속일 :  2020-11-04 11:37:17
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 2 || 질문내용 : 클럽을 이용하지 않았는데 출금이 됐어요 || 질문아이디1 : CC2 || 질문아이디2 : CC22 || 질문아이디3 : CC222 || 질문아이디4 : 159
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "운동을 안했는데 왜 출금하나요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  CC2_CC22_CC222_159
+ que_id1 : CE1_CE11_CE111_165
+ que_id2 : CE2_CE22_CE222_165
+ que_id3 : CC16_CC1616_CC161616_159
+ que_id4 : CC18_CC1818_CC181818_159
+ que_id5 : CC21_CC2121_CC212121_159
+ que_id6 : CR2_CR22_CR222_158
+ que_id7 : CC3_CC33_CC333_159
+ que_id8 : CC22_CC2222_CC222222_159
+ que_id9 : ___
+ scn_que_id : CC2_CC22_CC222
+ scn_que_id1 : CE1_CE11_CE111
+ scn_que_id2 : CE2_CE22_CE222
+ scn_que_id3 : CC16_CC1616_CC161616
+ scn_que_id4 : CC18_CC1818_CC181818
+ 확률 : 선택질문 확률 : 9977//2500
+{"answercode":"", "ai_msg": "회원님께서 별도의 해지 신청을 하지 않으셨다면<br>운동을 안하신 경우에도 자동으로 출금이 진행됩니다.<br><span style=color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>||</span>정지 또는 해지를 요청하실 경우 클럽에 문의해주세요.<p><br></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CC2","s2": "CC22","s3":"CC222","s4":"159"}]}
+*************************************
+접속일 :  2020-11-04 13:49:03
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 퀸즈서비스 신청 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "퀸즈서비스 신청" 
+
+ 시나리오 결과 값 : 
+ que_id :  24AC962E_4967_8399_171
+ que_id1 : CC21_CC2121_CC212121_159
+ que_id2 : CC20_CC2020_CC202020_159
+ que_id3 : CC3_CC33_CC333_159
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 24AC962E_4967_8399
+ scn_que_id1 : CC21_CC2121_CC212121
+ scn_que_id2 : CC20_CC2020_CC202020
+ scn_que_id3 : CC3_CC33_CC333
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9980//2500
+{"answercode":"", "ai_msg": "<p>커브스 퀸's 서비스는</p><p><span style=font-size: 10pt;>커브스의 상품(단백질 보충제 등)을</span></p><p>정기적으로 원하시는 장소에서</p><p>배송 받을 수 있는</p><p>서비스 입니다.</p><p><span style=color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>||커브스 퀸's로 건강생활을 업그레이드 하세요!</span></p><p><span style=color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>챗봇으로 퀸's 서비스를 신청하실 수 있습니다.</span><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16044652640100.jpg", "qustType": "","questionID": [{"s1":"24AC962E","s2": "4967","s3":"8399","s4":"171"}]}
+*************************************
+접속일 :  2020-11-04 13:51:16
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 퀸즈서비스 신청 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "퀸즈서비스 신청" 
+
+ 시나리오 결과 값 : 
+ que_id :  24AC962E_4967_8399_171
+ que_id1 : CC21_CC2121_CC212121_159
+ que_id2 : CC20_CC2020_CC202020_159
+ que_id3 : CC3_CC33_CC333_159
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 24AC962E_4967_8399
+ scn_que_id1 : CC21_CC2121_CC212121
+ scn_que_id2 : CC20_CC2020_CC202020
+ scn_que_id3 : CC3_CC33_CC333
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9980//2500
+{"answercode":"", "ai_msg": "<p>커브스 퀸's 서비스는</p><p><span style=font-size: 10pt;>커브스의 상품(단백질 보충제 등)을</span></p><p>정기적으로 원하시는 장소에서</p><p>배송 받을 수 있는</p><p>서비스 입니다.</p><p><span style=color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>||커브스 퀸's로 건강생활을 업그레이드 하세요!</span></p><p><span style=color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>챗봇으로 퀸's 서비스를 신청하실 수 있습니다.</span><br></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"24AC962E","s2": "4967","s3":"8399","s4":"171"}]}
+*************************************
+접속일 :  2020-11-04 13:54:34
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 퀸즈서비스 신청 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "퀸즈서비스 신청" 
+
+ 시나리오 결과 값 : 
+ que_id :  24AC962E_4967_8399_171
+ que_id1 : CC21_CC2121_CC212121_159
+ que_id2 : CC20_CC2020_CC202020_159
+ que_id3 : CC3_CC33_CC333_159
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 24AC962E_4967_8399
+ scn_que_id1 : CC21_CC2121_CC212121
+ scn_que_id2 : CC20_CC2020_CC202020
+ scn_que_id3 : CC3_CC33_CC333
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9980//2500
+{"answercode":"", "ai_msg": "<p>커브스 퀸's 서비스는</p><p><span style=font-size: 10pt;>커브스의 상품(단백질 보충제 등)을</span></p><p>정기적으로 원하시는 장소에서</p><p>배송 받을 수 있는</p><p>서비스 입니다.</p><p><span style=color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>||</span><span style=color: rgb(85, 85, 85); font-family: Gulim, 굴림, AppleGothic, sans-serif; font-size: 14px;>커브스 퀸's로 건강생활을 업그레이드 하세요!</span></p><p><span style=color: rgb(85, 85, 85); font-family: Gulim, 굴림, AppleGothic, sans-serif; font-size: 14px;>챗봇으로 커브스 퀸's를 신청하실 수 있습니다.</span><br></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"24AC962E","s2": "4967","s3":"8399","s4":"171"}]}
+*************************************
+접속일 :  2020-11-04 13:55:30
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 퀸즈서비스 신청 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "퀸즈서비스 신청" 
+
+ 시나리오 결과 값 : 
+ que_id :  24AC962E_4967_8399_171
+ que_id1 : CC21_CC2121_CC212121_159
+ que_id2 : CC20_CC2020_CC202020_159
+ que_id3 : CC3_CC33_CC333_159
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 24AC962E_4967_8399
+ scn_que_id1 : CC21_CC2121_CC212121
+ scn_que_id2 : CC20_CC2020_CC202020
+ scn_que_id3 : CC3_CC33_CC333
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9980//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>커브스 퀸's 서비스는</span></p><p><span style=font-size: 10pt; font-family: Verdana, sans-serif;>커브스의 상품(단백질 보충제 등)을</span></p><p><span style=font-family: Verdana, sans-serif;>정기적으로 원하시는 장소에서</span></p><p><span style=font-family: Verdana, sans-serif;>배송 받을 수 있는</span></p><p><span style=font-family: Verdana, sans-serif;>서비스 입니다.</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||</span><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>커브스 퀸's로 건강생활을 업그레이드 하세요!</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>챗봇으로 커브스 퀸's를 신청하실 수 있습니다.</span><br></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"24AC962E","s2": "4967","s3":"8399","s4":"171"}]}
+*************************************
+접속일 :  2020-11-04 13:57:34
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "아이디/비밀번호 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  4ECD5B06_D713_89ED_166
+ que_id1 : CA2_CA22_CA222_163
+ que_id2 : CA5_CA55_CA555_163
+ que_id3 : #c1_#c1_#c1_164
+ que_id4 : CE1_CE11_CE111_165
+ que_id5 : CT2_CT22_CT222_164
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 4ECD5B06_D713_89ED
+ scn_que_id1 : CA2_CA22_CA222
+ scn_que_id2 : CA5_CA55_CA555
+ scn_que_id3 : #c1_#c1_#c1
+ scn_que_id4 : CE1_CE11_CE111
+ 확률 : 선택질문 확률 : 4130//2500
+{"answercode":"1", "ai_msg": "아이디/비밀번호 찾기 | 비밀번호 분실 | 인증번호를 받지 못한 경우 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"4ECD5B06","s2": "D713","s3":"89ED","s4":"166"},{"s1":"CA2","s2": "CA22","s3":"CA222","s4":"163"},{"s1":"CA5","s2": "CA55","s3":"CA555","s4":"163"}]}
+*************************************
+접속일 :  2020-11-04 13:59:03
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "아이디/비밀번호 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  4ECD5B06_D713_89ED_166
+ que_id1 : CA2_CA22_CA222_163
+ que_id2 : CA5_CA55_CA555_163
+ que_id3 : #c1_#c1_#c1_164
+ que_id4 : CE1_CE11_CE111_165
+ que_id5 : CT2_CT22_CT222_164
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 4ECD5B06_D713_89ED
+ scn_que_id1 : CA2_CA22_CA222
+ scn_que_id2 : CA5_CA55_CA555
+ scn_que_id3 : #c1_#c1_#c1
+ scn_que_id4 : CE1_CE11_CE111
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif; font-size: 10pt;>아이디, 비밀번호가 기억나지 않으세요?</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||커브스 회원 가입시 입력하신 이메일 주소</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>또는 등록하신 휴대폰 번호를 통해 찾아보세요!</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"4ECD5B06","s2": "D713","s3":"89ED","s4":"166"}]}
+*************************************
+접속일 :  2020-11-04 14:00:01
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-04 14:01:58
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #CT01_#CT01_#CT01_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CT01_#CT01_#CT01
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>무엇이 궁금하세요?</p><p>$$$커브스 클럽 운영시간</p><p>$$$가까운 클럽 찾기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#CT01","s2": "#CT01","s3":"#CT01","s4":""}]}
+*************************************
+접속일 :  2020-11-04 14:02:03
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #CT01 || 질문아이디2 : #CT01 || 질문아이디3 : #CT01 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #CT1_#CT1_#CT1_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CT1_#CT1_#CT1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>보통은 오전 10시~오후 1시,</p><p>중간 브레이크타임은 1시~4시,</p><p>오후 운영시간은 4시부터 8시입니다.</p><p>||(토요일 운영시) 토요일은 00시 ~ 오후 1시까지 운영합니다.</p><p>(토요일 미운영시) 토요일은 운영하지 않습니다.</p><p>||운영 시간은 클럽마다 조금씩 상이하오니 방문할 클럽으로 문의주세요.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 15:14:05
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p><p>$$$회원권 해지</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-04 15:14:10
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #MC1_#MC11_#MC111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #MC1_#MC11_#MC111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>궁금하신 내용을 선택해주세요.</p><p>$$$해지시 일할금액 산정 기준</p><p>$$$클럽을 이용하지 않았는데 출금이 된 경우</p><p>$$$해지신청 했는데 출금 취소가 안 된 경우</p><p>$$$해지시 위약금</p><p>$$$재가입시 가입비</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#MC1","s2": "#MC11","s3":"#MC111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 15:14:16
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 6 || 질문아이디1 : #MC1 || 질문아이디2 : #MC11 || 질문아이디3 : #MC111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #mcm1_#mcm11_#mcm111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #mcm1_#mcm11_#mcm111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>다음 목록으로 이동합니다.</p><p>$$$가입비 미반환</p><p>$$$환불 비용 입금 기간</p><p>$$$◀이전으로</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#mcm1","s2": "#mcm11","s3":"#mcm111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 15:14:20
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #mcm1 || 질문아이디2 : #mcm11 || 질문아이디3 : #mcm111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #mcm2_#mcm2_#mcm3_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #mcm2_#mcm2_#mcm3
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>이전 목록으로 이동합니다.<br></p><p>아무거나 입력해주세요.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#mcm2","s2": "#mcm2","s3":"#mcm3","s4":""}]}
+*************************************
+접속일 :  2020-11-04 15:14:24
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : ㅇㅇ || 질문아이디1 : #mcm2 || 질문아이디2 : #mcm2 || 질문아이디3 : #mcm3 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #MC1_#MC11_#MC111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #MC1_#MC11_#MC111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>궁금하신 내용을 선택해주세요.</p><p>$$$해지시 일할금액 산정 기준</p><p>$$$클럽을 이용하지 않았는데 출금이 된 경우</p><p>$$$해지신청 했는데 출금 취소가 안 된 경우</p><p>$$$해지시 위약금</p><p>$$$재가입시 가입비</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#MC1","s2": "#MC11","s3":"#MC111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 15:14:32
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #MC1 || 질문아이디2 : #MC11 || 질문아이디3 : #MC111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #MC3_#MC31_#MC311_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #MC3_#MC31_#MC311
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>별도의 해지신청을 하지 않으신 고객님 또는<br></p><p>일시정지를 신청하지 않으신 회원님은<br></p><p>운동을 안하신 경우에도 자동으로 출금이 진행되요.ㅠㅠ</p><p>||만약 정지 또는 해지를 원하실 경우<br></p><p>클럽에 상담을 요청하실 수 있어요!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 15:15:44
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 상담 문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "상담 문의" 
+
+ 시나리오 결과 값 : 
+ que_id :  #CS1_#CS1_#CS1_162
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CS1_#CS1_#CS1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9722//2500
+{"answercode":"4", "ai_msg": "<p>상담이 필요하세요?</p><p>원하시는 항목을 선택해주세요.</p><p>$$$클럽 상담 요청</p><p>$$$클럽이동/회원권이용/상담요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#CS1","s2": "#CS1","s3":"#CS1","s4":"162"}]}
+*************************************
+접속일 :  2020-11-04 15:15:53
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #CS1 || 질문아이디2 : #CS1 || 질문아이디3 : #CS1 || 질문아이디4 : 162
+ 시나리오 결과 값 : 
+ que_id :  #CS12_#CS12_#CS12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CS12_#CS12_#CS12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>반갑습니다. 고객님!</p><p>클럽 상담을 도와드리겠습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 15:15:59
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #CS1 || 질문아이디2 : #CS1 || 질문아이디3 : #CS1 || 질문아이디4 : 162
+ 시나리오 결과 값 : 
+ que_id :  #CS13_#CS13_#CS13_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CS13_#CS13_#CS13
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>반갑습니다. 고객님!</p><p>상담을 도와드리겠습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 15:17:22
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 상담 문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "상담 문의" 
+
+ 시나리오 결과 값 : 
+ que_id :  #CS1_#CS1_#CS1_162
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CS1_#CS1_#CS1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9722//2500
+{"answercode":"4", "ai_msg": "<p>상담이 필요하세요?<br></p><p>원하시는 항목을 선택해주세요.</p><p>$$$클럽 상담 요청</p><p>$$$클럽이동/회원권이용/상담요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#CS1","s2": "#CS1","s3":"#CS1","s4":"162"}]}
+*************************************
+접속일 :  2020-11-04 15:17:26
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #CS1 || 질문아이디2 : #CS1 || 질문아이디3 : #CS1 || 질문아이디4 : 162
+ 시나리오 결과 값 : 
+ que_id :  #CS12_#CS12_#CS12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CS12_#CS12_#CS12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>반갑습니다. 고객님!<br></p><p>클럽 상담을 도와드리겠습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 15:17:29
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #CS1 || 질문아이디2 : #CS1 || 질문아이디3 : #CS1 || 질문아이디4 : 162
+ 시나리오 결과 값 : 
+ que_id :  #CS13_#CS13_#CS13_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CS13_#CS13_#CS13
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>반갑습니다. 고객님!<br></p><p>상담을 도와드리겠습니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 15:17:38
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 퀸즈서비스 신청 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "퀸즈서비스 신청" 
+
+ 시나리오 결과 값 : 
+ que_id :  24AC962E_4967_8399_171
+ que_id1 : CC21_CC2121_CC212121_159
+ que_id2 : CC20_CC2020_CC202020_159
+ que_id3 : CC3_CC33_CC333_159
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 24AC962E_4967_8399
+ scn_que_id1 : CC21_CC2121_CC212121
+ scn_que_id2 : CC20_CC2020_CC202020
+ scn_que_id3 : CC3_CC33_CC333
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9980//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>커브스 퀸's 서비스는</span></p><p><span style=font-size: 10pt; font-family: Verdana, sans-serif;>커브스의 상품(단백질 보충제 등)을</span></p><p><span style=font-family: Verdana, sans-serif;>정기적으로 원하시는 장소에서</span></p><p><span style=font-family: Verdana, sans-serif;>배송 받을 수 있는&nbsp;</span><span style=font-family: Verdana, sans-serif; font-size: 10pt;>서비스 입니다.</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||</span><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>커브스 퀸's로 건강생활을 업그레이드 하세요!</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>챗봇으로 커브스 퀸's를 신청하실 수 있습니다.</span><br></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"24AC962E","s2": "4967","s3":"8399","s4":"171"}]}
+*************************************
+접속일 :  2020-11-04 15:17:52
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "아이디/비밀번호 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  4ECD5B06_D713_89ED_166
+ que_id1 : CA2_CA22_CA222_163
+ que_id2 : CA5_CA55_CA555_163
+ que_id3 : #c1_#c1_#c1_164
+ que_id4 : CE1_CE11_CE111_165
+ que_id5 : CT2_CT22_CT222_164
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 4ECD5B06_D713_89ED
+ scn_que_id1 : CA2_CA22_CA222
+ scn_que_id2 : CA5_CA55_CA555
+ scn_que_id3 : #c1_#c1_#c1
+ scn_que_id4 : CE1_CE11_CE111
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif; font-size: 10pt;>아이디, 비밀번호가 기억나지 않으세요?</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||커브스 회원 가입시 입력하신 이메일 주소</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>또는 등록하신 휴대폰 번호를 통해 찾아보세요!</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"4ECD5B06","s2": "D713","s3":"89ED","s4":"166"}]}
+*************************************
+접속일 :  2020-11-04 15:39:14
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p><p>$$$회원권 해지</p><p>$$$회원권 양도/양수</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-04 15:39:21
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 5 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #mt1_#mt11_#mt111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #mt1_#mt11_#mt111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>궁금하신 내용을 선택해주세요.</p><p>$$$다른 클럽으로 회원권 양도</p><p>$$$양도 가능한 선납회원권의 기간</p><p>$$$양수 받은 회원의 해지</p><p>$$$월회원권/학생회원권의 양도 가능 여부</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#mt1","s2": "#mt11","s3":"#mt111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 15:39:26
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #mt1 || 질문아이디2 : #mt11 || 질문아이디3 : #mt111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #mt2_#mt21_#mt211_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #mt2_#mt21_#mt211
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>우리클럽 > 다른 클럽으로의 회원권 양도도 가능합니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 15:39:31
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #mt1 || 질문아이디2 : #mt11 || 질문아이디3 : #mt111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #mt3_#mt31_#mt311_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #mt3_#mt31_#mt311
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>회원권의 잔여일수가 60일 이상 남아있는 경우<br></p><p>양도 가능합니다.</p><p>||단, 서비스 기간의 양도는 불가능합니다.<br></p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 15:39:37
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #mt1 || 질문아이디2 : #mt11 || 질문아이디3 : #mt111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #mt4_#mt41_#mt411_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #mt4_#mt41_#mt411
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>양수 받으신 회원권의 경우 해지 신청 가능합니다!<br></p><p>하지만 환불은 불가하니 주의해주세요!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 15:39:42
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 5 || 질문아이디1 : #mt1 || 질문아이디2 : #mt11 || 질문아이디3 : #mt111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #mtm1_#mtm11_#tmt111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #mtm1_#mtm11_#tmt111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>다음 목록으로 이동합니다.</p><p>$$$양도한 회원 재가입시 가입비</p><p>$$$양수 받은 회원권의 연장 등록</p><p>$$$양수 받은 회원권의 재양도</p><p>$$$◀이전으로</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#mtm1","s2": "#mtm11","s3":"#tmt111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 15:39:45
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #mtm1 || 질문아이디2 : #mtm11 || 질문아이디3 : #tmt111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #mt7_#mt71_#mt711_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #mt7_#mt71_#mt711
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>재가입시 양도일로부터 6개월 이내에는<br></p><p>가입비가 면제됩니다.</p><p>||6개월 이후 다시 돌아오시면 가입비가 또 부과되니<br></p><p>커브스가 생각나면 빨리 돌아와 주세요!</p><p>||커브스는 언제나 회원님이 돌아오시기를<br></p><p>기다리고 있습니다. (^_____^)</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 15:39:52
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #mtm1 || 질문아이디2 : #mtm11 || 질문아이디3 : #tmt111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #mt8_#mt81_#mt811_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #mt8_#mt81_#mt811
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>회원권이 만료된 후 6개월 이내에<br></p><p>연장 또는 재가입시 가입비는 부과되지 않아요!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 15:39:57
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #mtm1 || 질문아이디2 : #mtm11 || 질문아이디3 : #tmt111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #mt9_# mt91_#mt911_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #mt9_# mt91_#mt911
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>죄송합니다. ㅠㅠ<br></p><p>양수 받은 회원권은 재양도가 불가능합니다. ㅠㅠ</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 15:40:12
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p><p>$$$회원권 해지</p><p>$$$회원권 양도/양수</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-04 15:40:16
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #MC1_#MC11_#MC111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #MC1_#MC11_#MC111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>궁금하신 내용을 선택해주세요.</p><p>$$$해지시 일할금액 산정 기준</p><p>$$$클럽을 이용하지 않았는데 출금이 된 경우</p><p>$$$해지신청 했는데 출금 취소가 안 된 경우</p><p>$$$해지시 위약금</p><p>$$$재가입시 가입비</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#MC1","s2": "#MC11","s3":"#MC111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 15:40:21
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #MC1 || 질문아이디2 : #MC11 || 질문아이디3 : #MC111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #MC3_#MC31_#MC311_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #MC3_#MC31_#MC311
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>별도의 해지신청을 하지 않으신 고객님 또는<br></p><p>일시정지를 신청하지 않으신 회원님은<br></p><p>운동을 안하신 경우에도 자동으로 출금이 진행되요.ㅠㅠ</p><p>||만약 정지 또는 해지를 원하실 경우<br></p><p>클럽에 상담을 요청하실 수 있어요!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 15:40:26
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #MC1 || 질문아이디2 : #MC11 || 질문아이디3 : #MC111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #MC4_#MC41_#MC411_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #MC4_#MC41_#MC411
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>죄송합니다.ㅠㅠ<br></p><p>커브스 클럽에서 자체적으로 출금 취소를 하는 것이 아니고<br></p><p>은행에 도움을 받아 출금을 하기 때문에 일정 기간이 소요됩니다.</p><p>||이에 따라 커브스 약관에 출금일 5일 이전에<br></p><p>미리 해지 신청을 부탁드린다고 명시하고 있습니다.</p><p>||만약 출금이 된다해도 해지 환불 규정에 따라<br></p><p>위약금 10%를 제외한 나머지 금액은 해지 신청시<br></p><p>요청하신 계좌로 입금되니 걱정하지 않으셔도 됩니다!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 15:40:41
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p><p>$$$회원권 해지</p><p>$$$회원권 양도/양수</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-04 15:40:47
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #CR01_#CR01_#CR01_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CR01_#CR01_#CR01
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>커브스에 관심이 있으신가요?<br></p><p>제가 자세히 알려드릴게요!</p><p>$$$회원권 가격</p><p>$$$클럽별 가입비</p><p>$$$남성 회원가입 가능 여부</p><p>$$$미성년자 가입비 면제</p><p>$$$가입비에 포함되는 항목</p><p>$$$회원가입 방법</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#CR01","s2": "#CR01","s3":"#CR01","s4":""}]}
+*************************************
+접속일 :  2020-11-04 15:40:50
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 6 || 질문아이디1 : #CR01 || 질문아이디2 : #CR01 || 질문아이디3 : #CR01 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #CR6_#CR6_#CR6_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CR6_#CR6_#CR6
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>가까운 클럽에서 상담 후, 가입이 진행됩니다.<br></p><p>아래 링크를 누르시면 가까운 클럽을 찾아 보실 수 있어요!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 15:40:57
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 5 || 질문아이디1 : #CR01 || 질문아이디2 : #CR01 || 질문아이디3 : #CR01 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #CR5_#CR5_#CR5_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CR5_#CR5_#CR5
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>커브스의 가입비에는<br></p><p>가입절차 진행비/전산등록비/오리엔테이션비가<br></p><p>모두 포함되어 있어요!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 15:41:09
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p><p>$$$회원권 해지</p><p>$$$회원권 양도/양수</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-04 15:41:12
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #MC1_#MC11_#MC111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #MC1_#MC11_#MC111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>궁금하신 내용을 선택해주세요.</p><p>$$$해지시 일할금액 산정 기준</p><p>$$$클럽을 이용하지 않았는데 출금이 된 경우</p><p>$$$해지신청 했는데 출금 취소가 안 된 경우</p><p>$$$해지시 위약금</p><p>$$$재가입시 가입비</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#MC1","s2": "#MC11","s3":"#MC111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 15:41:21
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 6 || 질문아이디1 : #MC1 || 질문아이디2 : #MC11 || 질문아이디3 : #MC111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #mcm1_#mcm11_#mcm111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #mcm1_#mcm11_#mcm111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>다음 목록으로 이동합니다.</p><p>$$$가입비 미반환</p><p>$$$환불 비용 입금 기간</p><p>$$$◀이전으로</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#mcm1","s2": "#mcm11","s3":"#mcm111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 15:41:32
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #mcm1 || 질문아이디2 : #mcm11 || 질문아이디3 : #mcm111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #mcm2_#mcm2_#mcm3_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #mcm2_#mcm2_#mcm3
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>이전 목록으로 이동합니다.<br></p><p>아무거나 입력해주세요.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#mcm2","s2": "#mcm2","s3":"#mcm3","s4":""}]}
+*************************************
+접속일 :  2020-11-04 15:41:37
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : dd || 질문아이디1 : #mcm2 || 질문아이디2 : #mcm2 || 질문아이디3 : #mcm3 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #MC1_#MC11_#MC111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #MC1_#MC11_#MC111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>궁금하신 내용을 선택해주세요.</p><p>$$$해지시 일할금액 산정 기준</p><p>$$$클럽을 이용하지 않았는데 출금이 된 경우</p><p>$$$해지신청 했는데 출금 취소가 안 된 경우</p><p>$$$해지시 위약금</p><p>$$$재가입시 가입비</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#MC1","s2": "#MC11","s3":"#MC111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 15:41:41
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #MC1 || 질문아이디2 : #MC11 || 질문아이디3 : #MC111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #MC5_#MC51_#MC511_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #MC5_#MC51_#MC511
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>위약금 관련 내용은 커브스 회원약관에 기재되어 있는 내용입니다.<br></p><p>아래의 해지환불 약관의 내용을 확인하여 주시기 바랍니다!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 15:55:16
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "아이디/비밀번호 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  4ECD5B06_D713_89ED_166
+ que_id1 : CA2_CA22_CA222_163
+ que_id2 : CA5_CA55_CA555_163
+ que_id3 : #c1_#c1_#c1_164
+ que_id4 : CE1_CE11_CE111_165
+ que_id5 : CT2_CT22_CT222_164
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 4ECD5B06_D713_89ED
+ scn_que_id1 : CA2_CA22_CA222
+ scn_que_id2 : CA5_CA55_CA555
+ scn_que_id3 : #c1_#c1_#c1
+ scn_que_id4 : CE1_CE11_CE111
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif; font-size: 10pt;>아이디, 비밀번호가 기억나지 않으세요?</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||커브스 회원 가입시 입력하신 이메일 주소</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>또는 등록하신 휴대폰 번호를 통해 찾아보세요!</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"4ECD5B06","s2": "D713","s3":"89ED","s4":"166"}]}
+*************************************
+접속일 :  2020-11-04 15:55:31
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p><p>$$$회원권 해지</p><p>$$$회원권 양도/양수</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-04 15:55:38
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #MC1_#MC11_#MC111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #MC1_#MC11_#MC111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>궁금하신 내용을 선택해주세요.</p><p>$$$해지시 일할금액 산정 기준</p><p>$$$클럽을 이용하지 않았는데 출금이 된 경우</p><p>$$$해지신청 했는데 출금 취소가 안 된 경우</p><p>$$$해지시 위약금</p><p>$$$재가입시 가입비</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#MC1","s2": "#MC11","s3":"#MC111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 15:55:42
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 6 || 질문아이디1 : #MC1 || 질문아이디2 : #MC11 || 질문아이디3 : #MC111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #mcm1_#mcm11_#mcm111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #mcm1_#mcm11_#mcm111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>다음 목록으로 이동합니다.</p><p>$$$가입비 미반환</p><p>$$$환불 비용 입금 기간</p><p>$$$◀이전으로</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#mcm1","s2": "#mcm11","s3":"#mcm111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 15:55:45
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #mcm1 || 질문아이디2 : #mcm11 || 질문아이디3 : #mcm111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #mc8_#mc81_#mc811_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #mc8_#mc81_#mc811
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>해지 시 평일 기준 3일 이내 요청하신 계좌로 입금됩니다.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 15:59:50
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 다른 클럽 이용 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "다른 클럽 이용" 
+
+ 시나리오 결과 값 : 
+ que_id :  CC8_CC88_CC888_159
+ que_id1 : CC16_CC1616_CC161616_159
+ que_id2 : CR3_CR33_CR333_158
+ que_id3 : CE2_CE22_CE222_165
+ que_id4 : CT2_CT22_CT222_164
+ que_id5 : CR2_CR22_CR222_158
+ que_id6 : CT1_CT11_CT111_164
+ que_id7 : #c1_#c1_#c1_164
+ que_id8 : CA1_CA11_CA111_163
+ que_id9 : CA2_CA22_CA222_163
+ scn_que_id : CC8_CC88_CC888
+ scn_que_id1 : CC16_CC1616_CC161616
+ scn_que_id2 : CR3_CR33_CR333
+ scn_que_id3 : CE2_CE22_CE222
+ scn_que_id4 : CT2_CT22_CT222
+ 확률 : 선택질문 확률 : 4828//2500
+{"answercode":"1", "ai_msg": "다른 클럽으로의 회원권 양도 | 다른 클럽 이용 | 남성 회원가입 가능 여부 | 커브스 운동 방법 | 가까운 클럽 찾기 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CC8","s2": "CC88","s3":"CC888","s4":"159"},{"s1":"CC16","s2": "CC1616","s3":"CC161616","s4":"159"},{"s1":"CR3","s2": "CR33","s3":"CR333","s4":"158"},{"s1":"CE2","s2": "CE22","s3":"CE222","s4":"165"},{"s1":"CT2","s2": "CT22","s3":"CT222","s4":"164"}]}
+*************************************
+접속일 :  2020-11-04 15:59:55
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 2 || 질문내용 : 다른 클럽 이용 || 질문아이디1 : CC16 || 질문아이디2 : CC1616 || 질문아이디3 : CC161616 || 질문아이디4 : 159
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "다른 클럽에서 운동 가능 한가요? " 
+
+ 시나리오 결과 값 : 
+ que_id :  CC16_CC1616_CC161616_159
+ que_id1 : CE2_CE22_CE222_165
+ que_id2 : CC8_CC88_CC888_159
+ que_id3 : CE1_CE11_CE111_165
+ que_id4 : CT1_CT11_CT111_164
+ que_id5 : CC18_CC1818_CC181818_159
+ que_id6 : CR3_CR33_CR333_158
+ que_id7 : CT2_CT22_CT222_164
+ que_id8 : CC5_CC55_CC555_159
+ que_id9 : CC2_CC22_CC222_159
+ scn_que_id : CC16_CC1616_CC161616
+ scn_que_id1 : CE2_CE22_CE222
+ scn_que_id2 : CC8_CC88_CC888
+ scn_que_id3 : CE1_CE11_CE111
+ scn_que_id4 : CT1_CT11_CT111
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif; font-size: 10pt;>네, 가능합니다!&lt;br&gt;</span></p><p><span style=font-family: Verdana, sans-serif; font-size: 10pt;>주 1회 다른 클럽을 이용하실 수 있어요!&lt;br&gt;</span></p><p><font face=Verdana, sans-serif>단, 회원카드를 가지고 다른 클럽에 가셔서&lt;br&gt;</font></p><p><font face=Verdana, sans-serif>출석체크를 하셔야 합니다.&lt;br&gt;</font></p><p><font face=Verdana, sans-serif>주 1회보다 더 장기간 다른 클럽의 이용을 원하시면&lt;br&gt;</font></p><p><font face=Verdana, sans-serif>클럽으로 문의주세요.♥</font></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16044731647500.png", "qustType": "","questionID": [{"s1":"CC16","s2": "CC1616","s3":"CC161616","s4":"159"}]}
+*************************************
+접속일 :  2020-11-04 16:00:54
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 다른 클럽 이용 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "다른 클럽 이용" 
+
+ 시나리오 결과 값 : 
+ que_id :  CC8_CC88_CC888_159
+ que_id1 : CC16_CC1616_CC161616_159
+ que_id2 : CR3_CR33_CR333_158
+ que_id3 : CE2_CE22_CE222_165
+ que_id4 : CT2_CT22_CT222_164
+ que_id5 : CR2_CR22_CR222_158
+ que_id6 : CT1_CT11_CT111_164
+ que_id7 : #c1_#c1_#c1_164
+ que_id8 : CA1_CA11_CA111_163
+ que_id9 : CA2_CA22_CA222_163
+ scn_que_id : CC8_CC88_CC888
+ scn_que_id1 : CC16_CC1616_CC161616
+ scn_que_id2 : CR3_CR33_CR333
+ scn_que_id3 : CE2_CE22_CE222
+ scn_que_id4 : CT2_CT22_CT222
+ 확률 : 선택질문 확률 : 4828//2500
+{"answercode":"1", "ai_msg": "다른 클럽으로의 회원권 양도 | 다른 클럽 이용 | 남성 회원가입 가능 여부 | 커브스 운동 방법 | 가까운 클럽 찾기 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CC8","s2": "CC88","s3":"CC888","s4":"159"},{"s1":"CC16","s2": "CC1616","s3":"CC161616","s4":"159"},{"s1":"CR3","s2": "CR33","s3":"CR333","s4":"158"},{"s1":"CE2","s2": "CE22","s3":"CE222","s4":"165"},{"s1":"CT2","s2": "CT22","s3":"CT222","s4":"164"}]}
+*************************************
+접속일 :  2020-11-04 16:00:57
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 2 || 질문내용 : 다른 클럽 이용 || 질문아이디1 : CC16 || 질문아이디2 : CC1616 || 질문아이디3 : CC161616 || 질문아이디4 : 159
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "다른 클럽에서 운동 가능 한가요? " 
+
+ 시나리오 결과 값 : 
+ que_id :  CC16_CC1616_CC161616_159
+ que_id1 : CE2_CE22_CE222_165
+ que_id2 : CC8_CC88_CC888_159
+ que_id3 : CE1_CE11_CE111_165
+ que_id4 : CT1_CT11_CT111_164
+ que_id5 : CC18_CC1818_CC181818_159
+ que_id6 : CR3_CR33_CR333_158
+ que_id7 : CT2_CT22_CT222_164
+ que_id8 : CC5_CC55_CC555_159
+ que_id9 : CC2_CC22_CC222_159
+ scn_que_id : CC16_CC1616_CC161616
+ scn_que_id1 : CE2_CE22_CE222
+ scn_que_id2 : CC8_CC88_CC888
+ scn_que_id3 : CE1_CE11_CE111
+ scn_que_id4 : CT1_CT11_CT111
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif; font-size: 10pt;>네, 가능합니다!</span></p><p><span style=font-family: Verdana, sans-serif; font-size: 10pt;>주 1회 다른 클럽을 이용하실 수 있어요!</span></p><p><font face=Verdana, sans-serif>단, 회원카드를 가지고 다른 클럽에 가셔서</font></p><p><font face=Verdana, sans-serif>출석체크를 하셔야 합니다.</font></p><p><font face=Verdana, sans-serif>주 1회보다 더 장기간 다른 클럽의 이용을 원하시면</font></p><p><font face=Verdana, sans-serif>클럽으로 문의주세요.♥</font></p><p><font face=Verdana, sans-serif><br></font></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16044731647500.png", "qustType": "","questionID": [{"s1":"CC16","s2": "CC1616","s3":"CC161616","s4":"159"}]}
+*************************************
+접속일 :  2020-11-04 16:04:45
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "아이디/비밀번호 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  4ECD5B06_D713_89ED_166
+ que_id1 : CA2_CA22_CA222_163
+ que_id2 : CA5_CA55_CA555_163
+ que_id3 : #c1_#c1_#c1_164
+ que_id4 : CE1_CE11_CE111_165
+ que_id5 : CT2_CT22_CT222_164
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 4ECD5B06_D713_89ED
+ scn_que_id1 : CA2_CA22_CA222
+ scn_que_id2 : CA5_CA55_CA555
+ scn_que_id3 : #c1_#c1_#c1
+ scn_que_id4 : CE1_CE11_CE111
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif; font-size: 10pt;>아이디, 비밀번호가 기억나지 않으세요?</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||커브스 회원 가입시 입력하신 이메일 주소</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>또는 등록하신 휴대폰 번호를 통해 찾아보세요!</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"4ECD5B06","s2": "D713","s3":"89ED","s4":"166"}]}
+*************************************
+접속일 :  2020-11-04 16:04:55
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p><p>$$$회원권 해지</p><p>$$$회원권 양도/양수</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-04 16:05:03
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #CT01_#CT01_#CT01_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CT01_#CT01_#CT01
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>무엇이 궁금하세요?</p><p>$$$커브스 클럽 운영시간</p><p>$$$가까운 클럽 찾기</p><p>$$$커브스 휴무일</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#CT01","s2": "#CT01","s3":"#CT01","s4":""}]}
+*************************************
+접속일 :  2020-11-04 16:05:09
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #CT01 || 질문아이디2 : #CT01 || 질문아이디3 : #CT01 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #CT1_#CT1_#CT1_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CT1_#CT1_#CT1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>보통은 오전 10시~오후 1시,<br></p><p>중간 브레이크타임은 1시~4시,<br></p><p>오후 운영시간은 4시부터 8시이구요!</p><p>||토요일은 운영하는 경우 00시 ~ 오후 1시까지 운영해요!<br></p><p>회원 여러분의 편안한 주말을 위해<br></p><p>토요일은 운영하지 않는 클럽도 있습니다.</p><p>||운영 시간은 클럽마다 조금씩 상이하오니 방문하실 클럽으로 문의주세요.♥</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 16:28:17
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p><p>$$$회원권 해지</p><p>$$$회원권 양도/양수</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-04 16:28:23
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 6 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #NE1_#NE11_#NE111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #NE1_#NE11_#NE111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>다음 목록으로 이동합니다.</p><p>$$$클럽 이동/일시정지</p><p>$$$앱 문의</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#NE1","s2": "#NE11","s3":"#NE111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 16:28:27
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #NE1 || 질문아이디2 : #NE11 || 질문아이디3 : #NE111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #cm1_#cm11_#cm111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #cm1_#cm11_#cm111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>궁금하신 내용을 선택해주세요.</p><p>$$$다른 클럽에서 운동 할 수 있나요?</p><p>$$$여행/일시정지/영구이동에 제한이 있나요?</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#cm1","s2": "#cm11","s3":"#cm111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 16:28:33
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #cm1 || 질문아이디2 : #cm11 || 질문아이디3 : #cm111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #cm2_#cm21_#cm21_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #cm2_#cm21_#cm21
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>네, 가능합니다!<br></p><p>주 1회 다른 클럽을 이용하실 수 있어요.<br></p><p>단, 회원카드를 가지고 다른 클럽에 가셔서<br></p><p>출석체크를 하셔야 합니다.<br></p><p>주1회보다 더 장기간 다른 클럽의 이용을 원하시면<br></p><p>클럽으로 문의주세요.♥</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 16:29:37
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p><p>$$$회원권 해지</p><p>$$$회원권 양도/양수</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-04 16:29:42
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 6 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #NE1_#NE11_#NE111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #NE1_#NE11_#NE111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>다음 목록으로 이동합니다.</p><p>$$$클럽 이동/일시정지</p><p>$$$앱 문의</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#NE1","s2": "#NE11","s3":"#NE111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 16:29:48
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #NE1 || 질문아이디2 : #NE11 || 질문아이디3 : #NE111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #cm1_#cm11_#cm111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #cm1_#cm11_#cm111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>궁금하신 내용을 선택해주세요.</p><p>$$$다른 클럽에서 운동 할 수 있나요?</p><p>$$$여행/일시정지/영구이동에 제한이 있나요?</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#cm1","s2": "#cm11","s3":"#cm111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 16:29:57
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #cm1 || 질문아이디2 : #cm11 || 질문아이디3 : #cm111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #cm3_#cm31_#cm311_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #cm3_#cm31_#cm311
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>월회원권과 학생회원권을 이용하고 계시다면<br></p><p>(국/내외 공통)여행/일시정지/영구이동이 불가합니다!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 16:59:10
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p><p>$$$회원권 해지</p><p>$$$회원권 양도/양수</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-04 16:59:13
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 6 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #NE1_#NE11_#NE111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #NE1_#NE11_#NE111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>다음 목록으로 이동합니다.</p><p>$$$클럽 이동/일시정지</p><p>$$$앱 문의</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#NE1","s2": "#NE11","s3":"#NE111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 16:59:17
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #NE1 || 질문아이디2 : #NE11 || 질문아이디3 : #NE111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #ap1_#sp11_#sp111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ap1_#sp11_#sp111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>궁금하신 내용을 선택해주세요.</p><p>$$$커브스앱 로그인을 해도 회원카드가 안나와요.</p><p>$$$커브스앱 아이디/비밀번호가 기억나지 않아요.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ap1","s2": "#sp11","s3":"#sp111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 16:59:20
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #ap1 || 질문아이디2 : #sp11 || 질문아이디3 : #sp111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #ap2_#ap21_#ap211_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ap2_#ap21_#ap211
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래의 내용을 확인해주세요!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 16:59:32
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 커브스앱 로그인 했는데 회원카드가 없어요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "커브스앱 로그인 했는데 회원카드가 없어요" 
+
+ 시나리오 결과 값 : 
+ que_id :  CA1_CA11_CA111_163
+ que_id1 : CR1_CR11_CR111_158
+ que_id2 : CR3_CR33_CR333_158
+ que_id3 : CE2_CE22_CE222_165
+ que_id4 : CR4_CR44_CR444_158
+ que_id5 : CT2_CT22_CT222_164
+ que_id6 : CT1_CT11_CT111_164
+ que_id7 : #c1_#c1_#c1_164
+ que_id8 : CC15_CC1515_CC151515_159
+ que_id9 : CR2_CR22_CR222_158
+ scn_que_id : CA1_CA11_CA111
+ scn_que_id1 : CR1_CR11_CR111
+ scn_que_id2 : CR3_CR33_CR333
+ scn_que_id3 : CE2_CE22_CE222
+ scn_que_id4 : CR4_CR44_CR444
+ 확률 : 선택질문 확률 : 7363//2500
+{"answercode":"1", "ai_msg": "앱에서 회원카드가 나오지 않는 경우 | 회원권 회비 | 남성 회원가입 가능 여부 | 커브스 운동 방법 | 미성년자 가입비 면제 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CA1","s2": "CA11","s3":"CA111","s4":"163"},{"s1":"CR1","s2": "CR11","s3":"CR111","s4":"158"},{"s1":"CR3","s2": "CR33","s3":"CR333","s4":"158"},{"s1":"CE2","s2": "CE22","s3":"CE222","s4":"165"},{"s1":"CR4","s2": "CR44","s3":"CR444","s4":"158"}]}
+*************************************
+접속일 :  2020-11-04 16:59:37
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 2 || 질문내용 : 앱에서 회원카드가 나오지 않는 경우 || 질문아이디1 : CA1 || 질문아이디2 : CA11 || 질문아이디3 : CA111 || 질문아이디4 : 163
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "커브스앱 로그인을 해도 회원카드가 안나올 때는 어떻게 하죠?" 
+
+ 시나리오 결과 값 : 
+ que_id :  CA1_CA11_CA111_163
+ que_id1 : CT1_CT11_CT111_164
+ que_id2 : CE2_CE22_CE222_165
+ que_id3 : CA2_CA22_CA222_163
+ que_id4 : CC16_CC1616_CC161616_159
+ que_id5 : CA4_CA44_CA444_163
+ que_id6 : CC15_CC1515_CC151515_159
+ que_id7 : CR1_CR11_CR111_158
+ que_id8 : CR3_CR33_CR333_158
+ que_id9 : CC10_CC1010_CC101010_159
+ scn_que_id : CA1_CA11_CA111
+ scn_que_id1 : CT1_CT11_CT111
+ scn_que_id2 : CE2_CE22_CE222
+ scn_que_id3 : CA2_CA22_CA222
+ scn_que_id4 : CC16_CC1616_CC161616
+ 확률 : 선택질문 확률 : 9978//2500
+{"answercode":"", "ai_msg": "<p>어플 로그인을 해도 모바일 회원카드가 나오지 않는 이유와 해결 방법  <br><span style=color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>||</span>1) 커브스앱의 모바일 회원카드, 나의건강기록은 COS 회원정보에 입력된 휴대폰번호와 회원이 앱 아이디 가입 시 입력한 휴대폰번호가 일치하는 경우에만 제공되고 있습니다.</p><p>COS 상의 회원 휴대폰번호와 회원이 앱에서 입력한 휴대폰번호를 확인하시고 다르다면 수정, 저장한 후 앱 재로그인을 하면 정상적으로 이용 가능합니다.  <br><span style=color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>||</span>2) 회원 상태가 '정상' 상태인 경우 이용 가능합니다.</p><p>신규가입 회원 또는 '첫운동미실시' 상태의 회원은 수기출석 또는 플라스틱카드 최초 1회 태깅 후 앱 로그인, 사용안내 부탁드립니다.</p><p><span style=color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>||</span>3) 클럽 이동을 한 회원의 경우 이동한 클럽에서 수기출석 또는 플라스틱카드 최초 1회 태깅 후 앱 로그인, 사용안내 부탁드립니다.</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CA1","s2": "CA11","s3":"CA111","s4":"163"}]}
+*************************************
+접속일 :  2020-11-04 16:59:59
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 커브스앱 아이디랑 비밀번호 모르겠어요 || 질문아이디1 : CA1 || 질문아이디2 : CA11 || 질문아이디3 : CA111 || 질문아이디4 : 163
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "커브스앱 아이디랑 비밀번호 모르겠어요" 
+
+ 시나리오 결과 값 : 
+ que_id :  4ECD5B06_D713_89ED_166
+ que_id1 : CA2_CA22_CA222_163
+ que_id2 : CT2_CT22_CT222_164
+ que_id3 : CR3_CR33_CR333_158
+ que_id4 : CE2_CE22_CE222_165
+ que_id5 : CT1_CT11_CT111_164
+ que_id6 : #c1_#c1_#c1_164
+ que_id7 : CR2_CR22_CR222_158
+ que_id8 : CC16_CC1616_CC161616_159
+ que_id9 : CE1_CE11_CE111_165
+ scn_que_id : 4ECD5B06_D713_89ED
+ scn_que_id1 : CA2_CA22_CA222
+ scn_que_id2 : CT2_CT22_CT222
+ scn_que_id3 : CR3_CR33_CR333
+ scn_que_id4 : CE2_CE22_CE222
+ 확률 : 선택질문 확률 : 9791//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif; font-size: 10pt;>아이디, 비밀번호가 기억나지 않으세요?</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||커브스 회원 가입시 입력하신 이메일 주소</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>또는 등록하신 휴대폰 번호를 통해 찾아보세요!</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"4ECD5B06","s2": "D713","s3":"89ED","s4":"166"}]}
+*************************************
+접속일 :  2020-11-04 17:00:18
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 비밀번호 분실 || 질문아이디1 : 4ECD5B06 || 질문아이디2 : D713 || 질문아이디3 : 89ED || 질문아이디4 : 166
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "비밀번호 분실" 
+
+ 시나리오 결과 값 : 
+ que_id :  4ECD5B06_D713_89ED_166
+ que_id1 : CE1_CE11_CE111_165
+ que_id2 : CA2_CA22_CA222_163
+ que_id3 : CA5_CA55_CA555_163
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 4ECD5B06_D713_89ED
+ scn_que_id1 : CE1_CE11_CE111
+ scn_que_id2 : CA2_CA22_CA222
+ scn_que_id3 : CA5_CA55_CA555
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 5413//2500
+{"answercode":"1", "ai_msg": "아이디/비밀번호 찾기 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"4ECD5B06","s2": "D713","s3":"89ED","s4":"166"}]}
+*************************************
+접속일 :  2020-11-04 17:00:23
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 2 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 4ECD5B06 || 질문아이디2 : D713 || 질문아이디3 : 89ED || 질문아이디4 : 166
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "아이디/비밀번호 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  4ECD5B06_D713_89ED_166
+ que_id1 : CA2_CA22_CA222_163
+ que_id2 : CA5_CA55_CA555_163
+ que_id3 : #c1_#c1_#c1_164
+ que_id4 : CE1_CE11_CE111_165
+ que_id5 : CT2_CT22_CT222_164
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 4ECD5B06_D713_89ED
+ scn_que_id1 : CA2_CA22_CA222
+ scn_que_id2 : CA5_CA55_CA555
+ scn_que_id3 : #c1_#c1_#c1
+ scn_que_id4 : CE1_CE11_CE111
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif; font-size: 10pt;>아이디, 비밀번호가 기억나지 않으세요?</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||커브스 회원 가입시 입력하신 이메일 주소</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>또는 등록하신 휴대폰 번호를 통해 찾아보세요!</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"4ECD5B06","s2": "D713","s3":"89ED","s4":"166"}]}
+*************************************
+접속일 :  2020-11-04 17:02:09
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 어플 아이디랑 비밀번호 모르겠어요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "어플 아이디랑 비밀번호 모르겠어요" 
+
+ 시나리오 결과 값 : 
+ que_id :  4ECD5B06_D713_89ED_166
+ que_id1 : CA2_CA22_CA222_163
+ que_id2 : CA5_CA55_CA555_163
+ que_id3 : CE1_CE11_CE111_165
+ que_id4 : CA3_CA33_CA333_163
+ que_id5 : CT2_CT22_CT222_164
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 4ECD5B06_D713_89ED
+ scn_que_id1 : CA2_CA22_CA222
+ scn_que_id2 : CA5_CA55_CA555
+ scn_que_id3 : CE1_CE11_CE111
+ scn_que_id4 : CA3_CA33_CA333
+ 확률 : 선택질문 확률 : 9791//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif; font-size: 10pt;>아이디, 비밀번호가 기억나지 않으세요?</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||커브스 회원 가입시 입력하신 이메일 주소</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>또는 등록하신 휴대폰 번호를 통해 찾아보세요!</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"4ECD5B06","s2": "D713","s3":"89ED","s4":"166"}]}
+*************************************
+접속일 :  2020-11-04 17:03:07
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 커브스앱 아이디 또는 비밀번호가 기억이 안나요 || 질문아이디1 : 4ECD5B06 || 질문아이디2 : D713 || 질문아이디3 : 89ED || 질문아이디4 : 166
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "커브스앱 아이디 또는 비밀번호가 기억이 안나요" 
+
+ 시나리오 결과 값 : 
+ que_id :  4ECD5B06_D713_89ED_166
+ que_id1 : CA2_CA22_CA222_163
+ que_id2 : CT2_CT22_CT222_164
+ que_id3 : CR3_CR33_CR333_158
+ que_id4 : CE2_CE22_CE222_165
+ que_id5 : CT1_CT11_CT111_164
+ que_id6 : #c1_#c1_#c1_164
+ que_id7 : CR2_CR22_CR222_158
+ que_id8 : CC16_CC1616_CC161616_159
+ que_id9 : CE1_CE11_CE111_165
+ scn_que_id : 4ECD5B06_D713_89ED
+ scn_que_id1 : CA2_CA22_CA222
+ scn_que_id2 : CT2_CT22_CT222
+ scn_que_id3 : CR3_CR33_CR333
+ scn_que_id4 : CE2_CE22_CE222
+ 확률 : 선택질문 확률 : 9791//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif; font-size: 10pt;>아이디, 비밀번호가 기억나지 않으세요?</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||커브스 회원 가입시 입력하신 이메일 주소</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>또는 등록하신 휴대폰 번호를 통해 찾아보세요!</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"4ECD5B06","s2": "D713","s3":"89ED","s4":"166"}]}
+*************************************
+접속일 :  2020-11-04 17:05:47
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 커브스앱 아이디 비번 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "커브스앱 아이디 비번 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  CA2_CA22_CA222_163
+ que_id1 : 4ECD5B06_D713_89ED_166
+ que_id2 : #c1_#c1_#c1_164
+ que_id3 : CT2_CT22_CT222_164
+ que_id4 : CR3_CR33_CR333_158
+ que_id5 : CE2_CE22_CE222_165
+ que_id6 : CT1_CT11_CT111_164
+ que_id7 : CA5_CA55_CA555_163
+ que_id8 : CR2_CR22_CR222_158
+ que_id9 : CC16_CC1616_CC161616_159
+ scn_que_id : CA2_CA22_CA222
+ scn_que_id1 : 4ECD5B06_D713_89ED
+ scn_que_id2 : #c1_#c1_#c1
+ scn_que_id3 : CT2_CT22_CT222
+ scn_que_id4 : CR3_CR33_CR333
+ 확률 : 선택질문 확률 : 9977//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>아래의 내용을 확인해주세요!</span></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16044767251500.png", "qustType": "","questionID": [{"s1":"CA2","s2": "CA22","s3":"CA222","s4":"163"}]}
+*************************************
+접속일 :  2020-11-04 17:06:57
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p><p>$$$회원권 해지</p><p>$$$회원권 양도/양수</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-04 17:07:01
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 6 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #NE1_#NE11_#NE111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #NE1_#NE11_#NE111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>다음 목록으로 이동합니다.</p><p>$$$클럽 이동/일시정지</p><p>$$$앱 문의</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#NE1","s2": "#NE11","s3":"#NE111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 17:07:04
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #NE1 || 질문아이디2 : #NE11 || 질문아이디3 : #NE111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #ap1_#sp11_#sp111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ap1_#sp11_#sp111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>궁금하신 내용을 선택해주세요.</p><p>$$$커브스앱 로그인을 해도 회원카드가 안나와요.</p><p>$$$커브스앱 아이디/비밀번호가 기억나지 않아요.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ap1","s2": "#sp11","s3":"#sp111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 17:07:07
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #ap1 || 질문아이디2 : #sp11 || 질문아이디3 : #sp111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #ap3_#ap31_#ap311_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ap3_#ap31_#ap311
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래의 내용을 확인해주세요!</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16044772044100.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 17:12:42
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 회원카드가 안나와요!! || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "회원카드가 안나와요!!" 
+
+ 시나리오 결과 값 : 
+ que_id :  CR1_CR11_CR111_158
+ que_id1 : CA1_CA11_CA111_163
+ que_id2 : CC15_CC1515_CC151515_159
+ que_id3 : CC18_CC1818_CC181818_159
+ que_id4 : CC10_CC1010_CC101010_159
+ que_id5 : CC12_CC1212_CC121212_159
+ que_id6 : CC13_CC1313_CC131313_159
+ que_id7 : CC11_CC1111_CC111111_159
+ que_id8 : CC9_CC99_CC999_159
+ que_id9 : CC14_CC1414_CC141414_159
+ scn_que_id : CR1_CR11_CR111
+ scn_que_id1 : CA1_CA11_CA111
+ scn_que_id2 : CC15_CC1515_CC151515
+ scn_que_id3 : CC18_CC1818_CC181818
+ scn_que_id4 : CC10_CC1010_CC101010
+ 확률 : 선택질문 확률 : 3642//2500
+{"answercode":"1", "ai_msg": "회원권 회비 | 앱에서 회원카드가 나오지 않는 경우 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CR1","s2": "CR11","s3":"CR111","s4":"158"},{"s1":"CA1","s2": "CA11","s3":"CA111","s4":"163"}]}
+*************************************
+접속일 :  2020-11-04 17:12:46
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 2 || 질문내용 : 앱에서 회원카드가 나오지 않는 경우 || 질문아이디1 : CA1 || 질문아이디2 : CA11 || 질문아이디3 : CA111 || 질문아이디4 : 163
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "커브스앱 로그인을 해도 회원카드가 안나올 때는 어떻게 하죠?" 
+
+ 시나리오 결과 값 : 
+ que_id :  CA1_CA11_CA111_163
+ que_id1 : CT1_CT11_CT111_164
+ que_id2 : CE2_CE22_CE222_165
+ que_id3 : CA2_CA22_CA222_163
+ que_id4 : CC16_CC1616_CC161616_159
+ que_id5 : CA4_CA44_CA444_163
+ que_id6 : CC15_CC1515_CC151515_159
+ que_id7 : CR1_CR11_CR111_158
+ que_id8 : CR3_CR33_CR333_158
+ que_id9 : CC10_CC1010_CC101010_159
+ scn_que_id : CA1_CA11_CA111
+ scn_que_id1 : CT1_CT11_CT111
+ scn_que_id2 : CE2_CE22_CE222
+ scn_que_id3 : CA2_CA22_CA222
+ scn_que_id4 : CC16_CC1616_CC161616
+ 확률 : 선택질문 확률 : 9978//2500
+{"answercode":"", "ai_msg": "<p>어플 로그인을 해도 모바일 회원카드가 나오지 않는 이유와 해결 방법  <br><span style=color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>||</span>1) 커브스앱의 모바일 회원카드, 나의건강기록은 COS 회원정보에 입력된 휴대폰번호와 회원이 앱 아이디 가입 시 입력한 휴대폰번호가 일치하는 경우에만 제공되고 있습니다.</p><p>COS 상의 회원 휴대폰번호와 회원이 앱에서 입력한 휴대폰번호를 확인하시고 다르다면 수정, 저장한 후 앱 재로그인을 하면 정상적으로 이용 가능합니다.  <br><span style=color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>||</span>2) 회원 상태가 '정상' 상태인 경우 이용 가능합니다.</p><p>신규가입 회원 또는 '첫운동미실시' 상태의 회원은 수기출석 또는 플라스틱카드 최초 1회 태깅 후 앱 로그인, 사용안내 부탁드립니다.</p><p><span style=color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>||</span>3) 클럽 이동을 한 회원의 경우 이동한 클럽에서 수기출석 또는 플라스틱카드 최초 1회 태깅 후 앱 로그인, 사용안내 부탁드립니다.</p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CA1","s2": "CA11","s3":"CA111","s4":"163"}]}
+*************************************
+접속일 :  2020-11-04 17:15:14
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 회원카드가 안나와요! || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "회원카드가 안나와요!" 
+
+ 시나리오 결과 값 : 
+ que_id :  CA1_CA11_CA111_163
+ que_id1 : CR1_CR11_CR111_158
+ que_id2 : CC15_CC1515_CC151515_159
+ que_id3 : CC18_CC1818_CC181818_159
+ que_id4 : CC10_CC1010_CC101010_159
+ que_id5 : CC12_CC1212_CC121212_159
+ que_id6 : CC13_CC1313_CC131313_159
+ que_id7 : CC11_CC1111_CC111111_159
+ que_id8 : CC9_CC99_CC999_159
+ que_id9 : CC14_CC1414_CC141414_159
+ scn_que_id : CA1_CA11_CA111
+ scn_que_id1 : CR1_CR11_CR111
+ scn_que_id2 : CC15_CC1515_CC151515
+ scn_que_id3 : CC18_CC1818_CC181818
+ scn_que_id4 : CC10_CC1010_CC101010
+ 확률 : 선택질문 확률 : 9977//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>아래의 내용을 확인해주세요.</span></p><p><span style=font-family: Verdana, sans-serif;><br></span></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16044776206800.png", "qustType": "","questionID": [{"s1":"CA1","s2": "CA11","s3":"CA111","s4":"163"}]}
+*************************************
+접속일 :  2020-11-04 17:32:39
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 커브스는 공휴일에 쉬어요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "커브스는 공휴일에 쉬어요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  795F8E63_568E_466A_60
+ que_id1 : CR3_CR33_CR333_158
+ que_id2 : CE2_CE22_CE222_165
+ que_id3 : CT2_CT22_CT222_164
+ que_id4 : CT1_CT11_CT111_164
+ que_id5 : #c1_#c1_#c1_164
+ que_id6 : CR2_CR22_CR222_158
+ que_id7 : CC16_CC1616_CC161616_159
+ que_id8 : CE1_CE11_CE111_165
+ que_id9 : CC8_CC88_CC888_159
+ scn_que_id : 795F8E63_568E_466A
+ scn_que_id1 : CR3_CR33_CR333
+ scn_que_id2 : CE2_CE22_CE222
+ scn_que_id3 : CT2_CT22_CT222
+ scn_que_id4 : CT1_CT11_CT111
+ 확률 : 선택질문 확률 : 5413//2500
+{"answercode":"1", "ai_msg": "커브스 휴무일 | 남성 회원가입 가능 여부 | 커브스 운동 방법 | 가까운 클럽 찾기 | 커브스 클럽 운영시간 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"795F8E63","s2": "568E","s3":"466A","s4":"60"},{"s1":"CR3","s2": "CR33","s3":"CR333","s4":"158"},{"s1":"CE2","s2": "CE22","s3":"CE222","s4":"165"},{"s1":"CT2","s2": "CT22","s3":"CT222","s4":"164"},{"s1":"CT1","s2": "CT11","s3":"CT111","s4":"164"}]}
+*************************************
+접속일 :  2020-11-04 17:32:45
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 2 || 질문내용 : 커브스 휴무일 || 질문아이디1 : 795F8E63 || 질문아이디2 : 568E || 질문아이디3 : 466A || 질문아이디4 : 60
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "커브스 언제 쉬어요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  795F8E63_568E_466A_60
+ que_id1 : CT1_CT11_CT111_164
+ que_id2 : #c1_#c1_#c1_164
+ que_id3 : CR3_CR33_CR333_158
+ que_id4 : CE2_CE22_CE222_165
+ que_id5 : CC23_CC2323_CC232323_159
+ que_id6 : CC7_CC77_CC777_159
+ que_id7 : CT2_CT22_CT222_164
+ que_id8 : CR2_CR22_CR222_158
+ que_id9 : CC16_CC1616_CC161616_159
+ scn_que_id : 795F8E63_568E_466A
+ scn_que_id1 : CT1_CT11_CT111
+ scn_que_id2 : #c1_#c1_#c1
+ scn_que_id3 : CR3_CR33_CR333
+ scn_que_id4 : CE2_CE22_CE222
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "<p style=box-sizing: border-box; margin-bottom: 10px; color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>일요일과 공휴일, 클럽에서 미리 공지한 휴무일을 제외하고 모두 오픈합니다!</p><br><p style=box-sizing: border-box; margin-bottom: 10px; color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;>||클럽마다 휴무일은 조금씩 상이하오니 방문하실 클럽으로 문의주세요♥</p><br>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"795F8E63","s2": "568E","s3":"466A","s4":"60"}]}
+*************************************
+접속일 :  2020-11-04 17:33:13
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 커브스 언제 쉬어요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "커브스 언제 쉬어요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  795F8E63_568E_466A_60
+ que_id1 : CT1_CT11_CT111_164
+ que_id2 : #c1_#c1_#c1_164
+ que_id3 : CR3_CR33_CR333_158
+ que_id4 : CE2_CE22_CE222_165
+ que_id5 : CC23_CC2323_CC232323_159
+ que_id6 : CC7_CC77_CC777_159
+ que_id7 : CT2_CT22_CT222_164
+ que_id8 : CR2_CR22_CR222_158
+ que_id9 : CC16_CC1616_CC161616_159
+ scn_que_id : 795F8E63_568E_466A
+ scn_que_id1 : CT1_CT11_CT111
+ scn_que_id2 : #c1_#c1_#c1
+ scn_que_id3 : CR3_CR33_CR333
+ scn_que_id4 : CE2_CE22_CE222
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"795F8E63","s2": "568E","s3":"466A","s4":"60"}]}
+*************************************
+접속일 :  2020-11-04 17:33:24
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p><p>$$$회원권 해지</p><p>$$$회원권 양도/양수</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-04 17:33:27
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #CT01_#CT01_#CT01_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CT01_#CT01_#CT01
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>무엇이 궁금하세요?</p><p>$$$커브스 클럽 운영시간</p><p>$$$가까운 클럽 찾기</p><p>$$$커브스 휴무일</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#CT01","s2": "#CT01","s3":"#CT01","s4":""}]}
+*************************************
+접속일 :  2020-11-04 17:33:31
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 3 || 질문아이디1 : #CT01 || 질문아이디2 : #CT01 || 질문아이디3 : #CT01 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #CT3_#CT31_#CT32_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CT3_#CT31_#CT32
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>일요일과 공휴일, 클럽에서 미리 공지한 휴무일을 제외하고 모두 오픈합니다!</p><p>||클럽마다 휴무일은 조금씩 상이하오니 방문하실 클럽으로 문의주세요♥</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 17:33:43
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 커브스 언제 쉬어용? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "커브스 언제 쉬어용?" 
+
+ 시나리오 결과 값 : 
+ que_id :  795F8E63_568E_466A_60
+ que_id1 : CT1_CT11_CT111_164
+ que_id2 : #c1_#c1_#c1_164
+ que_id3 : CR3_CR33_CR333_158
+ que_id4 : CE2_CE22_CE222_165
+ que_id5 : CC23_CC2323_CC232323_159
+ que_id6 : CC7_CC77_CC777_159
+ que_id7 : CT2_CT22_CT222_164
+ que_id8 : CR2_CR22_CR222_158
+ que_id9 : CC16_CC1616_CC161616_159
+ scn_que_id : 795F8E63_568E_466A
+ scn_que_id1 : CT1_CT11_CT111
+ scn_que_id2 : #c1_#c1_#c1
+ scn_que_id3 : CR3_CR33_CR333
+ scn_que_id4 : CE2_CE22_CE222
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"795F8E63","s2": "568E","s3":"466A","s4":"60"}]}
+*************************************
+접속일 :  2020-11-04 17:34:33
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 커브스 언제 쉬어요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "커브스 언제 쉬어요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  795F8E63_568E_466A_164
+ que_id1 : CT1_CT11_CT111_164
+ que_id2 : #c1_#c1_#c1_164
+ que_id3 : CR3_CR33_CR333_158
+ que_id4 : CE2_CE22_CE222_165
+ que_id5 : CC23_CC2323_CC232323_159
+ que_id6 : CC7_CC77_CC777_159
+ que_id7 : CT2_CT22_CT222_164
+ que_id8 : CR2_CR22_CR222_158
+ que_id9 : CC16_CC1616_CC161616_159
+ scn_que_id : 795F8E63_568E_466A
+ scn_que_id1 : CT1_CT11_CT111
+ scn_que_id2 : #c1_#c1_#c1
+ scn_que_id3 : CR3_CR33_CR333
+ scn_que_id4 : CE2_CE22_CE222
+ 확률 : 선택질문 확률 : 9977//2500
+{"answercode":"", "ai_msg": "<p style=box-sizing: border-box; margin-bottom: 10px; color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;><span style=font-family: Verdana, sans-serif; font-size: 10pt;>일요일과 공휴일, 클럽에서 미리 공지한 휴무일을 제외하고 모두 오픈합니다!</span></p><p style=box-sizing: border-box; margin-bottom: 10px; color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;><span style=font-family: Verdana, sans-serif; font-size: 10pt;>||클럽마다 휴무일은 조금씩 상이하오니 방문하실 클럽으로 문의주세요♥</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"795F8E63","s2": "568E","s3":"466A","s4":"164"}]}
+*************************************
+접속일 :  2020-11-04 17:39:27
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 운동할 때 뭐 가져가야 돼요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "운동할 때 뭐 가져가야 돼요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  C15FE3A3_AD93_CCEE_165
+ que_id1 : CE1_CE11_CE111_165
+ que_id2 : CE2_CE22_CE222_165
+ que_id3 : CC2_CC22_CC222_159
+ que_id4 : CC16_CC1616_CC161616_159
+ que_id5 : CC18_CC1818_CC181818_159
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : C15FE3A3_AD93_CCEE
+ scn_que_id1 : CE1_CE11_CE111
+ scn_que_id2 : CE2_CE22_CE222
+ scn_que_id3 : CC2_CC22_CC222
+ scn_que_id4 : CC16_CC1616_CC161616
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "<p style=box-sizing: border-box; margin-bottom: 10px; color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;><span style=font-family: Verdana, sans-serif; font-size: 10pt;>운동복과 실내용 운동화를</span></p><p style=box-sizing: border-box; margin-bottom: 10px; color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;><span style=font-family: Verdana, sans-serif; font-size: 10pt;>지참해 주셔야 합니다!</span></p><p style=box-sizing: border-box; margin-bottom: 10px; color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px;><span style=font-family: Verdana, sans-serif; font-size: 10pt;>운동복이 따로 준비되어 있지 않습니다. ^ㅡ^</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"C15FE3A3","s2": "AD93","s3":"CCEE","s4":"165"}]}
+*************************************
+접속일 :  2020-11-04 17:40:21
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 운동할 때 뭐 가져가야 돼요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "운동할 때 뭐 가져가야 돼요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  C15FE3A3_AD93_CCEE_165
+ que_id1 : CE1_CE11_CE111_165
+ que_id2 : CE2_CE22_CE222_165
+ que_id3 : CC2_CC22_CC222_159
+ que_id4 : CC16_CC1616_CC161616_159
+ que_id5 : CC18_CC1818_CC181818_159
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : C15FE3A3_AD93_CCEE
+ scn_que_id1 : CE1_CE11_CE111
+ scn_que_id2 : CE2_CE22_CE222
+ scn_que_id3 : CC2_CC22_CC222
+ scn_que_id4 : CC16_CC1616_CC161616
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "<p style=box-sizing: border-box; margin-bottom: 10px; color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1;><span style=font-family: Verdana, sans-serif; font-size: 10pt;>운동복과 실내용 운동화를</span></p><p style=box-sizing: border-box; margin-bottom: 10px; color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1;><span style=font-family: Verdana, sans-serif; font-size: 10pt;>지참해 주셔야 합니다!</span></p><p style=box-sizing: border-box; margin-bottom: 10px; color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1;><span style=font-family: Verdana, sans-serif; font-size: 10pt;>운동복이 따로 준비되어 있지 않습니다. ^ㅡ^</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"C15FE3A3","s2": "AD93","s3":"CCEE","s4":"165"}]}
+*************************************
+접속일 :  2020-11-04 17:40:44
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 운동할 때 뭐 가져가야 돼요? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "운동할 때 뭐 가져가야 돼요?" 
+
+ 시나리오 결과 값 : 
+ que_id :  C15FE3A3_AD93_CCEE_165
+ que_id1 : CE1_CE11_CE111_165
+ que_id2 : CE2_CE22_CE222_165
+ que_id3 : CC2_CC22_CC222_159
+ que_id4 : CC16_CC1616_CC161616_159
+ que_id5 : CC18_CC1818_CC181818_159
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : C15FE3A3_AD93_CCEE
+ scn_que_id1 : CE1_CE11_CE111
+ scn_que_id2 : CE2_CE22_CE222
+ scn_que_id3 : CC2_CC22_CC222
+ scn_que_id4 : CC16_CC1616_CC161616
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "<p style=box-sizing: border-box; margin-bottom: 10px; color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 0.8;><span style=font-family: Verdana, sans-serif; font-size: 10pt;>운동복과 실내용 운동화를</span></p><p style=box-sizing: border-box; margin-bottom: 10px; color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 0.8;><span style=font-family: Verdana, sans-serif; font-size: 10pt;>지참해 주셔야 합니다!</span></p><p style=box-sizing: border-box; margin-bottom: 10px; color: rgb(85, 85, 85); font-family: &quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 0.8;><span style=font-family: Verdana, sans-serif; font-size: 10pt;>운동복이 따로 준비되어 있지 않습니다. ^ㅡ^</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"C15FE3A3","s2": "AD93","s3":"CCEE","s4":"165"}]}
+*************************************
+접속일 :  2020-11-04 17:45:40
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : #클럽 운영시간 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "#클럽 운영시간" 
+
+ 시나리오 결과 값 : 
+ que_id :  CT1_CT11_CT111_164
+ que_id1 : #c1_#c1_#c1_164
+ que_id2 : 795F8E63_568E_466A_164
+ que_id3 : C15FE3A3_AD93_CCEE_165
+ que_id4 : CR3_CR33_CR333_158
+ que_id5 : CE2_CE22_CE222_165
+ que_id6 : CC7_CC77_CC777_159
+ que_id7 : CT2_CT22_CT222_164
+ que_id8 : CC23_CC2323_CC232323_159
+ que_id9 : CR2_CR22_CR222_158
+ scn_que_id : CT1_CT11_CT111
+ scn_que_id1 : #c1_#c1_#c1
+ scn_que_id2 : 795F8E63_568E_466A
+ scn_que_id3 : C15FE3A3_AD93_CCEE
+ scn_que_id4 : CR3_CR33_CR333
+ 확률 : 선택질문 확률 : 9574//2500
+{"answercode":"1", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"CT1","s2": "CT11","s3":"CT111","s4":"164"}]}
+*************************************
+접속일 :  2020-11-04 17:45:58
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 2 || 질문내용 : #클럽 운영시간/클럽 찾기 || 질문아이디1 : CT1 || 질문아이디2 : CT11 || 질문아이디3 : CT111 || 질문아이디4 : 164
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2020-11-04 17:45:59
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 1 || 질문내용 : #클럽 운영시간/클럽 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "#클럽 운영시간/클럽 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  #c1_#c1_#c1_164
+ que_id1 : CT1_CT11_CT111_164
+ que_id2 : 795F8E63_568E_466A_164
+ que_id3 : C15FE3A3_AD93_CCEE_165
+ que_id4 : 4ECD5B06_D713_89ED_166
+ que_id5 : CR3_CR33_CR333_158
+ que_id6 : CE2_CE22_CE222_165
+ que_id7 : CC7_CC77_CC777_159
+ que_id8 : CT2_CT22_CT222_164
+ que_id9 : CA2_CA22_CA222_163
+ scn_que_id : #c1_#c1_#c1
+ scn_que_id1 : CT1_CT11_CT111
+ scn_que_id2 : 795F8E63_568E_466A
+ scn_que_id3 : C15FE3A3_AD93_CCEE
+ scn_que_id4 : 4ECD5B06_D713_89ED
+ 확률 : 선택질문 확률 : 9974//2500
+{"answercode":"1", "ai_msg": "", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#c1","s2": "#c1","s3":"#c1","s4":"164"}]}
+*************************************
+접속일 :  2020-11-04 17:46:18
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 2 || 질문내용 : #클럽운영시간/클럽찾기 || 질문아이디1 : #c1 || 질문아이디2 : #c1 || 질문아이디3 : #c1 || 질문아이디4 : 164
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "" 
+
+ 시나리오 결과 값 : 
+ que_id :  ___
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : __
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 0//2500
+{"answercode":"", "ai_msg": "", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"","s2": "","s3":"","s4":""}]}
+*************************************
+접속일 :  2020-11-04 17:46:19
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 1 || 질문내용 : #클럽운영시간/클럽찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "#클럽운영시간/클럽찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  #c1_#c1_#c1_164
+ que_id1 : CT1_CT11_CT111_164
+ que_id2 : 795F8E63_568E_466A_164
+ que_id3 : C15FE3A3_AD93_CCEE_165
+ que_id4 : 4ECD5B06_D713_89ED_166
+ que_id5 : CR3_CR33_CR333_158
+ que_id6 : CE2_CE22_CE222_165
+ que_id7 : CC7_CC77_CC777_159
+ que_id8 : CT2_CT22_CT222_164
+ que_id9 : CA2_CA22_CA222_163
+ scn_que_id : #c1_#c1_#c1
+ scn_que_id1 : CT1_CT11_CT111
+ scn_que_id2 : 795F8E63_568E_466A
+ scn_que_id3 : C15FE3A3_AD93_CCEE
+ scn_que_id4 : 4ECD5B06_D713_89ED
+ 확률 : 선택질문 확률 : 9974//2500
+{"answercode":"1", "ai_msg": "커브스 클럽 운영시간 |가까운 클럽 찾기 |커브스 휴무일 |", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#c1","s2": "#c1","s3":"#c1","s4":"164"}]}
+*************************************
+접속일 :  2020-11-04 17:47:08
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 아이디/비밀번호 찾기 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "아이디/비밀번호 찾기" 
+
+ 시나리오 결과 값 : 
+ que_id :  4ECD5B06_D713_89ED_166
+ que_id1 : CA2_CA22_CA222_163
+ que_id2 : CA5_CA55_CA555_163
+ que_id3 : #c1_#c1_#c1_164
+ que_id4 : CE1_CE11_CE111_165
+ que_id5 : CT2_CT22_CT222_164
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 4ECD5B06_D713_89ED
+ scn_que_id1 : CA2_CA22_CA222
+ scn_que_id2 : CA5_CA55_CA555
+ scn_que_id3 : #c1_#c1_#c1
+ scn_que_id4 : CE1_CE11_CE111
+ 확률 : 선택질문 확률 : 9976//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif; font-size: 10pt;>아이디, 비밀번호가 기억나지 않으세요?</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||커브스 회원 가입시 입력하신 이메일 주소</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>또는 등록하신 휴대폰 번호를 통해 찾아보세요!</span></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"4ECD5B06","s2": "D713","s3":"89ED","s4":"166"}]}
+*************************************
+접속일 :  2020-11-04 17:47:27
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 퀸즈서비스 신청 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "퀸즈서비스 신청" 
+
+ 시나리오 결과 값 : 
+ que_id :  24AC962E_4967_8399_171
+ que_id1 : CC21_CC2121_CC212121_159
+ que_id2 : CC20_CC2020_CC202020_159
+ que_id3 : CC3_CC33_CC333_159
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 24AC962E_4967_8399
+ scn_que_id1 : CC21_CC2121_CC212121
+ scn_que_id2 : CC20_CC2020_CC202020
+ scn_que_id3 : CC3_CC33_CC333
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9980//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>커브스 퀸's 서비스는</span></p><p><span style=font-size: 10pt; font-family: Verdana, sans-serif;>커브스의 상품(단백질 보충제 등)을</span></p><p><span style=font-family: Verdana, sans-serif;>정기적으로 원하시는 장소에서</span></p><p><span style=font-family: Verdana, sans-serif;>배송 받을 수 있는&nbsp;</span><span style=font-family: Verdana, sans-serif; font-size: 10pt;>서비스 입니다.</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||</span><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>커브스 퀸's로 건강생활을 업그레이드 하세요!</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>챗봇으로 커브스 퀸's를 신청하실 수 있습니다.</span><br></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"24AC962E","s2": "4967","s3":"8399","s4":"171"}]}
+*************************************
+접속일 :  2020-11-04 18:04:14
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 상담 문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "상담 문의" 
+
+ 시나리오 결과 값 : 
+ que_id :  #CS1_#CS1_#CS1_162
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CS1_#CS1_#CS1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9722//2500
+{"answercode":"4", "ai_msg": "<p>상담이 필요하세요?<br></p><p>원하시는 항목을 선택해주세요.</p><p>$$$클럽 상담 요청</p><p>$$$클럽이동/회원권이용/상담요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#CS1","s2": "#CS1","s3":"#CS1","s4":"162"}]}
+*************************************
+접속일 :  2020-11-04 18:04:17
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #CS1 || 질문아이디2 : #CS1 || 질문아이디3 : #CS1 || 질문아이디4 : 162
+ 시나리오 결과 값 : 
+ que_id :  #CS12_#CS12_#CS12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CS12_#CS12_#CS12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>반갑습니다. 고객님!<br></p><p>클럽 상담을 도와드리겠습니다.<br></p><p>상담 요청 확인을 위해<br></p><p><u><b>클럽명/이름/핸드폰 번호</b></u>을 입력해주세요.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 18:04:25
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #CS1 || 질문아이디2 : #CS1 || 질문아이디3 : #CS1 || 질문아이디4 : 162
+ 시나리오 결과 값 : 
+ que_id :  #CS13_#CS13_#CS13_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CS13_#CS13_#CS13
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>반갑습니다. 고객님!<br></p><p>상담을 도와드리겠습니다.<br></p><p>상담 요청 확인을 위해<br></p><p><u><b>클럽명/이름/핸드폰 번호</b></u>을 입력해주세요.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 18:07:22
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 상담 문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "상담 문의" 
+
+ 시나리오 결과 값 : 
+ que_id :  #CS1_#CS1_#CS1_162
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CS1_#CS1_#CS1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9722//2500
+{"answercode":"4", "ai_msg": "<p>상담이 필요하세요?<br></p><p>원하시는 항목을 선택해주세요.</p><p>$$$클럽 상담 요청</p><p>$$$클럽이동/회원권이용/상담요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#CS1","s2": "#CS1","s3":"#CS1","s4":"162"}]}
+*************************************
+접속일 :  2020-11-04 18:07:25
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #CS1 || 질문아이디2 : #CS1 || 질문아이디3 : #CS1 || 질문아이디4 : 162
+ 시나리오 결과 값 : 
+ que_id :  #CS12_#CS12_#CS12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CS12_#CS12_#CS12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>반갑습니다. 고객님!<br></p><p>클럽 상담을 도와드리겠습니다.<br></p><p>상담 요청 확인을 위해<br></p><p><u><b>클럽명/이름/핸드폰 번호</b></u>을 입력해주세요.</p>$$$<p>$$$가까운 클럽 찾기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#CS12","s2": "#CS12","s3":"#CS12","s4":""}]}
+*************************************
+접속일 :  2020-11-04 18:08:07
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 상담 문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "상담 문의" 
+
+ 시나리오 결과 값 : 
+ que_id :  #CS1_#CS1_#CS1_162
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CS1_#CS1_#CS1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9722//2500
+{"answercode":"4", "ai_msg": "<p>상담이 필요하세요?<br></p><p>원하시는 항목을 선택해주세요.</p><p>$$$클럽 상담 요청</p><p>$$$클럽이동/회원권이용/상담요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#CS1","s2": "#CS1","s3":"#CS1","s4":"162"}]}
+*************************************
+접속일 :  2020-11-04 18:08:11
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #CS1 || 질문아이디2 : #CS1 || 질문아이디3 : #CS1 || 질문아이디4 : 162
+ 시나리오 결과 값 : 
+ que_id :  #CS12_#CS12_#CS12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CS12_#CS12_#CS12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>반갑습니다. 고객님!<br></p><p>클럽 상담을 도와드리겠습니다.<br></p><p>상담 요청 확인을 위해<br></p><p><u><b>클럽명/이름/핸드폰 번호</b></u>을 입력해주세요.</p><p>$$$상담 요청 확인</p><p>$$$가까운 클럽 찾기</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#CS12","s2": "#CS12","s3":"#CS12","s4":""}]}
+*************************************
+접속일 :  2020-11-04 18:08:18
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #CS12 || 질문아이디2 : #CS12 || 질문아이디3 : #CS12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #CN1_#CN11_#CN111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CN1_#CN11_#CN111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>{클럽명}//{휴대폰 번호}로 연락드리겠습니다!<br></p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 18:08:51
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 상담 문의 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "상담 문의" 
+
+ 시나리오 결과 값 : 
+ que_id :  #CS1_#CS1_#CS1_162
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CS1_#CS1_#CS1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9722//2500
+{"answercode":"4", "ai_msg": "<p>상담이 필요하세요?<br></p><p>원하시는 항목을 선택해주세요.</p><p>$$$클럽 상담 요청</p><p>$$$클럽이동/회원권이용/상담요청</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#CS1","s2": "#CS1","s3":"#CS1","s4":"162"}]}
+*************************************
+접속일 :  2020-11-04 18:08:54
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #CS1 || 질문아이디2 : #CS1 || 질문아이디3 : #CS1 || 질문아이디4 : 162
+ 시나리오 결과 값 : 
+ que_id :  #CS12_#CS12_#CS12_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CS12_#CS12_#CS12
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>반갑습니다. 고객님!<br></p><p>클럽 상담을 도와드리겠습니다.<br></p><p>상담 요청 확인을 위해<br></p><p><u><b>클럽명/이름/핸드폰 번호</b></u>을 입력해주세요.</p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"#CS12","s2": "#CS12","s3":"#CS12","s4":""}]}
+*************************************
+접속일 :  2020-11-04 18:09:16
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 개포/박지윤/010-4363-2806 || 질문아이디1 : #CS12 || 질문아이디2 : #CS12 || 질문아이디3 : #CS12 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #CN1_#CN11_#CN111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #CN1_#CN11_#CN111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>{클럽명}//{휴대폰 번호}로 연락드리겠습니다!<br></p>", "ai_msg_img": "", "qustType": "2","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 18:10:28
+유저아이디 :  b3c22e7b-a27a-4305-b090-456c7ea77f31
+메시지 구분: 0 || 질문내용 : 퀸즈서비스 신청 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "퀸즈서비스 신청" 
+
+ 시나리오 결과 값 : 
+ que_id :  24AC962E_4967_8399_171
+ que_id1 : CC21_CC2121_CC212121_159
+ que_id2 : CC20_CC2020_CC202020_159
+ que_id3 : CC3_CC33_CC333_159
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 24AC962E_4967_8399
+ scn_que_id1 : CC21_CC2121_CC212121
+ scn_que_id2 : CC20_CC2020_CC202020
+ scn_que_id3 : CC3_CC33_CC333
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9980//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>커브스 퀸's 서비스는</span></p><p><span style=font-size: 10pt; font-family: Verdana, sans-serif;>커브스의 상품(단백질 보충제 등)을</span></p><p><span style=font-family: Verdana, sans-serif;>정기적으로 원하시는 장소에서</span></p><p><span style=font-family: Verdana, sans-serif;>배송 받을 수 있는&nbsp;</span><span style=font-family: Verdana, sans-serif; font-size: 10pt;>서비스 입니다.</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>||</span><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>커브스 퀸's로 건강생활을 업그레이드 하세요!</span></p><p><span style=color: rgb(85, 85, 85); font-family: Verdana, sans-serif; font-size: 10pt;>챗봇으로 커브스 퀸's를 신청하실 수 있습니다.</span><br></p>", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"24AC962E","s2": "4967","s3":"8399","s4":"171"}]}
+*************************************
+접속일 :  2020-11-04 18:10:49
+유저아이디 :  b3c22e7b-a27a-4305-b090-456c7ea77f31
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p><p>$$$회원권 해지</p><p>$$$회원권 양도/양수</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-04 18:10:54
+유저아이디 :  b3c22e7b-a27a-4305-b090-456c7ea77f31
+메시지 구분: 3 || 질문내용 : 6 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #NE1_#NE11_#NE111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #NE1_#NE11_#NE111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>다음 목록으로 이동합니다.</p><p>$$$클럽 이동/일시정지</p><p>$$$앱 문의</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#NE1","s2": "#NE11","s3":"#NE111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 18:10:59
+유저아이디 :  b3c22e7b-a27a-4305-b090-456c7ea77f31
+메시지 구분: 3 || 질문내용 : 2 || 질문아이디1 : #NE1 || 질문아이디2 : #NE11 || 질문아이디3 : #NE111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #ap1_#sp11_#sp111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ap1_#sp11_#sp111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>궁금하신 내용을 선택해주세요.</p><p>$$$커브스앱 로그인을 해도 회원카드가 안나와요.</p><p>$$$커브스앱 아이디/비밀번호가 기억나지 않아요.</p><p>$$$앱에서 화면이 하얗게 보여요.</p><p>$$$클럽 영구이동 후 이동 전 클럽으로 표시되어서 출석이 안되요.</p><p>$$$앱 아이디/비밀번호 찾기에서 휴대폰 인증번호가 오지않아요.</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#ap1","s2": "#sp11","s3":"#sp111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 18:11:10
+유저아이디 :  b3c22e7b-a27a-4305-b090-456c7ea77f31
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #ap1 || 질문아이디2 : #sp11 || 질문아이디3 : #sp111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #ap2_#ap21_#ap211_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #ap2_#ap21_#ap211
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>아래의 내용을 확인해주세요.</p><p><br></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16044775417100.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 18:11:27
+유저아이디 :  b3c22e7b-a27a-4305-b090-456c7ea77f31
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p><p>$$$회원권 해지</p><p>$$$회원권 양도/양수</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-04 18:11:34
+유저아이디 :  b3c22e7b-a27a-4305-b090-456c7ea77f31
+메시지 구분: 3 || 질문내용 : 6 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #NE1_#NE11_#NE111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #NE1_#NE11_#NE111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>다음 목록으로 이동합니다.</p><p>$$$클럽 이동/일시정지</p><p>$$$앱 문의</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#NE1","s2": "#NE11","s3":"#NE111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 18:11:37
+유저아이디 :  b3c22e7b-a27a-4305-b090-456c7ea77f31
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #NE1 || 질문아이디2 : #NE11 || 질문아이디3 : #NE111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #cm1_#cm11_#cm111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #cm1_#cm11_#cm111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>궁금하신 내용을 선택해주세요.</p><p>$$$다른 클럽에서 운동 할 수 있나요?</p><p>$$$여행/일시정지/영구이동에 제한이 있나요?</p><p>$$$회원권 개시를 하지 않고 클럽 이동을 할 수 있나요?</p><p>$$$장기 일시정지를 원할 경우 어떻게 신청해야 하나요?</p><p>$$$출금일과 일시정지 신청기간이 겹치는 경우 출금이 되나요?</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#cm1","s2": "#cm11","s3":"#cm111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 18:11:43
+유저아이디 :  b3c22e7b-a27a-4305-b090-456c7ea77f31
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #cm1 || 질문아이디2 : #cm11 || 질문아이디3 : #cm111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #cm2_#cm21_#cm21_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #cm2_#cm21_#cm21
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>네, 가능합니다!<br></p><p>주 1회 다른 클럽을 이용하실 수 있어요.<br></p><p>단, 회원카드를 가지고 다른 클럽에 가셔서<br></p><p>출석체크를 하셔야 합니다.<br></p><p>주1회보다 더 장기간 다른 클럽의 이용을 원하시면<br></p><p>클럽으로 문의주세요.♥</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16044785167200.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 18:12:46
+유저아이디 :  b3c22e7b-a27a-4305-b090-456c7ea77f31
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p><p>$$$회원권 해지</p><p>$$$회원권 양도/양수</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-04 18:12:49
+유저아이디 :  b3c22e7b-a27a-4305-b090-456c7ea77f31
+메시지 구분: 3 || 질문내용 : 6 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #NE1_#NE11_#NE111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #NE1_#NE11_#NE111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>다음 목록으로 이동합니다.</p><p>$$$클럽 이동/일시정지</p><p>$$$앱 문의</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#NE1","s2": "#NE11","s3":"#NE111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 18:12:52
+유저아이디 :  b3c22e7b-a27a-4305-b090-456c7ea77f31
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #NE1 || 질문아이디2 : #NE11 || 질문아이디3 : #NE111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #cm1_#cm11_#cm111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #cm1_#cm11_#cm111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>궁금하신 내용을 선택해주세요.</p><p>$$$다른 클럽에서 운동 할 수 있나요?</p><p>$$$여행/일시정지/영구이동에 제한이 있나요?</p><p>$$$회원권 개시를 하지 않고 클럽 이동을 할 수 있나요?</p><p>$$$장기 일시정지를 원할 경우 어떻게 신청해야 하나요?</p><p>$$$출금일과 일시정지 신청기간이 겹치는 경우 출금이 되나요?</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#cm1","s2": "#cm11","s3":"#cm111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 18:12:55
+유저아이디 :  b3c22e7b-a27a-4305-b090-456c7ea77f31
+메시지 구분: 3 || 질문내용 : 1 || 질문아이디1 : #cm1 || 질문아이디2 : #cm11 || 질문아이디3 : #cm111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #cm2_#cm21_#cm21_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #cm2_#cm21_#cm21
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>네, 가능합니다!<br></p><p>주 1회 다른 클럽을 이용하실 수 있어요.<br></p><p>단, 회원카드를 가지고 다른 클럽에 가셔서<br></p><p>출석체크를 하셔야 합니다.<br></p><p>주1회보다 더 장기간 다른 클럽의 이용을 원하시면 클럽으로 문의주세요.♥</p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16044785167200.png", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 18:13:31
+유저아이디 :  b3c22e7b-a27a-4305-b090-456c7ea77f31
+메시지 구분: 0 || 질문내용 : 커브스앱 아이디랑 비밀번호 까먹었어요 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "커브스앱 아이디랑 비밀번호 까먹었어요" 
+
+ 시나리오 결과 값 : 
+ que_id :  CA2_CA22_CA222_163
+ que_id1 : 4ECD5B06_D713_89ED_166
+ que_id2 : CT2_CT22_CT222_164
+ que_id3 : CA5_CA55_CA555_163
+ que_id4 : C15FE3A3_AD93_CCEE_165
+ que_id5 : CA1_CA11_CA111_163
+ que_id6 : CE1_CE11_CE111_165
+ que_id7 : CR3_CR33_CR333_158
+ que_id8 : CE2_CE22_CE222_165
+ que_id9 : 795F8E63_568E_466A_164
+ scn_que_id : CA2_CA22_CA222
+ scn_que_id1 : 4ECD5B06_D713_89ED
+ scn_que_id2 : CT2_CT22_CT222
+ scn_que_id3 : CA5_CA55_CA555
+ scn_que_id4 : C15FE3A3_AD93_CCEE
+ 확률 : 선택질문 확률 : 9979//2500
+{"answercode":"", "ai_msg": "<p><span style=font-family: Verdana, sans-serif;>아래의 내용을 확인해주세요!</span></p>", "ai_msg_img": "http://curveschat.wowdream.kr/_data/talk_images/16044767251500.png", "qustType": "","questionID": [{"s1":"CA2","s2": "CA22","s3":"CA222","s4":"163"}]}
+*************************************
+접속일 :  2020-11-04 18:14:41
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p><p>$$$회원권 해지</p><p>$$$회원권 양도/양수</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-04 18:14:45
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #MC1_#MC11_#MC111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #MC1_#MC11_#MC111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>궁금하신 내용을 선택해주세요.</p><p>$$$해지시 일할금액 산정 기준</p><p>$$$클럽을 이용하지 않았는데 출금이 된 경우</p><p>$$$해지신청 했는데 출금 취소가 안 된 경우</p><p>$$$해지시 위약금</p><p>$$$재가입시 가입비</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#MC1","s2": "#MC11","s3":"#MC111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 18:14:51
+유저아이디 :  36b09507-ec29-44b4-9e4c-2188a5370ec8
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #MC1 || 질문아이디2 : #MC11 || 질문아이디3 : #MC111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #MC5_#MC51_#MC511_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #MC5_#MC51_#MC511
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>위약금 관련 내용은 커브스 회원약관에 기재되어 있는 내용입니다.<br></p><p>아래의 해지환불 약관의 내용을 확인하여 주시기 바랍니다!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 18:15:13
+유저아이디 :  b3c22e7b-a27a-4305-b090-456c7ea77f31
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p><p>$$$회원권 해지</p><p>$$$회원권 양도/양수</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-04 18:15:20
+유저아이디 :  b3c22e7b-a27a-4305-b090-456c7ea77f31
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #MC1_#MC11_#MC111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #MC1_#MC11_#MC111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>궁금하신 내용을 선택해주세요.</p><p>$$$해지시 일할금액 산정 기준</p><p>$$$클럽을 이용하지 않았는데 출금이 된 경우</p><p>$$$해지신청 했는데 출금 취소가 안 된 경우</p><p>$$$해지시 위약금</p><p>$$$재가입시 가입비</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#MC1","s2": "#MC11","s3":"#MC111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 18:15:26
+유저아이디 :  b3c22e7b-a27a-4305-b090-456c7ea77f31
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #MC1 || 질문아이디2 : #MC11 || 질문아이디3 : #MC111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #MC5_#MC51_#MC511_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #MC5_#MC51_#MC511
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>위약금 관련 내용은 커브스 회원약관에 기재되어 있는 내용입니다.<br></p><p>아래의 해지환불 약관의 내용을 확인하여 주시기 바랍니다!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}
+*************************************
+접속일 :  2020-11-04 18:16:15
+유저아이디 :  cc1825bb-f1e5-4deb-bda4-d7d54ce9833a
+메시지 구분: 0 || 질문내용 : 자주 묻는 질문 || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/CURVES_CF/result/result.out "자주 묻는 질문" 
+
+ 시나리오 결과 값 : 
+ que_id :  #FAQ1_#FAQ1_#FAQ1_169
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #FAQ1_#FAQ1_#FAQ1
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9986//2500
+{"answercode":"4", "ai_msg": "<p>고객님들이 자주 물어보시는 카테고리 입니다.</p><p>원하는 항목을 선택해주세요.</p><p>$$$클럽 운영시간/클럽찾기</p><p>$$$운동문의</p><p>$$$회원가입</p><p>$$$회원권 해지</p><p>$$$회원권 양도/양수</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#FAQ1","s2": "#FAQ1","s3":"#FAQ1","s4":"169"}]}
+*************************************
+접속일 :  2020-11-04 18:16:19
+유저아이디 :  cc1825bb-f1e5-4deb-bda4-d7d54ce9833a
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #FAQ1 || 질문아이디2 : #FAQ1 || 질문아이디3 : #FAQ1 || 질문아이디4 : 169
+ 시나리오 결과 값 : 
+ que_id :  #MC1_#MC11_#MC111_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #MC1_#MC11_#MC111
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>궁금하신 내용을 선택해주세요.</p><p>$$$해지시 일할금액 산정 기준</p><p>$$$클럽을 이용하지 않았는데 출금이 된 경우</p><p>$$$해지신청 했는데 출금 취소가 안 된 경우</p><p>$$$해지시 위약금</p><p>$$$재가입시 가입비</p><p>$$$다음으로▶</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"#MC1","s2": "#MC11","s3":"#MC111","s4":""}]}
+*************************************
+접속일 :  2020-11-04 18:16:35
+유저아이디 :  cc1825bb-f1e5-4deb-bda4-d7d54ce9833a
+메시지 구분: 3 || 질문내용 : 4 || 질문아이디1 : #MC1 || 질문아이디2 : #MC11 || 질문아이디3 : #MC111 || 질문아이디4 : 0
+ 시나리오 결과 값 : 
+ que_id :  #MC5_#MC51_#MC511_
+ que_id1 : ___
+ que_id2 : ___
+ que_id3 : ___
+ que_id4 : ___
+ que_id5 : ___
+ que_id6 : ___
+ que_id7 : ___
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : #MC5_#MC51_#MC511
+ scn_que_id1 : __
+ scn_que_id2 : __
+ scn_que_id3 : __
+ scn_que_id4 : __
+ 확률 : 선택질문 확률 : 9999//2500
+{"answercode":"4", "ai_msg": "<p>위약금 관련 내용은 커브스 회원약관에 기재되어 있는 내용입니다.<br></p><p>아래의 해지환불 약관의 내용을 확인하여 주시기 바랍니다!</p>", "ai_msg_img": "", "qustType": "1","questionID": [{"s1":"0","s2": "0","s3":"0","s4":"0"}]}

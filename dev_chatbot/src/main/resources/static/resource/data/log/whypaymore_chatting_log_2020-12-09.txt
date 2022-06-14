@@ -1,0 +1,24 @@
+*************************************
+접속일 :  2020-12-09 13:40:19
+유저아이디 :  bd7b0c0d-20e0-4a56-9e86-3f945c9f24ea
+메시지 구분: 0 || 질문내용 : 예약 제대로 됐나? || 질문아이디1 : 0 || 질문아이디2 : 0 || 질문아이디3 : 0 || 질문아이디4 : 0
+QUERY : /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/whypaymore/result/result.out "예약 제대로 됐나?"   /home/curves/chatadm/www/engine_proc/_entity/entity.txt.utf8
+
+ 시나리오 결과 값 : 
+ que_id :  예약_운임_학생_102
+ que_id1 : 결제_안내_대기예약_102
+ que_id2 : 예약_항공_출발후오픈_102
+ que_id3 : 예약_운임_유소아_102
+ que_id4 : 예약_항공_다구간_102
+ que_id5 : 조회_예약번호_조회안되는경우_102
+ que_id6 : 예약_항공_인아웃다른경우_102
+ que_id7 : 예약_항공_해외출발_102
+ que_id8 : ___
+ que_id9 : ___
+ scn_que_id : 예약_운임_학생
+ scn_que_id1 : 결제_안내_대기예약
+ scn_que_id2 : 예약_항공_출발후오픈
+ scn_que_id3 : 예약_운임_유소아
+ scn_que_id4 : 예약_항공_다구간
+ 확률 : 선택질문 확률 : 5244//2500
+{"answercode":"1", "ai_msg": "학생 예약 | 대기 예약 | 출발 후 오픈 예약 | 유아,소아 예약 | 다구간 예약 | ", "ai_msg_img": "", "qustType": "","questionID": [{"s1":"예약","s2": "운임","s3":"학생","s4":"102"},{"s1":"결제","s2": "안내","s3":"대기예약","s4":"102"},{"s1":"예약","s2": "항공","s3":"출발후오픈","s4":"102"},{"s1":"예약","s2": "운임","s3":"유소아","s4":"102"},{"s1":"예약","s2": "항공","s3":"다구간","s4":"102"}]}
