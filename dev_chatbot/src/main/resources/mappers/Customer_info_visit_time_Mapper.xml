@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wowcomm.dev_chatbot.mapper.Customer_info_visit_time_Mapper">
+
+	<select id="getSum_visit_time" resultType="int" parameterType="HashMap">
+		<![CDATA[
+           SELECT IFNULL(SUM(visit_time), 0)  as sum_visit_time 
+			   FROM customer_info_visit_time 
+			   WHERE date(sdate) between  #{sday } and  #{eday }
+			]]>
+	</select>
+	
+</mapper>

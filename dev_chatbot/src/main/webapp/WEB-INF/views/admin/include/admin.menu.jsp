@@ -21,7 +21,6 @@
 			</a>
 			<ul class="treeview-menu" >
 
-
 				<li class="dash">
 					<a href="?mode=dashboard">
 						<i class="fa fa-angle-right"></i>
@@ -52,23 +51,6 @@
 					</a>
 				</li>
 
-                <!--
-				<li class="dash2">
-					<a href="?mode=dashboard2">
-						<i class="fa fa-angle-right"></i>
-						<span>대시보드2</span>
-					</a>
-				</li>
-                -->
-
-                <!--
-				<li class="statistics_hour">
-					<a href="?mode=dashboard_hour">
-						<i class="fa fa-angle-right"></i>
-						<span>시간대별 통계</span>
-					</a>
-				</li>
-                -->
 			</ul>
 		</li>
 
@@ -89,40 +71,9 @@
 						<span>챗봇 로그 현황</span>
 					</a>
 				</li>
-
-
-
-                <!----------------------------
-
-				<li class="state">
-					<a href="?mode=content.state.log">
-						<i class="fa fa-angle-right"><b class="bg-info"></b></i>
-						<span>챗봇 상담 현황</span>
-					</a>
-				</li>
-
-
-
-				<li class="analytics">
-
-					<a href="?mode=content.text.analytics">
-						<i class="fa fa-angle-right"><b class="bg-info"></b></i>
-						<span>텍스트 분석</span>
-					</a>
-
-				</li>
-                ---------------->
 			</ul>
-
-
 		</li>
-
-
-
-
-
-
-		<?if($is_admin=='super'){?>
+		
 		<li class="treeview member_list">
 			<a href="#">
 				<i class="fa fa-gears icon">
@@ -136,9 +87,6 @@
 			</a>
 			<ul class="treeview-menu" >
 
-
-
-
 				<li>
 					<a href="?mode=content.member">
 						<i class="fa fa-angle-right"></i>
@@ -146,50 +94,9 @@
 					</a>
 				</li>
 
-
-
-                <!--------------------
-				<li>
-					<a href="?mode=content.member&part=live">
-						<i class="fa fa-chain"></i>
-						<span>활성 관리자</span>
-					</a>
-				</li>
-				<li>
-					<a href="?mode=content.member&part=ended">
-						<i class="fa fa-chain-broken"></i>
-						<span>만료 관리자</span>
-					</a>
-				</li>
-                ----------->
-
-
-
 			</ul>
 		</li>
-		<?}?>
 		
-
-<!--------------------
-		<li class=" notice" <? if (substr($auth_notice,0,1) == 0){ ?>style="display:none;" <? } ?> >
-			<a href="?mode=content.notice" >
-				<i class="fa fa-bullhorn"><b class="bg-info"></b></i>
-				<span>공지사항</span>
-			</a>
-		</li>
-
-
-
-		<li class=" pds" <? if (substr($auth_notice,0,1) == 0){ ?>style="display:none;" <? } ?> >
-			<a href="?mode=content.pds" >
-				<i class="fa fa-bullhorn"><b class="bg-info"></b></i>
-				<span>자료실</span>
-			</a>
-		</li>
---------------------->
-
-
-
 
 		<li class="treeview  chatbot">
 			<a href="#">
@@ -289,35 +196,7 @@
 
 			</ul>
 		</li>
-                <!----------------------------
-
-
-		<li class="treeview research">
-			<a href="#">
-				<i class="fa fa-dashboard"><b class="bg-info"></b></i>
-				<span>설문 관리</span>
-                <span class="pull-right-container"><i class="fa fa-angle-left pull-right"></i></span>
-			</a>
-			<ul class="treeview-menu" >
-
-             <li>
-                <a href="?mode=content.newengine.list&add=new">
-                 <i class="fa fa-angle-right"></i>
-                 <span>설문등록</span>
-                </a>
-             </li>
-
-
-             <li>
-                <a href="?mode=content.push">
-                 <i class="fa fa-angle-right"></i>
-                 <span>설문 리스트</span>
-                </a>
-             </li>
-
-			</ul>
-		</li>
-        ---------------->
+        
 		<li class="pds">
 			<a href="?mode=content.pds" >
 				<i class="fa fa-bullhorn"><b class="bg-info"></b></i>
@@ -334,7 +213,7 @@
 
 
 		<li class="content_main">
-			<a href="../../bbs/logout.php?url=../../admin">
+			<a href="/logout">
 				<i class="fa fa-angle-right"><b class="bg-info"></b></i>
 				<span>로그아웃</span>
 			</a>
@@ -343,8 +222,7 @@
 
 
 	</ul>
-	</li>
-      </ul>
+	
       <!-- /.sidebar-menu -->
     </section>
     <!-- /.sidebar -->

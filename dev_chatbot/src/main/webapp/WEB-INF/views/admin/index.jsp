@@ -10,7 +10,6 @@
 	//mode 확인
 		//get요청 mode에 저장된 값을 이용하여 페이지를 확인
 		String mode = (String)request.getParameter("mode");
-		System.out.println("mode : " + mode);
 %>
 
 	<!-- admin.head include -->

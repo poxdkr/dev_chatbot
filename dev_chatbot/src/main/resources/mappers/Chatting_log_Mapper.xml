@@ -7,27 +7,79 @@
 		select COUNT(distinct user_id) as cntUser from CHATTING_LOG 
 			WHERE kind = 0
 			and 0=0
-			and regdate >= #{sday }
-			and regdate <= #{eday }
+			and from_unixtime(regdate,'%Y-%m-%d') >= #{sday }
+			and from_unixtime(regdate,'%Y-%m-%d') <= #{eday }
+			and dayofweek = #{dayofweek }
 			]]>
 	</select>
 	
 	<select id="getChat_cnt" resultType="int" parameterType="HashMap">
 		<![CDATA[
-		select COUNT(user_id) as cntUser from CHATTING_LOG 
-			WHERE kind = 0
-			and 0=0
-			and regdate >= #{sday }
-			and regdate <= #{eday }
+		SELECT COUNT(user_id) as chat_cnt FROM v_chatting_log WHERE kind = 1 
+            AND 0=0
+            AND from_unixtime(regdate, '%Y-%m-%d') >= #{sday }
+            AND from_unixtime(regdate, '%Y-%m-%d') <= #{eday }
+            AND dayofweek = #{dayofweek }
 			]]>
 	</select>
 	
 	<select id="getTotalUser_cnt" resultType="int">
 		<![CDATA[
 		select COUNT(distinct user_id) as cntUser from CHATTING_LOG 
-			WHERE kind = 0
-			
+			WHERE kind = 0 AND 0=0
 			]]>
 	</select>
 	
+	<select id="getMiss_cnt" resultType="int" parameterType="HashMap">
+		<![CDATA[
+            SELECT COUNT(msg_m) as miss_cnt FROM v_chatting_log WHERE kind = 1 
+            AND 0=0 
+            AND from_unixtime(regdate, '%Y-%m-%d') >= #{sday }
+            AND from_unixtime(regdate, '%Y-%m-%d') <= #{eday }        
+            AND msg_s1 = '00000'  AND msg_s2 = '00000' AND msg_s3 = '00000' 
+            AND dayofweek = #{dayofweek }
+			]]>
+	</select>
+		<select id="getWeekUser_cnt" resultType="int" parameterType="HashMap">
+		<![CDATA[
+			   SELECT COUNT(distinct user_id) as user_cnt 
+			   FROM chatting_log 
+			   WHERE kind = 0 
+			   AND from_unixtime(regdate, '%Y-%m-%d') >= #{sday }
+               AND from_unixtime(regdate, '%Y-%m-%d') <= #{eday } 
+			]]>
+	</select>
+	<select id="getWeekChat_cnt" resultType="int" parameterType="HashMap">
+		<![CDATA[
+			   SELECT COUNT(user_id) as cnt 
+			   FROM v_chatting_log 
+			   WHERE kind = 1  
+			   AND from_unixtime(regdate, '%Y-%m-%d') >= #{sday }
+               AND from_unixtime(regdate, '%Y-%m-%d') <= #{eday } 
+			]]>
+	</select>
+	
+	<select id="getWeekMiss_cnt" resultType="int" parameterType="HashMap">
+		<![CDATA[
+				SELECT  COUNT(msg_m) as cnt FROM chatting_log 
+                WHERE 0=0 
+                AND kind = 1 
+                AND msg_s1 = '00000' 
+                AND msg_s2 = '00000' 
+                AND msg_s3 = '00000' 
+			   AND from_unixtime(regdate, '%Y-%m-%d') >= #{sday }
+               AND from_unixtime(regdate, '%Y-%m-%d') <= #{eday }
+			]]>
+	</select>
+	
+	
+	<select id="getCountByKeyword_week" resultType="int" parameterType="HashMap">
+		<![CDATA[
+		SELECT COUNT(user_id) as cnt FROM chatting_log WHERE  0=0
+	 	AND REPLACE(msg_m_txt, '▶ ', '')= #{keyword }       
+		AND  kind = 0 
+		AND from_unixtime(regdate, '%Y-%m-%d') >= #{sday }  
+		AND  from_unixtime(regdate, '%Y-%m-%d') <= #{eday }
+		]]>
+	</select>
 </mapper>
