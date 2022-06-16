@@ -9,5 +9,4 @@ public class DevChatbotApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DevChatbotApplication.class, args);
 	}
-
 }

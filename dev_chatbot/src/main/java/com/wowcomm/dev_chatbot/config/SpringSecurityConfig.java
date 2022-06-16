@@ -42,6 +42,10 @@ import com.wowcomm.dev_chatbot.service.LoginIdPwValidator;
 	      //security.httpBasic().disable();		
 	        http.cors().and();		
 	        http.csrf().disable();
+	        
+	      //x-frame
+	        http.headers()
+				.frameOptions().sameOrigin();
 	        			
 	    }
 	    @Override

@@ -5,5 +5,11 @@
 	<select id="cnt_scenario_main_info" resultType="int">
 		SELECT COUNT(*) as cnt FROM scenario_main_info
 	</select>
-
+	
+	<select id="getScene_By_scn_code" resultType="Scenario_main_info_VO" parameterType="Scenario_main_info_VO">
+		SELECT * FROM SCENARIO_MAIN_INFO WHERE SCN_CODE = #{scn_code }
+	</select>
+	
+	
+	
 </mapper>

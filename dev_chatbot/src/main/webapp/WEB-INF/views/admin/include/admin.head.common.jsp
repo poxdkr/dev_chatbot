@@ -1,4 +1,6 @@
-
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+    
   <link rel="stylesheet" href="/resource/admin/bower_components/bootstrap/dist/css/bootstrap.css">
   <!-- Font Awesome -->
   <link rel="stylesheet" href="./resource/admin/bower_components/font-awesome/css/font-awesome.min.css">

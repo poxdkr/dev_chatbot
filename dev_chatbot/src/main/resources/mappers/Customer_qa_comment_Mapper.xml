@@ -4,4 +4,8 @@
 	<select id="recently_customer_qa_comment" resultType="Customer_qa_comment_VO">
 		SELECT *  FROM customer_qa_comment order by comment_no desc limit 0,10
 	</select>
+	
+	<select id="getCommentByNo" resultType="Customer_qa_comment_VO" parameterType="Customer_qa_comment_VO">
+		select * from customer_qa_comment where comment_no = #{comment_no }
+	</select>
 </mapper>

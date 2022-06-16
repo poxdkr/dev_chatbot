@@ -6,9 +6,9 @@
 	if(mb_Id == null){
 		out.println("<script>location.href='/';</script>");
 	}
+	
 	//mode 확인
 		//get요청 mode에 저장된 값을 이용하여 페이지를 확인
-		//String mode = (String)session.getAttribute("mode");
 		String mode = (String)request.getParameter("mode");
 		System.out.println("mode : " + mode);
 %>

@@ -1,1 +1,0 @@
-접속일 :  --> November 19, 2020, 12:51 pm // 테스트 실행 -- > /home/curves/chatadm/www/engine_proc/qbot_reasoning_ver2 /home/curves/chatadm/www/engine_proc/qbot.lic /home/curves/chatadm/www/engine_proc/WOWPOS/result/test_result.out "회원가입  10만원"   /home/curves/chatadm/www/engine_proc/_entity/test.entity.txt.utf8

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wowcomm.dev_chatbot.mapper.Chatting_log_Mapper">
+
+	<select id="getUser_cnt" resultType="int" parameterType="HashMap">
+		<![CDATA[
+		select COUNT(distinct user_id) as cntUser from CHATTING_LOG 
+			WHERE kind = 0
+			and 0=0
+			and regdate >= #{sday }
+			and regdate <= #{eday }
+			]]>
+	</select>
+	
+	<select id="getChat_cnt" resultType="int" parameterType="HashMap">
+		<![CDATA[
+		select COUNT(user_id) as cntUser from CHATTING_LOG 
+			WHERE kind = 0
+			and 0=0
+			and regdate >= #{sday }
+			and regdate <= #{eday }
+			]]>
+	</select>
+	
+	<select id="getTotalUser_cnt" resultType="int">
+		<![CDATA[
+		select COUNT(distinct user_id) as cntUser from CHATTING_LOG 
+			WHERE kind = 0
+			
+			]]>
+	</select>
+	
+</mapper>

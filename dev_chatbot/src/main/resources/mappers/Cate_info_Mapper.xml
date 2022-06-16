@@ -6,4 +6,10 @@
 		SELECT COUNT(*) as cnt FROM cate_info
 	</select>
 	
+	<!-- q_type으로 cateinfo 조회 -->
+	<select id="get_q_disp_name_By_Q_type" resultType="Cate_info_VO">
+		SELECT * FROM cate_info where q_type=#{q_type }
+	</select>
+	
+	
 </mapper>

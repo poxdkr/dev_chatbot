@@ -15,70 +15,133 @@
 	<li class="active">대시보드</li>
 </ul>
 
+<script>
+	 
+	 //이번주 일요일(sday)와 오늘(eday)
+	 
+/* 	 var today = new Date();
+	 var year = today.getFullYear();
+	 var month = today.getMonth()+1;
+		 month = month >= 10 ? month:"0"+month; 
+	 var date = today.getDate();
+		 date = date >= 10 ? date : "0"+date; 
+	 var day = today.getDay(); //0:일 6:토
+	 
+	 var fullToday = year+"-"+month+"-"+date;
+	 
+	 console.log("today : "+ today);
+	 console.log("year+month+date : "+ year+month+date);
+	 console.log("day : "+ day);
+	 console.log("fullToday : "+ fullToday);
+	 
+	 var sday = new Date(year, month, nowDay - nowDayOfWeek);
+	 
+	 var thisSunday = today-day
+	 console.log("thisSunday : "+ thisSunday);
+	  */
+	 
+	  var sday="";
+	  var eday="";
+	  var endday="";
+	  var sdayNotSlashed = "";
+	  var edayNotSlashed = "";
+	  var enddayNotSlashed = "";
+	  
+	 function formatDate(date) {
+		   var myyear = date.getFullYear();
+	       var mymonth = date.getMonth();
+	       mymonth = mymonth > 10 ? mymonth : "0"+mymonth;
+	       var myweekday = date.getDate();
+	       myweekday = myweekday > 10 ? myweekday : "0"+myweekday;
+	       return (myyear +"-"+mymonth + "-" + myweekday);
+	}
+	 function formatDateNoSlashed(date){
+		  var myyear = date.getFullYear();
+	       var mymonth = date.getMonth();
+	       	mymonth = mymonth > 10 ? mymonth : "0"+mymonth;
+	       var myweekday = date.getDate();
+	       	myweekday = myweekday > 10 ? myweekday : "0"+myweekday;
+	       return (myyear+mymonth+myweekday);
+	 }
 
-<!--     function lastSunToSat($ymd) {
-        $time = strtotime($ymd);
-        $today = date("Y-m-d", $time);
-
-        $tday = date("w", $time);
-
-        if($tday) $Sun = -1;
-        else $Sun = -1;
-
-        $last['Sun'] = strtotime("{$Sun} Sunday", $time);
-        $last['Sat'] = strtotime("previous Saturday", $time);
-
-        $last['Sun_ymd'] = date("Y-m-d", $last['Sun']);
-        $last['Sat_ymd'] = date("Y-m-d", $last['Sat']);
-
-        return $last;
-    }
-
-    $ymd = Date("Ymd", strtotime("0 days") );
-    $last = lastSunToSat($ymd);
-
-    $sday = date("Y-m-d", $last['Sun']);
-
-
-
-    //$sday = addslashes($_GET['sday']);
-    $eday = addslashes($_GET['eday']);
-
-    If ($sday == "") $sday = Date("Y-m-d", strtotime("-7 days")) ;
-    If ($eday == "") $eday = Date("Y-m-d", strtotime("0 days")) ;
-
-
-
-
-	for ($i=1; $i < 8; $i++) {
-        $strQry = "SELECT COUNT(distinct user_id) as user_cnt FROM chatting_log WHERE kind = 0 
-                   AND 0=0
-                   AND from_unixtime(regdate, '%Y-%m-%d') >= '$sday'
-                   AND from_unixtime(regdate, '%Y-%m-%d') <= '$eday' 
-                   AND dayofweek = '$i' ";
-
-        $row = sql_fetch($strQry);
-        $user_cnt  .= "\"". $row['user_cnt'] ."\",";  
-    }
-    	$user_cnt = substr($user_cnt,0, strlen($user_cnt)-1);
-
-
-
-	for ($i=1; $i < 8; $i++) {
-
-        $strQry = "SELECT COUNT(user_id) as chat_cnt FROM v_chatting_log WHERE kind = 1 
-            AND 0=0
-            AND from_unixtime(regdate, '%Y-%m-%d') >= '$sday'
-            AND from_unixtime(regdate, '%Y-%m-%d') <= '$eday' 
-            AND dayofweek = '$i' ";
-
-        $row = sql_fetch($strQry);
-        $chat_cnt  .= "\"". $row['chat_cnt'] ."\",";  
-    }
-    	$chat_cnt = substr($chat_cnt,0, strlen($chat_cnt)-1);
-
-
-
+	function getWeek() {
+	       var now = new Date();
+	       var nowDayOfWeek = now.getDay();
+	       var nowDay = now.getDate();
+	      	 	nowDay = nowDay > 10 ? nowDay : "0"+nowDay;
+	      	 	
+	       var nowMonth = now.getMonth()+1;
+	     	   nowMonth = nowMonth > 10 ? nowMonth : "0"+nowMonth;
+	     	   
+	       var nowYear = now.getYear();
+	       		nowYear += (nowYear < 2000) ? 1900 : 0;
+	       		
+	       var weekStartDate = new Date(nowYear, nowMonth, nowDay - nowDayOfWeek);
+	       var weekEndDate = new Date(nowYear, nowMonth, nowDay + (6 - nowDayOfWeek));
+	       //표기용 날짜
+	       sday = formatDate(weekStartDate);
+	       eday = nowYear +"-"+nowMonth+"-"+nowDay;
+	       endday = formatDate(weekEndDate);
+	       
+	       //DB 비교용 날짜
+	       sdayNotSlashed = formatDateNoSlashed(weekStartDate);
+	 	   edayNotSlashed = nowYear+nowMonth+nowDay;
+	 	   enddayNotSlashed = formatDateNoSlashed(weekEndDate);
+	}
+	
+	getWeek();
+	
+	console.log("이번주 일요일 :  " +sday + " / 오늘 : " + eday +" / 이번주 토요일 : " + endday);
+	console.log("sdayNotSlashed : " + sdayNotSlashed + " / edayNotSlashed : "+edayNotSlashed + " / enddayNotSlashed : "+enddayNotSlashed);
+	
+	
+		
+	//주간(일요일 ~ 현재요일까지) 이용자 수 user_cnt 산출
+	var w_user_cnt = 0; 
+	$.ajax({
+		url : "getUser_cnt",
+		data : "sday="+sdayNotSlashed+"&eday="+edayNotSlashed,
+		dataType : "text",
+		async:false,
+		success : function(data){
+			w_user_cnt = data;
+		},error : function(data){
+			console.log(data);
+		}
+	});
+	
+	//주간(일요일 ~ 현재요일까지) 채팅 수 chat_cnt 산출
+	var chat_cnt = 0;
+	$.ajax({
+		url : "getChat_cnt",
+		data : "sday="+sdayNotSlashed+"&eday="+edayNotSlashed,
+		dataType : "text",
+		async:false,
+		success : function(data){
+			chat_cnt = data;
+		},error : function(data){
+			console.log(data);
+		}
+	});
+	
+	console.log(sday+"->"+eday+" _ 사용자 수 : "+w_user_cnt+"명 / "+ "채팅 수 : "+chat_cnt+"개");
+	
+	//전체 기간 _ 전체 채팅 수
+	var t_user_cnt = 0;
+	$.ajax({
+		url : "getTotalUser_cnt",
+		dataType : "text",
+		async:false,
+		success : function(data){
+			t_user_cnt = data;
+		},error : function(data){
+			console.log(data);
+		}
+	});
+	
+	console.log("전체기간 이용자 수 : " + t_user_cnt);
+	/*
+	
 	for ($i=1; $i < 8; $i++) {
 
         $strQry = "SELECT COUNT(msg_m) as miss_cnt FROM v_chatting_log WHERE kind = 1 
@@ -94,6 +157,7 @@
 
 
     // 주간 챗봇이용시간
+    	
 	$strQry = "SELECT IFNULL(SUM(visit_time), 0)  as sum_visit_time 
 			   FROM customer_info_visit_time 
 			   WHERE date(sdate) between  '$sday' and  '$eday' ";
@@ -104,24 +168,6 @@
 
     $sum_visit_time = gmdate('H시i분s초',$stime);
 
-
-	//전체 채팅 수
-	$strQry = "SELECT COUNT(distinct user_id) as user_cnt 
-			   FROM chatting_log 
-			   WHERE kind = 0  AND 0=0 ";
-	$res = sql_fetch($strQry);
-	$t_user_cnt = $res['user_cnt'];
-
-    //주간 전체 채팅 수
-	$strQry = "SELECT COUNT(distinct user_id) as user_cnt 
-			   FROM chatting_log 
-			   WHERE kind = 0 
-			   AND from_unixtime(regdate, '%Y-%m-%d') >= '$sday'
-               AND from_unixtime(regdate, '%Y-%m-%d') <= '$eday' ";
-
-
-	$res = sql_fetch($strQry);
-	$w_user_cnt = $res['user_cnt'];
 
 	
     //주간 이용자 퍼센트
@@ -176,13 +222,38 @@
         $week_req_percent =  round(( $w_chat_cnt - $w_miss_cnt ) /  $w_chat_cnt * 100 ,2);
     }
 
+ */
 
 
 
-
- -->
+</script>
 <script>
 	$(function(){
+		 	//일요일부터 오늘까지의 기간
+		 	$("#chat_period").html(sday + "~" + eday);
+		 	$("#qa_period").html(sday + "~" + eday);
+			
+		
+			//최근 문의현황의 열람을 누를경우
+		    $('.custom_qa').click(function() {
+		        modal_mode = "add";
+		        no  = $(this).attr("data-val");
+		        $('.modal-title').html("담당자 문의현황");
+		        $('#custom_qa_reg').modal('show');
+		    });
+			
+			//content.qa.comment.jsp?no=no 를 src요소로 삽입하여 해당 no읠 문의요청을 확인한다.
+		    $('#custom_qa_reg').on('show.bs.modal', function (event) {
+		        if(modal_mode=='add') $('#custom_qa_add').attr("src","/content.qa.comment?no="+no);
+		    });
+			
+			//창닫기
+		    $(".custom_cancle").click(function(){
+		        if(confirm("창을 닫습니다.")){
+		            $("#custom_qa_reg").modal('hide');
+		        }
+		    }); 
+		
 		$('.dashboard').addClass("active");
 		$('.dash').addClass("active");
   	
@@ -364,10 +435,8 @@
 
                 <div class="col-md-6">
                   <p class="text-center">
-                    <strong>기간: <?= $sday ?>~<?= $eday ?></strong>
+                    <strong>기간: <span id="chat_period"></span></strong>
                   </p>
-
-
 
                   <div class="chart">
                     <canvas id="CntChart" style="height: 180px; width: 605px;"></canvas>
@@ -384,14 +453,9 @@
                 </div>
                 <!-- /.col -->
 
-
-
               </div>
               <!-- /.row -->
             </div>
-
-
-
 
           </div>
           <!-- /.box -->
@@ -399,46 +463,6 @@
         <!-- /.col -->
       </div>
       <!-- /.row -->
-    <!------------ 주간 챗봇 상담 현황 ----------------->
-
-
-
-  <!--   
-        $strQry = "SELECT COUNT(user_id) as cnt FROM chatting_log WHERE  0=0   ";
-        $strQry .= "AND REPLACE(msg_m_txt, '▶', '')= '설치관련' ";      
-        $strQry .= "AND  kind = 0 ";
-        $strQry .= "AND from_unixtime(regdate, '%Y-%m-%d') >= '$sday'  ";
-        $strQry .= "AND  from_unixtime(regdate, '%Y-%m-%d') <= '$eday' ";
-        $res = sql_fetch($strQry);
-        $cnt1 = $res['cnt'];
-
-        $strQry = "SELECT COUNT(user_id) as cnt FROM chatting_log WHERE  0=0   ";
-        $strQry .= "AND REPLACE(msg_m_txt, '▶', '')= '작업관련' ";      
-        $strQry .= "AND  kind = 0 ";
-        $strQry .= "AND from_unixtime(regdate, '%Y-%m-%d') >= '$sday'  ";
-        $strQry .= "AND  from_unixtime(regdate, '%Y-%m-%d') <= '$eday' ";
-        $res = sql_fetch($strQry);
-        $cnt2 = $res['cnt'];
-
-
-        $strQry = "SELECT COUNT(user_id) as cnt FROM chatting_log WHERE  0=0   ";
-        $strQry .= "AND REPLACE(msg_m_txt, '▶', '')= '라이선스관련' ";      
-        $strQry .= "AND  kind = 0 ";
-        $strQry .= "AND from_unixtime(regdate, '%Y-%m-%d') >= '$sday'  ";
-        $strQry .= "AND  from_unixtime(regdate, '%Y-%m-%d') <= '$eday' ";
-        $res = sql_fetch($strQry);
-        $cnt3 = $res['cnt'];
-
-        $strQry = "SELECT COUNT(user_id) as cnt FROM chatting_log WHERE  0=0   ";
-        $strQry .= "AND REPLACE(msg_m_txt, '▶', '')= '서류파일관련' ";      
-        $strQry .= "AND  kind = 0 ";
-        $strQry .= "AND from_unixtime(regdate, '%Y-%m-%d') >= '$sday'  ";
-        $strQry .= "AND  from_unixtime(regdate, '%Y-%m-%d') <= '$eday' ";
-        $res = sql_fetch($strQry);
-        $cnt4 = $res['cnt'];
-     -->
-
-
 
 	<div class="row">
 
@@ -472,7 +496,9 @@
 	                    <td>${recent_comment.name }</td>
 	                    <td>${recent_comment.company_name }</td>
 	                    <td>${recent_comment.regdate }</td>
-	                    <td align="center"><button type="button" class="btn btn-danger btn-xs custom_qa" data-val="${recent_comment.comment_no }">열람</button></td>
+	                    <td align="center">
+	                    	<button type="button" class="btn btn-danger btn-xs custom_qa" data-val="${recent_comment.comment_no }">열람</button>
+	                    </td>
                 	</tr>
 					</c:forEach>
 				</c:if>
@@ -489,7 +515,7 @@
         <div class="col-md-6">
               <div class="box box-success">
                 <div class="box-header with-border">
-                  <h3 class="box-title">업무별 문의현황 (기간 : <?= $sday ?>~<?= $eday ?> )</h3>
+                  <h3 class="box-title">업무별 문의현황 (기간 : <span id="qa_period"></span> )</h3>
                 </div>
                 
                 <div class="box-body"><iframe src="./inc_chat.php?mode=dashboard_chat_work&cnt1=<?= $cnt1 ?>&cnt2=<?= $cnt2 ?>&cnt3=<?= $cnt3 ?>&cnt4=<?= $cnt4 ?>&sday=<?= $sday ?>&eday=<?= $eday?>" style="display:block; width:100%; height: 280px" frameborder=0 framespacing=0 marginheight=0 marginwidth=0 scrolling=no></iframe></div>
@@ -511,7 +537,6 @@
 <!-- page script -->
 
 
-
 <!-- FLOT CHARTS -->
 <script src="resource/admin/bower_components/Flot/jquery.flot.js"></script>
 <!-- FLOT RESIZE PLUGIN - allows the chart to redraw when the window is resized -->
@@ -520,229 +545,6 @@
 <script src="resource/admin/bower_components/Flot/jquery.flot.pie.js"></script>
 <!-- FLOT CATEGORIES PLUGIN - Used to draw bar charts -->
 <script src="resource/admin/bower_components/Flot/jquery.flot.categories.js"></script>
-
-
-
-
-<script>
-  $(function () {
-	//최근 문의현황의 열람을 누를경우
-    $('.custom_qa').click(function() {
-        modal_mode = "add";
-        no    = $(this).attr("data-val");
-        $('.modal-title').html("담당자 문의현황");
-        $('#custom_qa_reg').modal('show');
-    });
-	
-	//content.qa.comment.jsp?no=no 를 src요소로 삽입하여 해당 no읠 문의요청을 확인한다.
-    $('#custom_qa_reg').on('show.bs.modal', function (event) {
-        if(modal_mode=='add') $('#custom_qa_add').attr("src","content.qa.comment.php?no="+no);
-    });
-
-	//창닫기
-    $(".custom_cancle").click(function(){
-        if(confirm("창을 닫습니다.")){
-            $("#custom_qa_reg").modal('hide');
-        }
-    }); 
-
-
-    /* jQueryKnob */
-
-    $(".knob").knob({
-      /*change : function (value) {
-       //console.log("change : " + value);
-       },
-       release : function (value) {
-       console.log("release : " + value);
-       },
-       cancel : function () {
-       console.log("cancel : " + this.value);
-       },*/
-      draw: function () {
-
-        // "tron" case
-        if (this.$.data('skin') == 'tron') {
-
-          var a = this.angle(this.cv)  // Angle
-              , sa = this.startAngle          // Previous start angle
-              , sat = this.startAngle         // Start angle
-              , ea                            // Previous end angle
-              , eat = sat + a                 // End angle
-              , r = true;
-
-          this.g.lineWidth = this.lineWidth;
-
-          this.o.cursor
-          && (sat = eat - 0.3)
-          && (eat = eat + 0.3);
-
-          if (this.o.displayPrevious) {
-            ea = this.startAngle + this.angle(this.value);
-            this.o.cursor
-            && (sa = ea - 0.3)
-            && (ea = ea + 0.3);
-            this.g.beginPath();
-            this.g.strokeStyle = this.previousColor;
-            this.g.arc(this.xy, this.xy, this.radius - this.lineWidth, sa, ea, false);
-            this.g.stroke();
-          }
-
-          this.g.beginPath();
-          this.g.strokeStyle = r ? this.o.fgColor : this.fgColor;
-          this.g.arc(this.xy, this.xy, this.radius - this.lineWidth, sat, eat, false);
-          this.g.stroke();
-
-          this.g.lineWidth = 2;
-          this.g.beginPath();
-          this.g.strokeStyle = this.o.fgColor;
-          this.g.arc(this.xy, this.xy, this.radius - this.lineWidth + 1 + this.lineWidth * 2 / 3, 0, 2 * Math.PI, false);
-          this.g.stroke();
-
-          return false;
-        }
-      }
-    });
-    /* END JQUERY KNOB */
-
-
-
-
-
-
-		/****** 채팅수/채팅 참여 인원/미답변수 그래프 표시 ******/
-  	var user_color = "#0000FF";		//채팅 참여 인원 색상
-  	var chat_color = "#000000";		//채팅 수 색상
-  	var miss_color = "#FF0000";		//미답변 수 색상
-  	
-	  var labels = ["일","월","화","수","목","금","토"];
-	  var user_cnt = [<?=$user_cnt?>];
-	  var chat_cnt = [<?=$chat_cnt?>];
-	  var miss_cnt = [<?=$miss_cnt?>];
-	  if (labels.length == 0) labels.push(0);
-	  if (user_cnt.length == 0) user_cnt.push(0);
-	  if (chat_cnt.length == 0) chat_cnt.push(0);
-	  if (miss_cnt.length == 0) miss_cnt.push(0);
-
-  	$("#span_user_cnt").css("background-color", user_color);
-  	$("#span_chat_cnt").css("background-color", chat_color);
-  	$("#span_miss_cnt").css("background-color", miss_color);
-
-	  var ChartCanvas = $("#CntChart").get(0).getContext("2d");
-	  var CntChart = new Chart(ChartCanvas);
-		
-	  var CntChartData = {
-	    labels: labels,
-	    datasets: [
-	      {
-	        label: "상담 고객",
-	        fillColor: user_color,
-	        strokeColor: user_color,
-	        pointColor: user_color,
-	        pointStrokeColor: user_color,
-	        pointHighlightFill: user_color,
-	        pointHighlightStroke: user_color,
-	        data: user_cnt
-	      },
-	      {
-	        label: "챗봇 응대",
-	        fillColor: chat_color,
-	        strokeColor: chat_color,
-	        pointColor: chat_color,
-	        pointStrokeColor: chat_color,
-	        pointHighlightFill: chat_color,
-	        pointHighlightStroke: chat_color,
-	        data: chat_cnt
-	      },
-	      {
-	        label: "미답변",
-	        fillColor: miss_color,
-	        strokeColor: miss_color,
-	        pointColor: miss_color,
-	        pointStrokeColor: miss_color,
-	        pointHighlightFill: miss_color,
-	        pointHighlightStroke: miss_color,
-	        data: miss_cnt
-	      }
-	    ]
-	  };
-	
-	  var CntChartOptions = {
-	    showScale: true,
-	    scaleShowGridLines: false,
-	    scaleGridLineColor: "rgba(0,0,0,.05)",
-	    scaleGridLineWidth: 1,
-	    scaleShowHorizontalLines: true,
-	    scaleShowVerticalLines: true,
-	    bezierCurve: false,
-	    bezierCurveTension: 0.3,
-	    pointDot: true,
-	    pointDotRadius: 2,
-	    pointDotStrokeWidth: 1,
-	    pointHitDetectionRadius: 20,
-	    datasetStroke: true,
-	    datasetStrokeWidth: 2,
-	    datasetFill: false,
-	    maintainAspectRatio: true,
-	    responsive: true
-	  };
-
-	  CntChart.Line(CntChartData, CntChartOptions);
-		/****** //채팅수/채팅 참여 인원/미답변수 그래프 표시 ******/
-
-
-
-  });
-
-
-
-  /*
-   * Custom Label formatter
-   * ----------------------
-   */
-  function labelFormatter(label, series) {
-    return '<div style="font-size:13px; text-align:center; padding:2px; color: #fff; font-weight: 600;">'
-      + label
-      + '<br>'
-      + Math.round(series.percent) + '%</div>'
-  }
-
-
-var ctx = document.getElementById('myChart'); 
-var myChart = new Chart(ctx, { 
-    type: 'bar', 
-    data: { 
-        labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'], 
-        datasets: [{ label: '# of Votes', data: [12, 19, 3, 5, 2, 3], 
-            backgroundColor: [ 
-            'rgba(255, 99, 132, 0.2)', 
-            'rgba(54, 162, 235, 0.2)', 
-            'rgba(255, 206, 86, 0.2)', 
-            'rgba(75, 192, 192, 0.2)', 
-            'rgba(153, 102, 255, 0.2)', 
-            'rgba(255, 159, 64, 0.2)' 
-            ], 
-            
-            borderColor: [ 
-            'rgba(255, 99, 132, 1)', 
-                'rgba(54, 162, 235, 1)', 
-                'rgba(255, 206, 86, 1)', 
-                'rgba(75, 192, 192, 1)', 
-                'rgba(153, 102, 255, 1)', 
-                'rgba(255, 159, 64, 1)' 
-                ], 
-                borderWidth: 1 
-                }] 
-                }, 
-                
-            options: { scales: { yAxes: [{ ticks: { beginAtZero: true } }] } } });
-
-
-</script>
-
-
-
-
 
  
 
