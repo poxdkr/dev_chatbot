@@ -75,10 +75,7 @@ $(function(){
 	        }
 	    }
 	});
-	console.log("cnt1:"+cnt1);
-	console.log("cnt2:"+cnt2);
-	console.log("cnt3:"+cnt3);
-	console.log("cnt4:"+cnt4);
+	
 /*------------------ Chart ------------------------*/
 
 })

@@ -31,7 +31,7 @@ import com.wowcomm.dev_chatbot.service.LoginIdPwValidator;
             .loginProcessingUrl("/loginProc") //로그인 action 매핑
             .usernameParameter("mb_id") //인자 매핑
             .passwordParameter("mb_password") //인자 매핑 
-            .defaultSuccessUrl("/index?mode=dashboard", true) //로그인 성공 매핑
+            .defaultSuccessUrl("/index?mode=dashboard", true) //로그인 성공 시 매핑_초기 mode값은 dashboard로 할당
             .failureUrl("/failure") //로그인 실패 매핑
             .permitAll()
         .and()

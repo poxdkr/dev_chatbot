@@ -30,8 +30,9 @@
     	//.dropdown-toggle 클래스 dropdown 활성화
         $(".dropdown-toggle").dropdown();
         
-        //content load (mode)
+        //메인화면에 mode에 따라 페이지 load (mode)
         var contentMode = $("#mode").val();
+        console.log("contentMode : " + contentMode);
         $("#content_container").load(contentMode);
         
         //sideBar_toggle_click_function

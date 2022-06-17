@@ -6,10 +6,17 @@
 		SELECT COUNT(*) as cnt FROM cate_info
 	</select>
 	
+	<!-- cate_info 정보 모두 불러오기 -->
+	<select id="getCate_info_All" resultType="Cate_info_VO">
+		SELECT * FROM cate_info order by seq_num asc
+	</select>
+	
+	
 	<!-- q_type으로 cateinfo 조회 -->
 	<select id="get_q_disp_name_By_Q_type" resultType="Cate_info_VO">
 		SELECT * FROM cate_info where q_type=#{q_type }
 	</select>
+	
 	
 	
 </mapper>

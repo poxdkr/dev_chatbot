@@ -290,7 +290,6 @@
 		$("#week_miss_percent_val").val(week_miss_percent);
 		
 		 /* jQueryKnob */
-
 	    $(".knob").knob({
 
 	      draw: function () {

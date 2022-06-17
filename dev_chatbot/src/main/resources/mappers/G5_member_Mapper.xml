@@ -124,4 +124,8 @@ mb_10
 )
 </insert>
 
+<update id="password_change" parameterType="HashMap">
+	update g5_member set mb_password = #{mb_password } where mb_id = #{mb_id };
+</update>
+
 </mapper>
