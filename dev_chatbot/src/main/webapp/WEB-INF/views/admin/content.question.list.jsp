@@ -1,6 +1,11 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%
+/* //다중 검색용 sql문 제작
+String sql_common = " from counselling_info  ";
+
+String sql_search = " where (1) ";
+
 
 //*** 서버요청 실시해서 설정한 파라미터의 결과값을 확인
 
@@ -12,16 +17,40 @@ String sfl = request.getParameter("sfl");
 if(sfl==null){
 	sfl="";
 }
+
 String cate_name = request.getParameter("cate_name");
+
 if(cate_name==null){
-	cate_name="";
-}
-if (cate_name.equals("")){
 	cate_name = "ALL";
 }
 
-//나열 순서 sql 확인
 
+//전체 검색이 아니라면 
+if(cate_name!=null){
+	sql_search += " and q_type = "+cate_name+" ";
+}
+
+//stx(키워드가 있다면)
+if(!(stx.equals(""))){
+	sql_search += " and ( ";
+	if(!(sfl.equals("all"))){ //검색기준이 전체가 아닌경우
+	    if(sfl.equals("id_name")){
+	        sql_search += " ("+sfl+" like '%"+stx+"%') ";
+	    }else if(sfl.equals("ci_question")){
+	    	sql_search += " ("+sfl+" like '%"+stx+"%') ";
+	    }else{
+	    	sql_search += " ("+sfl+" like '%"+stx+"%') ";
+	    }
+	}else{ //검색기준이 전체인 경우 
+		sql_search += " (id_name like '%"+stx+"%' or ci_question like '%"+stx+"') ";
+	}
+	sql_search += " ) ";
+}
+
+
+
+
+//나열 순서 sql 확인
 String sst = request.getParameter("sst");
 String sst2 = "";
 String sod = "";
@@ -67,10 +96,11 @@ sod = "desc";
 }
 
 
-String sql_order = " order by {$sst2} {$sod} ";
-String sql = " select count(*) as cnt {$sql_common}  {$sql_search} {$sql_order} ";
-
+String sql_order = " order by "+sst2+" "+sod;
+String cntSql = " select count(*) as cnt "+sql_common + sql_search + sql_order;
+ */
 %>
+
 <!-- jquery  -->
 <script src="/resource/admin/bower_components/jquery/dist/jquery.min.js"></script>
  <link href="/resource/admin/plugins/bootstrap-tagsinput/bootstrap-tagsinput.css?ver=<?= $app_ver ?>" rel="stylesheet">
@@ -81,9 +111,320 @@ String sql = " select count(*) as cnt {$sql_common}  {$sql_search} {$sql_order} 
 <script type="text/javascript" src="/resource/admin/static/admin_js/common.js"></script>
 <script src="https://gitcdn.github.io/bootstrap-toggle/2.2.2/js/bootstrap-toggle.min.js"></script>
 <script>
+//페이징용 변수 선언
+var current_page = 1;
+var current_block = Math.ceil(current_page/10);
+var startPage = (current_block*10)-9;
+var endPage = current_block *10;
+let total = 0;
+let totalPage = 0;
+let totalBlock = 0
+
+function formatDate_hms(date){
+	var myyear = date.getFullYear();
+    var mymonth = date.getMonth()+1;
+    mymonth = mymonth > 10 ? mymonth : "0"+mymonth;
+    var myweekday = date.getDate();
+    myweekday = myweekday > 10 ? myweekday : "0"+myweekday;
+    var hour = date.getHours();
+    var min = date.getMinutes();
+    var sec = date.getSeconds();
+    
+    return (myyear+"-"+mymonth +"-"+ myweekday+" "+hour+":"+min+":"+sec);
+}
+
+//페이지 및 검색결과에 따른 서버요청 
+function openAjaxSearch(){
+	var sfl = $("#sfl").val();
+	if (sfl == "all"){
+		sfl = "";
+	}
+	var stx = $("#stx").val();
+	var sst = $("#sst").val();
+	var cate_name = $(".cate_sel").val();
+	if (cate_name == "ALL"){
+		cate_name = "";
+	}
+	var page = 1;
+	current_page =1;
+	
+	$.ajax({
+		url : "result_content_question_list",
+		data : "sfl="+sfl+"&stx="+stx+"&sst="+sst+"&cate_name="+cate_name+"&page="+page,
+		dataType : "json",
+		contentType : "application/json",
+		success : function(data){
+			var idx = 0;
+			var bg = idx % 2;
+			var html = "";
+			//자료가 없을 경우
+			if(data.length == 0){
+				html += "<tr><td colspan='8' class=\"empty_table\" style=\"text-align:center;\">등록된 자료가 없습니다.</td></tr>";
+				$("#table-striped_tbody").html(html);
+				return;
+			}
+			$.each(data,function(index,item){
+				 idx ++;
+				 html += "<tr class='bg"+bg+"'>";
+				 html += "<td align=\"center\"><span class=\"td_chk\">";
+				 html += "<input type=\"checkbox\" name=\"chk\" value="+this.seq_num+" id='chk_"+index+"'  data-val="+this.seq_num+">";
+				 html += "</span></td>";
+				 html += "<td align=\"center\">"+this.id_name+"</td>";
+				 html += "<td align=\"center\"><span style=\"width:250px;word-break;break-all\">";
+				 html += "<span class=\"underline modify_question\"  data-val=\""+this.ci_depth1_id+"_"+this.ci_depth2_id+"_"+this.ci_depth3_id+"\" data-val2=\""+this.seq_num+"\">";
+				 html += this.ci_question+"</span>";
+				 html += "</span></td>";
+				 html += "<td align=\"center\">"+this.ci_disp_name+"</td>";
+				 html += "<td align=\"center\">";
+				 html += "<button type=\"button\" class=\"btn btn-default btn-xs modify_sub_question\"  data-val=\""+this.ci_depth1_id+"_"+this.ci_depth2_id+"_"+this.ci_depth3_id+"\" data-val2=\""+this.seq_num+"\">등록</button>";    
+				 html += "</td>";
+				 //카테고리명 확인
+				 $.ajax({
+					 url : "get_q_disp_name_By_Q_type",
+					 data : "q_type="+this.q_type,
+					 async:false,
+					 success : function(data){
+						 html += "<td align=\"center\">"+data.q_disp_name+"</td>";
+					 },error : function(data){
+						 console.log(data);
+					 }
+				 });
+				 
+				 var reg_date=new Date(this.ci_reg_date*1000);
+				 var frm_reg_date = formatDate_hms(reg_date);
+				 
+				 html += "<td align=\"center\">"+frm_reg_date+"</td>";
+				 html += "<td align=\"center\">";
+	             html += "<input class=\"live_btn\" type=\"checkbox\"";
+	             	if(this.state == 1){
+	             	html += "checked";
+	             	}
+	             	html += " data-toggle=\"toggle\" data-onstyle=\"success\" data-size=\"small\" data-val=\""+this.seq_num+"\" data-on=\"ON\" data-off=\"OFF\">";
+		            html += "</td></tr>";
+			});
+			
+			total = idx;
+			totalPage = Math.ceil(total/15);
+			totalBlock = Math.ceil(totalPage/10);
+			$("#page").val(page);
+			current_page = page;
+			current_block = Math.ceil(current_page/10); 
+			startPage = (current_block*10)-9;
+			endPage = current_block *10;
+			
+			$(".fa-gear").html("질문리스트 ("+total+")");
+			console.log("total : " + total);
+			console.log("totalPage : " + totalPage);
+			console.log("totalBlock : " + totalBlock);
+			console.log("startPage : " + startPage);
+			console.log("endPage : " + endPage);
+			
+			
+			$("#table-striped_tbody").html(html);
+		},error : function(data){
+			alert("데이터를 조회할 수 없습니다.");
+			console.log(data);
+		}
+	});
+	/* pageHtml 작업 */
+	var pageHtml = "";
+	pageHtml += "<nav class=\"pg_wrap\">";
+	pageHtml += "<span class=\"pg\">";
+	pageHtml += "<nav>";
+	pageHtml += "<ul class=\"pagination\">";
+	//current_page가 1이면 disabled
+	if(current_page <=1 ){
+		pageHtml += "<li class=\"disabled\">";	
+	}else{
+		pageHtml += "<li>";
+		if(current_block == 1){
+			//current_block이 1이면 시작페이지로
+			pageHtml += "<a onclick='openAjaxSearchPage("+startPage+")' aria-label=\"Previous\"><span aria-hidden=\"true\">«</span></a></li>";;
+		}else{
+			//지난 블록 마지막 페이지
+			pageHtml += "<a onclick='openAjaxSearchPage("+((current_block*10)-10)+")' aria-label=\"Previous\"><span aria-hidden=\"true\">«</span></a></li>";;	
+		}
+	}
+	//for로 반복
+	for (var i = startPage; i<=endPage; i++){
+		if(i <= totalPage){
+			if(i == current_page){
+				pageHtml += "<li class=\"active\"><a href=\"#\">"+i+"</a></li>";		
+			}else{
+				pageHtml += "<li><a class=\"pg_page\" onclick=\"openAjaxSearchPage("+i+")\">"+i+"</a></li>";
+			}	
+		}
+	}
+	if(current_block < totalBlock){
+		//다음 블록 첫페이지	
+		pageHtml += "<li><a onclick=\"openAjaxSearchPage("+((current_block*10)+1)+")\" class=\"pg_page pg_next\">≥</a></li>";
+		//가장 끝 페이지
+		pageHtml += "<li><a onclick=\"openAjaxSearchPage("+(totalPage)+")\" aria-label=\"Next\"><span aria-hidden=\"true\">»</span></a></li>";
+	}		
+	pageHtml += "</ul>";
+	pageHtml += "</nav>";
+	pageHtml += "</span>";
+	pageHtml += "</nav>";
+	
+	console.log("current_block:" + current_block);
+	console.log("current_page : "+ current_page);
+	console.log("startPage : " + startPage);
+	console.log("endPage : " + endPage);
+	
+	$("#page_div").html(pageHtml);
+	
+}
+
+//페이지 이동에 따른 Ajax 처리
+//페이지 및 검색결과에 따른 서버요청 
+function openAjaxSearchPage(num){
+	var page = num;
+	$("#page").val(num);
+	current_page = num;
+	current_block = Math.ceil(current_page/10); 
+	
+	startPage = (current_block*10)-9;
+	endPage = current_block *10;
+	
+	var sfl = $("#sfl").val();
+	if (sfl == "all"){
+		sfl = "";
+	}
+	var stx = $("#stx").val();
+	var sst = $("#sst").val();
+	var cate_name = $(".cate_sel").val();
+	if (cate_name == "ALL"){
+		cate_name = "";
+	}
+	
+	
+	$.ajax({
+		url : "result_content_question_list",
+		data : "sfl="+sfl+"&stx="+stx+"&sst="+sst+"&cate_name="+cate_name+"&page="+page,
+		dataType : "json",
+		contentType : "application/json",
+		success : function(data){
+			var idx = 0;
+			var bg = idx % 2;
+			var html = "";
+			//자료가 없을 경우
+			if(data.length == 0){
+				html += "<tr><td colspan='8' class=\"empty_table\" style=\"text-align:center;\">등록된 자료가 없습니다.</td></tr>";
+				$("#table-striped_tbody").html(html);
+				return;
+			}
+			$.each(data,function(index,item){
+				 idx ++;
+				 html += "<tr class='bg"+bg+"'>";
+				 html += "<td align=\"center\"><span class=\"td_chk\">";
+				 html += "<input type=\"checkbox\" name=\"chk\" value="+this.seq_num+" id='chk_"+index+"'  data-val="+this.seq_num+">";
+				 html += "</span></td>";
+				 html += "<td align=\"center\">"+this.id_name+"</td>";
+				 html += "<td align=\"center\"><span style=\"width:250px;word-break;break-all\">";
+				 html += "<span class=\"underline modify_question\"  data-val=\""+this.ci_depth1_id+"_"+this.ci_depth2_id+"_"+this.ci_depth3_id+"\" data-val2=\""+this.seq_num+"\">";
+				 html += this.ci_question+"</span>";
+				 html += "</span></td>";
+				 html += "<td align=\"center\">"+this.ci_disp_name+"</td>";
+				 html += "<td align=\"center\">";
+				 html += "<button type=\"button\" class=\"btn btn-default btn-xs modify_sub_question\"  data-val=\""+this.ci_depth1_id+"_"+this.ci_depth2_id+"_"+this.ci_depth3_id+"\" data-val2=\""+this.seq_num+"\">등록</button>";    
+				 html += "</td>";
+				 //카테고리명 확인
+				 $.ajax({
+					 url : "get_q_disp_name_By_Q_type",
+					 data : "q_type="+this.q_type,
+					 async:false,
+					 success : function(data){
+						 html += "<td align=\"center\">"+data.q_disp_name+"</td>";
+					 },error : function(data){
+						 console.log(data);
+					 }
+				 });
+				 
+				 var reg_date=new Date(this.ci_reg_date*1000);
+				 var frm_reg_date = formatDate_hms(reg_date);
+				 
+				 html += "<td align=\"center\">"+frm_reg_date+"</td>";
+				 html += "<td align=\"center\">";
+	             html += "<input class=\"live_btn\" type=\"checkbox\"";
+	             	if(this.state == 1){
+	             	html += "checked";
+	             	}
+	             	html += " data-toggle=\"toggle\" data-onstyle=\"success\" data-size=\"small\" data-val=\""+this.seq_num+"\" data-on=\"ON\" data-off=\"OFF\">";
+		            html += "</td></tr>";
+			});
+			$(".fa-gear").html("질문리스트 ("+total+")");
+			console.log("total : " + total);
+			console.log("totalPage : " + totalPage);
+			console.log("totalBlock : " + totalBlock);
+			$("#table-striped_tbody").html(html);
+		},error : function(data){
+			alert("데이터를 조회할 수 없습니다.");
+			console.log(data);
+		}
+	});
+	
+	/* pageHtml 작업 */
+	var pageHtml = "";
+	pageHtml += "<nav class=\"pg_wrap\">";
+	pageHtml += "<span class=\"pg\">";
+	pageHtml += "<nav>";
+	pageHtml += "<ul class=\"pagination\">";
+	//current_page가 1이면 disabled
+	if(current_page <=1 ){
+		pageHtml += "<li class=\"disabled\">";	
+	}else{
+		pageHtml += "<li>";
+		if(current_block == 1){
+			//current_block이 1이면 시작페이지로
+			pageHtml += "<a onclick='openAjaxSearchPage("+startPage+")' aria-label=\"Previous\"><span aria-hidden=\"true\">«</span></a></li>";;
+		}else{
+			//지난 블록 마지막 페이지
+			pageHtml += "<a onclick='openAjaxSearchPage("+((current_block*10)-10)+")' aria-label=\"Previous\"><span aria-hidden=\"true\">«</span></a></li>";;	
+		}
+	}
+	
+			
+	//for로 반복
+	for (var i = startPage; i<=endPage; i++){
+		if(i <= totalPage){
+			if(i == current_page){
+				pageHtml += "<li class=\"active\"><a href=\"#\">"+i+"</a></li>";		
+			}else{
+				pageHtml += "<li><a class=\"pg_page\" onclick=\"openAjaxSearchPage("+i+")\">"+i+"</a></li>";
+			}	
+		}
+		
+	}
+	if(current_block < totalBlock){
+		//다음 블록 첫페이지	
+		pageHtml += "<li><a onclick=\"openAjaxSearchPage("+((current_block*10)+1)+")\" class=\"pg_page pg_next\">≥</a></li>";
+		//가장 끝 페이지
+		pageHtml += "<li><a onclick=\"openAjaxSearchPage("+(totalPage)+")\" aria-label=\"Next\"><span aria-hidden=\"true\">»</span></a></li>";
+	}		
+	pageHtml += "</ul>";
+	pageHtml += "</nav>";
+	pageHtml += "</span>";
+	pageHtml += "</nav>";
+	
+	console.log("current_block:" + current_block);
+	console.log("current_page : "+ current_page);
+	console.log("startPage : " + startPage);
+	console.log("endPage : " + endPage);
+	
+	$("#page_div").html(pageHtml);
+}
+
+	
+
 
 
 $(function(){/******************* Jquery Ready *******************/
+	var current_page = $("#page").val();
+	//페이지 새로고침
+	$(".reload_btn").click(function(){
+		location.reload();
+	});
+	
 	
 	//*** 페이지 첫 로드시 ajax 로 카테고리 종류 전부 불러와야함!	
 	let cate_sel_html = "<option value='ALL'>카테고리</option>";
@@ -105,31 +446,173 @@ $(function(){/******************* Jquery Ready *******************/
 	$(".cate_sel").html(cate_sel_html);
 	
 	
+	//**일반상담 첫 페이지 로드
+	var sfl = $("#sfl").val();
+	if (sfl == "all"){
+		sfl = "";
+	}
+	var stx = $("#stx").val();
+	var sst = $("#sst").val();
+	var cate_name = $(".cate_sel").val();
+	if (cate_name == "ALL"){
+		cate_name = "";
+	}
+	
+	$.ajax({
+		url : "result_content_question_list",
+		data : "sfl="+sfl+"&stx="+stx+"&sst="+sst+"&cate_name="+cate_name+"&page=1",
+		dataType : "json",
+		contentType : "application/json",
+		success : function(data){
+			var idx = 0;
+			var bg = idx % 2;
+			var html = "";
+			//자료가 없을 경우
+			if(data.length == 0){
+				html += "<tr><td colspan='8' class=\"empty_table\" style=\"text-align:center;\">등록된 자료가 없습니다.</td></tr>";
+				$("#table-striped_tbody").html(html);
+				return;
+			}
+			$.each(data,function(index,item){
+				 idx ++;
+				 html += "<tr class='bg"+bg+"'>";
+				 html += "<td align=\"center\"><span class=\"td_chk\">";
+				 html += "<input type=\"checkbox\" name=\"chk\" value="+this.seq_num+" id='chk_"+index+"'  data-val="+this.seq_num+">";
+				 html += "</span></td>";
+				 html += "<td align=\"center\">"+this.id_name+"</td>";
+				 html += "<td align=\"center\"><span style=\"width:250px;word-break;break-all\">";
+				 html += "<span class=\"underline modify_question\"  data-val=\""+this.ci_depth1_id+"_"+this.ci_depth2_id+"_"+this.ci_depth3_id+"\" data-val2=\""+this.seq_num+"\">";
+				 html += this.ci_question+"</span>";
+				 html += "</span></td>";
+				 html += "<td align=\"center\">"+this.ci_disp_name+"</td>";
+				 html += "<td align=\"center\">";
+				 html += "<button type=\"button\" class=\"btn btn-default btn-xs modify_sub_question\"  data-val=\""+this.ci_depth1_id+"_"+this.ci_depth2_id+"_"+this.ci_depth3_id+"\" data-val2=\""+this.seq_num+"\">등록</button>";    
+				 html += "</td>";
+				 //카테고리명 확인
+				 $.ajax({
+					 url : "get_q_disp_name_By_Q_type",
+					 data : "q_type="+this.q_type,
+					 async:false,
+					 success : function(data){
+						 html += "<td align=\"center\">"+data.q_disp_name+"</td>";
+					 },error : function(data){
+						 console.log(data);
+					 }
+				 });
+				 
+				 var reg_date=new Date(this.ci_reg_date*1000);
+				 var frm_reg_date = formatDate_hms(reg_date);
+				 
+				 html += "<td align=\"center\">"+frm_reg_date+"</td>";
+				 html += "<td align=\"center\">";
+	             html += "<input class=\"live_btn\" type=\"checkbox\"";
+	             	if(this.state == 1){
+	             	html += "checked";
+	             	}
+	             	html += " data-toggle=\"toggle\" data-onstyle=\"success\" data-size=\"small\" data-val=\""+this.seq_num+"\" data-on=\"ON\" data-off=\"OFF\">";
+		            html += "</td></tr>";
+			});
+			
+			$("#table-striped_tbody").html(html);
+			
+		},error : function(data){
+			alert("데이터를 조회할 수 없습니다.");
+			console.log(data);
+		}
+	});
+	
+	
+	//총 페이지수(totalPage) , 총 블록수(totalPage/pagePerBlock)
+	//페이지가 미지정일 경우 첫페이지 (page=1)
+	$.ajax({
+		url : "cnt_counselling_info",
+		async : false,
+		success : function(data){
+			total = data;
+			totalPage = Math.ceil(total/15);
+			totalBlock = Math.ceil(totalPage/10);
+			$(".fa-gear").html("질문리스트 ("+total+")");
+			current_page = $("#page").val();
+			
+			
+			
+		},error : function(data){
+			console.log(data);
+		}
+	})
+	//row수에 따른 페이지 출력
+	console.log("total : " + total);
+	console.log("totalPage : " + totalPage);
+	console.log("totalBlock : " + totalBlock);
+	
+	/* pageHtml 작업 */
+	var pageHtml = "";
+	pageHtml += "<nav class=\"pg_wrap\">";
+	pageHtml += "<span class=\"pg\">";
+	pageHtml += "<nav>";
+	pageHtml += "<ul class=\"pagination\">";
+	//current_page가 1이면 disabled
+	if(current_page <=1 ){
+		pageHtml += "<li class=\"disabled\">";	
+	}else{
+		pageHtml += "<li>";
+		if(current_block == 1){
+			//current_block이 1이면 시작페이지로
+			pageHtml += "<a onclick='openAjaxSearchPage("+startPage+")' aria-label=\"Previous\"><span aria-hidden=\"true\">«</span></a></li>";;
+		}else{
+			//지난 블록 마지막 페이지
+			pageHtml += "<a onclick='openAjaxSearchPage("+((current_block*10)-10)+")' aria-label=\"Previous\"><span aria-hidden=\"true\">«</span></a></li>";;	
+		}
+	}
+	//for로 반복
+	for (var i = startPage; i<=endPage; i++){
+		if(i <= totalPage){
+			if(i == current_page){
+				pageHtml += "<li class=\"active\"><a href=\"#\">"+i+"</a></li>";		
+			}else{
+				pageHtml += "<li><a class=\"pg_page\" onclick=\"openAjaxSearchPage("+i+")\">"+i+"</a></li>";
+			}	
+		}
+	}
+			
+	if(current_block < totalBlock){
+		//다음 블록 첫페이지	
+		pageHtml += "<li><a onclick=\"openAjaxSearchPage("+((current_block*10)+1)+")\" class=\"pg_page pg_next\">≥</a></li>";
+		//가장 끝 페이지
+		pageHtml += "<li><a onclick=\"openAjaxSearchPage("+(totalPage)+")\" aria-label=\"Next\"><span aria-hidden=\"true\">»</span></a></li>";
+	}		
+	pageHtml += "</ul>";
+	pageHtml += "</nav>";
+	pageHtml += "</span>";
+	pageHtml += "</nav>";
+	
+	console.log("current_block:" + current_block);
+	console.log("current_page : "+ current_page);
+	console.log("startPage : " + startPage);
+	console.log("endPage : " + endPage);
+	
+	$("#page_div").html(pageHtml);
+
+	/* 
+	$total_page  = ceil($total_count / $rows);  // 전체 페이지 계산
+	if ($page < 1) $page = 1; // 페이지가 없으면 첫 페이지 (1 페이지)
+	$from_record = ($page - 1) * $rows; // 시작 열을 구함
+
+
+	include_once('./include/admin.head.php');
+
+	$sql = " select * {$sql_common} {$sql_search} {$sql_order} limit {$from_record}, {$rows} ";
+
+	$result = sql_query($sql);
+
+	$colspan = 16;
+	?> */
+	
+	
 });/******************* Jquery Ready *******************/
 
 
-//총 페이지수(totalPage) , 총 블록수(totalPage/pagePerBlock)
-//페이지가 미지정일 경우 첫페이지 (page=1)
 
-//시작 열 확인
-//한페이지에 보여질 컨텐츠 row수 확인
-
-//row수에 따른 페이지 출력
-
-/* 
-$total_page  = ceil($total_count / $rows);  // 전체 페이지 계산
-if ($page < 1) $page = 1; // 페이지가 없으면 첫 페이지 (1 페이지)
-$from_record = ($page - 1) * $rows; // 시작 열을 구함
-
-
-include_once('./include/admin.head.php');
-
-$sql = " select * {$sql_common} {$sql_search} {$sql_order} limit {$from_record}, {$rows} ";
-
-$result = sql_query($sql);
-
-$colspan = 16;
-?> */
 
 		
 
@@ -364,7 +847,6 @@ function changeItem(){
   <li> <a href="#"> <i class="fa fa-home"></i> 큐봇관리자</a> </li>
   <li class="active">일반상담</li>
 </ul>
-
  <div class="m-b-md">
  <h3 class="m-b-none" style='margin-bottom:5px;'>일반상담</h3>
  <small >일반 상담은 Q&A 형식으로 고객의 질문에 자동채팅시스템이 답변하는 방식입니다.</small></div>
@@ -396,7 +878,7 @@ function changeItem(){
 
 
     <button type="button" class="btn btn-info reload_btn"  style='float:right;margin-left:3px;'>새로고침</button>
-    <button type="submit" class="btn btn-primary" style='float:right;margin-left:3px;'>검색하기</button>
+    <button type="button" class="btn btn-primary" style='float:right;margin-left:3px;' onclick="openAjaxSearch()">검색하기</button>
 
 	<div class="input-group" style="float:right;width:350px;">
 	<select name="cate_name" class="form-control cate_sel">
@@ -422,7 +904,7 @@ function changeItem(){
 </div>
 
 
-<select name="sst" class="form-control" style="float:right;width:150px;" onChange="changeItem()">
+<select name="sst" id="sst" class="form-control" style="float:right;width:150px;" onChange="changeItem()" >
     <option value="question_asc" >상담제목 오름차순</option>
     <option value="question_desc">상담제목 내림차순</option>
 
@@ -445,12 +927,6 @@ function changeItem(){
 		//일반상담 Table Content
 		
 		//counselling_info result 확인 후 테이블로 돌림.
-		var tbodyHtml = "";
-		
-		$.ajax({
-			url : 
-			
-		});
 		
 		
 		//0. tr class="bg"
@@ -475,7 +951,7 @@ function changeItem(){
 </script>
 <div class="panel panel-primary is_engine_table" style='max-width:100%;overflow:auto;'>
   <div class="panel-heading">
-    <h3 class="panel-title" id="panel-title"><i class="fa fa-gear"></i> 질문 리스트(totalcount)<a class="anchorjs-link" href="#panel-title"><span class="anchorjs-icon"></span></a>
+    <h3 class="panel-title" id="panel-title"><i class="fa fa-gear"></i><!-- 질문리스트 --><a class="anchorjs-link" href="#panel-title"><span class="anchorjs-icon"></span></a>
       <div style='margin-bottom:0px;padding:4px;font-size:1em;font-family:Nanum Gothic;float:right;margin-top:-5px;' id="status_clock"></div>
     </h3>
   </div>
@@ -485,11 +961,11 @@ function changeItem(){
       <input type="hidden" name="mode" id="modify_mode" value="">
     </form>
     <form name="fboardlist" id="fboardlist" action="" onSubmit="return fboardlist_submit(this);" method="post">
-      <input type="hidden" name="sst" value="<%=sst%>">
-      <input type="hidden" name="sod" value="<%=sod%>">
-      <input type="hidden" name="sfl" value="<%=sfl %>">
-      <input type="hidden" name="stx" value="<%=stx %>">
-      <input type="hidden" name="page" value="<%=page %>">
+      <input type="hidden" name="sst" value="<%-- <%=sst%> --%>">
+      <input type="hidden" name="sod" value="<%-- <%=sod%> --%>">
+      <input type="hidden" name="sfl" value="<%-- <%=sfl %> --%>">
+      <input type="hidden" name="stx" value="<%-- <%=stx %> --%>">
+      <input type="hidden" name="page" value="<%-- <%=page %> --%>">
       <div>
         <table  class="table table-striped">
           <thead>
@@ -509,95 +985,14 @@ function changeItem(){
           </thead>
 	
           <tbody id="table-striped_tbody">
-
-
-            <tr class="<?php echo $bg; ?>">
-              <td align="center"><span class="td_chk">
-                <input type="checkbox" name="chk" value="<?=$engine['seq_num']?>" id="chk_<?php echo $i ?>"  data-val="<?=$engine['seq_num']?>">
-              </span></td>
- 
-              <td align="center"><?=$engine['id_name']?></td>
-              <td align="center"><span style="width:250px;word-break;break-all">
-
-              	<span class="<? if ($E_GRADE == 1) {?>underline modify_question<? }?>"  data-val="<?= $engine['ci_depth1_id']?>_<?=$engine['ci_depth2_id']?>_<?=$engine['ci_depth3_id']?>" data-val2="<?=$engine['seq_num']?>">
-               	<?=$engine['ci_question']?></span>
-              </span></td>
-              <td align="center"><?=$engine['ci_disp_name']?></td>
-
-              <td align="center">
-              
-<%-- 
-                <% if ($I_GRADE == 1) {%>
-                <%
-                if(!$result2['cnt']) 
-                { 
-                %> --%>
-
-
-                <button type="button" class="btn btn-default btn-xs modify_sub_question"  data-val="<?= $engine['ci_depth1_id']?>_<?=$engine['ci_depth2_id']?>_<?=$engine['ci_depth3_id']?>" data-val2="<?=$engine['seq_num']?>">등록</button>    
-         
-
-
-                <?
-                }else
-                { 
-                ?>
-                <span  class='underline modify_sub_question_modify' data-val="<?= $engine['ci_depth1_id']?>_<?=$engine['ci_depth2_id']?>_<?=$engine['ci_depth3_id']?>" data-val2="<?=$engine['seq_num']?>"><?=$result2['cnt']?></span>
-              	<? 
-                }
-                ?>
-
-                <? }else { echo $result2['cnt'] ; } ?>
-
-              
-              </td>
-
-
-
-              <td align="center"><?=$result3['q_disp_name']?></td>
-
-
-
-              <td align="center"><?= date("Y-m-d H:i:s",$engine['ci_reg_date'] )?></td>
-              <td align="center">
-
-
-              <!--  ($E_GRADE == 1) --> 
-              
-              <input class="live_btn" type="checkbox" <? if($engine['state']) {?>checked<?}?> data-toggle="toggle" data-onstyle="success" data-size="small" data-val="<?=$engine['seq_num']?>" data-on="ON" data-off="OFF">
-              
-              
-                            
-              </td>
-
-            </tr>
-  
-
-
-		<?php
-    }
-    if ($i == 0)
-        echo '<tr><td colspan="'.$colspan.'" class="empty_table" style="text-align:center;">등록된 자료가 없습니다.</td></tr>';
-    ?>
-          </tbody>
+			<!-- table Content -->
+		  </tbody>
         </table>
       </div>
       <div id='ajax_script2'></div>
     </form>
-    <div style="text-align:center;margin-top:10px;margin-bottom:10px;">
-
-<?
-    $this_url = $_SERVER['PHP_SELF']."?mode=".$_GET['mode'] ;
-
-    foreach($_GET as $key => $value){
-        if($value){
-            if($key <> "mode"){
-                $this_url .= "&$key=$value";
-            }
-        }
-    }
-        echo get_paging(G5_IS_MOBILE ? $config['cf_mobile_pages'] : $config['cf_write_pages'], $page, $total_page, $this_url.$qstr.'&amp;page=');
-?>
+    <div style="text-align:center;margin-top:10px;margin-bottom:10px;" id='page_div'>
+		<!-- page content -->
     </div>
   </div>
 </div>

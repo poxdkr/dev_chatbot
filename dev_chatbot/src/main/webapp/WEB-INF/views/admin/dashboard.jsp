@@ -30,6 +30,8 @@
 	       myweekday = myweekday > 10 ? myweekday : "0"+myweekday;
 	       return (myyear+"-"+mymonth +"-"+ myweekday);
 	}
+	 
+	 
 
 	 function formatUnixTime(date){
 		 return Math.floor(date.getTime() / 1000);

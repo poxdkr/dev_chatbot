@@ -6,4 +6,30 @@
 		SELECT COUNT(*) as cnt FROM counselling_info
 	</select>
 	
+	<select id="getSearchResult" resultType="Counselling_info_VO" parameterType="HashMap">
+		select * from counselling_info where (1)
+		<if test ="sfl != ''">
+			<!-- sfl이 id_name이면 -->
+			<if test="sfl == 'id_name'">
+				and id_name like #{stx }
+			</if>
+			<!-- sfl이 ci_question이면 -->
+			<if test="sfl == 'ci_question'">
+				and ci_question like #{stx }
+			</if>
+		</if>
+		<!-- 검색어가 있는데 조건이 전체면 -->
+			<if test="sfl == ''">
+				and ( id_name like #{stx } or ci_question like #{stx } )
+			</if>
+		<!-- q_type이 있으면 -->
+		<if test="cate_name != ''">
+			and q_type=#{cate_name }
+		</if>
+		<!-- 나열순서 -->
+		order by ${sst }
+		<!-- page -->
+		 limit ${page }, 15
+	</select>
+	
 </mapper>
